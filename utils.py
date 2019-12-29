@@ -21,15 +21,19 @@ def read_in_chunks(file_object, chunk_size=5000):
         yield data
 
 
+def combine_string_generator_pieces(generator_function):
+    '''
+    runs through a string generator function and combines its results
+    '''
+    result = ''
+    for chunk in generator_function:
+        result += chunk
+    return result
+    
+
 def write_string_to_txt_file(filename, translated_text):
-        with open(filename, 'w+') as f:
-            f.write(translated_text)
-
-
-
-
-
-
+    with open(filename, 'w+') as f:
+        f.write(translated_text)
 
 
 
