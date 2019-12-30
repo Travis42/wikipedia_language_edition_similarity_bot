@@ -24,12 +24,11 @@ def read_in_chunks(file_object, chunk_size=5000):
 def combine_string_generator_pieces(generator_function):
     '''
     runs through a string generator function and combines its results
+    Optionally takes a change fn to modify the string.
     '''
-    result = ''
-    for chunk in generator_function:
-        result += chunk
-    return result
-    
+    return ''.join([chunk for chunk in generator_function])
+
+
 
 def write_string_to_txt_file(filename, translated_text):
     with open(filename, 'w+') as f:

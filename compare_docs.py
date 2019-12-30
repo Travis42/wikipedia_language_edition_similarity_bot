@@ -42,69 +42,25 @@ def similarity(documents_list):
     dictionary = corpora.Dictionary(documents_list)
     corpus = [dictionary.doc2bow(text) for text in documents_list]
 
-    lsi = models.LsiModel(corpus, id2word=dictionary, num_topics=2)
+    lsi = models.LsiModel(corpus, id2word=dictionary, num_topics=len(documents_list))
     vec_lsi = lsi[corpus[0]] # first document is our thing to compare against.
-
-
-
 
     index = similarities.MatrixSimilarity(lsi[corpus])  # transform corpus to LSI space and index it
     # Options:
     #index.save('/tmp/deerwester.index')
     #index = similarities.MatrixSimilarity.load('/tmp/deerwester.index')
     sims = index[vec_lsi]  # perform a similarity query against the corpus
-    print(list(enumerate(sims)))  # print (document_number, document_similarity) 2-tuples
+    #print(list(enumerate(sims)))  # print (document_number, document_similarity) 2-tuples
     # format: document #, similarity score
 
-
-
+    # return the least similar document and its score
+    sims = sorted(enumerate(sims), key=lambda x: x[1])
     '''
-    ############### Processing Model
-    # STEP 1 : Index and vectorize"
-
-    # create dictionary (index of each element) (creates bag of words count)
-    dictionary = corpora.Dictionary(documents_list)
-    # store the dictionary, for future reference
-    dictionary.save('documents_list.dict')
-
-    # compile corpus (vectors number of times each elements appears, bag of
-    # words vectors)
-    raw_corpus = [dictionary.doc2bow(t) for t in documents_list]
-    corpora.MmCorpus.serialize('documents_list.mm', raw_corpus)  # store to disk
-
-    # STEP 2 : Transform and compute similarity between corpuses"
-    # load our dictionary
-    dictionary = corpora.Dictionary.load('documents_list.dict')
-
-    # load vector corpus
-    corpus = corpora.MmCorpus('documents_list.mm')
-
-    #########
-
-    # Transform Text with TF-IDF
-    tfidf = models.TfidfModel(corpus)  # step 1 -- initialize a model
-
-    # convert our vectors corpus to TF-IDF space
-    corpus_tfidf = tfidf[corpus]
-
-    # STEP 3 : Create similarity matrix of all files
-    index = similarities.MatrixSimilarity(tfidf[corpus])
-
-    index.save('deerwester.index')
-    index = similarities.MatrixSimilarity.load('deerwester.index')
-
-    # get a similarity matrix for all documents in the corpus
-    sims = index[corpus_tfidf]
-
-    # print(list(enumerate(sims)))
-
-    # print sorted (document number, similarity score) 2-tuples
-    # print(sims[0])
+    # print all
+    for i, s in enumerate(sims):
+        print(s, documents[i])
+    '''
     return sims
-    '''
-
-
-
 
 
 
@@ -125,4 +81,6 @@ tokenized_texts = [tokenize(doc) for doc in documents]
 # Compare, using TF-IDF
 similarity_score = similarity(tokenized_texts)
 print(similarity_score)
+# first number corresponds to the 'documents' list position, and indicates the 
+# doc with the least similarity to document '0'.  If the answer is 0, something is wrong.
 

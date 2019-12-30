@@ -2,9 +2,9 @@
 
 ## Next Actions
 - next is comparing japanese article with english
-    - compare to a hand pulled English article using IFIDF.
-    - see if that means anything, record the similarity level
+    - tool up so that I can translate a handful of articles.
     - try it with a handful of other articles, get an average similarity.
+    - integrate with pywikibot so that I can pull from all languages of a given article.
 
 
 
