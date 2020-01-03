@@ -1,15 +1,67 @@
-from googletrans import Translator
-from utils import read_ASCII_txt_to_string_in_chunks, write_string_to_txt_file
+#!python3
 
-import sys
+# -*- coding: utf-8 -*-
+import configparser
+import os, requests, uuid, json
 
-translator = Translator()
+from utils import read_txt_to_string_in_chunks, write_string_to_txt_file
 
-# 2050 chars is the tested sweet spot for Google Translate API, but for some reason it does end up failing eventually.
+# https://docs.microsoft.com/en-us/azure/cognitive-services/Translator/quickstart-translate?pivots=programming-language-python
+
+# grab MS credentials:
+config = configparser.ConfigParser()
+config.read("config.cnf")
+subscription_key = config.get('Translation', 'API_key')
+endpoint = config.get('Translation', 'endpoint_url')
+
+
+path = '/translate?api-version=3.0'
+params = '&to=en'
+constructed_url = endpoint + path + params
+
+headers = {
+    'Ocp-Apim-Subscription-Key': subscription_key,
+    'Content-type': 'application/json',
+    'X-ClientTraceId': str(uuid.uuid4())
+}
+
 translated_text = ''
-for chunk in read_ASCII_txt_to_string_in_chunks('Glass_Japanese_untranslated.txt', 1500):
-    # limit each object to 1000 characters, then stitch back together.
-    # this is due to Google Translate's limitation on input size.
-    translated_text += translator.translate(chunk).text
+for chunk in read_txt_to_string_in_chunks('onsen_japanese_untranslated.txt', 100):
+    text_to_translate = [{
+                        'text': chunk
+                        }]
+    # post request
+    request = requests.post(constructed_url, headers=headers, json=text_to_translate)
+    response = request.json()
+    translated_text += json.loads(
+                                  json.dumps(
+                                             response, 
+                                             sort_keys=True, 
+                                             indent=4, 
+                                             ensure_ascii=False, 
+                                             separators=(',', ': ')))[0]['translations'][0]['text']
+print(translated_text)
 
-write_string_to_txt_file('Glass_Japanese_translated.txt', translated_text)
+write_string_to_txt_file('onsen_japanese_translated.txt', translated_text)
+
+'''
+# example output from endpoint:
+[
+    {
+        "detectedLanguage": {
+            "language": "en",
+            "score": 1.0
+        },
+        "translations": [
+            {
+                "text": "Hallo Welt!",
+                "to": "de"
+            },
+            {
+                "text": "Salve, mondo!",
+                "to": "it"
+            }
+        ]
+    }
+]
+'''

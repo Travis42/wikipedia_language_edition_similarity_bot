@@ -1,5 +1,5 @@
 #!python
-from utils import read_ASCII_txt_to_string_in_chunks,combine_string_generator_pieces
+from utils import read_txt_to_string_in_chunks,combine_string_generator_pieces
 
 from gensim import corpora, models, similarities
 from nltk import word_tokenize
@@ -24,7 +24,6 @@ def tokenize(document):
     stop = stopwords.words('english')
     tokenized = combine_string_generator_pieces((str(word + ' ') for word in tokenized.split() if word not in (stop)))
 
-
     # Tokenizing the string w NLTK word_tokenize
     tokenized = word_tokenize(tokenized)
 
@@ -33,6 +32,8 @@ def tokenize(document):
     for token in tokenized:
         frequency[token] += 1
     tokenized = [token for token in tokenized if frequency[token] > 1]
+
+    # Lemmatization in unncessary for LSA.
 
     return tokenized
 
@@ -66,9 +67,9 @@ def similarity(documents_list):
 
 
 # Read
-English_doc = combine_string_generator_pieces(read_ASCII_txt_to_string_in_chunks('Glass_English.txt'))
+English_doc = combine_string_generator_pieces(read_txt_to_string_in_chunks('onsen_english.txt'))
 Japanese_translated_doc = combine_string_generator_pieces(
-    read_ASCII_txt_to_string_in_chunks('Glass_Japanese_translated.txt'))
+    read_txt_to_string_in_chunks('onsen_japanese_translated.txt'))
 
 # TO DO: there might be something to this later
 #print(len(tokenize(Japananese_tranlated_doc)))

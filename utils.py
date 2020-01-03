@@ -1,9 +1,13 @@
 #!python
 
 import csv
+from datetime import date, datetime
 import os
+import pickle
+import sys
 
-def read_ASCII_txt_to_string_in_chunks(filename, chunk_size=5000):
+
+def read_txt_to_string_in_chunks(filename, chunk_size=5000):
     with open(filename, 'r') as f:
         # get to the starting marker:
         for piece in read_in_chunks(f, chunk_size):
@@ -29,6 +33,10 @@ def combine_string_generator_pieces(generator_function):
     return ''.join([chunk for chunk in generator_function])
 
 
+def read_txt_to_string(filename):
+    with open(filename, 'r') as f:
+        return f.read()
+
 
 def write_string_to_txt_file(filename, translated_text):
     with open(filename, 'w+') as f:
@@ -39,6 +47,37 @@ def write_string_to_txt_file(filename, translated_text):
 
 ###############
 
+def microsoft_char_counter():
+    """
+    keeps a record of how many characters have been used this month.  If the API key is nearing its limits for that month, will shut down the program and let you know.
+    """
+    try:
+        with open('MS-char-count.pickle', 'rb') as f:
+            ms_chars, timestart = int(pickle.load(f))
+    except IOError as ioerr:
+        with open('MS-char-count.pickle', 'wb') as f:
+            pickle.dump('0', date.today())
+            microsoft_char_counter()
+    # check how much time has elapsed:
+    now = date.today()
+    if ms_chars >= 2000000:
+        sys.exit("Quota exceeded for the month!")
+    elif (now - timestart) >= datetime.duration(days=28) and ms_chars >= 1950000:
+        sys.exit("Quota for the month is near.  Lay off for now.")
+    else:
+        return ms_chars
+
+
+def microsoft_char_counter_reset():
+    with open('MS-char-count.pickle', 'rb') as f:
+        ms_chars, timestart = int(pickle.load(f))
+    if datetime.datetime.today - timestart >= datetime.duration(days=30):
+        with open('MS-char-count.pickle', 'wb') as f:
+            pickle.dump('0', date.today())
+
+
+
+################
 
 def moveToSubfolder(foldername, filename):
     # Move it to the /stories dir
