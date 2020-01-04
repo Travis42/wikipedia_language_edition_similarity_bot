@@ -3,14 +3,19 @@
 
 
 ## Next Actions
-- **make a way to store env variables so that you can push to github**
-- make a data store:  mysql, pickled dict, something
 - make a robust way of crawling a list of articles.
 - store the comparisons.  Store the translated article with the most dissimilarity to the English one, as well as the English doc.
+    - ensure that the id numbers match: primary matches all the child translations in terms of id.
 
 - by storing the similarity matrix, I can go back later and do analytics.
 
 - compare top languages (these are shown on wikipedia's main page.)
+
+- determine if its best to run this bot inside the pywikibot clone, or better to instally with pip. Main conscern is with user_config.py as part of pywikibot.
+- mess with user-config.py
+
+- (goal should be to grab as much as possible this month and then allow for edits later)  I don't need to edit for a month or more, and approval will take time. Bot scripts exist in the folder that comes with pywikibot.
+
 
 
 ## Open Questions:

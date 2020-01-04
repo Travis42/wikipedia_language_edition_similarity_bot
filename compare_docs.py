@@ -1,11 +1,11 @@
 #!python
-from utils import read_txt_to_string_in_chunks,combine_string_generator_pieces
+from utils import read_txt_to_string, read_txt_to_string_in_chunks, combine_string_generator_pieces
 
 from gensim import corpora, models, similarities
 from nltk import word_tokenize
 from nltk.corpus import stopwords
 
-from collections import defaultdict
+from collections import defaultdict, namedtuple
 from copy import deepcopy
 import re
 import string
@@ -64,24 +64,28 @@ def similarity(documents_list):
     return sims
 
 
+def compare_docs():
+    # these eventually must be local vars.
+    title = 'Onsen'
+    content = combine_string_generator_pieces(read_txt_to_string_in_chunks('onsen_english.txt'))
+    # need a dict...in case there is more than one compatible lang:
+    lang_code = 'ja'
+    orig_title = u"熱水泉"
+    orig_content = read_txt_to_string('onsen_japanese_untranslated.txt')
+    translated_content = combine_string_generator_pieces(
+        read_txt_to_string_in_chunks('onsen_japanese_translated.txt'))
 
 
-# Read
-English_doc = combine_string_generator_pieces(read_txt_to_string_in_chunks('onsen_english.txt'))
-Japanese_translated_doc = combine_string_generator_pieces(
-    read_txt_to_string_in_chunks('onsen_japanese_translated.txt'))
+    # Tokenize
+    # TODO: for more than one translation, this won't cut it.
+    documents = [content, translated_content]
+    tokenized_texts = [tokenize(doc) for doc in documents]
 
-# TO DO: there might be something to this later
-#print(len(tokenize(Japananese_tranlated_doc)))
-#print(len(tokenize(English_doc)))
+    # Compare
 
-# Tokenize
-documents = [English_doc, Japanese_translated_doc]
-tokenized_texts = [tokenize(doc) for doc in documents]
-
-# Compare, using TF-IDF
-similarity_score = similarity(tokenized_texts)
-print(similarity_score)
-# first number corresponds to the 'documents' list position, and indicates the 
-# doc with the least similarity to document '0'.  If the answer is 0, something is wrong.
-
+    #TODO: this is not correct yet in terms of capturing the number to file.
+    LSA_score = similarity(tokenized_texts)[0][1]
+    print(LSA_score)
+    # first number corresponds to the 'documents' list position, and indicates the 
+    # doc with the least similarity to document '0'.  If the answer is 0, something is wrong.
+    return (title, content, lang_code, LSA_score, orig_title, orig_content, translated_content)
