@@ -40,30 +40,18 @@ engtitle = page.title()
 
 
 
-#' How to get the equivalent name in a different language automatically:
-# This takes a long time!
-#edition_links = [link for link in page.iterlanglinks()]
-# format: pywikibot.page.Link('Onsen', APISite("az", "wikipedia"))
-# this takes less time!  What's the diff?  (NO DIFFERENCE IN OUTPUT)
+#' How to get the equivalent name in a different language:
 edition_links = [link for link in page.langlinks()]
 
 
 site = edition_links[0].site
 title = edition_links[0].title
-page = 
+page = pywikibot.Page(site, title)
 
 
 
-site_jp = pywikibot.Site('ja')
-page_jp = pywikibot.Page(site, u"熱水泉")
-page_jp = pywikibot.Page(site_jp, u"熱水泉")
-text_jp = page_jp.text
-text_jp
-
-results = [i for i in page.interwiki()] # it gives you all the other language reference links in the page...not the equivalent page in the other languages.
-
-
-# attempt to get other lang pages:
+'''
+# attempt to search for new areas to pull:
 from pywikibot import pagegenerators
 for page in pagegenerators(pages, 100):
     print(pagegenerators.InterwikiPageGenerator(page))
