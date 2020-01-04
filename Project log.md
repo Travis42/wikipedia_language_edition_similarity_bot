@@ -3,34 +3,27 @@
 
 
 ## Next Actions
+- make a robust way of crawling a list of articles.
+    - get one page automatically
+    - pass it to the rest of the program, including translation
 
-- take another example of 'onsen' from a new language. (done)
-    - Process it together with english and japanese
-    - store it, and make sure it stores correctly.
-        - might need the foreign key to be 'English title' instead of id...can't seem to get those to match.
 
-- add tokenized version to the datastore.
+- maybe incorprate the commandline login just to be sure that I'm in.
 
-- consider limiting the study to the top n langs on wikipedia.  This can be found on their front page.
-    - top langs by active users, descending:
-        - English
-        - French
-        - German
-        - Spanish
-        - Japanese
-        - Russian
-        - Italian
-        - Chinese
-        - Portuguese
-        - Arabic
-        - Polish
-        - Persian
-        - Dutch
-        - Indonesian
 
-    - source: https://en.wikipedia.org/wiki/List_of_Wikipedias#Detailed_list
 
-#### Why use active users?  
+
+
+    - consider limiting the study to the top n langs on wikipedia.  This can be found on their front page.
+    - or I could just query a more liberal bound but only include them if they have a link to the same article.
+
+
+- mess with user-config.py
+
+- (goal should be to grab as much as possible this month and then allow for edits later)  I don't need to edit for a month or more, and approval will take time. Bot scripts exist in the folder that comes with pywikibot.
+
+
+#### Why use active users as my criteria for choosing a set of languages?  
 
 Because I found a lot of discrepancies in other metrics.  Cebuano has the second highest number of articles outright, but they don't have much depth and aren't edited much, which tells me that total articles might not be the best metric.  Active Users is a metric that tells me that the language edition is being kept up and used, and therefore this study will be useful to more people that way.)
     - Contra:  if the idea is to unlock knowledge bound up in cultural understanding as defined by language, wouldn't I want to use the most obscure languages?
@@ -40,35 +33,16 @@ Because I found a lot of discrepancies in other metrics.  Cebuano has the second
 
 
 
-
-
-
-- make a robust way of crawling a list of articles.
-
-
-
-- store the comparisons.  Store the translated article with the most dissimilarity to the English one, as well as the English doc.
-    - ensure that the id numbers match: primary matches all the child translations in terms of id.
-
-- by storing the similarity matrix, I can go back later and do analytics.
-
-- compare top languages (these are shown on wikipedia's main page.)
-
-- determine if its best to run this bot inside the pywikibot clone, or better to instally with pip. Main conscern is with user_config.py as part of pywikibot.
-- mess with user-config.py
-
-- (goal should be to grab as much as possible this month and then allow for edits later)  I don't need to edit for a month or more, and approval will take time. Bot scripts exist in the folder that comes with pywikibot.
-
-
-
 ## Open Questions:
 *send questions to pywikibot@lists.wikimedia.org*
 *API: https://doc.wikimedia.org/pywikibot/master/api_ref/pywikibot.html?*
 
 - How much is an Azure cloud instance per month?  Comparable to DigitalOcean?
-
-
-
+    - $15 per month.  DigitalOcean is better.
+    - I can use the Azure account for translation services only.
+        - https://azure.microsoft.com/en-us/pricing/details/cognitive-services/translator-text-api/
+        - for now, choose Pay-as-you-go, S1
+            - after this month, do Free.
 
 "pywikibot.pagegenerators module
 
@@ -83,20 +57,6 @@ Pagegenerators.py cannot be run as script. For testing purposes listpages.py can
 
 ---
 
-- What do these abbreviations correspond to?
-This is the list of known languages:
-en, ceb, sv, de, fr, nl, ru, it, es, pl, war, vi, ja, zh, ar, pt, uk, fa, ca, sr, no, id, ko, fi, hu, sh, cs, ro, eu, tr, ms, eo, hy, bg, da, he, ce, zh-min-nan, sk, kk, min, hr, et, lt, be, el, sl, gl, az, azb, simple, nn, ur, hi, th, ka, uz, la, ta, vo, cy, mk, tg, ast, lv, mg, tt, af, oc, bs, ky, bn, sq, tl, zh-yue, new, te, be-tarask, br, ml, pms, su, nds, lb, ht, jv, sco, mr, sw, ga, szl, pnb, ba, is, my, fy, cv, lmo, an, ne, pa, yo, bar, io, gu, arz, als, ku, scn, kn, bpy, ckb, wuu, ia, qu, mn, bat-smg, si, wa, cdo, or, gd, yi, am, nap, bug, ilo, mai, hsb, xmf, map-bms, fo, mzn, diq, li, sd, vec, eml, sah, os, sa, ps, nv, ace, mrj, mhr, zh-classical, hif, frr, bcl, roa-tara, hak, pam, nso, km, hyw, se, rue, mi, vls, bh, nah, nds-nl, crh, gan, vep, sc, as, shn, ab, glk, bo, myv, co, so, tk, fiu-vro, lrc, kv, csb, gv, sn, udm, zea, ay, ie, pcd, kab, nrm, ug, ha, lez, stq, kw, mwl, haw, gn, gom, rm, lij, lfn, lad, lo, frp, koi, mt, fur, dsb, dty, ang, ext, olo, ln, cbk-zam, dv, bjn, ksh, gag, pfl, pi, pag, gor, av, bxr, xal, krc, sat, za, pap, tyv, kaa, pdc, rw, to, kl, nov, jam, arc, kbp, kbd, tpi, tet, ig, ki, zu, wo, na, jbo, tcy, roa-rup, lbe, bi, szy, ty, mdf, kg, lg, inh, srn, atj, xh, ban, ltg, chr, got, sm, pih, om, ak, tn, tw, cu, ts, rmy, bm, st, chy, rn, tum, ny, fj, ch, ss, nqo, gcr, pnt, ady, iu, mnw, ve, ee, ks, ik, sg, ff, dz, ti, din, cr, aa, cho, ho, hz, ii, kj, kr, mh, mus, ng, ten, test, test2
-
-- If I start at a particular site, how do I get the equivalent site in each language?  There seem to be functions that used to do this (see below) but they are deprecated.  The ones that do exist (interwiki) are meant to grab links within a document, not the title link for an equivalent site.
-
-## Temp notes
-
-https://www.mediawiki.org/wiki/Manual:Pywikibot/interwiki.py
-https://github.com/wikimedia/pywikibot/blob/9f1401842c85790c97056a8d517e7031d9b725db/scripts/interwiki.py
-This has functionality to find articles on other Wiki language editions that are of the same type as the one you're on.  The purpose was to make sure links are good, but maybe I can use it to help me pull the articles I want to translate.
-- I would need to extract relevant code.  The script is not meant for my purposes directly, and would be dangerous to run outright.
-- More specifically, I think I can use this to just give me the interwiki sites for any given English page:
-https://github.com/wikimedia/pywikibot/blob/0a2bd87ccb881fa4021b5c144a35fdd25e25c03a/scripts/standardize_interwiki.py
 
 - Even better: (**says its deprecated...either find the new thing or copy the code**) **I could also hack it and 'undeprecate' within pywikibot**
     - https://github.com/wikimedia/pywikibot/blob/7ea6fba1a245024262fb778864d96cb0794336b6/pywikibot/titletranslate.py
@@ -106,11 +66,7 @@ https://github.com/wikimedia/pywikibot/blob/0a2bd87ccb881fa4021b5c144a35fdd25e25
 
 
 
-
-
-
-
-## Starting:
+## Starting via command line
 
 python3 pwb.py login starts the bot up.
 
@@ -123,12 +79,8 @@ Will switch to the language edition of choice.  I should probably have a handler
 -simulate   Disables writing to the server. Useful for testing and debugging of new code (if given, doesn't do any real changes, but only shows what would have been changed).
 
 
-
-
 ### Pay attention to global scripts you can use:
 https://www.mediawiki.org/wiki/Manual:Pywikibot/Scripts
-
-
 
 
 ## Answered Tech Qs
@@ -137,31 +89,58 @@ https://www.mediawiki.org/wiki/Manual:Pywikibot/Scripts
         results = [i for i in page.iterlanglinks()] # has the goods*
 
 
+- top langs by active users, descending:
+    - English, en
+    - French, fr
+    - German, de
+    - Spanish, es
+    - Japanese, ja
+    - Russian, ru
+    - Italian, it
+    - Chinese, zh
+    - Portuguese, pt
+    - Arabic, ar
+    - Polish, pl
+    - Persian, fa
+    - Dutch, nl
+    - Indonesian, id
+    - Ukranian, uk
+    - Swedish, sv
+    - Czech, cs
+    - Korean, ko
+    - Vietnamese, vi
+    - Hungarian, hu
+    - Finnish, fi
+    - Catalan, ca
+    - Norwegian, no
+    - Hindi, hi
+    - Thai, th
+    (all of these are in Microsoft Translator)
+
+- source: https://en.wikipedia.org/wiki/List_of_Wikipedias#Detailed_list
 
 
+- page object:
 
+'applicable_protections', 'aslink', 'autoFormat', 'backlinks', 'botMayEdit', 'canBeEdited', 'categories', 'change_category', 'clear_cache', 'content_model', 'contributingUsers', 'contributors', 'coordinates', 'create_short_link', 'data_item', 'data_repository', 'defaultsort', 'delete', 'depth', 'editTime', 'embeddedin', 'encoding', 'exists', 'expand_text', 'extlinks', 'fullVersionHistory', 'full_url', 'get', 'getCategoryRedirectTarget', 'getCreator', 'getDeletedRevision', 'getLatestEditors', 'getMovedTarget', 'getOldVersion', 'getRedirectTarget', 'getReferences', 'getRestrictions', 'getTemplates', 'getVersionHistory', 'getVersionHistoryTable', 'image_repository', 'imagelinks', 
 
+'interwiki', (Iterate interwiki links in the page text, excluding language links. ex. hot springs links to a similar site on wikivoyage, commons, and wiktionary.  These are interwikis to Wikipedia).
 
+ 'isAutoTitle', 'isCategory', 'isCategoryRedirect', 'isDisambig', 'isEmpty', 'isFlowPage', 'isImage', 'isIpEdit', 'isRedirectPage', 'isStaticRedirect', 'isTalkPage', 'is_categorypage', 'is_filepage', 'is_flow_page', 'iterlanglinks', 'itertemplates', 
 
+ 'langlinks', *(gives all links to this article in other languages)*
 
+  'lastNonBotUser', 'latestRevision', 'latest_revision', 'latest_revision_id', 
 
+  'linkedPages', *iterates pages that this page links to*
 
+  'loadDeletedRevisions', 'markDeletedRevision', 'merge_history', 'move', 'moved_target', 'namespace', 'oldest_revision', 'pageAPInfo', 'page_image', 'pageid', 'permalink', 'preloadText', 'previousRevision', 'previous_revision_id', 'properties', 'protect', 'protection', 'purge', 'put', 'put_async', 'raw_extracted_templates', 'revision_count', 'revisions', 'save', 'section', 'sectionFreeTitle', 'set_redirect_target', 'site', 'templates', 'templatesWithParams', 
 
+  'text',  *gives the content*
 
+  'title()', gives the title
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+  'titleForFilename', 'titleWithoutNamespace', 'toggleTalkPage', 'touch', 'undelete', 'urlname', 'userName', 'version', 'watch']
 
 
 ## Structure

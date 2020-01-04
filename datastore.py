@@ -34,14 +34,14 @@ def initialize_db():
                     tokens text)''')
     c.execute('''CREATE TABLE translated_topics (
                     id integer not null primary key autoincrement,
-                    primary_title text,
+                    title text,
                     lang_code text,
                     LSA_score real,
                     orig_title text,
                     orig_content text,
                     translated_content text,
                     tokens text,
-                    foreign key(primary_title) references primary_topics(title))''')
+                    foreign key(title) references primary_topics(title))''')
     # Save (commit) the changes
     connection.commit()
     # We can also close the connection if we are done with it.
@@ -69,9 +69,6 @@ def parse_topic_dict(topic):
     return (title, content, pri_tokens, translation_values)
 
 
-
-# TODO: this only handles 1 translation.
-# see https://docs.python.org/3/library/sqlite3.html for a method to do more.
 def store_topic_to_db(topic):
     title, content, pri_tokens, translation_values = parse_topic_dict(topic)
 
@@ -82,5 +79,4 @@ def store_topic_to_db(topic):
                   VALUES (?,?,?,?)", entries)
 
         c.executemany("INSERT INTO translated_topics(\
-                  primary_title,lang_code,LSA_score,orig_title,\
-                  orig_content,translated_content,tokens) VALUES (?,?,?,?,?,?,?)", translation_values)
+                  title,lang_code,LSA_score,orig_title,orig_content,translated_content,tokens) VALUES (?,?,?,?,?,?,?)", translation_values)
