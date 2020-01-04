@@ -26,19 +26,22 @@ def initialize_db():
     c = connection.cursor()
     # Create table
     c.execute('''PRAGMA foreign_keys = ON;''')
-    c.execute('''CREATE TABLE primary_articles (
+    c.execute('''CREATE TABLE primary_topics (
                     id integer not null primary key autoincrement,
                     date text not null,
                     title text not null,
-                    content text)''')
-    c.execute('''CREATE TABLE translated_articles (
+                    content text,
+                    tokens text)''')
+    c.execute('''CREATE TABLE translated_topics (
                     id integer not null primary key autoincrement,
+                    primary_title text,
                     lang_code text,
                     LSA_score real,
                     orig_title text,
                     orig_content text,
                     translated_content text,
-                    foreign key(id) references primary_articles(id))''')
+                    tokens text,
+                    foreign key(primary_title) references primary_topics(title))''')
     # Save (commit) the changes
     connection.commit()
     # We can also close the connection if we are done with it.
@@ -46,17 +49,40 @@ def initialize_db():
     connection.close()
 
 
+def parse_topic_dict(topic):
+    # primary lang
+    title = topic['title']
+    content = topic['content']
+    pri_tokens = ''.join(topic['tokens'])
+
+    # translations
+    translation_values = []
+    for k, v in topic['language'].items():
+        lang_code = k
+        LSA_score = v['LSA_score']
+        orig_title = v['title']
+        orig_content = v['orig_content']
+        translated_content = v['translated_content']
+        tokens = ''.join(v['tokens'])
+        translation_values.append((title, lang_code, LSA_score, orig_title, \
+                                  orig_content, translated_content, tokens))
+    return (title, content, pri_tokens, translation_values)
+
+
+
 # TODO: this only handles 1 translation.
 # see https://docs.python.org/3/library/sqlite3.html for a method to do more.
-def store_values_to_db(title, content, lang_code, LSA_score, orig_title, orig_content, translated_content):
+def store_topic_to_db(topic):
+    title, content, pri_tokens, translation_values = parse_topic_dict(topic)
+
     with sqlite3.connect("articles.sqlite") as c:
         # Insert a row of data
         date = datetime.now().strftime("%m/%d/%Y, %H:%M")
-        entries = (date, title, content)
-        c.execute("INSERT INTO primary_articles(date,title,content) \
-                  VALUES (?,?,?)", entries)
+        entries = (date, title, content, pri_tokens)
+        c.execute("INSERT INTO primary_topics(date,title,content,tokens) \
+                  VALUES (?,?,?,?)", entries)
 
-        entries = (lang_code, LSA_score, orig_title, orig_content, translated_content)
-        c.execute("INSERT INTO translated_articles(\
-                  lang_code,LSA_score,orig_title,orig_content,\
-                  translated_content) VALUES (?,?,?,?,?)", entries)
+        for entries in translation_values:
+            c.execute("INSERT INTO translated_topics(\
+                      primary_title,lang_code,LSA_score,orig_title,\
+                      orig_content,translated_content,tokens) VALUES (?,?,?,?,?,?,?)", entries)

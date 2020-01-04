@@ -26,7 +26,7 @@ headers = {
 }
 
 translated_text = ''
-for chunk in read_txt_to_string_in_chunks('onsen_japanese_untranslated.txt', 100):
+for chunk in read_txt_to_string_in_chunks('onsen_french_untranslated.txt'):
     text_to_translate = [{
                         'text': chunk
                         }]
@@ -42,7 +42,7 @@ for chunk in read_txt_to_string_in_chunks('onsen_japanese_untranslated.txt', 100
                                              separators=(',', ': ')))[0]['translations'][0]['text']
 print(translated_text)
 
-write_string_to_txt_file('onsen_japanese_translated.txt', translated_text)
+write_string_to_txt_file('onsen_french_translated.txt', translated_text)
 
 '''
 # example output from endpoint:

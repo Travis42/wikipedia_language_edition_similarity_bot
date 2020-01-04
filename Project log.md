@@ -3,7 +3,50 @@
 
 
 ## Next Actions
+
+- take another example of 'onsen' from a new language. (done)
+    - Process it together with english and japanese
+    - store it, and make sure it stores correctly.
+        - might need the foreign key to be 'English title' instead of id...can't seem to get those to match.
+
+- add tokenized version to the datastore.
+
+- consider limiting the study to the top n langs on wikipedia.  This can be found on their front page.
+    - top langs by active users, descending:
+        - English
+        - French
+        - German
+        - Spanish
+        - Japanese
+        - Russian
+        - Italian
+        - Chinese
+        - Portuguese
+        - Arabic
+        - Polish
+        - Persian
+        - Dutch
+        - Indonesian
+
+    - source: https://en.wikipedia.org/wiki/List_of_Wikipedias#Detailed_list
+
+#### Why use active users?  
+
+Because I found a lot of discrepancies in other metrics.  Cebuano has the second highest number of articles outright, but they don't have much depth and aren't edited much, which tells me that total articles might not be the best metric.  Active Users is a metric that tells me that the language edition is being kept up and used, and therefore this study will be useful to more people that way.)
+    - Contra:  if the idea is to unlock knowledge bound up in cultural understanding as defined by language, wouldn't I want to use the most obscure languages?
+        - the problem here comes from diminishing returns from smaller wikipedias.  For this to work, there needs to be an article on the same topic in each language.
+        - There is a larger effort to create new articles in other Wikipedias if an entry exists in one language but not the other.  That effort pushes knowledge to other editions, while my project pulls and consolidates knowledge from wikipedia editions.
+            - I must first determine if there is 'fruit to pick' from the top languages.  By proving the concept, I can come back around later and do a study on less prolific Wikipedia editions.
+
+
+
+
+
+
 - make a robust way of crawling a list of articles.
+
+
+
 - store the comparisons.  Store the translated article with the most dissimilarity to the English one, as well as the English doc.
     - ensure that the id numbers match: primary matches all the child translations in terms of id.
 
@@ -21,6 +64,11 @@
 ## Open Questions:
 *send questions to pywikibot@lists.wikimedia.org*
 *API: https://doc.wikimedia.org/pywikibot/master/api_ref/pywikibot.html?*
+
+- How much is an Azure cloud instance per month?  Comparable to DigitalOcean?
+
+
+
 
 "pywikibot.pagegenerators module
 

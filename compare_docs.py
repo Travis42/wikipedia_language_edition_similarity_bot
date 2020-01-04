@@ -11,6 +11,10 @@ import re
 import string
 import sys
 
+'''
+Note:  I'm assuming that all dicitonaries in Python are now Ordered in terms of insertion order.  This is true for Python 3.6.
+'''
+
 # this is where the words are getting tokenized.
 def tokenize(document):
     tokenized = document
@@ -51,41 +55,52 @@ def similarity(documents_list):
     #index.save('/tmp/deerwester.index')
     #index = similarities.MatrixSimilarity.load('/tmp/deerwester.index')
     sims = index[vec_lsi]  # perform a similarity query against the corpus
-    #print(list(enumerate(sims)))  # print (document_number, document_similarity) 2-tuples
     # format: document #, similarity score
 
-    # return the least similar document and its score
-    sims = sorted(enumerate(sims), key=lambda x: x[1])
-    '''
-    # print all
-    for i, s in enumerate(sims):
-        print(s, documents[i])
-    '''
-    return sims
+    # return similarities least to most
+    #sims = sorted(enumerate(sims), key=lambda x: x[1])
+    return list(sims)
 
 
 def compare_docs():
-    # these eventually must be local vars.
-    title = 'Onsen'
-    content = combine_string_generator_pieces(read_txt_to_string_in_chunks('onsen_english.txt'))
-    # need a dict...in case there is more than one compatible lang:
-    lang_code = 'ja'
-    orig_title = u"熱水泉"
-    orig_content = read_txt_to_string('onsen_japanese_untranslated.txt')
-    translated_content = combine_string_generator_pieces(
+    topic = {
+        'title' : 'Onsen',
+        'content' : combine_string_generator_pieces(read_txt_to_string_in_chunks('onsen_english.txt')),
+        'language' : {
+                    'ja' : {
+                            'title' : u"熱水泉",
+                            'orig_content' : read_txt_to_string('onsen_japanese_untranslated.txt'),
+                            'translated_content' :combine_string_generator_pieces(
         read_txt_to_string_in_chunks('onsen_japanese_translated.txt'))
+                            },
+                    'fr' : {
+                            'title' : u"Onsen",
+                            'orig_content' : read_txt_to_string('onsen_french_untranslated.txt'),
+                            'translated_content' :combine_string_generator_pieces(
+        read_txt_to_string_in_chunks('onsen_french_translated.txt'))
+                            }
+                    }
+        }
 
+
+    # all translations:
+    documents = [content['translated_content'] for lang, content in topic['language'].items()]
+
+    # add in English
+    documents.insert(0, topic['content'])
 
     # Tokenize
-    # TODO: for more than one translation, this won't cut it.
-    documents = [content, translated_content]
     tokenized_texts = [tokenize(doc) for doc in documents]
 
     # Compare
+    LSA_score = similarity(tokenized_texts)
 
-    #TODO: this is not correct yet in terms of capturing the number to file.
-    LSA_score = similarity(tokenized_texts)[0][1]
-    print(LSA_score)
-    # first number corresponds to the 'documents' list position, and indicates the 
-    # doc with the least similarity to document '0'.  If the answer is 0, something is wrong.
-    return (title, content, lang_code, LSA_score, orig_title, orig_content, translated_content)
+    # add back to topic:
+    en_tokens = tokenized_texts.pop()
+    topic['tokens'] = en_tokens
+    LSA_score.pop()
+    for k, v in topic['language'].items():
+        v['tokens'] = tokenized_texts.pop()
+        v['LSA_score'] = LSA_score.pop()
+
+    return (topic)

@@ -4,13 +4,12 @@
 Something something great program, great programmer, license.
 """
 from compare_docs import compare_docs
-from datastore import initialize_db, store_values_to_db
+from datastore import initialize_db, store_topic_to_db
 
 def main():
     initialize_db()
-    title, content, lang_code, LSA_score, orig_title, orig_content, translated_content = compare_docs()
-    store_values_to_db(title, content, lang_code, LSA_score, orig_title, orig_content, translated_content)
-
+    topic = compare_docs()
+    store_topic_to_db(topic)
 
 
 if __name__ == '__main__':
