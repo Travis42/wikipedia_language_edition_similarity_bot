@@ -53,7 +53,7 @@ def parse_topic_dict(topic):
     # primary lang
     title = topic['title']
     content = topic['content']
-    pri_tokens = ''.join(topic['tokens'])
+    pri_tokens = ' '.join(topic['tokens'])
 
     # translations
     translation_values = []
@@ -63,7 +63,7 @@ def parse_topic_dict(topic):
         orig_title = v['title']
         orig_content = v['orig_content']
         translated_content = v['translated_content']
-        tokens = ''.join(v['tokens'])
+        tokens = ' '.join(v['tokens'])
         translation_values.append((title, lang_code, LSA_score, orig_title, \
                                   orig_content, translated_content, tokens))
     return (title, content, pri_tokens, translation_values)
@@ -76,13 +76,11 @@ def store_topic_to_db(topic):
     title, content, pri_tokens, translation_values = parse_topic_dict(topic)
 
     with sqlite3.connect("articles.sqlite") as c:
-        # Insert a row of data
         date = datetime.now().strftime("%m/%d/%Y, %H:%M")
         entries = (date, title, content, pri_tokens)
         c.execute("INSERT INTO primary_topics(date,title,content,tokens) \
                   VALUES (?,?,?,?)", entries)
 
-        for entries in translation_values:
-            c.execute("INSERT INTO translated_topics(\
-                      primary_title,lang_code,LSA_score,orig_title,\
-                      orig_content,translated_content,tokens) VALUES (?,?,?,?,?,?,?)", entries)
+        c.executemany("INSERT INTO translated_topics(\
+                  primary_title,lang_code,LSA_score,orig_title,\
+                  orig_content,translated_content,tokens) VALUES (?,?,?,?,?,?,?)", translation_values)
