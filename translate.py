@@ -45,7 +45,7 @@ def translate(text):
                                                      indent=4, 
                                                      ensure_ascii=False, 
                                                      separators=(',', ': ')))[0]['translations'][0]['text']
-        except:
+        except KeyError: # TODO: I don't know why this is happening.
             continue
     return translated_text
 

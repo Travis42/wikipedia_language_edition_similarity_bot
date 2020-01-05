@@ -12,6 +12,7 @@ import sys
 def chunkstring(string, length=5000):
     return (string[0+i:length+i] for i in range(0, len(string), length))
 
+
 def read_txt_to_string_in_chunks(filename, chunk_size=5000):
     with open(filename, 'r') as f:
         # get to the starting marker:
@@ -43,9 +44,13 @@ def read_txt_to_string(filename):
         return f.read()
 
 
-def write_string_to_txt_file(filename, translated_text):
-    with open(filename, 'w+') as f:
-        f.write(translated_text)
+def write_string_to_txt_file(filename, text, write_or_append='a'):
+    action = ''
+    if write_or_append == 'write':
+        action = 'w+'
+    with open(filename, action) as f:
+        f.write(text)
+        f.write('\n')
 
 
 

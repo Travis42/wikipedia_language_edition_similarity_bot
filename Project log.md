@@ -4,33 +4,10 @@
 
 ## Next Actions
 - make a robust way of crawling a list of articles.
-    - get one page automatically
-    - pass it to the rest of the program, including translation
-
-
-- maybe incorprate the commandline login just to be sure that I'm in.
-
-
-
-
-
-    - consider limiting the study to the top n langs on wikipedia.  This can be found on their front page.
-    - or I could just query a more liberal bound but only include them if they have a link to the same article.
-
 
 - mess with user-config.py
 
 - (goal should be to grab as much as possible this month and then allow for edits later)  I don't need to edit for a month or more, and approval will take time. Bot scripts exist in the folder that comes with pywikibot.
-
-
-#### Why use active users as my criteria for choosing a set of languages?  
-
-Because I found a lot of discrepancies in other metrics.  Cebuano has the second highest number of articles outright, but they don't have much depth and aren't edited much, which tells me that total articles might not be the best metric.  Active Users is a metric that tells me that the language edition is being kept up and used, and therefore this study will be useful to more people that way.)
-    - Contra:  if the idea is to unlock knowledge bound up in cultural understanding as defined by language, wouldn't I want to use the most obscure languages?
-        - the problem here comes from diminishing returns from smaller wikipedias.  For this to work, there needs to be an article on the same topic in each language.
-        - There is a larger effort to create new articles in other Wikipedias if an entry exists in one language but not the other.  That effort pushes knowledge to other editions, while my project pulls and consolidates knowledge from wikipedia editions.
-            - I must first determine if there is 'fruit to pick' from the top languages.  By proving the concept, I can come back around later and do a study on less prolific Wikipedia editions.
-
 
 
 ## Open Questions:
@@ -69,8 +46,6 @@ Pagegenerators.py cannot be run as script. For testing purposes listpages.py can
 ## Starting via command line
 
 python3 pwb.py login starts the bot up.
-
-
 
 python3 pwb.py -lang:xx
 Will switch to the language edition of choice.  I should probably have a handler script that uses this method to scrap a bunch of sites, then process another way.
@@ -119,6 +94,13 @@ https://www.mediawiki.org/wiki/Manual:Pywikibot/Scripts
 
 - source: https://en.wikipedia.org/wiki/List_of_Wikipedias#Detailed_list
 
+#### Why use active users as my criteria for choosing a set of languages?  
+
+Because I found a lot of discrepancies in other metrics.  Cebuano has the second highest number of articles outright, but they don't have much depth and aren't edited much, which tells me that total articles might not be the best metric.  Active Users is a metric that tells me that the language edition is being kept up and used, and therefore this study will be useful to more people that way.)
+    - Contra:  if the idea is to unlock knowledge bound up in cultural understanding as defined by language, wouldn't I want to use the most obscure languages?
+        - the problem here comes from diminishing returns from smaller wikipedias.  For this to work, there needs to be an article on the same topic in each language.
+        - There is a larger effort to create new articles in other Wikipedias if an entry exists in one language but not the other.  That effort pushes knowledge to other editions, while my project pulls and consolidates knowledge from wikipedia editions.
+            - I must first determine if there is 'fruit to pick' from the top languages.  By proving the concept, I can come back around later and do a study on less prolific Wikipedia editions.
 
 - page object:
 
@@ -196,9 +178,6 @@ Bot operators may wish to redirect a bot account's discussion page to their own.
 
 -if your bot is inactive for 2 years, it gets deauthed.
 
-
-
-
 --------------
 
 'See also' section is what I want to add to.  Could be explicit, to subtle:  ie. 'the German page (link) has 86% different content compared with this entry' or 'see also this German version (link)'
@@ -260,30 +239,3 @@ How to run it:
 https://www.mediawiki.org/wiki/Content_translation/cxserver/Setup
 
 
-
-
-############################
-
-Old constructs:
-
-topic = {
-    'title' : 'Onsen',
-    'content' : combine_string_generator_pieces(read_txt_to_string_in_chunks('onsen_english.txt')),
-    'language' : {
-                'ja' : {
-                        'title' : u"熱水泉",
-                        'orig_content' : read_txt_to_string('onsen_japanese_untranslated.txt'),
-                        'translated_content' :combine_string_generator_pieces(
-    read_txt_to_string_in_chunks('onsen_japanese_translated.txt'))
-                        },
-                'fr' : {
-                        'title' : u"Onsen",
-                        'orig_content' : read_txt_to_string('onsen_french_untranslated.txt'),
-                        'translated_content' :combine_string_generator_pieces(
-    read_txt_to_string_in_chunks('onsen_french_translated.txt'))
-                        }
-                }
-    }
-
-
-24*5000 = 120000 chars used on first article...
