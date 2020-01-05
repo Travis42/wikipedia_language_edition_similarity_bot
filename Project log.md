@@ -3,23 +3,87 @@
 
 
 ## Next Actions
+
+- do a check on that database to ensure that you're not redoing work...or find a better way to store titles you've processed.
+
+- learn to process categories?
+[[Category:Asteroids of the Solar System]]
+
+
+- sometimes tokens are not getting stored in the db.
+    - confirmed that sometimes this is because all words are unique, like when the article is very short (stub)
+    - 
+
+
 - make a robust way of crawling a list of articles.
+    - pagegenerators looks promising, but I haven't figured it out yet.
+
+#### Methods
+- Pick an arbitrary start page, grab all the links that reference other wiki pages, and continue.
+    - would need a way to make sure that articles aren't being parsed in a loop.
+    - would need a store of starting pages so that if it hits a dead end, it can restart
+
+- Use pagegenereator's random function, which seems to work well.
+    - filter for pages you don't want, like user pages.
+    - optionally incorporate the previous method, with random becoming the seed when spidering stops. (I guess it would stop due to falling out of its loop or crashing, which leads to:)
+
+
+- report crashes, implement logging.
+
+- add tests for critical features (don't lecture me)
+    -clue:  take all the asserts and if statements on variables and turn those into tests.
+
+
+RandomPageGenerator(total=None, site=None, namespaces=None, number='[deprecated name of total]')
+    Random page generator.
+
+CategorizedPageGenerator(category, recurse=False, start=None, total=None, content=False, namespaces=None, step=NotImplemented)
+    Yield all pages in a specific category.
+    
+    If recurse is True, pages in subcategories are included as well; if
+    recurse is an int, only subcategories to that depth will be included
+    (e.g., recurse=2 will get pages in subcats and sub-subcats, but will
+    not go any further).
+    
+    If start is a string value, only pages whose sortkey comes after start
+    alphabetically are included.
+    
+    If content is True (default is False), the current page text of each
+    retrieved page will be downloaded.
+
+
+- run a check at the beginning of the program to see progress on my monthly allocation of translation characters.  Halt if nearing the limit.
+    - Would be nice if there wer a way of getting the truth from MS.
+
+- learn about and implement Python's logging module
+    - incorporate into a daily email, or trigger off of a criteria that checks every hour, whatever.  Cron job.
+        - Might also be a neat way to start sending myself texts via twil.io
+
+- Ideally, I want to scrape the most popular sites first, then down.  Protected sites might be not worth doing.
 
 - mess with user-config.py
 
+- Consolidate everything that can be configured, into my own config file, for others to use.
+    - create instructions
+
+- Generate a requirements.txt, add instructions for newbs to use that.
+
+- Throw project into Intellij for code cleanup.
+
 - (goal should be to grab as much as possible this month and then allow for edits later)  I don't need to edit for a month or more, and approval will take time. Bot scripts exist in the folder that comes with pywikibot.
+
+- multi-core parallelism.  I have this in another script somewhere.
+    - which is another good reason to upload all code to Github...easier to search.
 
 
 ## Open Questions:
 *send questions to pywikibot@lists.wikimedia.org*
 *API: https://doc.wikimedia.org/pywikibot/master/api_ref/pywikibot.html?*
+*IRC Channel: irc://chat.freenode.net:6667/pywikibot*
 
-- How much is an Azure cloud instance per month?  Comparable to DigitalOcean?
-    - $15 per month.  DigitalOcean is better.
-    - I can use the Azure account for translation services only.
-        - https://azure.microsoft.com/en-us/pricing/details/cognitive-services/translator-text-api/
-        - for now, choose Pay-as-you-go, S1
-            - after this month, do Free.
+- Is it possible to do translation with a local model and increase capacity/ not have to pay for a service?
+
+
 
 "pywikibot.pagegenerators module
 
@@ -31,6 +95,77 @@ Pagegenerators.py cannot be run as script. For testing purposes listpages.py can
 
 
     - I want to start with the most visited pages and work my way down.  Is that possible?
+
+
+pagegenerators:
+
+
+*can't figure out what 'category' should be in terms of an object type*
+CategorizedPageGenerator(category, recurse=False, start=None, total=None, content=False, namespaces=None, step=NotImplemented)
+    Yield all pages in a specific category.
+    
+    If recurse is True, pages in subcategories are included as well; if
+    recurse is an int, only subcategories to that depth will be included
+    (e.g., recurse=2 will get pages in subcats and sub-subcats, but will
+    not go any further).
+    
+    If start is a string value, only pages whose sortkey comes after start
+    alphabetically are included.
+    
+    If content is True (default is False), the current page text of each
+    retrieved page will be downloaded.
+
+Works:
+LanguageLinksPageGenerator(page, total=None, step=NotImplemented)
+    Iterate over all interwiki language links on a page.
+
+*this is good.*
+LinkedPageGenerator(linkingPage, total=None, content=False, step=NotImplemented)
+    Yield all pages linked from a specific page.
+    
+    See L{pywikibot.page.BasePage.linkedPages} for details.
+    
+    @param linkingPage: the page that links to the pages we want
+    @type linkingPage: L{pywikibot.Page}
+    @param total: the total number of pages to iterate
+    @type total: int
+    @param content: if True, retrieve the current content of each linked page
+    @type content: bool
+    @return: a generator that yields Page objects of pages linked to
+        linkingPage
+    @rtype: generator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
@@ -58,7 +193,16 @@ Will switch to the language edition of choice.  I should probably have a handler
 https://www.mediawiki.org/wiki/Manual:Pywikibot/Scripts
 
 
-## Answered Tech Qs
+## Answered Qs
+
+- How much is an Azure cloud instance per month?  Comparable to DigitalOcean?
+    - $15 per month.  DigitalOcean is better.
+    - I can use the Azure account for translation services only.
+        - https://azure.microsoft.com/en-us/pricing/details/cognitive-services/translator-text-api/
+        - for now, choose Pay-as-you-go, S1
+            - after this month, do Free.
+
+
 - How do I iterate through sites?
     - *Answer: pywikibot.Page(site, u"Hot spring")
         results = [i for i in page.iterlanglinks()] # has the goods*

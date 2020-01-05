@@ -15,7 +15,6 @@ import sys
 Note:  I'm assuming that all dicitonaries in Python are now Ordered in terms of insertion order.  This is true for Python 3.6.
 '''
 
-# this is where the words are getting tokenized.
 def tokenize(document):
     tokenized = document
 
@@ -47,7 +46,8 @@ def similarity(documents_list):
     dictionary = corpora.Dictionary(documents_list)
     corpus = [dictionary.doc2bow(text) for text in documents_list]
 
-    lsi = models.LsiModel(corpus, id2word=dictionary, num_topics=len(documents_list))
+    lsi = models.LsiModel(corpus, id2word=dictionary, num_topics=len(corpus))
+    # was len(documents_list)
     vec_lsi = lsi[corpus[0]] # first document is our thing to compare against.
 
     index = similarities.MatrixSimilarity(lsi[corpus])  # transform corpus to LSI space and index it
@@ -68,19 +68,30 @@ def compare_docs(topic):
 
     # add in English
     documents.insert(0, topic['content'])
+    print ('There are this many documents', len(documents))
 
     # Tokenize
     tokenized_texts = [tokenize(doc) for doc in documents]
 
+    assert len(documents) == len(tokenized_texts)
+    # what goes in ^ should come out, same len.
+    for tokens in tokenized_texts:
+        assert len(tokens) != 0
+
     # Compare
     LSA_score = similarity(tokenized_texts)
+    for score in LSA_score:
+        if score == 0.0:
+            return
 
     # add back to topic:
-    en_tokens = tokenized_texts.pop()
-    topic['tokens'] = en_tokens
+    topic['tokens'] =  ' '.join(tokenized_texts.pop())
+    assert len(topic['tokens']) != 0
+    print(LSA_score)
     LSA_score.pop()
     for k, v in topic['language'].items():
-        v['tokens'] = tokenized_texts.pop()
+        v['tokens'] = ' '.join(tokenized_texts.pop())
+        assert len(v['tokens']) != 0
         v['LSA_score'] = LSA_score.pop()
 
     return (topic)

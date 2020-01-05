@@ -53,7 +53,7 @@ def parse_topic_dict(topic):
     # primary lang
     title = topic['title']
     content = topic['content']
-    pri_tokens = ' '.join(topic['tokens'])
+    pri_tokens = topic['tokens']
 
     # translations
     translation_values = []
@@ -63,7 +63,7 @@ def parse_topic_dict(topic):
         orig_title = v['title']
         orig_content = v['orig_content']
         translated_content = v['translated_content']
-        tokens = ' '.join(v['tokens'])
+        tokens = v['tokens']
         translation_values.append((title, lang_code, LSA_score, orig_title, \
                                   orig_content, translated_content, tokens))
     return (title, content, pri_tokens, translation_values)

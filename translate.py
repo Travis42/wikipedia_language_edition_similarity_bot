@@ -36,7 +36,6 @@ def translate(text):
         # post request
         request = requests.post(constructed_url, headers=headers, json=text_to_translate)
         response = request.json()
-        # TODO: fix this...its getting 'keyerror: 0' from time to time
         try:
             translated_text += json.loads(
                                           json.dumps(
@@ -46,7 +45,15 @@ def translate(text):
                                                      ensure_ascii=False, 
                                                      separators=(',', ': ')))[0]['translations'][0]['text']
         except KeyError: # TODO: I don't know why this is happening.
-            continue
+            print(json.loads(
+                                          json.dumps(
+                                                     response, 
+                                                     sort_keys=True, 
+                                                     indent=4, 
+                                                     ensure_ascii=False, 
+                                                     separators=(',', ': ')))[0]['translations'][0]['text'])
+            sys.exit()
+        assert len(translated_text) > 200
     return translated_text
 
 #write_string_to_txt_file('onsen_french_translated.txt', translated_text)
