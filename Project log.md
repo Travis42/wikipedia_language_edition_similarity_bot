@@ -259,3 +259,31 @@ https://www.mediawiki.org/wiki/Content_translation/Technical_Architecture
 How to run it:
 https://www.mediawiki.org/wiki/Content_translation/cxserver/Setup
 
+
+
+
+############################
+
+Old constructs:
+
+topic = {
+    'title' : 'Onsen',
+    'content' : combine_string_generator_pieces(read_txt_to_string_in_chunks('onsen_english.txt')),
+    'language' : {
+                'ja' : {
+                        'title' : u"熱水泉",
+                        'orig_content' : read_txt_to_string('onsen_japanese_untranslated.txt'),
+                        'translated_content' :combine_string_generator_pieces(
+    read_txt_to_string_in_chunks('onsen_japanese_translated.txt'))
+                        },
+                'fr' : {
+                        'title' : u"Onsen",
+                        'orig_content' : read_txt_to_string('onsen_french_untranslated.txt'),
+                        'translated_content' :combine_string_generator_pieces(
+    read_txt_to_string_in_chunks('onsen_french_translated.txt'))
+                        }
+                }
+    }
+
+
+24*5000 = 120000 chars used on first article...

@@ -62,27 +62,7 @@ def similarity(documents_list):
     return list(sims)
 
 
-def compare_docs():
-    topic = {
-        'title' : 'Onsen',
-        'content' : combine_string_generator_pieces(read_txt_to_string_in_chunks('onsen_english.txt')),
-        'language' : {
-                    'ja' : {
-                            'title' : u"熱水泉",
-                            'orig_content' : read_txt_to_string('onsen_japanese_untranslated.txt'),
-                            'translated_content' :combine_string_generator_pieces(
-        read_txt_to_string_in_chunks('onsen_japanese_translated.txt'))
-                            },
-                    'fr' : {
-                            'title' : u"Onsen",
-                            'orig_content' : read_txt_to_string('onsen_french_untranslated.txt'),
-                            'translated_content' :combine_string_generator_pieces(
-        read_txt_to_string_in_chunks('onsen_french_translated.txt'))
-                            }
-                    }
-        }
-
-
+def compare_docs(topic):
     # all translations:
     documents = [content['translated_content'] for lang, content in topic['language'].items()]
 
