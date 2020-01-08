@@ -4,29 +4,32 @@
 
 ## Next Actions
 
+MUST DO
 - do a check on that database to ensure that you're not redoing work...or find a better way to store titles you've processed.
 
-- learn to process categories?
-[[Category:Asteroids of the Solar System]]
-
-
-- sometimes tokens are not getting stored in the db.
-    - confirmed that sometimes this is because all words are unique, like when the article is very short (stub)
-    - 
-
-
 - make a robust way of crawling a list of articles.
-    - pagegenerators looks promising, but I haven't figured it out yet.
+    **breadth first search is ideal...the Wikipedia is quite deep, but the meatiest articles seem to be on the surface levels**
+        That looks like:  appending generators to a list. Check the type of an object, etc.
+
+- learn to process categories:
+    - Categoris are objects under pywikibot
+    - pagegenerators.LinkedPageGenerator(starting_page) can contain them, so they must be handled.
+    - category.articles() will make a generator, which yields pages (and possibly more categories.)
+        - there is a pagegenerators.CategorizedPageGenerator(category, recurse=False, start=None, total=None, content=False, namespaces=None, step=NotImplemented) that steps through these automaticaly.
+        - category.articlesList() is a list version (use the generator instead)
+    - category.categories() lists subcategories, if any.
+    - category.categoryinfo will show a dict: ex.
+            - {'size': 34, 'pages': 29, 'files': 0, 'subcats': 5}
+
+This should be enough info to parse the tree.
+
+
+
 
 #### Methods
 - Pick an arbitrary start page, grab all the links that reference other wiki pages, and continue.
     - would need a way to make sure that articles aren't being parsed in a loop.
     - would need a store of starting pages so that if it hits a dead end, it can restart
-
-- Use pagegenereator's random function, which seems to work well.
-    - filter for pages you don't want, like user pages.
-    - optionally incorporate the previous method, with random becoming the seed when spidering stops. (I guess it would stop due to falling out of its loop or crashing, which leads to:)
-
 
 - report crashes, implement logging.
 
@@ -34,22 +37,8 @@
     -clue:  take all the asserts and if statements on variables and turn those into tests.
 
 
-RandomPageGenerator(total=None, site=None, namespaces=None, number='[deprecated name of total]')
-    Random page generator.
 
-CategorizedPageGenerator(category, recurse=False, start=None, total=None, content=False, namespaces=None, step=NotImplemented)
-    Yield all pages in a specific category.
-    
-    If recurse is True, pages in subcategories are included as well; if
-    recurse is an int, only subcategories to that depth will be included
-    (e.g., recurse=2 will get pages in subcats and sub-subcats, but will
-    not go any further).
-    
-    If start is a string value, only pages whose sortkey comes after start
-    alphabetically are included.
-    
-    If content is True (default is False), the current page text of each
-    retrieved page will be downloaded.
+
 
 
 - run a check at the beginning of the program to see progress on my monthly allocation of translation characters.  Halt if nearing the limit.
@@ -145,28 +134,6 @@ LinkedPageGenerator(linkingPage, total=None, content=False, step=NotImplemented)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 
@@ -202,6 +169,8 @@ https://www.mediawiki.org/wiki/Manual:Pywikibot/Scripts
         - for now, choose Pay-as-you-go, S1
             - after this month, do Free.
 
+- sometimes tokens are not getting stored in the db.
+    - confirmed that sometimes this is because all words are unique, like when the article is very short (stub)
 
 - How do I iterate through sites?
     - *Answer: pywikibot.Page(site, u"Hot spring")
@@ -237,6 +206,28 @@ https://www.mediawiki.org/wiki/Manual:Pywikibot/Scripts
     (all of these are in Microsoft Translator)
 
 - source: https://en.wikipedia.org/wiki/List_of_Wikipedias#Detailed_list
+
+
+### Some function documentation:
+
+*this is not recommended...there are tons of stub sites on Wikipedia, and this doesn't maximize the program's use of time*
+RandomPageGenerator(total=None, site=None, namespaces=None, number='[deprecated name of total]')
+    Random page generator.
+
+CategorizedPageGenerator(category, recurse=False, start=None, total=None, content=False, namespaces=None, step=NotImplemented)
+    Yield all pages in a specific category.
+    
+    If recurse is True, pages in subcategories are included as well; if
+    recurse is an int, only subcategories to that depth will be included
+    (e.g., recurse=2 will get pages in subcats and sub-subcats, but will
+    not go any further).
+    
+    If start is a string value, only pages whose sortkey comes after start
+    alphabetically are included.
+    
+    If content is True (default is False), the current page text of each
+    retrieved page will be downloaded.
+
 
 #### Why use active users as my criteria for choosing a set of languages?  
 

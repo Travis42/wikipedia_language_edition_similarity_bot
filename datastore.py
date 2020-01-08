@@ -80,3 +80,6 @@ def store_topic_to_db(topic):
 
         c.executemany("INSERT INTO translated_topics(\
                   title,lang_code,LSA_score,orig_title,orig_content,translated_content,tokens) VALUES (?,?,?,?,?,?,?)", translation_values)
+
+
+#def check_topic_in_db()
