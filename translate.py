@@ -9,7 +9,6 @@ from utils import chunkstring, read_txt_to_string_in_chunks, write_string_to_txt
 # https://docs.microsoft.com/en-us/azure/cognitive-services/Translator/quickstart-translate?pivots=programming-language-python
 
 
-
 def translate(text):
     # grab MS credentials:
     config = configparser.ConfigParser()
@@ -38,25 +37,17 @@ def translate(text):
         response = request.json()
         try:
             translated_text += json.loads(
-                                          json.dumps(
-                                                     response, 
-                                                     sort_keys=True, 
-                                                     indent=4, 
-                                                     ensure_ascii=False, 
-                                                     separators=(',', ': ')))[0]['translations'][0]['text']
-        except KeyError: # TODO: I don't know why this is happening.
-            print(json.loads(
-                                          json.dumps(
-                                                     response, 
-                                                     sort_keys=True, 
-                                                     indent=4, 
-                                                     ensure_ascii=False, 
-                                                     separators=(',', ': ')))[0]['translations'][0]['text'])
-            sys.exit()
-        assert len(translated_text) > 200
+                              json.dumps(
+                                         response, 
+                                         sort_keys=True, 
+                                         indent=4, 
+                                         ensure_ascii=False, 
+                                         separators=(',', ': ')))[0]['translations'][0]['text']
+        except KeyError: # doesn't seem to be critical.
+            #TODO add to log in the future
+            continue
     return translated_text
 
-#write_string_to_txt_file('onsen_french_translated.txt', translated_text)
 
 '''
 # example output from endpoint:

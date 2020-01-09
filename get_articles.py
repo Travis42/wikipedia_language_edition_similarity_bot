@@ -46,7 +46,10 @@ def get_topic_articles(page):
     if len(page.text) < 500:
         return
     topic['content'] = page.text
-    edition_links = [link for link in pagegenerators.LanguageLinksPageGenerator(page)]
+    try:
+        edition_links = [link for link in pagegenerators.LanguageLinksPageGenerator(page)]
+    except:
+        return
     if edition_links == []:
         return
     topic['language'] = {}

@@ -4,6 +4,13 @@
 
 ## Next Actions
 
+
+- check to see if I need a new key to use the API.
+    - make it clean for a user to do the free MS stuff, and let them know when they need to change over to pay as you go.  The error message should be clear, if it is the Keyerror that signals that this is what is happening (you've reached the monthly free limit...move to pay as you go and use up those free credits instead...then switch back to free once you get past one month of use).
+
+    (I switched to the secondary API key, to see if that would work) **didn't help**
+
+
 MUST DO
 - do a check on that database to ensure that you're not redoing work...or find a better way to store titles you've processed.
 

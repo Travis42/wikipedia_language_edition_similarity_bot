@@ -42,6 +42,8 @@ def main():
             # skip what has already been visited:
             if page.title() in visited_topics:
                 continue
+            # temp
+            print(page.title())
 
             # valid page, parse topic:
             topic = get_topic_articles(page)
