@@ -10,6 +10,7 @@ from datetime import datetime
 from os import rename
 import pickle
 import sys
+from utils import log_setup
 
 
 def main():

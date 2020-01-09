@@ -17,17 +17,15 @@ os.rename('wiki-bot.log', 'wiki-bot.log-old')
 
 message = Mail(
     from_email=config.get('Sendgrid', 'from_email'),
-    to_emails=(config.get('Sendgrid', 'to_email'))
+    to_emails=(config.get('Sendgrid', 'to_email')),
     subject='Wiki-bot status',
-    html_content="<div>Today's log:</div>",
-                "<div>", log,"</div>")
+    html_content=("<div>Today's log:</div><div>" + log + "</div>"))
 
 
-try:
-    sg = SendGridAPIClient(os.environ.get('SENDGRID_API_KEY'))
-    response = sg.send(message)
-    #print(response.status_code)
-    #print(response.body)
-    #print(response.headers)
-except Exception as e:
-    #print(str(e))
+
+sg = SendGridAPIClient(os.environ.get('SENDGRID_API_KEY'))
+response = sg.send(message)
+#print(response.status_code)
+#print(response.body)
+#print(response.headers)
+
