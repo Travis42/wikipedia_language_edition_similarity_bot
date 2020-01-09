@@ -5,9 +5,23 @@ IO operations, excepting database operations
 
 import csv
 from datetime import date, datetime
+import logging
+import logging.handlers
 import os
 import pickle
 import sys
+
+
+def log_setup():
+    log_handler = logging.handlers.WatchedFileHandler('wiki-bot.log')
+    formatter = logging.Formatter(
+        '%(asctime)s [%(process)d]: %(message)s',
+        '%b %d %H:%M:%S')
+    log_handler.setFormatter(formatter)
+    logger = logging.getLogger()
+    logger.addHandler(log_handler)
+    logger.setLevel(logging.INFO)
+
 
 def chunkstring(string, length=5000):
     return (string[0+i:length+i] for i in range(0, len(string), length))

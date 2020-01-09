@@ -68,7 +68,7 @@ def compare_docs(topic):
 
     # add in English
     documents.insert(0, topic['content'])
-    print ('There are this many documents', len(documents))
+    logging.info('There are this many documents', len(documents))
 
     # Tokenize
     tokenized_texts = [tokenize(doc) for doc in documents]
@@ -87,7 +87,7 @@ def compare_docs(topic):
     # add back to topic:
     topic['tokens'] =  ' '.join(tokenized_texts.pop())
     assert len(topic['tokens']) != 0
-    print(LSA_score)
+    logging.info('LSA score: ', LSA_score)
     LSA_score.pop()
     for k, v in topic['language'].items():
         v['tokens'] = ' '.join(tokenized_texts.pop())

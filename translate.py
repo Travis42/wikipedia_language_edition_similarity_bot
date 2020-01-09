@@ -44,7 +44,8 @@ def translate(text):
                                          ensure_ascii=False, 
                                          separators=(',', ': ')))[0]['translations'][0]['text']
         except KeyError: # doesn't seem to be critical.
-            #TODO add to log in the future
+            logging.debug('skipping these many characters: ', len(chunk))
+            logging.debug('keyerror, whatever that means.')
             continue
     return translated_text
 
