@@ -7,6 +7,7 @@ from nltk.corpus import stopwords
 
 from collections import defaultdict, namedtuple
 from copy import deepcopy
+import logging
 import re
 import string
 import sys

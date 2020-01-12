@@ -7,6 +7,7 @@ from compare_docs import compare_docs
 from datastore import initialize_db, store_topic_to_db
 from get_articles import get_topic_articles, move_to_random_topic, move_through_topic
 from datetime import datetime
+import logging
 from os import rename
 import pickle
 import sys
@@ -18,6 +19,7 @@ def main():
     #rename('wiki-bot.log', 'wiki-bot.log-old')
     initialize_db()
     topics_to_parse = []
+    logging.info('Beginning')
     try:
         with open('progress.pickle', 'rb') as f:
             visited_topics = pickle.load(f)

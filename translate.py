@@ -2,6 +2,7 @@
 
 # -*- coding: utf-8 -*-
 import configparser
+import logging
 import os, requests, uuid, json
 
 from utils import chunkstring, read_txt_to_string_in_chunks, write_string_to_txt_file
