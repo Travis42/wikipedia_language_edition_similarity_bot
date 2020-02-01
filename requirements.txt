@@ -1,4 +1,4 @@
-nltk==3.3
+nltk==3.4.5
 pywikibot==3.0.dev0
 gensim==3.8.1
 sendgrid==6.1.0
