@@ -15,9 +15,13 @@ TODO: here I see that the db will be language centric in terms of whatever
 language the user is coming from.  Consider adding a config option to 
 explicitly state the focus language or mention it in the readme.
 """
+
+from compare_docs import tokenize
+
 from datetime import datetime
 import os
 import sqlite3
+import sys
 
 def initialize_db():
     if os.path.isfile('articles.sqlite'):
@@ -42,10 +46,7 @@ def initialize_db():
                     translated_content text,
                     tokens text,
                     foreign key(title) references primary_topics(title))''')
-    # Save (commit) the changes
     connection.commit()
-    # We can also close the connection if we are done with it.
-    # Just be sure any changes have been committed or they will be lost.
     connection.close()
 
 
@@ -71,6 +72,9 @@ def parse_topic_dict(topic):
 
 def store_topic_to_db(topic):
     title, content, pri_tokens, translation_values = parse_topic_dict(topic)
+    print('look at the LSA code.  Should just be a number: ')
+    print(translation_values)
+    sys.exit()
 
     with sqlite3.connect("articles.sqlite") as c:
         date = datetime.now().strftime("%m/%d/%Y, %H:%M")
@@ -82,4 +86,61 @@ def store_topic_to_db(topic):
                   title,lang_code,LSA_score,orig_title,orig_content,translated_content,tokens) VALUES (?,?,?,?,?,?,?)", translation_values)
 
 
-#def check_topic_in_db()
+def get_all_titles_from_db():
+    with sqlite3.connect("articles.sqlite") as c:
+        titles = c.execute('''SELECT title from primary_topics''')
+        title_list_of_tuples = titles.fetchall()
+    return title_list_of_tuples
+
+
+def get_primary_topics_count():
+    with sqlite3.connect("articles.sqlite") as c:
+        rows = c.execute('''SELECT count(*) from primary_topics''')
+    return rows.fetchone()[0]
+
+
+def get_edition_topic_tokens(title):
+    '''
+    returns list of (lang code, tokens) tuples
+    '''
+    title = str(title)
+    connection = sqlite3.connect('articles.sqlite')
+    c = connection.cursor()
+    en_tokens = c.execute('''SELECT tokens from primary_topics where title=(?)''', (title,))
+    tokens = en_tokens.fetchall()
+    tokens[0] += 'en',
+    forn_tokens = c.execute('''SELECT tokens, lang_code from translated_topics where title=(?)''', (title,))
+    forn_tokens = forn_tokens.fetchall()
+    forn_tokens = [item for item in forn_tokens if item[0] is not None]
+
+    #integrity check
+    for token, lang in forn_tokens:
+        if len(token) == 0:
+            # TODO: fix.  I have areas of the db that are still 'blobs'.  and now its a silent error.
+            try:
+                content = c.execute('''SELECT translated_content from translated_topics where title=(?) and lang_code=(?)''', (title, lang)).fetchall()[0][0]
+            except:
+                content = c.execute('''SELECT translated_content from translated_topics where title=(?) and lang_code=(?)''', (title, lang)).fetchall()
+                print('something is wrong.  Here is the content of the db: ')
+                print(content, token, title, lang)
+                sys.exit()
+            token = ' '.join(tokenize(content))
+            c.execute('''UPDATE translated_topics set tokens=? where title=? and lang_code=?;''',(token, title, lang))
+            token = c.execute('''SELECT tokens from translated_topics where title=(?) and lang_code=(?)''', (title, lang)).fetchall()[0][0]
+            if not token:
+                c.execute('''delete from translated_topics where title=(?) and lang_code=(?)''', (title, lang))
+            connection.commit()
+            get_edition_topic_tokens(title)
+
+    tokens.extend(forn_tokens)
+    connection.commit()
+    connection.close()
+    return tokens
+
+
+def store_nlp_to_db(process, title, lang, score):
+    with sqlite3.connect("articles.sqlite") as c:
+        if process == 'lsa':
+            c.execute('''UPDATE translated_topics set LSA_score=? where title=? and lang_code=?;''',(str(score), title, lang))
+        elif process == 'tfidf':
+            c.execute('''UPDATE translated_topics set tfidf_score=? where title=? and lang_code=?;''',(str(score), title, lang))

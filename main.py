@@ -59,7 +59,7 @@ def main():
             logging.info(topic['title'])
             memory_data_store = compare_docs(topic)
             if not memory_data_store:
-                logging.info('Articles have nothing in common, was probably a stub.')
+                logging.info('Articles have no elements in common or most articles were stubs.')
                 continue
             store_topic_to_db(memory_data_store)
             logging.info("Duration to process the topic: ", str(datetime.now() - start))
