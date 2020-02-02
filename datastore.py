@@ -86,6 +86,37 @@ def store_topic_to_db(topic):
                   title,lang_code,LSA_score,orig_title,orig_content,translated_content,tokens) VALUES (?,?,?,?,?,?,?)", translation_values)
 
 
+def get_entries_by_title(title):
+    '''
+    returns a dict of all items in the db based on the title
+    Dict conforms to the format that it was in when it went into the db
+    '''
+    with sqlite3.connect("articles.sqlite") as c:
+        primary = c.execute('''SELECT * from primary_topics where title=(?)''', (title,))
+        secondaries = c.execute('''SELECT * from translated_topics where title=(?)''', (title,))
+
+    primary = primary.fetchall()[0]
+    entry_dict = {
+                  'title' : primary[2],
+                  'content' : primary[3],
+                  'pri_tokens' : primary[4],
+                  'language' : {},
+    }
+
+    secondaries = secondaries.fetchall()
+    for entry in secondaries:
+        lang_code = entry[2]
+        entry_dict['language'][lang_code] = {
+                    'LSA_score' : entry[3],
+                    'title' : entry[4],
+                    'orig_content' : entry[5],
+                    'translated_content' : entry[6],
+                    'tokens': entry[7],
+                     }
+
+    return entry_dict
+
+
 def get_all_titles_from_db():
     with sqlite3.connect("articles.sqlite") as c:
         titles = c.execute('''SELECT title from primary_topics''')

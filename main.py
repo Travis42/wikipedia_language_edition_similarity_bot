@@ -50,9 +50,6 @@ def main():
             # valid topic worth comparing:
             visited_topics.append(page.title())
 
-            # TODO move this after I determine that errors are figured out:
-            #with open('topics.pickle', 'w') as f:
-            #    pickle.dump(topics_to_parse, f)
             with open('progress.pickle', 'wb') as f:
                 pickle.dump(visited_topics, f)
 

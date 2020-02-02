@@ -58,7 +58,6 @@ def similarity(documents_list, comparison="lsa"):
         nlp = models.TfidfModel(corpus, id2word=dictionary)
 
     vectorized = nlp[corpus[0]] # first document is our thing to compare against.
-
     index = similarities.MatrixSimilarity(nlp[corpus])  # transform corpus to vector space and index it
     # Options:
     #index.save('/tmp/deerwester.index')
@@ -68,6 +67,7 @@ def similarity(documents_list, comparison="lsa"):
 
     # return similarities least to most
     #sims = sorted(enumerate(sims), key=lambda x: x[1])
+
     return sims
 
 
@@ -118,6 +118,8 @@ def batch_similarity_processing():
     for title in titles:
         print('working: ', title)
         tokens_and_langs = datastore.get_edition_topic_tokens(title[0])
+        if len(tokens_and_langs) < 2:
+            continue
         tokens = [token[0].split(' ') for token in tokens_and_langs]
         scores = similarity(tokens, compare)[1:] # get rid of English
         try:
