@@ -20,7 +20,7 @@ farthest_lang = sorted(scores, key=lambda x: x[1])[0][0]
 farthest_lang_text = entry['language'][farthest_lang]['translated_content']
 
 # cut it up into sentences
-sentences = re.split(r'[?!.]', farthest_lang_text) # \n
+sentences = re.split(r'[?!.。]\s+', farthest_lang_text) #r'[?!.。]\s+'
 sentences = [sentence for sentence in sentences if len(sentence) > 5]
 
 #TODO: is it possible to get rid of empty token spots while retainig the order?
@@ -38,18 +38,18 @@ documents = ([tokenized_english_entry] + tokenized_sentences)
 similarities = list(similarity(documents))[1:]
 least_common_content = sorted(enumerate(similarities), 
                               key=lambda x: list(x)[1])
-least_common_content = [item for item in least_common_content if item[1] != 0.0]
+least_common_content = [item for item in least_common_content 
+                                if item[1] != 0.0 and item[1] <= 0.3]
 
 # TODO: return the n farthest sentences based on the ratio of original distance.
 print(title)
 print("Language edition's article farthest from the English version: ",farthest_lang)
 print()
-for index, score in least_common_content[:25]:
+for index, score in least_common_content:
     print(score)
     print(sentences[index])
     #print(tokenized_sentences[index])
     print()
-
 '''
 different_content = [sentences[index] for index, score in least_common_content
                                 if len(sentences[index]) > 15][:25]
