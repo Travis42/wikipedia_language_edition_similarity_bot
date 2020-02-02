@@ -1,0 +1,18 @@
+Historical geographic information system
+Language edition's article farthest from the English version: ru
+1.36424e-12
+'''Историко-географические информационные системы''', также пишется как '''исторические ГИС''', — [[Геоинформационная система|географические информационные системы]], которые могут отображать, хранить и анализировать данные прошлых географических эпох и отслеживать изменения во времени
+6.82121e-12
+Используются в истории, палеобиологии и её подразделах, геологии, палеоклиматологии и палеоокеанологии, археологии, средствах массовой информации и в деле массового просвещения
+0.0189283
+* В версиях 4+ [[Google Планета Земля]] добавлена тайм-линии функция, которая позволяет осуществить простой временной просмотр пространственных данных<ref>Объявление функции [http://www.gearthblog.com/blog/archives/2006/09/google_earth_4_time.html в Google Планета Земля блог]</ref>
+
+== Примечания ==
+{{примечания}}
+
+== Ссылки ==
+
+* [http://www.hgis.org.uk/ The Historical GIS Research Network]
+* [http://www.friedrichiii.his-gis.net/ Joachim Laczny: The late medieval ruler Frederick III (1440—1493) on the journey
+0.0626071
+Wahrnehmung und Deutung im Mittelalter und in der Moderne (Nova Mediaevalia Quellen und Studien zum europäischen Mittelalter, 12), Göttingen: V&R unipress 2014, p

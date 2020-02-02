@@ -1,0 +1,70 @@
+Lucien Febvre
+Language edition's article farthest from the English version: hu
+0.00639599
+{{Person infobox
+|type=
+|name=
+|image=
+|image size =
+|caption =
+|date of birth= <!-- Wikidata: p569 -->
+|place of birth= <!-- Wikidata: p19 -->
+|death date= <!-- Wikidata: p570 -->
+|death place= <!-- Wikidata: p20 -->
+|cause of death= <!-- Wikidata: p509 -->
+|tomb= <!-- Wikidata: p119 -->
+|birth name= <!-- Wikidata: p513 -->
+|gender = <!-- only if it is not found from the introduction or first name -->
+|artist name = 
+|alias = <!-- Wikidata: p742 -->
+|nickname= <!-- Wikidata:p1449 -->
+|citizenship= <!-- Wikidata: p27 -->
+|nationality=
+|spouse = <!-- Wikidata: p26 -->
+|partner = <!-- Wikidata: p451 -->
+|number of children = <!-- Wikidata: p1971 -->
+|children = <!-- Wikidata: p40 -->
+|parents = <!-- Wikidata: p22, p25 -->
+|profession = <!-- Wikidata: p106 -->
+|post = <!-- Wikidata: p39 -->
+|schools= <!-- Wikidata: p69 -->
+|Honors= <!-- Wikidata: p166 -->
+
+<!-- + For Athletes -->
+|height =
+|weight =
+
+|comment =
+|signature= <!-- Wikidata: p109 -->
+|Web site= <!-- Wikidata: p856 -->
+|blog= <!-- Wikidata:p1581 -->
+|catholic_hierarchy= <!-- Wikidata: p1047 -->
+| IMDb= <!-- Wikidata: p345 -->
+| PORT.hu= <!-- Wikidata:p2435 -->
+| Facebook= <!-- Wikidata:p2013 -->
+| MTA= <!-- Wikidata:p3226 -->
+| MTMT= <!-- Wikidata:p2492 -->
+|parlament.hu= <!-- Wikidata:p4966 -->
+|wikicommons= <!-- Wikidata: p373 -->
+|subtemplate=
+}}
+'''Lucien Febvre''' ([Nancy]], [[1878]
+0.0384758
+[[July 22]] – [[Saint-Amour (Jura)| Saint-Amour]], [[1956]]
+0.173141
+In 1929, he and his colleague and close friend [Marc Bloch]hal together created the journal 'Annales d'histoire économique et sociale',', better known as 'Annales'
+0.26933
+4, March 1982
+*[biography of https://www.universalis.fr/encyclopedie/febvre-lucien-1878-1956/] Retrieved 21 December 2018
+
+{{truncated historian}}
+{{Annales School}}
+{{International Catalogs}}
+{{portal|history|| France|-}}
+
+{{DEFAULTSORT:Febvre Lucien}}
+[[Category:French historians]]
+[[Category:1956 deaths]]
+[[Category:1878 births]]
+[[Category:Nancyans]]
+[[Category:Soldiers of France in World War I]]

@@ -1,0 +1,56 @@
+Ernst Nolte
+Language edition's article farthest from the English version: fa
+0.0869951
+title = Ernst_Nolte & oldid = 662472995 | title = Ernst Nolte | language = English | recovery = 7 July 2015}}
+* {{Web hosting | address = http://www.freebase.com/m/073b_6 | title = Ernst_Nolte | review = July 7, 2015}}
+
+{{Philosopher-kherad}}
+
+{{Default order: Nunam, Ernest}}
+
+[[Category: Professors of the Free University of Berlin]]
+[[Category: Faculty members of the University of Marsburg]]
+[[Category: Townspeople وستفیلیا]]
+[[Category: German journalists]]
+[[Category: 20th century AD]]
+[[Category: The 20th century in Germany]]
+[[Category: 21st century journalists]]
+[[Category: Historians of fascism]]
+[[Category: History of Communism]]
+[[Category: The Historians of Nazism]]
+[[Category: University of Freiburg alumni]]
+[[Category: University of Münster alumni]]
+[[Category: Graduates of Humboldt University of Berlin]]
+[[Category: Departed 2016 (Gregorian)]]
+[[Category: Zadegan 1923 (Gregorian)]]
+[[Category: German philosophers]]
+[[Category: German Roman Catholic parish]]
+[[Category: 20th century writers from Germany]
+[[Category: 21-century writers from Germany]]
+[[Category: German male writers]]
+[[Category: 21st century male writers]]
+[[Category: Writers of the non-fictional German male]]
+0.12312
+{{Infobox person
+| Honorific_prefix =
+| Name = Ernest Nolech
+| Image =
+| Caption =
+| Birth_date = {{Birth date | 1923 | 01 | 11}}
+| Birth_place = [[Viton]], [[Germany]]
+| The death_date = {{Date of death and age | 2016 | 8 | | 1923 | 1 | 11}}
+| Death_place = [[Berlin]], [[Germany]]
+| Other_names =
+| Alma_mater = [[University of Münster]] {{SARKH}} [[University of Frederick William]] {{SKH}} [[University of Freiburg]] {{SKH}} [[University of Cologne]]
+| Known_for = Fascism and explaining the general theory of fascism
+| Occupation = philosopher and history of journalist
+| Education = [[PHP]] in [[Philosophy]] (1952)
+| Awards = the award Hans-Shaler (1985) {{SKH}} awards Conrad (2000)
+| Spouse = Andrur Murtier
+| Children = George Nolech
+| Nationality = German
+| Employer = [[University of Marsburg]] (1965 – 1973) {{Sekh}} [[Free University of Berlin]] (from 1973, retired since 1991)
+}}
+' ' Ernest Noty' ' ({{lang-de | Ernst Nolte}}; born {{Birth date | 1923 | 01 | 11 | df = yes}}-died {{Date of death | 2016 | 8 | 18} ("The philosopher]," " One of the disciples was برجستهٔ [[Heidegger]], a specialist [fascism]
+0.151966
+The most important book is "fascism in his own age" which raised him as a researcher of the realm of fascism in the academic and intellectual circles of Germany

@@ -1,0 +1,43 @@
+ASPRO chronology
+Language edition's article farthest from the English version: vi
+0.0524431
+First published in the year 1994 < Ref name = Mom > {{web comment | title = ASPRO: Atlas des Sites du Proche-Orient | url = http://www.mom.fr/ressources-numeriques/bases-de-donnees/ASPRO | website = MAISON DE L'ORIENT ET DE LA MÉDITERRANÉE JEAN POUILLOUX | access date = 25 Sep 2016 | ref = MOM
+0.240279
+colspan = "2" | Years
+|-
+| States 1 | | [[Natufian]], [[Zarzian]] final | | style = white-Space: nowrap | 12.0-10.3 [[Year # ISO Symbols | Ka BP]] | | style = white-Space: nowrap | 12.0-10.2 [[Year # ISO Symbols | Ka]] [[BC]]
+|-
+| States 2 | | Protoneolithic, [[Pre-Pottery Neolithic A]] (PPNA), [[[Khiamian]], [[Sultanian]], [[Harifian]] | | 10.3-9.6 [[Year # ISO Symbols | Ka BP]] | | 10.2-88 [[Year # ISO Symbols | Ka]] [[BC]]
+|-
+| States 3 | | [[Pre-Pottery Neolithic B]] (PPNB), [[PPNB ancien]] | | 9.6-8.0 [[Year # ISO Symbols | Ka BP]] | | 8.8-7.6 [[Year # ISO Symbols | Ka]] [[BC]]
+|-
+| Term 4 | | [[Pre-Pottery Neolithic B]] (PPNB), [[PPNB moyen]] | | 8.0-8.6 [[Year # ISO Symbols | Ka BP]] | | 7.6-6.9 [[Year # ISO Symbols | Ka]] [[BC]]
+|-
+| States 5 | | Dark Faced Burnished Ware ([[DFBW]]), [[Cthe Hüyük]], [[Umm Dabaghiyah]], [[[Sotto]], [[Proto-Hassuna]], [[Ubaid Period | Ubaid]] 0 | | 8.6-7.6 [[Year # ISO Symbols | Ka BP]] | | 6.9-6.4 [[Year # ISO Symbols | Ka]] [[BC]]
+|-
+| States 6 | | [[Hassuna]], [[Samarra]], [[Halaf]], [[Ubaid Period | Ubaid]] 1 | | 7.6-7.0 [[Year # ISO Symbols | Ka BP]] | | 6.4-5.8 [[Year # ISO Symbols | Ka]] [[BC]]
+|-
+| States 7 | | [[Pottery Neolithic A]] (PNA), [[Halaf]] final, [[Ubaid Period | Ubaid]] 2 | | 7.0-6.5 [[Year # ISO Symbols | Ka BP]] | | 5.8-5.4 [[Year # ISO Symbols | Ka]] [[BC]]
+|-
+| States 8 | | [[Pottery Neolithic B]] (PNB), [[Ubaid Period | Ubaid]] 3 | | 6.5-6.1 [[Year # ISO Symbols | Ka BP]] | | 5.4-5.0 [[Year # ISO Symbols | Ka]] [[BC]]
+|-
+| Period 9 | | [Ubaid Period | Ubaid]] 4 | | 6.1-5.7 [[Year # ISO Symbols | Ka BP]] | | 5.0-4.5 [[Year # ISO Symbols | Ka]] [[BC]]
+|-
+|}
+
+= = Reference = =
+{{reference | colwidth = 25em}}
+
+= = See more = =
+
+{{Commonscat | chronology}}
+= = External link = =
+* [http://www.mom.fr/Website of MOM]
+* [https://web.archive.org/web/20110724200810/http://www.mom.fr/-Bases-de-donnees-.html Atlas des sites Prochaine-Orient 14000 et 5700 BP-Mom'S Online application-Atlas of Near East Archaeological Sites 14000 to 5700 BP]
+{{stub}}
+{{College Year}}
+
+[[Category: University year]]
+[[Category: Stone era]]
+[[Category: Ancient Near East]
+[[Category: The new stone era]]

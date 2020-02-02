@@ -1,0 +1,22 @@
+Decade
+Language edition's article farthest from the English version: ja
+0.0408888
+[2020 /2020]] [2021 /2021]] [2022 /2022]] [2023 /2023]] [2024 /2024]] [2025 /2025]] [2026 /2026]] [2027 /2027]] [2028 /2028]] [[2029 /2029]]
+|-
+| style-"background:#ddd;" [2030's]
+0.0969762
+- Overview
+The way the decade is separated in [A.D.], is similar to the concept of how to separate [Century] and [Millennium] Since [[0 years] does not exist in the a.d
+0.111979
+- style-"background:#eee;"
+"rowspans" 2 styles, "background #ccc:" [[17th Century]] style-"background:#ddd;" [1690s]] [[1690/1690]] [[1691]] [[1692]] [[1693]] [[1694]] [[1695]] [[1696]] [[1697]] [[1698]] [[1699/1699]]
+|-
+"background:#ddd;" [[1700s]] [[1700/1700]] || || || || || || || || || 
+|-
+"rowspans: 11 styles, background:#ccc;" [18th Century]
+0.160003
+and the count begins from [1 year]), the last digit of the year is originally 1 to 0 for 10 years'' to one break
+0.205294
+By the way, there is an expression in English for five years of half of the tenth year (from the period of [Census] that was carried out every five years in the last ram, [ancient Rome]) in English
+0.251433
+However, even if the century is common in Japan, it is rare to cause such confusion because the use of separating the year in ten years is not common, and it is often used in '''–0' to separate the era in 10 years

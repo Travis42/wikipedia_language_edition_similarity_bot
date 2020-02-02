@@ -1,0 +1,48 @@
+Leap second
+Language edition's article farthest from the English version: ru
+0.0130987
+Programming, scaling, support/link/https://books.google.com/books?id?id?ehpKDwAA'A'BAJ'pg'PA342 "Peter Publishing House" "Peter" "Year"-2018-02-02 pages, pages, 640,"isbn"9785446101120 isbn2"</ref> ("lang-en-leap" second) added to the "World Coordinated Time" to align it with UT1
+0.0247672
+ITU-R TF.460-6 Radiation of standard frequencies and </ref> time signals
+
+File:ITU-R TF.460-6 Figure 3.svg
+
+Near negative:
+
+File:ITU-R TF.460-6 Figure 4.svg
+
+Complexity of counting extra seconds
+Autonomous clocks, including calendar clocks, ignore the extra second because it is not entered on a calendar basis and it is impossible to program the schedule in advance
+0.033909
+"Additional (whispering, galloping) secunda"<ref>'Cite web'url/http://protect.gost.ru/default.aspx/v.aspx?control Terms and definitions/author-website-date-</ref> publisher<ref><ref>'cite-http://www.nat-geo.ru/planet/330011-visokosnaya-sekunda-pochemu-30-06-2015-osobennyy-den/#full Anastasia Barinova (National Geographic) National Geographic,"</ref><ref>.s <ref> book, author Hal Fulton, title, "Programming in ruby's language" 7-208 isbn 5-94074-357-9, </ref> or "Sekuunda" <ref>
+0.0468912
+Instead, it was suggested every 6,000 years to add one hour to the world-coordinated time<ref>.http://www.rg.ru/2015/06/30/sekunda-anons.html The last day of June will be one second longer </ref> (there were estimates by researchers that the discrepancy could reach one hour within a few hundred years http://news.bbc.co.uk/2/hi/science/nature/4420084.stm<ref> </ref>)
+0.0546767
+In November 2015, the possibility of cancelling extra seconds was considered at the World Radiocommunication Conference (WRC-15), the international regulatory body responsible for overriding UTC<ref> http://www.itu.int/net/pressoffice/press_releases/2015/Advisory-08.aspx#.Vo-vmraLSt8 itU World Radiocommunication Conference set for Geneva, 2-27 November 2015
+0.0703926
+The International Earth Rotation Service IERS reported in its bulletins:
+
+After years of discussions, the proposal for a radical redefinition of the World Coordinated Time UTC came to the final vote in January 2012Yes, the International Radio Advisory Committee ITU-R) in Geneva
+0.149731
+The designers risked and trusted UTC, resulting in the addition of an extra second on the night of June 30 to July 1, 1997, and the additional adjustment of the internal clock led to the inaccessibility of the navigation system for users for the day<ref>.</ref> lenta.ru https://lenta.ru/articles/2012/01/23/utc/|publisher'
+
+Possible cancellation of additional seconds
+In 2009, the International Astronomical Union (IAU) proposed to abandon the practice of introducing extra seconds - the Earth's rotation is slowing down, and the correction will have to be carried out more often
+0.175523
+File:DT-Extra-second.svg
+
+As a result, in the future, additional seconds will need to be introduced more and more often, in each next century will need to enter about 64 seconds more than in the previous
+0.29583
+Notes
+"Notes"
+
+Links
+"Navigation"
+"http://leapsecond.com/notes/leap-watch.htm How to watch a Leap Second
+"https://www.youtube.com/watch?v=4ClLvJ8MA2Q Sighting 30.06.2012 on a GPS-synchronization watch
+"https://www.youtube.com/watch?v=gXDzaKPHRDY Sighting observation of the 30th second of 30.06.2015 on a GPS-synchronization watch"
+
+The measurement units and time standards
+
+"Category:timeline"
+"Category:Measuring time"

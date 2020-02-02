@@ -1,0 +1,19 @@
+Deep time
+Language edition's article farthest from the English version: ar
+0.290215
+<ref>{{{Web Reference=Path=http://www.scientificamerican.com/article/how-science-figured-out-the-age-of-the-earth/|title=How Science Figured Out the Last Age of Earth|=Braterman|I=Paul S.| Location=Scientific American|Arrival Date=2016-04-17| Archive Path = https://web.archive.org/web/20180110124110/https://www.scientificamerican.com/article/how-science-figured-out-the-age-of-the-earth/ | Archive Date = January 10, 2018 {</ref><ref> https://web.archive.org/web/20150903230852/http://www.academia.edu/1112014/The_Language_of_Mineralogy_John_Walker_Chemistry_and_the_Edinburgh_Medical_School_1750-1800_2008_ https://www.academia.edu/1112014/The_Language_of_Mineralogy_John_Walker_Chemistry_and_the_Edinburgh_Medical_School_1750-1800_2008_{===_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ Archive Date = September 3, 2015 }</ref>
+== References ==
+{{Reference}}
+
+{{Time Topics}}
+{{Time Standards and Standards}}
+{{Chrystological Science}}
+{{{Gatebar|Geography|Time}}
+
+{{Geographical seed}}
+
+[Classification:History of Earth Sciences]
+[Rating:Evolution]]
+[Classification:Historical Geology]
+[Rating:Time]]
+[Classification:Geotemporal Science]

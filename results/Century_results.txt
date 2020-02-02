@@ -1,0 +1,32 @@
+Century
+Language edition's article farthest from the English version: vi
+0.0266102
+1, 1 and ended 31 Dec
+0.120869
+= = Century in astronomical calendar = =
+In the way of astronomical schedules, there existed the year 0 (respectively 1 of the Gregorian calendar), so the 1st century as an astronomical schedule beginning in 0 and ending in 99, and the 21st century began in 2000 (astronomical calendar)
+0.122311
+= = Convert = =
+* 1 [[millenaries]] = 10 centuries = 1000 years
+* 1 century = 10 decades = 100 years
+* 1 [[decade]] = 3652 [[Date]] = 10 years
+* 1 [[year]] = 365.25 days (or 365 days)
+* 1 leap year = 366 days
+
+= = Reference = =
+{{Reference}}
+
+{{stub}}
+
+[[Category: Units of measure time]]
+[[Category: Century]]
+[[Category: Unit time]]
+0.153634
+= = Century in Gregorian calendar = =
+In the Gregorian calendar, the 1st century was started on Jan
+0.184509
+So there is no "0 century" forward between the 1st century BCE and the 1st century
+0.204012
+The 2nd century began in 101 and thus the N-century formula started in the year 100 × N-99, so the 20th century ended in December 31, 2000, not Dec
+0.204012
+In Vietnamese, centuries are often signed by Roman numerals, for example "20th century" written as "TWENTIETH century"

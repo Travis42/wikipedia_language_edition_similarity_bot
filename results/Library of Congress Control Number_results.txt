@@ -1,0 +1,11 @@
+Library of Congress Control Number
+Language edition's article farthest from the English version: vi
+0.0965696
+<ref> {{Annotations web | title = Library of Congress Update for 2008 ALA Annual Conference: January – May, 2008 | url = http://www.loc.gov/ala/an-2008-update.html | access date = Sep 29, 2008}} </ref>
+
+= = Format = =
+The most basic LCCN in format includes year code and serial number
+0.129944
+* ' ' ' Code for Years ' ' ' is credited with two digits for the year in the period 1898-2000 and the four digits for the year since 2001 onwards
+0.245026
+Feb 2008, Library Congress introduced the Service ' ' LCCN Permalink ' ' providing [[URL]] stability that led to all the LCCN

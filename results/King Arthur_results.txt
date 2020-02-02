@@ -1,0 +1,10 @@
+King Arthur
+Language edition's article farthest from the English version: id
+0.005667
+== Pranala luar ==
+{{Commons category| King Arthur}}
+* {{citation|url= http://www.blaenau-gwent.gov.uk/8035.asp |chapter= Arthurian Gwent |title= Blaenau Gwent Borough County Council |accessdate=2008-05-22}}
+0.0483283
+* {{citation|url= http://www.heroicage.org/ |title= The Heroic Age: A Journal of Early Medieval Northwestern Europe |issn= 1526-1827 |accessdate=2008-05-22|publisher= [[The Heroic Age (journal)| The Heroic Age]]}}
+0.266349
+* {{citation|url= http://www.arthuriana.co.uk |title= Arthurian Resources: King Arthur, History and the Welsh Arthurian Legends |accessdate=2008-05-22}}

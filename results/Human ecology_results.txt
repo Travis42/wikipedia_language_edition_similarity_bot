@@ -1,0 +1,39 @@
+Human ecology
+Language edition's article farthest from the English version: fa
+-6.17817e-12
+<ref name="Merchant2">{{Cite book|last=Merchant|first=C.| title=American Environmental History: An Introduction|date=2007|publisher=Columbia University Press|location=New York|isbn=0231140355|pages=181}}</ref> 
+
+اصطلاح «بوم‌شناسی انسانی» در سال ۱۹۰۷ در اثر ریچاردز به‌نام "بهداشت در زندگی روزمره" منتشر شد، که در آن «مطالعه محیط اطراف انسان ها در تأثیرات آنها در زندگی مردان» است
+-2.05347e-12
+ریچاردز ابتدا این اصطلاح را به عنوان «Oekology» در سال ۱۸۹۲ میلادی معرفی کرد و بعدها اصطلاح «بوم‌شناسی انسانی» را توسعه داد
+-1.81899e-12
+'''بوم‌شناسی انسانی''' یک مطالعه [[میان‌رشته|میان‌رشته‌ای]] و [[ترارشته|ترارشته‌ای]] از رابطه بین [[انسان|انسان‌ها]] و [[محیط زیست|محیط طبیعی]]، [[محیط اجتماعی|اجتماعی]] و [[محیط ساخت‌بشر|محیط ساخته‌شده به دست بشر]] است
+-1.77636e-12
+<ref>{{Cite book|last=Richards|first=Ellen H.| title=Sanitation in Daily Life|origyear=1907|year=2012|publisher=Forgotten Books|asin=B008KX8KGA|pages=v.|url=https://www.amazon.com/Sanitation-Daily-Life-Classic-Reprint/dp/B008KX8KGA#reader_B008KX8KGA}}</ref> استفاده ریچاردز از این اصطلاح، انسان را به عنوان بخشی از طبیعت به‌جای جدا از طبیعت شناساند
+3.83693e-13
+مارش علاقه‌مند به عامل فعال درهم‌کنش‌های انسان-طبیعت (پیشگام اولیه در [[بوم‌شناسی شهری]] یا [[ساختار جاویژه|ساختار جاویژه انسانی]]) در اشاره مکرر به ''اقتصاد طبیعت بود'' 
+2.44427e-12
+<ref name="Merchant2">{{Cite book|last=Merchant|first=C.| title=American Environmental History: An Introduction|date=2007|publisher=Columbia University Press|location=New York|isbn=0231140355|pages=181}}</ref> این اصطلاح نخستین حضور رسمی خود را در زمینه جامعه‌شناسی در کتاب «مقدمه‌ای بر علوم جامعه‌شناسی» که در سال ۱۹۲۱ میلادی منتشر شد، داشت
+3.18323e-12
+فلسفه و مطالعه بوم‌شناسی انسانی دارای تاریخچه‌ای گسترده و پیشرفته در زمینه [[محیط زیست]]، [[جغرافیا]]، [[جامعه‌شناسی]]، [[روان‌شناسی]]، [[انسان‌شناسی]]، [[زیست‌شناسی]]، [[همه‌گیرشناسی]]، [[بهداشت عمومی]] و [[اقتصاد خانه|اقتصاد خانگی]] هست
+0.00703798
+' How many people can support land support
+0.010557
+' ' Edinburgh: The University of Edinburgh Press
+0.0199064
+دانش‌آموز آنها، [[رادریک مکKenzi]] helped to reinforce the human ecosystem as a subset in [[The Chicago School of Sociology] | The school of Chicago]
+0.0774178
+E.| date=2005|title=There is not mother nature: There is no balance of nature: Culture, ecology and conservation|journal=Human Ecology|volume=33|issue=2|pages=271–288|doi=10.1007/s10745-005-2435-7|jstor=4603569}}</ref> <ref name="Stallin07">{{Cite journal|last=Stallin|first=J
+0.226619
+= = Link out = =
+* {{Commonscatinline}}
+
+= = Resources = =
+{{Footnote | 2}}
+
+[[Category: Human Ecology]]
+[[Category: Human geography]]
+[[Category: Pages translated by translation]]
+[[Category: Environmental Studies]]
+0.294595
+<ref name="Young74">{{Cite journal|last=Young|first=G.L.| date=1974|title=Human ecology as an interdisciplinary concept: A critical inquiry|url=http://www.sciencedirect.com/science/article/pii/S0065250408602779|journal=Advances in Ecological Research|series=Advances in Ecological Research|volume=8|pages=1–105|doi=10.1016/S0065-2504(08)60277-9|isbn=9780120139088}}</ref> <ref name="Gross04">{{Cite journal|last=Gross|first=M.| author-link=Matthias Gross|date=2004|title=Human geography and ecological sociology: The unfolding of human ecology, 1890 to 1930 - and beyond|url=http://ssh.dukejournals.org/cgi/content/abstract/28/4/575|journal=Social Science History|volume=28|issue=4|pages=575–605|doi=10.1215/01455532-28-4-575}}</ref> در این زمینه یک پیشرفت مهم تاریخی یا برجسته ای که پژوهش را به روابط زیست‌محیطی بین انسان‌ها و محیط‌های شهری آن‌ها تحریک می‌کرد، در کتاب [[جورج پرکینز مارش]] ''به‌نام «[[مرد و طبیعت (کتاب)|مرد و طبیعت: جغرافیای فیزیکی که توسط اقدامات انسانی تغییر کرد]]»''، که در سال۱۸۶۴ منتشر شد، پیدا شد

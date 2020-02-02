@@ -1,0 +1,21 @@
+K–Ar dating
+Language edition's article farthest from the English version: vi
+-8.131e-12
+</ref>
+* Electronic arrest: <math> {} ^ {40} \mathrm{K} + \mathrm{e} ^-\rightarrow {} ^ {40} \mathrm{Ar} + \gamma \quad (1 {,} 505 \, \mathrm{MeV}) </math> with activity: <math> \ lambda_ \epsilon = 0 {,} 581 \cdot 10 ^ {-10} \frac {1} {a} </math>
+* Electronic emission: <math> {} ^ {40} \mathrm{K} \rightarrow {} ^ {40} \mathrm{Ca} + \beta ^ {-} \quad (1 {,} 311 \, \mathrm{MeV}) </math> with activity: <math> \ lambda_ \beta = 4 {,} 962 \cdot 10 ^ {-10} \frac {1} {a} </math>
+
+[[Potassium]] is a component of a common rock, such as [[Mica]], [[feldspar]], [[Hornblend]],..
+3.41078e-11
+= = Base Method = =
+[[Kali]] there are [[Natural Flavor List # Kali (Z = 19) | 3 natural spices]] are <sup> 39 </sup> K (93.2581%), <sup> 40 </sup> K (0.0117%), <sup> 41 </sup> K (6.7302%)
+0.0360726
+or in [[sediment]], especially [[Sylvit]] <ref> [http://webmineral.com/data/Sylvite.shtml Sylvite Mineral Data] </ref> in the potassium mine salt
+0.0818051
+' ' ' The age of potassium-argon ' ' ' or ' ' age of K-Ar ' is a method of ' ' [[radioactive isotope]] ' ' for rock soil, based on the [[radioactive decay]] of isotopes <sup> 40 </sup> K to <sup> 40 </sup> Ar
+0.10505
+In addition, the K-Ar age is usually applied to extraterrestrial rocks, such as the rock patterns [[Moon]] due to [the Apollo program | Apollo]] brought about, and the [meteorite], which had identified the age of about 4.6 billion years ago, the estimated age of [[Solar system]] was determined
+0.162327
+</ref> At the block of material [[potassium]] that results in a solid mass due to cooling or deposition, then [[Argon]] is accumulated again in the soil of rocks, and the content ratio [[argon]] with [[Kali]] represents this time of formation, or the absolute age {{Efn | The absolute age is calculated by the year and the date of modern astronomy, and in the past the length of day and year change and is usually shorter than now.}} Of that rock
+0.166612
+{{Efn | See: ' ' [[the list of natural isotopes]] ' '}} [[Isotope]] <sup> 40 </sup> K is radioactive isotope, [[beta decay]] with [[half-lives]] 1.248 billion years in two forms: <ref> ENSDF Decay Data in the MIRD Format for 40K

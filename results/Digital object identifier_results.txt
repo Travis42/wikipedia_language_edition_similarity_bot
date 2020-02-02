@@ -1,0 +1,24 @@
+Digital object identifier
+Language edition's article farthest from the English version: ko
+0.0435136
+View like == ==
+* [[International Organization for Standardization]]
+* [[[XRI]]
+* [[[Viv code]]
+
+== Footnote ==
+{}}
+
+== External link ==
+{{Wikidata Properties| P356} }
+* {{language link}} {official website}
+* {{LanguageLink_en}} [http://www.doi.org/factsheets/DOIIdentifierSpecs.html Factsheet: DOI System and Internet Identifier Specifications]
+
+{ISO standard}}
+{Transfer control}}
+{[Stubl]}
+
+[[classification: electronic document]]
+[[classification:identifier]]
+0.104597
+<ref name = "iso">{web citation | url = https://www.iso.org/obp/ui/#iso:std:iso:26324:ed-1:v1:en | title = ISO 26324:2012 (en), Information and documentation — Digital object identifier system | publisher = [ISO]| date = = accessdate = 2016-04-20}</ref> [[[[[[[[HTTP]Address] is a permanently granted [identifier] to [[[[[[[[[[[[[[[[document]] or internet document permanently granted to the [[[[[[[[[[[[[[[[http://]

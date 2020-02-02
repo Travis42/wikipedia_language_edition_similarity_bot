@@ -1,0 +1,71 @@
+Internationalization and localization
+Language edition's article farthest from the English version: vi
+0.0172954
+* Translate text for printed documents, digital media (can translate with error messages and documents)
+0.0244595
+Modern systems use Unicode standards to represent a single character in many different languages with a single coding approach
+0.0244595
+The localization should also consider differences in the local culture, for example:
+* Holidays
+* Name of person
+* How to name the title
+* Aesthetics
+* Comprehensive and cultural relevance of the icon's image and color
+0.0259432
+<ref> {{caption web | url = http://www.pocketgamer.biz/feature/58406/sponsored-feature-how-to-translate-a-game-into-20-languages-and-avoid-going-to-hell/| title = How to translate a game into 20 languages and avoid going to hell}} </ref>
+
+= = Trade Considerations = =
+In the context of trade, the benefit of localization is to reach more markets
+0.0339192
+<ref> [http://languagetranslationsservices.wordpress.com/2014/08/21/do-we-need-to-localize-keyboard-shortcuts/languagetranslationsservices.wordpress.com] Error in webarchive Template: Check < code style = "color: Inherit; border: Inherit; padding: Inherit;" > & #x7C; url = </code> value
+0.0366892
+* [[Ethnic | Ethnic groups]], costumes, and social positions of the people and architecture of the sites described in the product
+* Local customs and common conventions, such as social taboos, local popular religions, or superstition for blood groups in Japanese culture, or astrological symbols in other cultures
+0.0454201
+< ref name = "SFW" > {{caption book | isbn = 9780471969747}} < code style = "color: Inherit; border: Inherit; padding: Inherit;" > & #x7C; title = </code> Blank or missing ([[: En: Help: CS1 Errors # citation missing title | help]])
+</ref> International is the process of designing a software application so that it can be adjusted for many languages and areas without technical changes
+0.0518863
+<ref> {{caption web | url = https://www.gnu.org/software/hello/manual/gettext/Plural-forms.html | title = GNU GetText Utilities: Plural Forms}} </ref> Other grammar rules are also very varied, such as word ownership rules
+0.0518863
+Internationalization | publisher = [[World Wide Web Consortium]]}} </ref>
+
+Some companies like [[IBM]] and [[Sun Microsystems | Sun Microsystem]] uses the term "globalization (Globalization)", abbreviated as ' ' g11n ' ' as an alternative to both international and local chemistry
+0.0778295
+<ref> {{caption web | url = http://www.ibm.com/software/globalization/| title = IBM Globalization | date = Mar 17, 2016}} </ref> It is also when people use the term "' Glocalization ' '" (A ' globalization '-' ' internationalization ' and ' ' ' localized-localization ')
+0.112973
+* Write from left to right in most European languages, from right to left in Hebrew and Arabic, or both in the type [[[[[Boustrophedon]] and written vertically in some Asian languages
+0.115403
+= = Naming = =
+Usually, since these words are too long so people often call off as ' i18n ' ' (' ' 18 ' ' stands for the number of letters between ' ' I ' ' and ' n ' ' in the word ' ' internationalization ' ') <ref> {{caption web | url = http://www.w3.org/2001/12/Glossary # I18N | title = Glossary of W3C Jargon | accessdate = Oct 13, 2008 | publisher = [[World Wide Web Consortium]]}} </ref> <ref> {{caption web | url = http://www.i18nguy.com/origini18n.html | title = Origin of the Abbreviation I18n}} </ref> and ' ' L10n ' ' for ' ' localization
+0.116182
+* Conventional writing for the following components:
+* * Alphanumeric writing (especially [[decimal]], and how to group digits)
+* * Write Date time, and add local calendar systems
+
+= = = Local Data Standard = = =
+[[Computer software]] may encounter the differences above and also encounter other difficulties if translating complex words and phrases, because computer programs can create dynamic content
+0.134527
+When translating existing text into other languages, it is difficult to maintain the parallel versions of the text over the lifetime of the product
+0.135677
+</ref>
+
+= = = Country convention = = =
+Various countries have different industrial conventions, including:
+* [[Size]]
+* [TV] and data storage
+* Format [[phone number]]
+* [[Address | address format]], [[postal Code]], delivery service
+* [[Currency | Currency system]] ([[Currency symbol | icon]], the position of the currency symbol when recording the price)-in this case people use the code [[ISO 4217]]
+* [Measurement system]]
+* Battery Size
+* Current and voltage standards
+[[Time zone]] varies across the world and this must be counted if an original product only interacts with people in a time zone and then extends the market internationally
+0.19025
+jpg | right | small | 400x400px | The international process of chemistry and localization <br>
+(Based on the chart from LISA's website)]]
+By non-border software definitions, aspects should be considered when an international product is "encrypting data, documentation, software construction, hardware device support, user interaction"
+0.197703
+Different countries have different legal frameworks, and localization of the software is subject to those legal frameworks
+0.244595
+= = Technical = =
+The re-design of a software already existing or designed a new software, the first step of the international is to break down each part dependent on the language (whether the code, text or data) into each module separately and independently handle those modules

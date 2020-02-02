@@ -1,0 +1,50 @@
+Geological period
+Language edition's article farthest from the English version: id
+0.0705209
+The term equivalent is used for demarcation [of the rock layer] and the record [[of the fossil]] is the system; Hence, the rock of Devon system was formed in the period [[Devon] | Devon]]
+0.109037
+[Era (geology) | ERA]]!
+0.158625
+Started, million {{br}} years ago
+|-
+| rowspan = "11" | [[Fanerozoikum]] | | rowspan = "2" | [[Kenozoic]] | | [[Neogen | Neogen (Miosen/Pliosen/Pleistocene/Holosen)]] <ref> Some geologists still use a third period or "sub-era" of the Kenozoic era, which is called [Quartular]], consisting of the last two periods of the Neogen period and continuing to this date
+0.238008
+{{No reference | date = October 2019}}
+
+In [geology]], the ' ' period ' ' or sometimes called ' ' era ' ', is subdivision [[Geological time-scale | Geologic time]] that divides the [Era (geology) | era]] into smaller time spans
+0.249623
+</ref>
+| 23.0
+|-
+|  [Paleogen | Paleogen (Paleocene/Eosen/Oligocene)] | | 65.5
+|-
+| rowspan = "3" | [[Mesozoic]] | | [[Lime (period) | Lime]] | | 145.5
+|-
+| [[Jura (Period) | Jura]] | | 200
+|-
+| [[Trias]] | | 251
+
+|-
+| rowspan = "6" | [[Paleozoic]] | | [[Perm (Period) | Perm]] | | 300
+|-
+| [[Carbon (Period) | Carbon (Mississippian/Pennsylvanian)]] | | 359
+|-
+| [[Devon (Period) | Devon]] | | 416
+|-
+| [[Silur]] | | 444
+|-
+| [[Ordovisium]] | | 488
+|-
+| [[Kambrium]] | | 542
+
+|-
+| [[Proterozoic]] | | [[Neoproterozoic]] | | [[Ediakaran]]
+| 630
+
+|}
+
+= = Footnote = =
+
+{{reflist}}
+
+[Category: Geological time scale]]

@@ -1,0 +1,9 @@
+Integrated Authority File
+Language edition's article farthest from the English version: ru
+0.236508
+History
+The GND was launched in April 2012 by the German National Library in collaboration with various library networks and includes recordings of four systems:
+(PND)
+(SWD);
+(GKD);
+(DMA-EST)

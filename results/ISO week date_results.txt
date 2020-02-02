@@ -1,0 +1,7 @@
+ISO week date
+Language edition's article farthest from the English version: es
+0.167699
+The system specifies the annual weeks of the [[Gregorian calendar]] to define ordinal weeks of the year
+0.192453
+"Autotrad" 28th December"
+The '''Weekly Date ISO'' system is a leap week calendar system that is part of the [ISO 8601]] of the date standard issued by [[:en:International_Organization_for_Standardization' International Organization for Standardization]] since 1988 (revised in 2004) and formerly defined by ISO 2015 in 1971
