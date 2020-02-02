@@ -43,10 +43,12 @@ least_common_content = [item for item in least_common_content
 
 # TODO: return the n farthest sentences based on the ratio of original distance.
 print(title)
+print()
 print("Language edition's article farthest from the English version: ",farthest_lang)
 print()
 for index, score in least_common_content:
     print(score)
+    print()
     print(sentences[index])
     #print(tokenized_sentences[index])
     print()
