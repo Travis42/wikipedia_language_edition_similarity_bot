@@ -1,0 +1,49 @@
+Deep time
+en edition's differences with the ar version: 
+-1.65892e-09
+5 |url = https://www.academia.edu/1112014/The_Language_of_Mineralogy_John_Walker_Chemistry_and_the_Edinburgh_Medical_School_1750-1800_2008_}}</ref>  As [[mathematician]] [[John Playfair]], one of Hutton's friends and colleagues in the [[Scottish Enlightenment]], remarked upon seeing the [[stratum|strata]] of the [[Unconformity|angular unconformity]] at [[Siccar Point]] with Hutton and [[Sir James Hall, 4th Baronet|James Hall]] in June 1788, "the mind seemed to grow giddy by looking so far into the abyss of time".{{sfn|Playfair|1805}}<ref>{{cite book |last= McPhee |first= John |date= 1981 |title= Book 1: Basin and Range, in [[Annals of the Former World]] |url=  |location= New York |publisher= [[Farrar, Straus and Giroux]] |page= [https://archive.org/details/annalsofformerwo00mcph/page/79 79] |isbn= 0-374-10520-0 |author-link= John McPhee }}</ref>
+
+Early [[geologists]] such as [[Nicolas Steno]] (1638-1686) and [[Horace-Bénédict de Saussure]] (1740-1799) had developed ideas of [[Stratum|geological strata]] forming from water through chemical processes, which [[Abraham Gottlob Werner]] (1749–1817) developed into a theory known as [[Neptunism]], envisaging the slow crystallisation of minerals in the ancient oceans of the Earth to form [[rock (geology)|rock]]
+2.56114e-09
+{{div col end}}
+
+==Footnotes==
+{{reflist|30em}}
+
+==References==
+;Web
+*{{cite web |url= http://www.acampbell.ukfsn.org/bookreviews/r/gee.html |title= Book review: ''In Search of Deep Time'' |authorlink= Anthony Campbell (physician) |first=Anthony |last=Campbell|year=2001|ref=harv}}
+*{{cite web|last=Darwin|first=C
+3.31784e-09
+</ref>
+</blockquote>
+
+==See also==
+{{div col|colwidth=30em}}
+* [[Big History]]
+* [[Deep history]]
+* [[Clock of the Long Now]]
+* [[General relativity]]
+* [[Geomorphology]]
+* [[Orders of magnitude (time)]]
+* [[Palaeoarchaeology]]
+* ''[[The World Without Us]]'', a non-fiction book by [[Alan Weisman]]
+3.31784e-09
+''The Dark Abyss of Time: The History of the Earth and the History of Nations from Hooke to Vico'', tr
+1.92085e-08
+|last=Palmer |first2=E-an |last2=Zen |editor= Critical Issues Committee |journal=[[Geological Society of America]] |year=|ref=harv }}
+*{{cite web |url= http://geowords.com/histbookpdf/a22.pdf |title= Hutton's unconformities |first= Hugh |last= Rance |year= 1999 |format= pdf |work= Historical Geology: The Present is the Key to the Past |publisher= QCC Press |accessdate= 2008-10-20 |ref= harv |archive-url= https://web.archive.org/web/20081203173042/http://www.geowords.com/histbookpdf/a22.pdf |archive-date= 2008-12-03 |url-status= dead }}
+;Books
+*{{cite book|last=McPhee|first=John|title=[[Annals of the Former World]]|chapter=Basin and Range|year=1998|isbn=0-374-10520-0|origyear=1981|page=[https://archive.org/details/annalsofformerwo00mcph/page/77 77]|ref=harv|authorlink=John McPhee}}
+*{{cite book|first=Jack |last=Repcheck|title = The Man Who Found Time: [[James Hutton]] and the Discovery of the Earth's Antiquity|chapter=Chapters 2 and 5 |location= [[Cambridge, Massachusetts|Cambridge]]|publisher=[[Perseus Books]]|year=2003|isbn=0-7382-0692-X|ref=harv}}
+*Rossi, Paolo (1984)
+0.199852
+*{{cite book | last = Sivin | first = Nathan | authorlink = Nathan Sivin | title = Science in Ancient China: Researches and Reflections | publisher = Ashgate Publishing [[Variorum]] series | year = 1995 | location = [[Brookfield, Vermont]] | pages = III, 23–24 | ref=harv }}
+*{{cite book|authorlink=Stephen Toulmin |authorlink2=June Goodfield|first=Stephen |last=Toulmin|first2=June |last2= Goodfield |year=1965|title= The Ancestry of Science: The Discovery of Time| page=64 |publisher=[[University of Chicago Press]]|ref=harv}}
+*{{cite book|last=White|first=Andrew Dickson|authorlink=Andrew Dickson White|title=A History of the Warfare of Science with Theology in Christendom|url= http://www.infidels.org/library/historical/andrew_white/Chapter5.html|location= [[New York City|New York]]|publisher=[[D
+0.226455
+Rudwick|title=Earth's Deep History: How It Was Discovered and Why It Matters|url=https://books.google.com/books?id=lYyRBAAAQBAJ&pg=PA68|date=15 October 2014|publisher=University of Chicago Press|isbn=978-0-226-20393-5|pages=68–70}}</ref> The modern concept shows huge changes over the [[age of the Earth]] which has been determined to be, after a long and complex history of developments, around 4.55&nbsp;billion years.<ref>{{Cite web|url=http://www.scientificamerican.com/article/how-science-figured-out-the-age-of-the-earth/|title=How Science Figured Out the Age of Earth|last=Braterman|first=Paul S.|website=Scientific American|access-date=2016-04-17}}</ref>
+
+==Scientific concept==
+{{Life timeline}}
+Hutton based his view of deep time on a form of geochemistry that had developed in Scotland and Scandinavia from the 1750s onward.<ref>{{cite book |last = Eddy |first = Matthew Daniel |title = The Language of Mineralogy: John Walker, Chemistry and the Edinburgh Medical School 1750-1800 |date = 2008 |publisher = [[Ashgate]] |location = London |page = Ch

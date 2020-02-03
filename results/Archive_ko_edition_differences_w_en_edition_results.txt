@@ -1,0 +1,28 @@
+Archive
+ko edition's differences with the en version: 
+0.0193796
+
+At the National Language Council meeting (March 8, 2013), the archive sat down to record It has been purified to 'archives', 'data storage', 'data computerization', and 'materials computerization', and the Ministry of Culture excavation administration jargon standardization notice data (Notice No
+0.0889163
+
+Translation === ===
+If you look up the "archive" in the historical terminology dictionary published by the Korean Historical Society, you will use the term "record" or "literature" which has historical value or long-term preservation value, and if it means "preservation record", the term "preservation record" refers to a place or facility for storing such records or documents
+0.0998802
+The archives that hold these records are distinct from [the library], but they are also handled in the library building
+0.103585
+Web archives such as [ReCAPTCHA], which digitizes old documents, and [Internet Archive], which keeps web documents separately, have emerged and are in the spotlight
+0.109868
+{Other means}
+[File: Fondos archivo.jpg[Sinail's's labeled box contains records]]
+The 'archive'' ({lang_en_archive}) refers to a collection of historical or long-term preservation values <ref> [literature], [literature], and {web citations<ref> March 30 | preservation url=https://web.archive.org/web/20090310132820/http://www.usd.edu/library/instruction/glossary.shtml _retention date=March 10, 2009 |url-status=dead}</ref>, place to keep these records and documents at the same time, Facilities, Means the agency and the like
+0.183628
+
+The law on the management of public records uses the term """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""," ""records", "water", "public archive", etc
+0.193102
+
+== Overview ==
+The archive sifts through the primary archives of personal or group living, and the generally handled records include records selected as permanent or long-term preservation in areas of cultural, historical, and verifiable value
+0.21238
+<ref> [http://www.archivists.org/glossary/term_details.asp?DefinitionKey=156 A Glossary of Archival and Records </ref>
+
+The person who keeps and handles records is called records manager, [Archivist]

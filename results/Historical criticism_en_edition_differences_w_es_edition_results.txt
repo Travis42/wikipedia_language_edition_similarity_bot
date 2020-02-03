@@ -1,0 +1,44 @@
+Historical criticism
+en edition's differences with the es version: 
+0.0208232
+The form critic then theorizes on the pericope's ''Sitz im Leben'' ("setting in life"), the setting in which it was composed and, especially, used.<ref>[http://bibledudes.com/biblical-studies/form.php Bibledudes.com]</ref> [[Tradition history]] is a specific aspect of form criticism, which aims at tracing the way in which the pericopes entered the larger units of the biblical canon, especially the way in which they made the transition from oral to written form
+0.0637577
+– 1536) and [[Benedict Spinoza]] (1632–1677).<ref>
+Compare:
+{{cite book
+| last1 = Durant
+| first1 = Will
+| author-link1 = Will Durant
+| orig-year = 1926
+| chapter = 4: Spinoza
+| title = The Story of Philosophy: The Lives and Opinions of the Great Philosophers of the Western World
+| url = https://books.google.com/books?id=ZUnhlEiAlcMC
+| series = A Touchstone book
+| location = New York
+| publisher = Simon and Schuster
+| publication-date = 1961
+| page = 125
+| isbn = 9780671201593
+| access-date = 2017-07-23
+| quote = ...the movement of higher criticism which Spinoza initiated has made into platitudes the propositions for which Spinoza risked his life
+0.0780869
+In 1860, seven [[liberal Christianity|liberal]] [[Anglican]] theologians began the process of incorporating this historical criticism into Christian doctrine in ''[[Essays and Reviews]]'', causing a five-year storm of controversy, which completely overshadowed the arguments over [[Charles Darwin]]'s newly-published ''[[The Origin of Species|On the Origin of Species]]''
+0.0780869
+can be either critical or noncritical; and critical study can be historical or nonhistorical
+0.0780869
+An ancient text may also serve as a document, record or source for reconstructing the ancient past, which may also serve as a chief interest to the historical critic
+0.104116
+Philadelphia, Fortress Press, 1963</ref> Where historical investigation was unavailable, historical criticism rested on philosophical and theological interpretation
+0.108287
+{{refend}}
+
+==External links==
+* [http://virtualreligion.net/primer/ Rutgers University]: Synoptic Gospels Primer: introduction to the history of literary analysis of the Greek gospels, and aids in confronting the range of factors that need to be taken into consideration in accounting for the literary relationship of the first three gospels
+0.128837
+The primary goal of historical criticism is to discover the text's primitive or original meaning in its original historical context and its literal sense or ''sensus literalis historicus''
+0.130145
+Historical critics compare texts to any extant contemporaneous textual artifacts, i.e., other texts written around the same time
+0.256091
+{{ISBN|0-06-117393-2}}</ref> In particular, while devotional readers concern themselves with the overall message of the Bible, historians examine the distinct messages of each book in the Bible.<ref name="JInt"/> Guided by the devotional approach, for example, Christians often combine accounts from different gospels into single accounts, but historians attempt to discern what is unique about each gospel, including how they differ.<ref name="JInt"/>
+
+The phrase "higher criticism" became popular in Europe from the mid-18th century to the early 20th century to describe the work of such scholars as [[Jean Astruc]] (1684-1766), [[Johann Salomo Semler]] (1725–91), [[Johann Gottfried Eichhorn]] (1752–1827), [[Ferdinand Christian Baur]] (1792–1860), and Wellhausen (1844–1918).<ref>The Columbia Encyclopedia, Sixth Edition, 2007</ref> In academic circles, it now is the body of work properly considered{{by whom?|date=July 2017}} "higher criticism", but the phrase is sometimes applied to earlier or later work using similar methods

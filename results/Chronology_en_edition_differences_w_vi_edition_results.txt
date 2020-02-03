@@ -1,0 +1,91 @@
+Chronology
+en edition's differences with the vi version: 
+0.0220293
+The study of the means of placing pottery and other cultural artifacts into some kind of order proceeds in two phases, classification and typology: Classification creates categories for the purposes of description, and typology seeks to identify and analyse changes that allow artifacts to be placed into sequences.<ref>{{cite book | last =Greene | first =Kevin | authorlink = | title =Archaeology : An Introduction | publisher =University of Newcastle Upon Tyne | date =November 2007 | location = | pages =Chapter 4 | url =http://www.staff.ncl.ac.uk/kevin.greene/wintro/chap4.htm | isbn = | accessdate =2008-01-04 | nopp =true | archive-url =https://web.archive.org/web/20050329085720/http://www.staff.ncl.ac.uk/kevin.greene/wintro/chap4.htm | archive-date =2005-03-29 | url-status =dead }}</ref>
+
+Laboratory techniques developed particularly after mid-20th century helped constantly revise and refine the chronologies developed for specific cultural areas
+0.0369442
+It was used to identify the Roman year by a few Roman historians
+0.0539605
+
+===Ab Urbe condita era===
+{{Main|Ab urbe condita}}
+''Ab Urbe condita'' is [[Latin]] for "from [[founding of Rome|the founding]] of the City ([[Rome]])",<ref>Literally translated as "From the city having been founded".</ref> traditionally set in 753 BC
+0.0615737
+Oxford [u.a.]: Oxford Univ
+0.0715952
+The adjacent image shows two pages from the second section.<!-- Deleted image removed:  [[File:Eusebius Chronicon example.png|thumb|alt=Example pages from the Chronicon of Eusebius.|Chronicon of Eusebius.]] -->
+
+By comparing the parallel columns, the reader can determine which events were contemporaneous, or how many years separated two different events
+0.098518
+* Hodgson, J., Hinton, J., & Wallis, J
+0.109296
+Much of modern historical datings and chronology of the ancient world ultimately derives from these two works.<ref name=Grafton>{{cite book|last1=Grafton|first1=Anthony|title=Joseph Scaliger: A Study in the History of Classical Scholarship|date=1994|publisher=Oxford University Press|location=Oxford}}</ref> Scaliger invented the concept of the [[Julian day|Julian Day]] which is still used as the standard unified scale of time for both historians and astronomers.{{citation needed|date=April 2015}}
+
+In addition to the literary methods of synchronism used by traditional chronographers such as Eusebius, Syncellus and Scaliger, it is possible to synchronize events by archaeological or astronomical means
+0.110833
+To place all the events on the same time scale, Eusebius used an [[Anno Mundi]] (A.M.) era, meaning that events were dated from the supposed beginning of the world as computed from the [[Book of Genesis]] in the Hebrew [[Pentateuch]]
+0.111872
+
+==See also==
+{{Col-begin}}
+{{Col-1-of-2}}
+
+===Examples===
+* [[List of timelines]] – specific chronologies
+* [[Timelines of world history]] – overall historical chronology
+
+===Christian chronology===
+* [[Dionysius Exiguus' Easter table]]
+* [[Easter]]
+* [[Lunar cycle]]
+* [[Millennium question]]
+* [[Paschal full moon]]
+* [[solar cycle (calendar)|Solar cycle]]
+{{Col-2-of-2}}
+
+===General===
+* [[French revolutionary era]]
+* [[Historiography]]
+
+===Fiction writing===
+Aspects and examples of non-chronological story-telling:
+* [[Flashback (narrative)|Flashback]]
+* [[Flashforward]]
+* [[Linearity (writing)]]
+* [[Reverse chronology]]
+{{Col-end}}
+
+==Notes==
+{{Reflist}}
+
+==References==
+* Hegewisch, D
+0.147777
+It is also "the determination of the actual temporal sequence of past events".<ref name="wordnet">Memidex/WordNet, "chronology," [http://www.memidex.com/chronology+humanistic-discipline memidex.com] (accessed September 25, 2010).</ref>
+
+Chronology is a part of [[periodization]]
+0.147777
+[https://openlibrary.org/search?q=chronology Works related to chronology]
+* {{CathEncy|wstitle = General Chronology}}
+* Chattopadhyay, Subhasis
+0.182736
+Likewise, various eclipses and other astronomical events described in ancient records can be used to astronomically synchronize historical events.<ref>{{cite book|last1=Kelley|first1=David H.|title=Exploring Ancient Skies: A Survey of Ancient and Cultural Astronomy|date=2011|publisher=Springer|isbn=978-1441976239|pages=614}}</ref> Another method to synchronize events is the use of archaeological findings, such as pottery, to do [[Dating methodologies in archaeology|sequence dating]]
+0.208988
+It is also a part of the discipline of [[history]] including [[earth history]], the [[earth sciences]], and study of the [[geologic time scale]]
+0.249331
+Richards | title = Mapping Time: The Calendar and History | url = https://archive.org/details/mappingtimecalen00rich | url-access = registration | place = Oxford | publisher = [[Oxford University Press]] | year = 1998 | pages = [https://archive.org/details/mappingtimecalen00rich/page/12 12–13] | isbn = 0-19-286205-7}}</ref>]]
+
+'''Chronology''' (from [[Latin]] ''chronologia'', from [[Ancient Greek]] {{lang|grc|[[wikt:χρόνος|χρόνος]]}}, ''chrónos'', "time"; and {{lang|grc|-λογία}}, ''[[wikt:-logia|-logia]]'')<ref>{{cite EB1911|wstitle=Chronology|volume=6|page=305}}</ref> is the [[science]] of arranging events in their order of occurrence in [[time]]
+0.25861
+Time in history views of time from prehistory to the present day
+0.25861
+ISSN 0032-6178
+
+{{Time Topics}}
+{{Chronology}}
+
+[[Category:Chronology| ]]
+[[Category:Units of time]]
+0.270924
+"Time and History." The Practice of Conceptual History

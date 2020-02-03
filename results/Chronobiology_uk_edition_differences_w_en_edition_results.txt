@@ -1,0 +1,15 @@
+Chronobiology
+uk edition's differences with the en version: 
+0.0929271
+' ' Timebiologist ' ' (from {{lang-GRC | χρόνος}} &nbsp; is "time") &nbsp; is a branch [[Science | science]] that explores periodic (cyclic) [[phenomenon]] and that flow in living organisms in time and their [adaptation | adaptation]] to solar and lunar rhythms
+0.233912
+All biological rhythms are divided into three groups by the cycle recurrence frequency:
+* Rhythms of high frequency with a period not exceeding half hour interval (rhythms of reduction [[muscle | muscles]], [breathing]], biochemical reactions);
+* Rhythms of medium frequency with a period of half an hour to seven days (change of sleep and cheerfulness, activity and tranquility, fluctuations [[blood pressure | blood pressure]] and body temperature);
+* Low frequency rhythms (change [[metabolism]] in living organisms during the year) are associated with seasonal phenomena: changes in temperature, light and humidity regime
+0.237675
+ISBN 5924400255
+
+= = Link = =
+* [https://web.archive.org/web/20061209143746/http://www.msi.umn.edu/~halberg Halberg Chronobiology Laboratory] at the University of Minnesota, founded by Franz Halberg, the "Father of Chronobiology"
+* The University of Virginia offers an [https://web.archive.org/web/20030602130556/http://www.cbt.virginia.edu/tutorial/TUTORIALMAIN.html online tutorial] on chronobiology

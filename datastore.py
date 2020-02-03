@@ -16,7 +16,7 @@ language the user is coming from.  Consider adding a config option to
 explicitly state the focus language or mention it in the readme.
 """
 
-from compare_docs import tokenize
+import compare_docs
 
 from datetime import datetime
 import os
@@ -155,7 +155,7 @@ def get_edition_topic_tokens(title):
                 print('something is wrong.  Here is the content of the db: ')
                 print(content, token, title, lang)
                 sys.exit()
-            token = ' '.join(tokenize(content))
+            token = ' '.join(compare_docs.tokenize(content))
             c.execute('''UPDATE translated_topics set tokens=? where title=? and lang_code=?;''',(token, title, lang))
             token = c.execute('''SELECT tokens from translated_topics where title=(?) and lang_code=(?)''', (title, lang)).fetchall()[0][0]
             if not token:

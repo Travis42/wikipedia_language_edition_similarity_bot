@@ -1,0 +1,41 @@
+Global Boundary Stratotype Section and Point
+fa edition's differences with the en version: 
+0.0101683
+
+Since it is usually the universal boundary of the world border, the points and slices are defined by the transition of animal mezzanine, so more animal mezzanine are defined as compared to Gspas
+0.0124536
+GSSP ' ' is called an international consensus to determine the points of reference to the sections and outcrop of [stratigraphy]], which specifies the underside of a [[Mezzanine (stratigraphy) | mezzanine]] in [[geological time scale]]
+0.0469655
+Studies and activities determine these points with the guidance of [the International Association of Geology]] which is part of [[international community of Geological knowledge]]
+0.0972964
+title = Global_Boundary_Stratotype_Section_and_Point & oldid = 683218520 | title = Global Boundary stratotype Section and Point | language = English | recovery =}} </ref>
+
+= = Related Queries = =
+{{Geological scheduling}}
+* [[Mezzanine (stratigraphy)]]
+* [[Geological time scale]]
+* [[Geology]]
+* [[]]
+* [[Period (geology)]]
+* [[Away (geology)]]
+* [[Occasional stratigraphy]]
+* [Time-SPAN]]
+* [[Age (geology)]]
+* [[Row (stratigraphy)]]
+* [[System (stratigraphy)]]
+* [Super-era]]
+* [TIME]
+* [[Course (geology)]]
+
+= = Resources = =
+{{Footnote}}
+{{Timeline}}
+
+[[Category: Longstanding geography]]
+[[Category: Stratigraphy]]
+[[Category: Paleobiology]]
+[[Category: Historical geology]]
+[[Category: Earth Science]]
+[[Category: Earth time scales]]
+[[Category: Important geo-demographic locations]]
+[[Category: Units time]]

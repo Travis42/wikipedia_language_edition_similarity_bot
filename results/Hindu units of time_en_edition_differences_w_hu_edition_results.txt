@@ -1,0 +1,220 @@
+Hindu units of time
+en edition's differences with the hu version: 
+-2.44427e-10
+At the beginning of Treta Yuga, 5 planets resided in "Aries" constellation.At the end of last "Dwapara" yuga, the "Saptarshi" constellation (Ursa major), resided in "Magha" constellation
+-1.12777e-10
+::= 994 Mahā-Yuga + 6 Mahā-Yuga
+::= 1,000 Mahā-Yuga.<ref name="Bryan E
+0.0192611
+Kalā
+| 30 Kāṣṭhā || ≈ 48 s
+|-
+!Ghatika
+|30 Kalā
+|≈ 1.44 ks
+|-
+
+0.0301594
+Penprase|isbn=9783319525976|date=5 May 2017}}</ref>
+
+== Four Yugas ==
+
+The four yugas which come one after the other are as follows (along with their durations):
+
+{| class="wikitable mw-collapsible"
+|+ The Four Yugas
+|-
+| 4 charaṇas (1,728,000 [[solar year]]s) || [[Satya Yuga]]
+|-
+| 3 charaṇas (1,296,000 solar years) || [[Treta Yuga]]
+|-
+| 2 charaṇas (864,000 solar years) || [[Dvapara Yuga]]
+|-
+| 1 charaṇas (432,000 solar years) || [[Kali Yuga]]
+|-
+| colspan=2 style="font-size: 88%" | Source: [https://web.archive.org/web/20120222065203/http://vedabase.net/sb/3/11/19/en1]
+|}
+
+<timeline>
+Preset = TimeHorizontal_AutoPlaceBars_UnitYear
+ImageSize = width:800
+
+Colors =
+  id:satyayuga value:green legend:Satya-yuga
+  id:tretayuga value:rgb(0.5,0.5,1) legend:Treta-yuga
+  id:dvaparayuga value:yellow legend:Dvapara-yuga
+  id:kaliyuga value:red legend:Kali-yuga
+
+  id:canvas value:rgb(0.97,0.97,0.97)
+  id:grid1  value:rgb(0.86,0.86,0.86)
+  id:grid2  value:gray(0.8)
+  
+BackgroundColors = canvas:canvas
+
+Period = from:432 till:5616
+
+Legend = columns:1 left:70 top:20 columnwidth:300
+
+BarData=
+  barset:Filòsofs
+
+Define $bold= fontsize:M shift:(10,-7)
+
+PlotData=
+
+# set defaults
+  width:15 fontsize:S textcolor:black align:left anchor:from shift:(10,-4) color:grid1
+
+  barset:Filòsofs
+
+  from:432 till:864 color:satyayuga fontsize:M text:"[[Matsya]]"        #from 432
+ 
+ from:864  till:1296 color:satyayuga fontsize:M text:"[[Kurma]]"       
+ 
+ from:1296  till:1728 color:satyayuga fontsize:M text:"[[Varaha]]"
+
+ from:1728 till:2160 color:satyayuga fontsize:M text:"[[Narasimha]]"       
+ 
+ from:2160 till:2592 color:tretayuga fontsize:M text:"[[Vamana]]"
+
+ from:2592 till:3024 color:tretayuga fontsize:M text:"[[Parashurama]]"
+
+ from:3024 till:3456 color:tretayuga fontsize:M text:"[[Rama]]"
+
+ from:3456 till:3888 color:dvaparayuga fontsize:M text:"[[Krishna]]"
+
+ 
+ from:4320 till:4752 color:kaliyuga fontsize:M text:"[[Kalki]]"
+
+</timeline>
+
+The cycle repeats itself, so altogether there are 1,000 cycles of Mahā-Yuga in one day of Brahma
+0.0333611
+Truti || त्रुटि
+| [[Base unit (measurement)|Base unit]] || ≈ 0.30 µs
+|-
+
+0.0353848
+
+:*One cycle of the above four ''Yuga''s is one '''Mahā-Yuga''' (4.32&nbsp;million [[solar year]]s)
+:*as is confirmed by the Gītā Śhloka 8.17 (statement) "sahasra-yuga-paryantam ahar yad brahmaṇo viduḥ rātriṁ yuga-sahasrāntāṁ te 'ho-rātra-vido janāḥ", meaning, a day of brahma is of 1000 Mahā-Yuga
+0.0400334
+Penprase 182"/>
+:* A day of Brahma equals
+::(14 times 71 Mahā-Yuga) + (15 × 4 Charaṇas)
+::= 994 Mahā-Yuga  +  (15 × 4800)
+::= 994 Mahā-Yuga + (72,000 years)[deva years] ÷ 6 = 12,000 [deva years] viz
+0.0447918
+
+===Calculating the elapsed time since current Brahma's creation===
+ 
+432000 × 10 × 1000 × 2 = 8.64&nbsp;billion years (2 Kalpa (day and night))
+ 
+8.64 × 10<sup>9</sup> × 30 × 12 = 3.1104 Trillion Years (1 year of Brahma)<br />3.1104 × 10<sup>12</sup> × 50 = 155.52&nbsp;trillion years (50 years of Brahma)
+ 
+(6 × 71 × 4320000) + 7 × 1.728 × 10<sup>6</sup> = 1852416000 years elapsed in first six Manvataras, and Sandhi Kalas in the current [[Kalpa (aeon)|Kalpa]]
+ 
+27 × 4320000 = 116640000 years elapsed in first 27 Mahayugas of the current Manvantara
+ 
+1.728 × 10^6 + 1.296 × 10<sup>6</sup> + 864000 = 3888000 years elapsed in current Mahayuga
+ 
+3102 + 2019 = 5121 years elapsed in current Kaliyuga
+0.0486371
+Relation to SI units
+|-
+| ''Paramāṇu''|| Base unit || ≈ 25 µs
+|-
+| ''Aṇu''|| 2 Paramāṇu || ≈ 50 µs
+|-
+| ''Trasareṇu''|| 3 Aṇu || ≈ 151 µs
+|-
+| ''Truṭi''|| 3 Trasareṇu || ≈ 454 µs
+|-
+| ''Vedha''|| 100 Truṭi || ≈ 45 ms
+|-
+| ''Lava''|| 3 Vedha || ≈ 0.14 s
+|-
+| ''Nimeṣa''|| 3 Lava || ≈ 0.4 s
+|-
+| ''Kṣaṇa''|| 3 Nimesha || ≈ 1.22 s
+|-
+| ''Kāṣṭhā''|| 5 Kṣaṇa || ≈ 6 s
+|-
+| ''Laghu'' || 15 Kāṣṭhā || ≈ 92 s
+|-
+| ''Danda''|| 15 Laghu || ≈ 1.38 ks
+|-
+| ''Muhūrta''||	2 Danda|| ≈ 2.76 ks
+|-
+| ''Ahorātram''|| 31 Muhūrta || ≈ 86.4 ks
+|-
+
+0.0500417
+{{redirect|Srishti|the 1976 Indian Malayalam film|Srishti (film)}}
+{{short description|Hindu units of time}}
+{{Use dmy dates|date=December 2016}}
+
+[[Hindu]] texts describe units of [[time|Kala]] measurements, from ''microseconds'' to ''Trillions'' of years.<ref>{{cite book|url=https://books.google.com/books?id=pHiKycrLmEQC&printsec=frontcover#v=onepage&q&f=false|title=Units of Measurement: Past, Present and Future
+0.0504373
+Gupta 5,6"/>
+* A ''[[Masa|{{IAST|Māsa}}]]'' or [[lunar month]] (30days) is divided into 2 ''[[paksha|{{IAST|Pakṣa}}]]''s: the one between [[new moon]] and [[full moon]] (waxing) is called ''gaura'' or (bright) or ''[[shukla paksha|{{IAST|Śukla Pakṣa}}]]''; the one between full moon and new moon (waning) ''Kṛiṣhṇa'' (dark) ''paksha''<ref name="S.V
+0.071299
+According to Sri Yukteswar, nobody wanted to announce the bad news of the beginning of the descending Kali Yuga, so they kept adding years to the Dvapara date (at that time 2400 Dvapara) only retitling the epoch to Kali.{{sfn|Yukteswar|1949}}}}
+
+==See also==
+{{Portal bar|Astronomy|History|Philosophy|Hinduism|Religion|Mythology}}
+{{col div|colwidth=30em}}
+*[[Age of the universe]]
+*[[Hindu cosmology|Hindu cosmology]]
+*[[Hindu astronomy]]
+*[[Hindu calendar]]
+*[[Indian mathematics]]
+*[[Indian science and technology]]
+*[[Indian weights and measures]]
+*[[Jyotish]]
+*[[List of numbers in Hindu scriptures]]
+*[[Universe]]
+*[[Vedanga Jyotisha]]
+*[[Vedas]]
+*[[Yojana]]
+*[[Tamil units of measurement]]
+*[[Tamil months]]
+{{colend}}
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist|30em}}
+*Victor J
+0.0963053
+Ahorātram of Deva
+|}
+
+==Lunar metrics==
+* A ''[[Tithi]]'' or [[lunar day]] is defined as the time it takes for the [[longitude|longitudinal]] [[angle]] between the [[moon]] and the Sun to increase by 12[[degree (angle)|°]].Tithis begin at varying times of day and vary in duration from approximately 19 to approximately 26 hours.<ref name="S.V
+0.107884
+ 
+So the total time elapsed since current Brahma is
+ 
+155520000000000 + 1852416000 + 116640000 + 3888000 + 5119 = '''''155,521,972,949,120 years'''''
+
+(one hundred fifty-five trillion, five hundred twenty-one billion, nine hundred seventy-two million, nine hundred forty-nine thousand, one hundred twenty years) as of 2018 AD
+
+Total age of Brahma is 100 (Brahma Years) which is equal to '''''311,040,000,000,000 Human years'''''
+ 
+The current Kali Yuga began at midnight 17 February / 18 February in 3102 BCE in the [[proleptic Julian calendar]].<ref>Burgess, Ebenezer [https://books.google.com/books?id=jpE7AAAAcAAJ&printsec=frontcover ''Translation of the Sûrya-Siddhânta: A text-book of Hindu astronomy, with notes and an appendix''] Originally published: ''Journal of the American Oriental Society'' '''6''' (1860) 141–498 , p17"</ref> As per the information above about Yuga periods, only 5,120 years are passed out of 432,000 years of current Kali Yuga, and hence another 426,880 years are left to complete this 28th Kali Yuga of Vaivaswatha Manvantara.{{refn|group=note|According to [[Sri Yukteswar Giri]], guru of [[Paramahansa Yogananda]],  The ascending phase of the Kali Yuga began in September 499 CE
+0.150125
+The last Kalpa at the end of the 50th year is called Padma Kalpa
+0.166806
+Gupta|isbn=9783642007385|date=3 November 2009}}</ref>
+* Eight ''Yāmas'' make a full day (day + night)<ref name="S.V
+0.166806
+Gupta 6"/>
+* An ''Ahorātra'' is a tropical day (Note: A day is considered to begin and end at sunrise, not midnight.)<ref name="S.V
+0.19656
+Within this Day, six Manvantaras have already elapsed<ref name="Burgess, Chapter 1, Verse 22">Burgess, Chapter 1, Verse 22</ref> and this is the seventh Manvantara, named as – Vaivasvatha Manvantara (or Sraddhadeva Manvantara)
+0.201414
+Within the Vaivasvatha Manvantara, 27 Mahayugas<ref name="Burgess, Chapter 1, Verse 22"/> (4 Yugas together is a Mahayuga), and the Krita,<ref>Burgess, Chapter 1, Verse 23</ref> Treta and Dwapara Yugas of the 28th Mahayuga have elapsed
+0.224104
+We are currently in the first 'day' of the 51st year.<ref>Burgess, Chapter 1, Verse 21</ref> This Brahma's day, Kalpa is named as Shveta-Varaha Kalpa

@@ -1,0 +1,82 @@
+Historiography of Switzerland
+en edition's differences with the es version: 
+-3.64508e-11
+The [[baroque]] appetite for ''[[curiosa]]'' was allayed by [[Matthäus Merian]]'s great engravings.<ref name="Im Hof 14" />
+
+Historical research bloomed again in the time of the [[Age of Enlightenment|Enlightenment]], when as early as with [[Johann Jakob Wagner]]'s 1680 ''Historia naturalis Helvetiae curiosa'', the spirit of critical inquiry took hold in Swiss scholarship.<ref name="Im Hof 14" /> Conditions were not optimal – state archives remained mostly closed to private researchers and the ''[[zeitgeist]]'' favoured a heroic interpretation of history in a less than heroic present.<ref name="Im Hof 15">Im Hof, p
+-1.90994e-11
+
+
+The 19th century's most influential work of historiography was [[Johannes von Müller]]'s epic and lively five-volume ''Geschichten Schweizerischer Eidgenossenschaft'' (1786–1806).<ref name="Im Hof 16" /> It helped Switzerland, thrown into turmoil by Napoleon's violent overthrow of the ''[[Early Modern Switzerland|Ancien Régime]]'' and the establishment of the short-lived [[Helvetic Republic]], to find a sense of national identity and to [[Restauration (Switzerland)|refound the Confederation]] after Napoleon's fall.<ref name="Im Hof 17">Im Hof, p
+3.26736e-10
+
+===Late 19th to early 20th centuries===
+Von Müller's work was eventually supplanted by [[Johannes Dierauer]]'s seminal ''Geschichte der Schweizerischen Eidgenossenschaft'' (1887–1917, with extensions up until 1974), which remains indispensable to modern research thanks to its thorough critical apparatus.<ref name="Im Hof 19">Im Hof, p
+0.00448124
+20.</ref> Attempts by non-historians including [[Robert Grimm]] to write a [[Socialist]] history of Switzerland had no impact.<ref name="Im Hof 20" />
+
+On the other hand, apologists of the ''Ancien Régime'' such as [[Gonzague de Reynold]], who praised the perceived enlighted authoritarianism of the Old Confederacy, left an imprint on the generally conservative historiography of the post-[[World War II]] generation.<ref name="Im Hof 20" /> One historian, [[Karl Meyer (historian)|Karl Meyer]], even attempted to rehabilitate the historicity of the national founding legends in a 1933 work.<ref name="Im Hof 21">Im Hof, p
+0.0321785
+As elsewhere in Europe, these late medieval and early modern were subjected to critical treatment with the emergence of modern [[historiography]] in the later 18th century
+0.0455072
+17.</ref>
+
+The work, which did not go beyond the [[Swabian War]] of 1499 – Switzerland's war of independence – was soon continued in the works of an entire generation of historians
+0.074313
+19.</ref>
+
+An important foundation for later research was laid in the later 19th century through the edition and publication of official documents, including those of the Old Confederacy and the Helvetic Republic, in voluminous series whose publication was not completed until 1966.<ref name="Im Hof 18">Im Hof, p
+0.081913
+Picking up where Rappard and Fueter had left off, historians of the 1960s and 1970s published large treatises on the social and economic history of Switzerland.<ref name="Im Hof 22"/> 
+Adapting the newer methods of historical research in the United States, the United Kingdom and France, researchers used disciplines such as historical [[demographics]] and [[ecology]] to support their work
+0.13515
+
+Later comprehensive treatments include [[Johannes von Müller]]'s ''Geschichten Schweizerischer Eidgenossenschaft'' (1786–1806), [[Johannes Dierauer]]'s   ''Geschichte der Schweizerischen Eidgenossenschaft'' (1887–1917, with extensions up until 1974), the ''Handbuch der Schweizer Geschichte'', (1972–77) and the ''[[Historical Dictionary of Switzerland]]'' (2002&ndash;2014)
+0.143409
+The [[Classical liberalism|liberal]], [[Radicalism (historical)|Radical]] intellectual mainstream, which viewed Swiss history as a steady progression of liberty culminating in the founding of the 1848 federal state, was dominant.<ref name="Im Hof 20" />
+
+Some academic attention also shifted to the economic and social history of Switzerland, which began to be treated in substantial monographs by [[William Rappard]] and [[Eduard Fueter]] in the 1910s.<ref name="Im Hof 19" /> These developments, inspired by Anglo-American historiographical trends, were however cut short by the World Wars.<ref name="Im Hof 20">Im Hof, p
+0.148626
+21.</ref> The early [[Cold War]] period's emphasis on ''[[geistige Landesverteidigung]]'' – "intellectual defense of the country" – did also not encourage a re-thinking of Swiss history.<ref name="Im Hof 21" />
+
+It was only with [[Protests of 1968|the societal upheavals]] associated with the year 1968, which in Switzerland as elsewhere in the West began to move the mainstream of academic thought to the political Left, that the approach of Swiss historians began to shift again
+0.154457
+The 1507 ''[[Chronicle of the Swiss Confederation]]'' by [[Petermann Etterlin]] exerted great influence on later writers because, as a printed work, it was the first to be generally available.<ref name="Im Hof 13" />
+
+==Early modern period==
+[[Renaissance humanism|Humanist scholars]] such as [[Johann Stumpf (writer)|Johannes Stumpf]] and [[Aegidius Tschudi]] connected the history of their time with the [[Early history of Switzerland#Roman era|Roman era of Switzerland]] and to the accounts of the [[Helvetii]],<ref name="Im Hof 14">Im Hof, p
+0.179746
+
+==Swiss chronicles==
+{{main|Swiss chronicles}}
+[[File:Pluenderung Grandson.jpg|thumb|The Swiss loot the camp of [[Charles the Bold]] after the [[Battle of Grandson]] of 2 March 1476 (''[[Berner Schilling]]'', 1480s).]]
+The earliest works of Swiss history are the battle songs and folk songs in which the earliest Confederates celebrated their deeds, as well as the [[Swiss chronicles]] written mostly in the 15th and 16th centuries, especially the [[Swiss illustrated chronicles|illustrated chronicles]] produced in the late 15th and early 16th centuries on behalf of the authorities of the city-states of [[Berne]] and [[Lucerne]].<ref name="Im Hof 13">Im Hof, p
+0.223787
+16.</ref> 
+These works, in general, hewed closely to the received account of the [[foundation of the Old Swiss Confederacy]] as described in the [[Swiss chronicles]] of the 15th and 16th centuries.<ref name="Im Hof 16" /> 
+
+==Modern historiography==
+===Enlightenment and Napoleonic era===
+[[File:Haller Schweizer-Geschichte-Titel.jpg|thumb|Title page of the first volume of von Haller's ''Bibliothek der Schweizer-Geschichte'' (1785).]]
+When Bernese historians [[Gottlieb Emanuel Haller]] and  [[Uriel Freudenberger]]  first publicly questioned the historicity of [[William Tell]], they triggered a political scandal and caused tensions between Berne and Tell's traditional home state, Uri.<ref name="Im Hof 16" /> Their 1760 book ''Der Wilhelm Tell
+0.257428
+
+
+Early accounts of the history of the [[Old Swiss Confederacy]] are found in the numerous  [[Swiss chronicles]] of the 14th to 16th centuries
+0.259389
+15.</ref> Still, the early 18th century saw the first critical editions of ancient sources (by [[Johann Jakob Bodmer]] in 1735) and the publication of the first Swiss historical journals (''Helvetische Bibliothek'', also by Bodmer, and ''Mercure Helvétique'', both in 1735).<ref name="Im Hof 15" /> The century's most significant work of historiography was the country's first historical dictionary, the 20-volume ''Allgemeines helvetisches eidgenössisches Lexikon'' in 20 volumes (1743–63), written by scholars from all cantons and edited by [[Johann Jakob Leu]].<ref name="Im Hof 15" />
+
+The need for a historical overview was met by [[François-Joseph-Nicolas d'Alt de Tieffenthal]]'s very patriotic ''Histoire des Hélvetiens'' (1749–53), [[Alexander Ludwig von Wattenwyl]]'s prelude to Swiss criticism ''Histoire de la Confédération hélvetique'' (1754) and [[Vinzenz Bernhard Tscharner]]'s ''Historie der Eidgenossen'' (1756–71).<ref name="Im Hof 15" /> These works were complemented by treatises on the [[early history of Switzerland]], the [[Reformation in Switzerland]] or Swiss military service abroad, as well as an increasing number of [[Travel literature|reports by foreign travelers]] in Switzerland.<ref name="Im Hof 16">Im Hof, p
+0.263942
+It is also accessible online, as are more and more topical historical dictionaries, including [[SIKART]] (a biographical dictionary of Swiss artists) and the [[Culinary Heritage of Switzerland]] project (a historical encyclopedia of [[Swiss food]])
+0.268146
+[[Robert Glutz-Blotzheim|Robert Glutz von Blotzheim]] and [[Johann Jakob Hottinger]] in the [[German-speaking part of Switzerland]] as well as Louis Vuillemin and [[Charles Monnard]] in the [[Romandie]] translated and extended Müller's work, providing the new [[Switzerland as a federal state|federal state founded in 1848]] with a reasonably coherent common national history.<ref name="Im Hof 17" />
+
+===Popularization of history===
+{{further|Swiss identity}}
+
+In the period of [[historicism]], learning from this national history became a general preoccupation, and dozens of works of [[popular history]] – notably by the educator [[Heinrich Zschokke]] and by the liberal historian [[André Daguet]] – were published to meet this demand.<ref name="Im Hof 17" /> The democratic reforms of the 18th century caused a broadening of public education and the publication of innumerable historical textbooks.<ref name="Im Hof 17" />
+
+Cantonal archives along with the new [[Federal Archives of Switzerland|Federal Archives]] were opened to researchers, and chairs of Swiss history were established in Swiss universities.<ref name="Im Hof 17" /> The first historical society in Switzerland was founded in 1841.<ref name="Im Hof 17" />
+
+As the rationalist Enlightenment gave way to the more emotional period of [[Romanticism]], the questioning of popular heroes grew more unpopular still,<ref name="Im Hof 16" /> and the traditional account of Tell was reestablished for generations by [[Friedrich Schiller]]'s [[William Tell (play)|play ''William Tell'']] of 1804

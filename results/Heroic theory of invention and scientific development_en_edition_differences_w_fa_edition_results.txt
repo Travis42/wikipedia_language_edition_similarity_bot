@@ -1,0 +1,7 @@
+Heroic theory of invention and scientific development
+en edition's differences with the fa version: 
+3.25963e-09
+ A competing hypothesis ("[[multiple discovery]]") is that most inventions and scientific discoveries are made independently and simultaneously by multiple inventors and scientists
+0.177783
+{{No footnotes|date=June 2011}}
+The '''heroic theory of invention and scientific development''' is the [[hypothesis]] that the principal authors of [[invention]]s and [[scientific discoveries]] are unique [[hero]]ic individuals{{spaced ndash}} "great scientists" or "geniuses"<ref>{{Cite journal|last=Epstein|first=Ralph C.|date=1926|title=Industrial Invention: Heroic, or Systematic?|journal=The Quarterly Journal of Economics|volume=40|issue=2|pages=232–272|doi=10.2307/1884619|issn=0033-5533|jstor=1884619}}</ref>

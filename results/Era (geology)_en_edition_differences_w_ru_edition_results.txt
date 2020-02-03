@@ -1,0 +1,67 @@
+Era (geology)
+en edition's differences with the ru version: 
+-7.567e-10
+A '''geologic era''' is a subdivision of [[geologic time]] that divides an [[Eon (geology)|eon]] into smaller units of time.<ref name="ICS_Ch9">{{Cite web |url=http://www.stratigraphy.org/upload/bak/chron.htm |title=Chapter 9
+0.182637
+Time frame ([[million years ago|Ma]] = million years ago)
+|-
+| rowspan="3" | [[Phanerozoic]]
+| [[Cenozoic]]
+| {{Ma|Cenozoic|million years ago}} to present
+|-
+| [[Mesozoic]]
+| {{Ma|Mesozoic|Cenozoic}}
+|-
+| [[Paleozoic]]
+| {{Ma|Paleozoic|Mesozoic}}
+|-
+| rowspan="3" | [[Proterozoic]]
+| [[Neoproterozoic]]
+| {{Ma|Neoproterozoic|Paleozoic}}
+|-
+| [[Mesoproterozoic]]
+| {{Ma|Mesoproterozoic|Neoproterozoic}}
+|-
+| [[Paleoproterozoic]]
+| {{Ma|Paleoproterozoic|Mesoproterozoic}}
+|-
+| rowspan="4" | [[Archean]]
+| [[Neoarchean]]
+| {{Ma|Neoarchean|Paleoproterozoic}}
+|-
+| [[Mesoarchean]]
+| {{Ma|Mesoarchean|Neoarchean}}
+|-
+| [[Paleoarchean]]
+| {{Ma|Paleoarchean|Mesoarchean}}
+|-
+| [[Eoarchean]]
+| {{Ma|Eoarchean|Paleoarchean}}
+|-
+| [[Hadean]] ''(unofficial)''
+| ''not officially divided into eras''
+| [[Age of the Earth|Formation of Earth]] to {{Ma|Eoarchean}}
+|-
+|}
+
+== See also ==
+*[[Erathem]]
+*[[Geologic time scale]]
+*[[Geon (geology)]]
+
+== References ==
+{{Reflist}}
+
+{{Chronology}}
+
+[[Category:Geological eras| ]]
+[[Category:Geochronology]]
+[[Category:Units of geologic time by rank]]
+0.220416
+
+Geologic eras are further subdivided into [[Period (geology)|geologic periods]], although the Archean eras have yet to be subdivided in this way.<ref>{{Cite web |url=http://www.stratigraphy.org/ICSchart/ChronostratChart2018-07.pdf |title=International Chronostratigraphic Chart v2018/07 |last=[[International Commission on Stratigraphy]] |access-date=2 August 2018}}</ref>
+
+==List of geological eras in Earth's history==
+{| class="wikitable"
+|-
+

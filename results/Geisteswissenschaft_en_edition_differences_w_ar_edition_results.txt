@@ -1,0 +1,9 @@
+Geisteswissenschaft
+en edition's differences with the ar version: 
+0.118678
+In some contexts of science policy the ''Geisteswissenschaften'' are described as non-empirical sciences, drawing them near philosophy and excluding the social sciences from their area.<ref>Carl Friedrich Gethmann, Dieter Langewiesche, Jürgen Mittelstraß, Dieter Simon, Günter Stock, ''Manifest Geisteswissenschaft'', ed
+0.167836
+ Besides philosophy itself it encompassed the natural sciences with mathematics as well as the philological and historical disciplines and later on psychology and the social sciences
+0.232747
+{{Italic title}}
+'''''Geisteswissenschaften''''' ({{IPA-de|ˈɡaɪstəsˌvɪsənʃaftən}}, "sciences of mind") is a set of [[human science]]s such as [[philosophy]], [[history]], [[philology]], [[musicology]], [[linguistics]], [[theater studies]], [[literary studies]], [[media studies]], and sometimes even [[theology]] and [[jurisprudence]], that are traditional in German [[universities]]

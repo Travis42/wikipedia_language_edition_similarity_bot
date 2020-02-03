@@ -1,0 +1,11 @@
+Archaeomagnetic dating
+ru edition's differences with the en version: 
+-1.16415e-10
+File: Earth Magnetic Field Declination from 1590 to 1990.gif'thumb'400px'right
+
+The essence of the method
+The method is based on a phenomenon called paleomagnetism
+0.119791
+The essence of it is that the breed, heated to the "Curie's point" Curie point ( for cases with which geologists and archaeologists deal, it is usually 500-700 degrees Celsius), cooling, "remembers" the direction and intensity of the Earth's magnetic field at the moment
+0.232938
+Paleomagnetic (archeomagnetic) dating method is a method of dating rocks and clay by detecting residual magnetization

@@ -1,0 +1,112 @@
+Christopher Hill (historian)
+en edition's differences with the ru version: 
+-4.18368e-11
+Their marriage broke down after ten years.<ref name="Oxford DNB" />
+
+His second wife was [[Bridget Hill|Bridget Irene Mason]] (née Sutton),<ref name="Bridget Oxford DNB">{{cite web|title=Hill [née Sutton], Bridget Irene (1922–2002)|url=http://www.oxforddnb.com/view/article/77170|work=Oxford Dictionary of National Biography|publisher=Oxford University Press|accessdate=30 June 2012|date=January 2006}}</ref> the ex-wife of Stephen Mason, a fellow communist and historian
+4.36557e-11
+
+In Hill's later years, he lived with [[Alzheimer's disease]] and required constant care.<ref name="Bridget Oxford DNB" /> He died on 23 February 2003 of [[cerebral atrophy]] in a [[nursing home]] in [[Chipping Norton]], Oxfordshire.<ref name="Oxford DNB" />
+
+==Personal life==
+Hill married Inez Waugh (née Bartlett) on 17 January 1944
+0.029699
+They had two other children: Andrew (born 1958) and Dinah (born 1960).<ref name="Oxford DNB" />
+
+==Selected works==
+*''The English Revolution, 1640'' (1940, 3rd ed
+0.0445484
+*[[John Morrill (historian)|Morrill, John]], "Christopher Hill", pp.&nbsp;28–29 from ''History Today'' Volume 53, Issue # 6, June 2003
+0.0593979
+Whilst at Balliol, Hill became a committed [[Marxist]] and joined the [[Communist Party of Great Britain]] in the year he graduated.<ref name="Oxford DNB" />
+
+==Early academic career==
+After graduating, he became a [[fellow]] of [[All Souls College]]
+0.0641571
+During his time at Cardiff, Hill attempted to join the [[International Brigade]] and fight in the [[Spanish Civil War]] but was rejected.<ref name="Guardian obit" /> Instead, he was active in helping [[Basque people|Basque]] [[refugees]], displaced by the war.<ref name="Oxford DNB" /> After two years at Cardiff, he returned to Balliol College in 1938 as a fellow and [[tutor]] of history.<ref name="Oxford DNB" />
+
+==War service==
+Following the outbreak of the [[Second World War]], he joined the [[British Army]], initially as a [[Private (rank)|private]] in the [[Royal Military Police|Field Security Police]].{{citation needed|date=July 2012}} He was commissioned as a [[Second lieutenant#United Kingdom and Commonwealth|second lieutenant]] in the [[Oxfordshire and Buckinghamshire Light Infantry]] on 2 November 1940 with the [[service number]] 156590.<ref name="LG 15 November 1940">{{London Gazette |issue=34995 |date=15 November 1940 |pages=6621–6625  |supp=y }}</ref> That same year, he took part in a debate among many Marxist historians
+0.0742474
+On 19 October 1941, he transferred to the [[Intelligence Corps (United Kingdom)|Intelligence Corps]].<ref name="LG 25 November 1941">{{London Gazette |issue=35360 |date=25 November 1941 |page=6830 |supp=y }}</ref> He was seconded to the [[Foreign Office]] from 1943 until the war ended.<ref name="Guardian obit" />
+
+==Later academic career and politics==
+Hill returned to [[Oxford University]] after the war to continue his academic work
+0.0943069
+*Pennington, Donald, "John Edward Christopher Hill", in ''British Academy, Proceedings of the British Academy: Volume 130: Biographical Memoirs of Fellows, IV'' Oxford, Oxford University Press, 2005, pp.&nbsp;23–49
+0.106254
+In 1949, he applied to be the chair of History at the newly created [[Keele University]], but was turned down because of his Communist Party affiliations.<ref name="Oxford DNB" /> He helped create the [[academic journal|journal]] ''[[Past & Present (journal)|Past and Present]]'' in 1952, that focused on [[social history]].<ref name="Oxford DNB" />
+
+Hill was becoming discontented with the lack of democracy in the Communist Party.<ref name="Guardian obit" /> However, he stayed in the party, unlike many other intellectuals, after the [[Hungarian Revolution of 1956|Soviet invasion of Hungary]] in 1956
+0.118796
+In 1946, Hill and many other [[Marxist historians]] formed the [[Communist Party Historians Group]]
+0.133645
+He finally left the party in the spring of 1957 when one of his reports to the party congress was rejected.<ref name="Oxford DNB" />
+
+After 1956, Hill's career ascended to new heights
+0.168003
+He attended [[St Peter's School, York]].<ref name="Oxford DNB">{{cite web|title=Hill, (John Edward) Christopher (1912–2003)|url=http://www.oxforddnb.com/view/article/89437|work=Oxford Dictionary of National Biography|publisher=Oxford University Press|accessdate=29 June 2012|date=January 2007}}</ref> At the age of 16, he sat his entrance examination at [[Balliol College, Oxford|Balliol College]], [[University of Oxford]]
+0.202826
+[http://pubs.socialistreviewindex.org.uk/isj99/manning.htm ''The legacy of Christopher Hill''], International Socialism (2003)
+
+{{s-start}}
+{{s-aca}}
+{{succession box|title=[[Balliol College, Oxford|Master of Balliol College, Oxford]]|years = 1965–1978|before=[[David Lindsay Keir]]|after=[[Anthony Kenny]]}}
+{{s-end}}
+
+{{Authority control}}
+
+{{Masters of Balliol College, Oxford|state=collapsed}}
+{{University of Oxford|state=collapsed}}
+
+{{DEFAULTSORT:Hill, Christopher}}
+[[Category:1912 births]]
+[[Category:2003 deaths]]
+[[Category:Academics of Cardiff University]]
+[[Category:Alumni of Balliol College, Oxford]]
+[[Category:British Army personnel of World War II]]
+[[Category:British communists]]
+[[Category:British historians]]
+[[Category:Communist Party of Great Britain members]]
+[[Category:Historians of Puritanism]]
+[[Category:Fellows of All Souls College, Oxford]]
+[[Category:British Marxist historians]]
+[[Category:Marxist humanists]]
+[[Category:Masters of Balliol College, Oxford]]
+[[Category:People educated at St Peter's School, York]]
+[[Category:Oxfordshire and Buckinghamshire Light Infantry officers]]
+[[Category:Intelligence Corps officers]]
+[[Category:People from York]]
+[[Category:British Marxists]]
+[[Category:20th-century English historians]]
+[[Category:Members of the German Academy of Sciences at Berlin]]
+0.231004
+"Editoral board of The Journal of Sociology" -->
+| known_for          =
+| spouse             = Inez Waugh (née Bartlett) <br /> Bridget Irene Mason (née Sutton)
+| children           = Four
+| era                = 
+| language           = 
+| discipline         = Historian
+| sub_discipline     = [[Early modern Britain|17th-century English history]]
+| religion           = <!-- Religion should be supported with a citation from a reliable source -->
+| denomination       = <!-- Religious denomination should be supported with a citation from a reliable source -->
+| education          = [[St Peter's School, York]]
+| alma_mater         = [[Balliol College, Oxford]]
+| thesis_title       = 
+| thesis_url         = 
+| thesis_year        = 
+| doctoral_advisor   = 
+| doctoral_students  = 
+| notable_students   = [[Brian Manning (historian)|Brian Manning]]<br/>[[Partha Sarathi Gupta]]<ref>{{Cite web|url=https://www.theguardian.com/news/1999/sep/13/guardianobituaries3|title=Partha Sarathi Gupta|last=Partha Sarathi Gupta|access-date=October 6, 2019}}</ref>
+| main_interests     = 
+| workplaces         = [[All Souls College, Oxford]] <br /> [[University College of South Wales and Monmouthshire]] <br /> [[Balliol College, Oxford]] <br /> [[Open University]]
+| notable_works      = 
+| notable_ideas      = 
+| influences         = 
+| influenced         = [[Ervand Abrahamian]]<ref>{{citation|title=Iran’s Past and Present: Why has the History of Iran's Left been Erased?|author=Eskandar Sadeghi-Boroujerdi|url=https://www.jacobinmag.com/2017/04/iran-left-tudeh-khomeini-nationalization-orientalism-oil-imperialism/|date=20 April 2017|access-date=9 December 2017|work=[[Jacobin (magazine)|Jacobin]]}}</ref>
+| awards             = 
+| website            =
+| footnotes          =
+}}
+'''John Edward Christopher Hill''' (6 February 1912 – 23 February 2003) was an English [[Marxist]] [[historian]] and academic, specialising in [[Early modern Britain|17th-century English history]]

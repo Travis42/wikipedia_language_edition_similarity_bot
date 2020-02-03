@@ -1,0 +1,34 @@
+Food studies
+en edition's differences with the es version: 
+-1.31604e-09
+And the last thing is they have to have assets of less than $2,000 except that households with at least one senior and households that include at least one person with a disability can have more assets
+7.27596e-10
+
+A few schools have programs in the field, including [[Julia Child]] and [[Jacques Pepin]] founded [[Boston University]]'s  Gastronomy Masters program and [[New York University]]'s program in Nutrition, Food Studies, and Public Health
+0.0473946
+
+Queen Margaret University in Edinburgh, Scotland has launched a new master's degree in Gastronomy.<ref name="qmu.ac.uk">{{cite web |url=http://www.qmu.ac.uk/courses/PGCourse.cfm?c_id=270 |title=MSc Gastronomy |work=qmu.ac.uk |location=Musselburgh, Scotland, UK |publisher=[[Queen Margaret University]] |accessdate=2016-02-09 |archive-url=https://web.archive.org/web/20160117063702/http://www.qmu.ac.uk/courses/PGCourse.cfm?c_id=270 |archive-date=2016-01-17 |url-status=dead }}</ref> This is a unique qualification and the first of its kind in Scotland, which allows students to engage with the broad range of issues connected with food, provenance, diet, health, and nutrition
+0.0564108
+Supplemental Nutrition Assistance Program (SNAP, formerly known as the Food Stamp Program) is put in place to help families in need to get the proper nutrition they need in order to live a healthy lifestyle
+0.0690889
+To be mentioned also is the Pollenzo-based (near [[Bra, Piedmont|Bra]], [[Cuneo]], Italy) [[University of Gastronomic Sciences]], the Institut Européen d'Histoire et des Cultures de l'Alimentation (of Tours, France, mentioned above) and FOST: Social and Cultural Food Studies of the [[Vrije Universiteit Brussel]] (Belgium), providing education in bachelor, master or postgraduate studies
+0.0977064
+It is thus a field that involves and attracts [[philosophy|philosophers]], [[history|historians]], [[science|scientists]], [[literature|literary scholars]], [[sociology|sociologists]], [[art history|art historians]], [[anthropology|anthropologists]], and others.{{Citation needed|date=January 2011}}
+
+== State of the field ==
+This is an interdisciplinary and emerging field, and as such there is a substantial crossover between academic and popular work
+0.141027
+
+''[[Food & History]]'' is a multilingual (French, English, German, Italian and Spanish) scientific journal that has been published since 2003 as the biannual scientific review of the {{Interlanguage link multi|European Institute for the History and Cultures of Food|fr|3=Institut européen d'histoire et des cultures de l'alimentation}} (IEHCA) based in [[Tours]] (linked to the [[Université François Rabelais]])
+0.235249
+
+Numerous presses publish academic and popular books about the cultural significance of food, some of which are [[Columbia University Press]], [[University Press of Mississippi]], the [[University of Nebraska Press]], [[University of California Press]], the [[University of Illinois Press]], the [[MIT Press]], [https://www.bloomsbury.com/uk/academic/academic-subjects/food/ Bloomsbury Academic], Rowman & Littlefield, [[Berg Publishers|Berg]], [[Earthscan]], [[Routledge]], Prospect, and [[Equinox Publishing (London)|Equinox Publishing]]
+0.244266
+Fabio Parasecoli is the Coordinator of Food Studies at the New School in New York City
+0.279868
+Due to food insecurity also runs the risk of possibly birth defects “5 anemia, 6,7 lower nutrient intakes, 8 cognitive problems, 9 and aggression and anxiety.” <ref name="mccclib.mccc.edu"/> As opposed to children in food-secure households, “children in food-insecure households had 2.0-3.0 times higher odds of having anemia, 6, 7 2.0 times higher odds of being in fair or poor health, 8 and 1.4-2.6 times higher odds of having asthma, depending on the age of the child.” <ref name="mccclib.mccc.edu"/>
+
+Non senior adult had less research done on them in regards with the impacts of food insecurity “however, some of the studies in this limited set have shown that food insecurity is associated with decreased nutrient intakes; 20-25 increased rates of mental health problems and depression,10,26-30 diabetes, 31, 32 hypertension, 33 and hyperlipidemia; 32 worse outcomes on health exams; 33 being in poor or fair health; 23 , 34 and poor sleep outcomes 35.”<ref name="mccclib.mccc.edu"/> Mothers who are food insecurity tend to be twice as likely to report mental health issues as well as oral health problems.<ref name="mccclib.mccc.edu"/>   
+ 
+==Food and education==
+Food and school are two interconnected topics

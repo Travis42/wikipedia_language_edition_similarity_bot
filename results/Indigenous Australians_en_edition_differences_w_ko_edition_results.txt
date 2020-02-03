@@ -1,0 +1,1418 @@
+Indigenous Australians
+en edition's differences with the ko version: 
+-7.12242e-09
+ | journal = Proceedings of the National Academy of Sciences
+ | year = 2001 | volume = 98 | issue = 2 | pages = 537–42
+ | bibcode = 2001PNAS...98..537A | doi = 10.1073/pnas.98.2.537 | pmc = 14622 | pmid = 11209053
+ | ref = harv
+}}
+*{{cite journal | title = Mitochondrial DNA sequences in ancient Australians: Implications for modern human origins
+ | last1 = Adcock | first1 = G
+-7.12242e-09
+ | journal = Proceedings of the National Academy of Sciences
+ | year = 2007 | volume = 104 | issue = 21 | pages = 8726–30
+ | doi = 10.1073/pnas.0702928104 | pmc = 1885570 | pmid = 17496137
+ | ref = harv
+}}
+*{{cite journal | title = Who are Indigenous Australians
+-7.12242e-09
+ | last19 = Oppenheimer | first19 = S
+ | last20 = Torroni | first20 = A
+ | last21 = Richards | first21 = M
+ | display-authors = 8
+ | journal = Science
+ | year = 2005 | volume = 308 | issue = 5724 | pages = 1034–36
+ | url = http://psasir.upm.edu.my/id/eprint/40255/1/Single%2C%20rapid%20coastal%20settlement%20of%20Asia%20revealed%20by%20analysis%20of%20complete%20mitochondrial%20genomes.pdf
+ | bibcode = 2005Sci...308.1034M | doi = 10.1126/science.1109792 | pmid = 15890885
+ | ref = harv
+}}
+*{{Cite journal | title = Macassans and the Aboriginal past
+ | last = MacKnight | first = C
+-7.12242e-09
+ | journal = Current Anthropology
+ | year = 1991 | volume = 32 | page = 1
+ | doi = 10.1086/203909
+ | ref = harv
+}}
+*{{Cite journal | title = Becoming Australian
+ | last = Pardoe | first = C
+-2.25509e-09
+Poetry by Indigenous poets, including traditional song-poetry – ranging from sacred to everyday – has been published since the late 20th century.{{efn|Ronald M
+-1.07253e-09
+Duwell have published two books dealing with sacred and everyday poetry: "The Honey Ant Men's Love Song" and "Little Eva at Moonlight Creek", University of Queensland Press, 1994.}}
+
+Writers coming to prominence in the 21st century include [[Alexis Wright]]; [[Kim Scott]] (twice winner of the [[Miles Franklin Award]]); [[Tara June Winch]]; [[Melissa Lucashenko]]; playwright and comedy writer [[Nakkiah Lui]]; in poetry [[Yvette Holt]]; and in popular fiction [[Anita Heiss]]
+-7.50461e-10
+An ABS report from 2016 found that these persons are more likely to be victims of assault than non-Aboriginal persons by ratios of 2.6 (in NSW), 6 (in SA), and 5.9 (in NT)
+-7.3419e-10
+ | journal = Quaternary Science Reviews
+ | year = 2006 | volume = 25 | issue = 19–20 | pages = 2469–2474
+ | bibcode = 2006QSRv...25.2469O | doi = 10.1016/j.quascirev.2005.07.022
+ | ref = harv
+}}
+*{{cite web| title = The Roman Catholic Church and Indigenous Land Rights in Australia and New Zealand
+ | last = O'Sullivan | first = Dominic
+ | publisher = [[University of Waikato]]
+ | url = http://apsa2000.anu.edu.au/confpapers/osullivan.rtf | format = rtf | url-status = dead
+ | archive-url = https://web.archive.org/web/20130519072722/http://apsa2000.anu.edu.au/confpapers/osullivan.rtf
+ | via = [[Australian National University]]
+ | date = n.d
+-3.98018e-10
+Evidence of Aboriginal art can be traced back at least 30,000 years,{{sfn|Culture Portal|2007}} with examples of ancient rock art throughout the continent
+-3.98018e-10
+
+Since the 1970s, Indigenous artists have employed the use of acrylic paints – with styles such as that of the [[Western Desert Art Movement]] becoming globally renowned 20th-century art movements
+-3.35447e-10
+David Ross of the Central Land Council was sceptical, saying "it's a new skin for an old snake",<ref>(ABC Television News 12 October 2007)</ref>
+while former Chairman of the Reconciliation Council [[Patrick Dodson]] gave qualified support, saying: "I think it's a positive contribution to the process of national reconciliation...It's obviously got to be well discussed and considered and weighed, and it's got to be about meaningful and proper negotiations that can lead to the achievement of constitutional reconciliation."<ref>(ABC radio 12 October 2007)</ref>
+The [[Gillard Government]], with bi-partisan support, convened an expert panel to consider changes to the [[Australian Constitution]] that would see recognition for Indigenous Australians
+-1.72577e-10
+First Nations is considered the most acceptable by most people.{{sfn|Common Ground}}
+
+Being as specific as possible, for example naming the [[Australian Aboriginal languages|language group]] (such as [[Arrernte people|Arrernte]]), [[demonym]] relating to geographic area (such as [[Nunga]]), is considered best practice and most respectful
+-1.39522e-10
+Journalist [[Stan Grant (journalist)|Stan Grant]] has written several non-fiction works on what it means to be Aboriginal in contemporary Australia, and [[Bruce Pascoe]] has written both fiction and non-fiction works
+-1.05729e-10
+The ALP initially supported the idea, however [[Kevin Rudd]] withdrew this support just before the election – earning stern rebuke from activist [[Noel Pearson]].{{sfn|''The Australian''|2007}} Critical sections of the Australian public and media{{sfn|Matthews|2007}} meanwhile suggested that Howard's raising of the issue was a "cynical" attempt in the lead-up to an election to "whitewash" his handling of this issue during his term in office
+-9.04947e-11
+Indigenous Australia's [[oral tradition]] and religious values are based upon reverence for the land and a belief in this Dreamtime.{{sfn|Andrews|2004|p=424}} The Dreaming is at once both the ancient time of creation and the present-day reality of Dreaming
+-4.65405e-11
+The eastern Torres Strait Islanders in particular are related to the Papuan peoples of [[New Guinea]], and speak a [[Papuan language]].{{sfn|Ethnologue.com}} Accordingly, they are not generally included under the designation "Aboriginal Australians"
+-3.25215e-11
+Researchers at the [[University of Newcastle (Australia)|University of Newcastle]] under [[Lyndall Ryan]] have been mapping the massacres.{{sfn|University of Newcastle|2017b}} {{as of|lc=yes|2020}} they have mapped almost 500 places where massacres happened, with 12,361 Aboriginal people killed and 204 Colonists killed,{{sfn|UoN}} numbering at least 311 massacres over a period of about 140 years
+-8.6402e-12
+This is evidence of a clear issue occurring not only within Australia's criminal justice system, but within communities as a whole.{{sfn|AIHW Youth Justice|2018}}
+
+Explanations for this overrepresentation link back to the effect systemic racism has on the individual and the community
+-5.88329e-12
+A number of government initiatives have resulted, some of which are listed at the Commonwealth Government's website.{{sfn|DEEWR}}
+
+The [[Aboriginal Centre for the Performing Arts]] was established as a training centre by the State and Federal Governments in 1997
+1.84563e-12
+
+The 2007 National Drug Strategy Household Survey{{sfn|AIoHW|2008}} reported that Indigenous peoples were "more likely than other Australians to abstain from alcohol consumption (23.4% versus 16.8%) and also more likely to consume alcohol at risky or high-risk levels for harm in the short term (27.4% versus 20.1%)"
+2.20268e-12
+As of the 2018 Close the Gap report,{{sfn|IAA|2018}} the Aboriginal employment rate had decreased from 48% in 2006 to 46.6% in 2016, while the non-Aboriginal employment rate remained steady at around 72%, making for a 25.4% gap between the two populations
+3.5568e-11
+Those with a degree have an employment probability of 85% (for males) and 74% (for females) for gaining employment.{{sfn|Biddle|Hunter|Yap|Gray}} These statistics decrease depending on qualifications so that those who have completed Year 9 and below have a 43% (male) and 32% (female) probability of gaining employment.{{sfn|Biddle|Hunter|Yap|Gray}} However, other factors do contribute to low employment and these, unlike education, are not covered by current government policy, such as discrimination and unfair treatment
+5.87761e-11
+
+The broad term Aboriginal Australians includes many regional groups that may be identified under names based on local language, locality, or what they are called by neighbouring groups
+5.9714e-11
+A representative body, the [[Aboriginal and Torres Strait Islander Commission]] (ATSIC), was set up in 1990.{{sfn|Pratt|2003}}
+
+====Reconciliation====
+Reconciliation between non-Indigenous and Indigenous Australians became a significant issue in Australian politics in the late 20th century
+5.9714e-11
+In 1991, the [[Council for Aboriginal Reconciliation]] was established by the federal government to facilitate reconciliation
+6.2073e-11
+A year later, the [[Aboriginal Tent Embassy]] was established on the steps of [[Old Parliament House, Canberra|Parliament House]] in [[Canberra]]
+8.8221e-11
+The term "Aborigine" is deprecated, being regarded as outdated and inappropriate, having connotations of [[colonial Australia]].{{sfn|Common Ground}}{{sfn|Appropriate words & terminology}}
+
+While the term "Indigenous Australians" has grown since the 1980s,{{sfn|Flinders University|1996}} many Aboriginal and Torres Strait Islander peoples dislike it, feeling that it is too generic and removes their identity
+9.15179e-11
+[[Hip hop]] music is helping preserve indigenous languages.{{sfn|''The Age''|2006}}
+
+The [[Aboriginal Centre for the Performing Arts]] in [[Brisbane]] teaches acting, music and dance, and the [[Bangarra Dance Theatre]] is an acclaimed contemporary dance company
+1.25326e-10
+In 2007, [[Kava]] was banned in the Northern Territory.{{sfn|ABC News – Kava Ban|2007}}
+
+[[Petrol sniffing in Australia|Petrol sniffing]] is also a problem among some remote Indigenous communities
+1.29817e-10
+Circulatory system diseases account for 24% deaths{{sfn|Indigenous Mortality}}
+|-
+| Renal failure
+| 2 to 3-fold
+| 2 to 3-fold increase in listing on the [[dialysis]] and [[organ transplant|transplant]] registry, up to 30-fold increase in end stage [[renal disease]], 8-fold increase in death rates from [[renal failure]], 2.5% of total deaths{{sfn|Indigenous Mortality}}
+|-
+| Communicable
+| 10 to 70-fold
+| 10-fold increase in [[tuberculosis]], [[hepatitis B]] and [[hepatitis C virus]], 20-fold increase in [[Chlamydia infection|chlamydia]], 40-fold increase in [[shigellosis]] and [[syphilis]], 70-fold increase in [[gonococcal]] infections
+|-
+| Diabetes
+| 3 to 4-fold
+| 11% incidence of [[diabetes mellitus type 2|type 2 diabetes]] in Indigenous Australians, 3% in non-Indigenous population
+1.46845e-10
+
+Some communities (particularly in the Northern Territory) introduced [[kava]] as a safer alternative to alcohol, as over-indulgence in kava produces sleepiness, in contrast to the violence that can result from over-indulgence in alcohol
+1.70871e-10
+
+The ''[[Uluru Statement from the Heart]]''{{sfn|Uluru Statement from the Heart}} was released 26 May 2017 by delegates to an Aboriginal and Torres Strait Islander Referendum Convention, held near [[Uluru]] in Central Australia
+1.90596e-10
+After the end of the war he applied for a passport but was rejected as he was an Aborigine, he obtained an exemption under the Aborigines Protection Act but was now told he could no longer visit his relatives as he was not an Aborigine
+2.08502e-10
+Perkins|Charles Perkins]]' involvement in the [[Freedom Ride (Australia)|Freedom Ride]] of 1965 and subsequent work; or Torres Strait Islander [[Eddie Mabo]]'s part in the landmark [[native title]] decision that bears his name
+2.39318e-10
+In the north, stretching from the Western [[Kimberley region of Western Australia|Kimberley]] to the [[Gulf of Carpentaria]], are found a number of non-Pama–Nyungan groups of languages which have not been shown to be related to the Pama–Nyungan family nor to each other.{{sfn|Evans|2003}} While it has sometimes proven difficult to work out familial relationships within the Pama–Nyungan language family, many Australian linguists feel there has been substantial success.{{sfn|Bowern|Harold|2004}} Against this, some linguists, such as [[R
+2.55909e-10
+The 2012 Territory election saw large swings to the conservative [[Country Liberal Party]] achieved in remote Territory electorates and a total of five Aboriginal CLP candidates won election to the Assembly (along with one Labor candidate) in a chamber of 25 members
+2.55909e-10
+
+=== Life expectancy ===
+{{also|Indigenous health in Australia}}
+
+The life expectancy of Indigenous Australians is difficult to quantify accurately
+3.09001e-10
+Within Aboriginal belief systems, a formative epoch known as "the [[Dreamtime]]" or "the Dreaming" stretches back into the distant past when the creator ancestors known as the First Peoples travelled across the land, and naming as they went
+4.10012e-10
+The ABS has published a report exploring the reasons for these findings, with some of the factors behind the increase listed as:{{sfn|ABS increase|2018}}
+* The fertility rates of Aboriginal and Torres Strait Islander women, which have traditionally been higher than other Australian women
+5.03746e-10
+Such ochres were also used to paint their bodies for ceremonial purposes.{{sfn|Rurenga|2017}}{{sfn|Aboriginal Art Online|2008}}
+
+Several styles of Aboriginal art have developed in modern times, including the [[watercolour]] paintings of the [[Hermannsburg School]] and the acrylic [[Papunya Tula]] "dot art" movement
+5.16593e-10
+
+It was not until the repeal of Section 127 of the [[Constitution of Australia|Australian Constitution]] in 1967 that Indigenous Australians were counted in the population for the purposes of distribution of electoral seats
+6.88459e-10
+The study, Ampe Akelyernemane Meke Mekarle "Little Children are Sacred", suggested that children in Aboriginal communities were being widely exposed to inappropriate sexual activity such as pornography, adult films and adults having sex within their view
+1.1349e-09
+In addition, there is a significant lack of consultation with Aboriginal peoples on the methods they think best to tackle issues like unemployment.{{sfn|Biddle|Hunter|Yap|Gray}}
+
+=== Health ===
+{{Further|Indigenous health in Australia}}
+
+Indigenous Australians were twice as likely to report their health as fair/poor and 1.5 times more likely to have a disability or long-term health condition (after adjusting for demographic structures).{{sfn|ABoS|2005a}}
+
+Health problems with the highest disparity (compared with the non-Indigenous population) in incidence{{sfn|AIoHW|2003}} are outlined in the table below:
+
+{| class="wikitable"
+|-
+
+1.33014e-09
+In general, the gaps have improved – as with an improvement of NAPLAN results – or not devolved – as with the attendance rate remaining stable for several years – but unfortunately not to the standard required.{{sfn|OPMC Closing the Gap}} Remoteness does appear to be a factor, as students in remote areas do not perform or attend as well as students in urban areas.{{sfn|OPMC Closing the Gap}}
+
+In response to this problem, the Commonwealth Government formulated a [[National Aboriginal and Torres Strait Islander Education Policy]]
+4.46573e-09
+The first part – descent – was genetic descent and unambiguous, but led to cases where a lack of records to prove ancestry excluded some
+0.00948691
+
+The third series of the [[sketch comedy]] TV series ''[[Black Comedy (TV series)|Black Comedy]]'', co-written by [[Nakkiah Lui]], [[Adam Briggs]], [[Steven Oliver (Australian actor)|Steven Oliver]] and others, and featuring many Indigenous actors, goes to air in January 2020.{{sfn|Black Comedy}}
+
+== Recreation and sport ==
+[[File:Marn grook illustration 1857.jpg|thumb|1857 depiction of the [[Jarijari]] (Nyeri Nyeri) people near [[Merbein, Victoria|Merbein]] engaged in recreational activities, including a type of Aboriginal football.{{sfn|Blandowski|1862}}{{sfn|WDL – Blandowski|1862}}{{sfn|Hilferti|2010|p=79}} ]]
+[[File:Aboriginal cricket team Tom Wills 1866.jpg|thumb|Aboriginal cricket team with [[Tom Wills]] (coach and captain), [[Melbourne Cricket Ground]], December 1866]]
+Though lost to history, many traditional forms of recreation were played and while these varied from tribe to tribe, there were often similarities
+0.0185506
+
+The canon of films related to Indigenous Australians increased from the 1990s, with [[Nick Parson]]'s film ''[[Dead Heart (film)|Dead Heart]]'' (1996) featuring [[Ernie Dingo]] and [[Bryan Brown]];{{sfn|ASO – Dead Heart}} [[Rolf de Heer]]'s ''[[The Tracker (2002 film)|The Tracker]]'' (2002), starring [[Gary Sweet]] and David Gulpilil;{{sfn|ASO – The Tracker}} and [[Phillip Noyce]]'s ''[[Rabbit-Proof Fence (film)|Rabbit-Proof Fence]]'' (2002).{{sfn|ASO – Rabbit-Proof Fence}}
+
+The [[soundtrack]] of the 2006 film ''[[Ten Canoes]]'' directed by [[Rolf de Heer]] was filmed entirely in dialects of the [[Yolŋu Matha]] language group, with the main version featuring subtitles and English narration by David Gulpilil
+0.0191215
+Attainment of Year 12 or equivalent qualification for ages 20–24 has increased from 47.4% in 2006 to 65.3% in 2016, thus narrowing the gap by 12.6 percentage points.{{sfn|OPMC Closing the Gap}} Furthermore, this completion of Year 12 qualifications has resulted in a greater number of Aboriginal persons undertaking higher education or vocational education courses
+0.0220796
+
+The [[National Gallery of Australia]] exhibits a great many Indigenous art works, including those of the [[Torres Strait Islands]] who are known for their traditional sculpture and headgear.{{sfn|NGA – ATSI}}
+
+Aboriginal art has influenced many non-Indigenous artists, such as [[Margaret Preston]] (1875–1963) and [[Elizabeth Durack]] (1915 – 2000)
+0.0270418
+{{harv|Thomson|2001|p=153}}}}
+More recent work suggests that Aboriginal populations exceeded 1.2&nbsp;million 500 years ago, but may have fallen somewhat with the introduction of disease pathogens from Eurasia in the last 500 years.{{sfn|William|2013}} The population was split into 250 individual nations,{{sfn|Horton|1996}} many of which were in alliance with one another, and within each nation there existed separate, often related [[clan]]s, from as few as 5 or 6 to as many as 30 or 40
+0.0270419
+Samuel Macfarlane arrived on [[Darnley Island, Torres Strait|Erub (Darnley Island)]] on 1 July 1871, establishing its first base in the region there
+0.0327797
+The Islanders refer to this as "The Coming of the Light", or "Coming of Light"{{sfn|Korff|2019}} and all Island communities celebrate the occasion annually on 1 July.{{sfn|TSRA - history}} However the coming of Christianity did not spell the end of the people's traditional beliefs; their culture informed their understanding of the new religion, as the [[Christian God]] was welcomed and the new religion was integrated into every aspect of their everyday lives.{{sfn|Korff|2019}}
+
+===Recent census figures===
+In the 2016 Census, Australia's Indigenous and non-Indigenous population were broadly similar with 54% (vs 55%) reporting a [[Christianity in Australia|Christian]] affiliation, while less than 2% reported traditional beliefs as their religion, and 36% reported no religion
+0.038243
+[[Albert Namatjira]] became a painter, and actors such as [[David Gulpilil]], [[Ernie Dingo]], and [[Deborah Mailman]] became well known
+0.0393517
+Comment
+|-
+| Circulatory system
+| 2 to 10-fold
+| 5 to 10-fold increase in [[rheumatic heart disease]] and [[hypertensive disease]], 2-fold increase in other [[heart disease]], 3-fold increase in death from [[circulatory system]] disorders
+0.0405628
+The populations in Victoria, South Australia, and New South Wales are more likely to be urbanised.{{sfn|ABoS – population|2006}}
+
+The proportion of Aboriginal adults married (''de facto'' or ''[[de jure]]'') to non-Aboriginal spouses increased to 78.2% in the 2016 census,{{sfn|ABoS 2077.0|2018}} up from 74% in 2011,{{sfn|ABoS 2077.0}} 64% in 1996, 51% in 1991 and 46% in 1986
+0.0405628
+A community may draw on separate cultural values and individuals can conceivably belong to a number of communities within Australia; identification within them may be adopted or rejected
+0.0406679
+18% of total indigenous deaths{{sfn|Indigenous Mortality}}
+|-
+|Cot death
+| 2 to 3-fold
+| Over the period 1999–2003, in Queensland, Western Australia, South Australia and the Northern Territory, the national [[cot death]] rate for infants was three times the rate
+|-
+| Mental health
+| 2 to 5-fold
+| 5-fold increase in drug-induced [[mental disorders]], 2-fold increase in disorders such as [[schizophrenia]], 2 to 3-fold increase in suicide.{{sfn|Vos|Barker|Stanley|Lopez|2007|p=14}}
+|-
+| Optometry/Ophthalmology
+| 2-fold
+| A 2-fold increase in [[cataracts]]
+|-
+| Neoplasms
+| 60% increase in death rate
+| 60% increased death rate from [[neoplasm]]s
+0.0427569
+Dixon]], suggest that the Pama–Nyungan group – and indeed the entire Australian linguistic area – is rather a ''[[sprachbund]]'', or group of languages having very long and intimate contact, rather than a [[genetic (linguistics)|genetic]] language family.{{sfn|Dixon|1997}}
+
+It has been suggested that, given their long presence in Australia, Aboriginal languages form one specific sub-grouping
+0.0441591
+There is also evidence of the construction of large, complex [[Stilt house|buildings on stilts]] and [[dome]]d structures using [[bamboo]], with [[thatched roofs]], which catered for extended family members living together.{{sfn|Pascoe|2018}}
+
+=== British colonisation ===
+====Dates by area====
+[[File:Batman signs treaty artist impression.jpg|thumb|[[Wurundjeri]] people at the signing of [[Batman's Treaty]], 1835]]
+[[British colonisation of Australia]] began with the arrival of the [[First Fleet]] in [[Botany Bay]], New South Wales, in 1788
+0.0530334
+The other indigenous language spoken mainly in the eastern islands is [[Meriam language|Meriam Mir]]: a member of the [[Trans-Fly languages]] spoken on the nearby south coast of New Guinea and the only [[Papuan languages|Papuan language]] spoken on Australian territory
+0.0540837
+[[List of massacres of Indigenous Australians|Massacres]] and [[Australian frontier wars|war]] by British settlers also contributed to depopulation.{{sfn|Evans|Ørsted-Jensen|2014|p=28}}{{sfn|ABC News|2017}} The characterisation of this violence as [[genocide]] is controversial and disputed.{{sfn|Levene|2005|p=344 n.105}}
+
+Although there are a number of commonalities among the various Aboriginal peoples, there is also a great diversity among different communities and societies in Australia, each with its own mixture of cultures, customs and languages
+0.0573644
+In the 19th century, smallpox was the principal cause of Aboriginal deaths, and vaccinations of the "native inhabitants" had begun in earnest by the 1840s.{{sfn|Glynn|Jenifer|2004|pp=145–146}} This smallpox epidemic in 1789 is estimated to have killed up to 90% of the [[Darug people]]
+0.0597918
+[https://web.archive.org/web/20010113010900/http://www.austlii.edu.au/au/special/rsjproject/rsjlibrary/hreoc/stolen/stolen62.html Appendices listing and interpretation of state acts regarding "Aborigines"]: [https://web.archive.org/web/20000817181808/http://www.austlii.edu.au/au/special/rsjproject/rsjlibrary/hreoc/stolen/stolen63.html Appendix 1.1 NSW]; [https://web.archive.org/web/20000817181819/http://www.austlii.edu.au/au/special/rsjproject/rsjlibrary/hreoc/stolen/stolen64.html Appendix 1.2 ACT]; [www.austlii.edu.au/au/special/rsjproject/rsjlibrary/hreoc/stolen/stolen65.html Appendix 2 Victoria]{{dead link|date=January 2017 |bot=InternetArchiveBot |fix-attempted=yes}};
+[www.austlii.edu.au/au/special/rsjproject/rsjlibrary/hreoc/stolen/stolen66.html Appendix 3 Queensland]{{dead link|date=January 2017 |bot=InternetArchiveBot |fix-attempted=yes}}; [https://web.archive.org/web/20000817181842/http://www.austlii.edu.au/au/special/rsjproject/rsjlibrary/hreoc/stolen/stolen67.html Tasmania]; [www.austlii.edu.au/au/special/rsjproject/rsjlibrary/hreoc/stolen/stolen68.html Appendix 5 Western Australia]{{dead link|date=January 2017 |bot=InternetArchiveBot |fix-attempted=yes}};
+[www.austlii.edu.au/au/special/rsjproject/rsjlibrary/hreoc/stolen/stolen69.html Appendix 6 South Australia]{{dead link|date=January 2017 |bot=InternetArchiveBot |fix-attempted=yes}};
+[www.austlii.edu.au/au/special/rsjproject/rsjlibrary/hreoc/stolen/stolen70.html Appendix 7 Northern Territory] {{dead link|date=January 2017 |bot=InternetArchiveBot |fix-attempted=yes}}}}{{sfn|Bringing them home education module}} The forcible removal of these children occurred in the period between approximately 1871{{sfn|Marten|2002|p=229}} and 1969,{{sfn|Australian Museum|2004}}{{sfn|Read|1981}} although, in some places, children were still being taken in the 1970s.{{efn|In its submission to the ''Bringing Them Home'' report, the Victorian government stated that "despite the apparent recognition in government reports that the interests of Indigenous children were best served by keeping them in their own communities, the number of Aboriginal children forcibly removed continued to increase, rising from 220 in 1973 to 350 in 1976" [https://web.archive.org/web/20000817181344/http://www.austlii.edu.au/au/special/rsjproject/rsjlibrary/hreoc/stolen/stolen10.html ''Bringing Them Home'': "Victoria".]}}
+
+To this day, this forced removal has had a huge impact on the psyche of Aboriginal Australians; it has seriously impacted not only the children removed and their parents, but their descendants as well
+0.0676046
+
+=== Crime ===
+{{Main|Indigenous Australians and crime}}
+
+Aboriginal Australians are overrepresented in Australia's criminal justice system
+0.0702568
+
+Australia was the exception to British imperial colonisation practices, in that no treaty was drawn up setting out terms of agreement between the settlers and native proprietors, as was the case in North America, and [[Treaty of Waitangi|New Zealand]].{{sfn|Broome|2010|p=18}} Many of the men on the First Fleet had had military experience among Native American tribes in North America, and tended to attribute to the Aboriginal people alien and misleading systems or concepts like [[Tribal chief|chieftainship]] and [[tribe]] with which they had become acquainted in the northern hemisphere.{{sfn|Foley|2007|pp=177–179}}
+
+British administrative control began in the Torres Strait Islands in 1862, with the appointment of John Jardine, police magistrate at [[Rockhampton]], as Government Resident in the Torres Straits
+0.0751077
+
+From 1996 to 2001, the Australian Bureau of Statistics (ABS) used indirect methods for its calculations, because census results were deemed to be unreliable,{{citation needed|date=September 2011}} and figures published in 2005 (59.4 years for males and 64.8 years for females) indicated a widely quoted gap of 17 years between indigenous and non-indigenous life expectancy, though the ABS does not now consider the 2005 figures to be reliable
+0.0765257
+However, although there is still no move toward a treaty at federal level, it is contended that the Noongar Settlement (South West Native Title Settlement) in Western Australia in 2016 constitutes a treaty, and at the state and territory levels there are currently (early 2018) other negotiations and preparatory legislation.{{sfn|Hobbs|Williams|2018}} In [[South Australia]], however, following the [[2018 South Australian state election|2018 state election]] negotiations have been "paused".{{sfn|Wahlquist|2018}} In June 2018, the [[Parliament of Victoria]] passed a bill to advance the process of establishing a treaty with Aboriginal Victorians.{{sfn|Offer|2018}}
+
+=== Cross-cultural miscommunication ===
+According to Michael Walsh and [[Ghil'ad Zuckermann]], Western conversational interaction is typically "dyadic", between two particular people, where eye contact is important and the speaker controls the interaction; and "contained" in a relatively short, defined time frame
+0.0776431
+He originally established a small settlement on [[Albany Island]], but on 1 August 1864 he went to Somerset Island.{{sfn|Lack|1963|pp=132–153}} English missionaries arrived on [[Darnley Island, Torres Strait|Erub (Darnley Island)]] on 1 July 1871.{{sfn|TSRA - history}} In 1872 the boundary of Queensland was extended to include [[Thursday Island]] and some other islands in Torres Strait within {{convert|60| miles|km}} of the Queensland coast, and in 1879 Queensland [[Annexation|annexed]] the other islands, which became part of the British [[colony of Queensland]].{{sfn|Lack|1963|pp=132–153}}
+
+====Impact====
+One immediate consequence was a series of epidemics of European diseases such as [[measles]], [[smallpox]] and [[tuberculosis]]
+0.0811255
+ | publisher = Editions Rodopi | location = Amsterdam; Atlanta, GA
+ | chapter-url = https://books.google.com/books/about/Ar%CC%B2atjara.html?id=R5v_356ONRsC
+ | isbn = 978-90-420-0151-0
+ | ref = harv
+}}
+*{{Cite book| title = Genocide in the Age of the Nation State: The rise of the West and the coming of genocide
+ | last = Levene | first = Mark | year = 2005
+ | publisher = I
+0.0811255
+Although Aboriginal society was generally mobile, or [[nomadic|semi-nomadic]], moving according to the changing food availability found across different areas as seasons changed, the mode of life and material cultures varied greatly from region to region, and there were permanent settlements{{sfn|National Heritage Places – Budj Bim National}} and agriculture{{sfn|Flood|1984}} in some areas
+0.0824768
+Overall, Aboriginal students:
+* Have a lower attendance rate than non-Aboriginal students nationally, with these rates at 83.5% and 93% respectively.{{sfn|OPMC Closing the Gap}}
+* Are marked lower in NAPLAN testing than non-Aboriginal peers.{{sfn|OPMC Closing the Gap}}
+* Have a lower Year 12 attainment than non-Aboriginal peers.{{sfn|OPMC Closing the Gap}}
+* Are underrepresented in higher education and have lower completion rates (40.5% compared to 66.4%).{{sfn|OPMC Closing the Gap}}
+
+Due to this, the Close the Gap campaign has focused on improving education for Aboriginal persons, with some success
+0.0836746
+The film won won the [[Un Certain Regard]] Special Jury Prize at the [[2006 Cannes Film Festival]].{{sfn|Maddox|AAP|2006}}{{sfn|Festival de Cannes|2006}}
+
+''[[The Straits]]'', a 2012 drama series for TV based on an idea by Torres Strait Islander actor [[Aaron Fa'aoso]], was partly filmed in the Torres Strait Islands and starred Fa'aoso and [[Jimi Bani]] (from [[Mabuiag Island]]), as well as [[Papua New Guinea]]n actors.{{sfn|Swift|2011}} The documentary TV series ''[[Blue Water Empire]]'' (aired 2019), featuring Fa'aoso and Bani, tells the story of Torres Strait Islands from [[colonisation of Australia|pre-colonial era]] up to contemporary times
+0.0850852
+[[Murujuga]] in Western Australia was heritage listed in 2007.{{sfn|ABC – Pilbara Rock Art}}
+
+In terms of age and abundance, [[cave art]] in Australia is comparable to that of [[Lascaux]] and [[Cave of Altamira|Altamira]] ([[Upper Paleolithic]] sites in Europe),{{sfn|Australian Museum|2011}} and Aboriginal art is believed to be the oldest continuing tradition of art in the world.{{sfn|NGoV}} There are three major regional styles: the geometric style found in Central Australia, Tasmania, the Kimberley and Victoria, known for its concentric circles, arcs and dots; the simple figurative style found in [[Queensland]]; and the complex figurative style found in [[Arnhem Land]] and [[the Kimberley]]
+0.0913276
+[[File:Aboriginal farmers at Franklinford 1858.jpg|thumb|Aboriginal farmers in Victoria, 1858]]
+The naming of peoples is complex and multi-layered, but a few examples are [[Anangu]] in northern [[South Australia]], and neighbouring parts of Western Australia and [[Northern Territory]]; [[Arrernte people|Arrernte]] in central Australia; [[Koori]] (or Koorie) in New South Wales and [[Victoria (Australia)|Victoria]] ([[Aboriginal Victorians]]); Goorie (variant pronunciation and spelling of Koori) in South East Queensland and some parts of northern New South Wales; [[Murri people|Murri]] used in parts of Queensland and northern New South Wales where specific collective names are not used; [[Tiwi people]] of the [[Tiwi Islands]] off NT, and [[Palawah]] in [[Tasmania]]
+0.091783
+ | journal = The Journal of British Studies
+ | year = 2012 | volume = 47 | pages = 77–106
+ | doi = 10.1086/522350
+ | ref = harv
+}}
+*{{cite web| title = Treasure Trove: Bennelong's letter
+ | last = Maher | first = Louise
+ | work = 666 ABC Canberra
+ | publisher = Australian Broadcasting Corporation
+ | url = http://www.abc.net.au/local/stories/2013/08/08/3821136.htm
+ | date = 8 August 2013 | access-date = 6 January 2020
+ | ref = harv
+}}
+*{{cite journal | title = A genomic history of Aboriginal Australia
+ | last1 = Malaspinas | first1 = Anna-Sapfo
+ | last2 = Westaway | first2 = Michael C
+0.0917982
+Some of these are in national parks such as those of the [[UNESCO]] listed sites at [[Uluru]] and [[Kakadu National Park]] in the [[Northern Territory]], but examples can also within protected parks in urban areas such as at [[Ku-ring-gai Chase National Park]] in Sydney.{{sfn|Parks Australia (1)}}{{sfn|Parks Australia (2)}}{{sfn|NSW NPWS}} The [[Sydney rock engravings]] are between 5000 and 200 years old
+0.0927528
+For example, the last fluent speaker of the [[Ngarrindjeri language]] died in the late 1960s; using recordings and written records as a guide, a Ngarrindjeri dictionary was published in 2009,{{sfn|UniSA|2008}} and the Ngarrindjeri language is today being spoken in complete sentences.{{sfn|ABoS|2012}}
+
+Linguists classify many of the mainland Australian languages into one large group, the [[Pama–Nyungan languages]]
+0.0946465
+Photo taken by [[Herbert Basedow]].]]
+Despite efforts to bar their enlistment, over 1,000 Indigenous Australians fought for Australia in the First World War.{{sfn|Londey}}
+
+1934 saw the first appeal to the [[High Court of Australia|High Court]] by an Aboriginal Australian, and it succeeded
+0.0946465
+*{{cite news| title = Ash Barty number one world ranking sends Queensland into overdrive
+ | last = Horn | first = Allyson
+ | publisher = ABC News
+ | url = https://www.abc.net.au/news/2019-06-24/ash-barty-world-number-one-ranking-reaction/11240014
+ | date = 24 June 2019 | access-date = 24 June 2019
+ | ref = {{harvid|ABC News|2019}}
+}}
+*{{cite web| title = AIATSIS map of Indigenous Australia
+ | last = Horton | first = David R
+0.0956073
+The Pama–Nyungan languages comprise the majority, covering most of Australia, and are generally thought to be a family of related languages
+0.0956073
+The [[Living Archive of Aboriginal Languages]] contains stories written in traditional languages of the [[Northern Territory]]
+0.0956074
+ | display-authors = 4
+ | journal = Archaeology in Oceania
+ | year = 2001 | volume = 36 | issue = 3 | pages = 537–542
+ | url = http://arts.anu.edu.au/grovco/Mungo3%20forum.pdf | url-status = dead
+ | archive-url = https://web.archive.org/web/20130515000756/http://arts.anu.edu.au/grovco/Mungo3%20forum.pdf
+ | archive-date = 15 May 2013
+ | doi = 10.1002/j.1834-4453.2001.tb00490.x | pmc = 14622 | pmid = 11209053
+ | ref = harv
+}}
+*{{cite web| title = Piltawodli Native Location (1838-1845)
+ | last = Amery | first = Rob
+ | website = German missionaries in Australia
+ | publisher = Griffith University
+ | url = http://missionaries.griffith.edu.au/mission/piltawodli-native-location-1838-1845
+ | date = n.d
+0.0956074
+ The indigenous language spoken mainly in the western and central islands is [[Kalaw Lagaw Ya]], a language related to the [[Pama–Nyungan languages]] of the Australian mainland
+0.102617
+ | journal = Archaeology in Oceania
+ | year = 1986 | volume = 21 | pages = 69–75
+ | doi = 10.1002/j.1834-4453.1986.tb00126.x
+ | ref = harv
+}}
+*{{cite news| title = Canoes set Cannes jury afloat
+ | last1 = Maddox | first1 = Garry
+ | last2 = AAP
+ | newspaper = The Sydney Morning Herald
+ | date = 29 May 2006
+ | ref = harv
+}}
+*{{Cite journal | title = From Terror to Genocide: Britain's Tasmanian Penal Colony and Australia's History Wars
+ | last = Madley | first = B
+0.106516
+Settlements were subsequently established in [[Tasmania]] (1803), [[Victoria (Australia)|Victoria]] (1803), [[Queensland]] (1824), [[Western Australia]] (1826), and the [[Colony of South Australia]] (1836).{{sfn|Broome|2010|p=18}}
+
+The first settlement in the [[Northern Territory]] was built after Captain [[Gordon Bremer]] took possession of the [[Tiwi Islands]] of [[Bathurst Island (Australia)|Bathurst]] and [[Melville Island (Australia)|Melville]], claiming them for the [[colony of New South Wales]], although that settlement failed after a few years,{{sfn|Morris|2001|p=245}} along with a couple of later attempts; permanent settlement was only finally achieved at [[Darwin, Northern Territory|Darwin]] in 1869
+0.108841
+The panel's recommendations, reported to the federal government in January 2012,{{sfn|CoA|2012}} included deletion of provisions of the Constitution referencing race ([[Section 25 of the Constitution of Australia|Section 25]] and [[Section 51(xxvi) of the Australian Constitution|Section 51(xxvi)]]), and new provisions on meaningful recognition and further protection from discrimination.{{efn|For a discussion of the recommendations, see: {{harvnb|Wood|2012|p=156}}}} Subsequently, a [[Proposed 2013 Australian constitutional referendum|proposed referendum on Constitutional recognition of Indigenous Australians]] was ultimately abandoned in 2013
+0.111439
+
+Many Indigenous actors, directors, producers and others have been involved in the production of film and [[TV series]] in the 21st century: [[Ivan Sen]], [[Rachel Perkins]] (with her company [[Blackfella Films]]), [[Aaron Pedersen]], [[Deborah Mailman]], [[Warwick Thornton]], [[Leah Purcell]], [[Shari Sebbens]], [[Sally Riley (filmmaker)|Sally Riley]], [[Luke Carroll]] and [[Miranda Tapsell]], [[Wayne Blair]], [[Trisha Morton-Thomas]] and [[Rachel Perkins]], among others, with many of them well-represented in award nominations and wins.{{sfn|Screen Australia|2018}} The films ''[[Sweet Country (2017 film)|Sweet Country]]'' (2017), [[Top End Wedding]] (2019) and TV series ''[[Cleverman]]'' and ''[[Total Control (TV series)|Total Control]]'' (2019), all made by Aboriginal film-makers and featuring Aboriginal themes, were well-received and in some cases won awards
+0.116674
+In 1999–2003, [[neoplasms]] accounted for 17% of all deaths{{sfn|Indigenous Mortality}}
+|-
+| Respiratory
+| 3 to 4-fold
+| 3 to 4-fold increased death rate from [[respiratory disease]] accounting for 8% of total deaths
+|}
+
+Each of these indicators is expected to underestimate the true prevalence of disease in the population due to reduced levels of diagnosis.{{sfn|AIoHW|2003}}
+
+In addition, the following factors have been at least partially implicated in the inequality in life expectancy:{{sfn|AIoHW|2003}}
+* poverty
+* insufficient education
+* substance abuse{{sfn|ABC Petrol Sniffing|2013}}
+* for remote communities poor access to health services
+* for urbanised Indigenous Australians, cultural pressures which prevent access to health services
+* [[#Cross-cultural miscommunication|cultural differences resulting in poor communication]] between Indigenous Australians and health workers
+
+Successive Federal Governments have responded to these issues by implementing programs such as the [[Office of Aboriginal and Torres Strait Islander Health]] (OATSIH)
+0.121438
+[[Arthur Beetson]], [[Laurie Daley]] and [[Gorden Tallis]] captained Australia in [[rugby league]], while [[Mark Ella]] captained Australia in [[rugby union]]
+0.121688
+Genocide, Slavery and the Return of the Colonial Repressed
+ | last = Dirk Moses | first = A
+ | publisher = ABC Religion & Ethics
+ | url = https://www.abc.net.au/religion/who-is-really-airbrushing-the-past-genocide-slavery-and-the-retu/10095434
+ | date = 1 September 2017
+ | ref = harv
+}}
+*{{Cite book| title = The Rise and Fall of Languages
+ | last = Dixon | first = R
+0.122437
+
+Proposed solutions to the problem are a topic of heated debate among politicians and the community at large.{{sfn|LAoNT|2004}} In 2005 this problem among remote Indigenous communities was considered so serious that a new, low aromatic petrol [[Opal (fuel)|Opal]] was distributed across the Northern Territory to combat it.{{sfn|Australian Government|2006b}}
+
+=== Native title and sovereignty ===
+{{main|Native title in Australia}}
+About 22% of land in Northern Australia ([[Kimberley (Western Australia)|Kimberley]], [[Top End]] and [[Cape York Peninsula|Cape York]]) is now Aboriginal-owned.{{sfn|EnviroNorth|n.d.}}{{sfn|PEG|2012}} In the last decade, nearly 200 native title claims covering 1.3&nbsp;million km<sup>2</sup> of land – approximately 18% of the Australian continent – have been approved.{{sfn|''Time''|2013}}
+
+In 1992, in ''[[Mabo v Queensland (No
+0.12429
+Australia: ANU, Ph.D.</ref>
+
+[[Songline]]s relate to the [[Dreamtime]] in Aboriginal culture, overlapping with [[oral lore]].{{sfn|Common Ground: Songlines}}
+
+Indigenous musicians have been prominent in various contemporary styles of music, including creating a [[Indigenous rock#Australia|sub-genre of rock music]] as well as participating in [[pop music|pop]] and other mainstream styles
+0.12429
+Historical acts of systemic racism, such as the Stolen Generation, have traumatised entire communities, as has other issues such as police brutality, disconnection from land, offence criminalisation and poor socioeconomic situation as a result of high poverty and unemployment rates, amongst others.{{sfn|Creative Spirits}} On 9 August 2018, a senior research officer from [[Human Rights Watch]] reported, "I visited 14 prisons across Australia, and heard story after story of Indigenous people with disabilities, whose lives have been cycles of abuse and imprisonment, without effective support." The researcher said that the result is Australia's prisons are disproportionately full of Indigenous people.{{sfn|HRW – Nightmare Lives|2018}} In addition to this, Aboriginal Australians are overrepresented as victims of crime
+0.127828
+
+=== Music and dance ===
+{{Main|Indigenous music of Australia|Indigenous dance of Australia}}
+[[File:Didgeridoo (Imagicity 1070).jpg|thumb|A [[didgeridoo]] player]]
+[[File:1981 event Australian aboriginals.jpg|thumb|left|Aboriginal dancers in 1981]]
+Music and dance have formed an integral part of the [[society|social]], [[culture|cultural]] and ceremonial observances of people through the millennia of the individual and collective histories of Australian Indigenous peoples to the present day.{{sfn|LPP|2001}}{{sfn|Fiona|2007}}{{sfn|Newton|1990|pp=93–101}}{{sfn|Dunbar‐Hall|Gibson|2000|pp=45–73}} Around 1950, the first research into Aboriginal music was undertaken by the anthropologist [[A
+0.129816
+Major [[ancestral]] spirits include the [[Rainbow Serpent]], [[Baiame]], [[Dirawong]] and [[Bunjil]].{{cn|date=January 2020}} Knowledge contained in the Dreaming has been passed down through different stories, [[songline]]s, dances and ceremonies, and even today provides a framework for ongoing relationships, [[Australian Aboriginal kinship|kinship responsibilities]] and looking after country.{{sfn|WVA - 8 interesting facts}}
+
+Traditional healers (known as [[Ngangkari]] in the [[Western Desert cultural bloc|Western desert]] areas of Central Australia) were highly respected men and women who not only acted as healers or doctors, but were generally also custodians of important Dreaming stories.{{sfn|Traditional Healers|2013|pp=15–19}}
+
+====Torres Strait Islander====
+{{further||Torres Strait Islanders#Religion and beliefs}}
+Torres Strait Islander people have their own traditional belief systems
+0.13008
+The numbers broken down by state areas follows:{{sfn|ABoS Census|2017}}
+* [[New South Wales]] – 216,176
+* [[Queensland]] – 186,482
+* [[Western Australia]] – 75,978
+* [[Northern Territory]] – 58,248
+* [[Victoria (Australia)|Victoria]] – 47,788
+* [[South Australia]] – 34,184
+* [[Tasmania]] – 23,572
+* [[Australian Capital Territory]] – 6,508
+* and a small number in other Australian territories
+
+The state with the largest total Indigenous population is New South Wales
+0.13385
+However, the term has a practical application and can be used where appropriate.{{sfn|Common Ground}}
+
+In recent years, "First Nations",{{sfn|Media RING|2018}} "First Peoples"{{sfn|MCA}} and "First Australians" have become more common
+0.13385
+| access-date = 3 July 2011 | archive-date = 15 May 2009
+ | ref = {{harvid|TSRA - history}}
+}}
+*{{Cite journal | title = First Aboriginal genome sequenced
+ | last = Callaway | first = E
+0.133953
+| year = 1997
+ | publisher = Cambridge University Press
+ | url = https://books.google.com/books?id=qsyudSYieaQC&printsec=frontcover
+ | isbn = 978-0-521-62654-5
+ | ref = harv
+}}
+*{{cite journal | title = Documenting a Democracy: Yirrkala bark petitions 1963 (Cth)
+ | journal = National Archives of Australia
+ | url = http://www.foundingdocs.gov.au/item.asp?dID=104 | url-status = dead
+ | archive-url = https://web.archive.org/web/20110601205536/http://www.foundingdocs.gov.au/item.asp?dID=104
+ | archive-date = 1 June 2011
+ | ref = {{harvid|NAA – DaD}}
+}}
+*{{cite web| title = 'The Dreaming' <!-- deny Citation bot (the single quotes are correct) -->
+ | website = Common Ground
+ | url = https://www.commonground.org.au/learn/the-dreaming
+ | access-date = 5 January 2020
+ | ref = {{harvid|'The Dreaming'}}
+}}
+*{{Cite journal | title = Singing about nations within nations: Geopolitics and identity in Australian indigenous rock music
+ | last1 = Dunbar‐Hall | first1 = P
+0.135173
+The majority in the High Court rejected the doctrine of ''terra nullius'', in favour of the concept of native title.{{sfn|ALII|1992}}
+
+In 2013 an Indigenous group describing itself as the [[Murrawarri Republic]] declared independence from Australia, claiming territory straddling the border between the states of New South Wales and Queensland.{{sfn|Neubauer|2013}} Australia's Attorney General's Department indicated it did not consider the declaration to have any meaning in law.{{sfn|Neubauer|2013}}
+
+In 2014 another Indigenous group describing itself as the [[Sovereign Yidindji Government]] declared independence from Australia.{{sfn|Howden|2015}}
+
+Unlike in other parts of the former [[British Empire]], like the [[Treaty of Waitangi]] in New Zealand, no treaty has ever been concluded between Indigenous Australians and an Australian government
+0.135209
+
+For Torres Strait Islander people, singing and dancing is their "literature" – "the most important aspect of Torres Strait lifestyle
+0.146026
+The position of Tasmanian languages is unknown, and it is also unknown whether they comprised one or more than one specific language family.{{citation needed|date=January 2020}}
+
+===Torres Strait Island languages===
+{{main|Torres Strait Island languages}}
+There are three languages spoken in the [[Torres Strait Islands]], two indigenous languages and an English-based creole
+0.150215
+The statement calls for a "First Nations Voice" in the Australian Constitution and a "Makarrata Commission" to supervise a process of "agreement-making" and "truth-telling" between government and Aboriginal and Torres Strait Islander peoples.{{sfn|Uluru Statement: a quick guide}} The statement references the [[Australian referendum, 1967 (Aboriginals)|1967 referendum]] which brought about changes to the Constitution to include Indigenous Australians
+0.150357
+Estimated life expectancy of Indigenous men ranges from 61.5 years for those living in the Northern Territory to a high of 69.9 years for those living in New South Wales, and for Indigenous women, 69.2 years for those living in the Northern Territory to a high of 75.0 years for those living in New South Wales.{{sfn|ABoS – Life Tables|2009}}{{sfn|Lunn|2008}}{{sfn|Joel|2009}}<ref>Australian Indigenous Health Vol 9 No 2, April 2009 – June 2009 [[Australian Bureau of Statistics]]</ref>
+
+=== Education ===
+There is a significant gap between Aboriginal and non-Aboriginal people in terms of education
+0.156126
+Following the 1973 Woodward commission enquiry, in 1976 the Australian federal government under [[Gough Whitlam]] enacted the Aboriginal Land Rights (Northern Territory) Act 1976 to recognise Aboriginal Australians' system of land rights in the Northern Territory
+0.162251
+On 13 February 2008, Prime Minister [[Kevin Rudd]] reversed Howard's decision and issued a [[Apology to Australia's Indigenous peoples|public apology]] to members of the [[Stolen Generations]] on behalf of the Australian Government.{{sfn|CoA|2012}}
+
+ATSIC was abolished by the Australian Government in 2004 amidst allegations of corruption.{{sfn|Pratt|2003}}
+
+====Emergency Response/Stronger Futures====
+The [[Northern Territory National Emergency Response]] (also known as the Intervention) was launched in 2007 by the government of Prime Minister [[John Howard]], in response to the ''[[Little Children are Sacred]]'' report into allegations of [[child abuse]] among Aboriginal communities in the NT
+0.162533
+
+The 2004–05 National Aboriginal and Torres Strait Islander Health Survey (NATSIHS) by the [[Australian Bureau of Statistics|ABS]] found that the proportion of the Indigenous adult population engaged in "risky" and "high-risk" alcohol consumption (15%) was comparable with that of the non-Indigenous population (14%), based on age-standardised data.{{sfn|ABoS|2006|p=22}} The definition of "risky" and "high-risk" consumption used is four or more standard drinks per day average for males, two or more for females
+0.163335
+ | journal = Journal of Human Evolution
+ | year = 2003 | volume = 45 | issue = 3 | pages = 203–17
+ | url = http://pure-oai.bham.ac.uk/ws/files/10598486/2003_Smith_et_al_JHE.pdf
+ | doi = 10.1016/S0047-2484(03)00106-4 | pmid = 14580590
+ | ref = harv
+}}
+*{{cite web| title = Songlines
+ | website = Common Ground
+ | url = https://www.commonground.org.au/learn/songlines
+ | access-date = 7 January 2020
+ | ref = {{harvid|Common Ground: Songlines}}
+}}
+*{{Cite book| chapter = Spencer, Sir Walter Baldwin (1860–1929)
+ | title = Spencer, Sir Walter Baldwin (1860–1929) Biographical Entry
+ | publisher = Australian Dictionary of Biography
+ | chapter-url = http://adbonline.anu.edu.au/biogs/A120043b.htm
+ | date = 14 July 1929
+ | ref = {{harvid|ADBO|1929}}
+}}
+*{{cite book| title = Race and Ethnicity: Culture, identity and representation
+ | last = Spencer | first = Stephen | year = 2006
+ | publisher = Routledge | location = London
+ | pages = 33–34
+ | isbn = 978-1-134-26639-5
+ | ref = harv
+}}
+*{{cite web| title = Spirituality and religion among Torres Strait Islanders
+ | publisher = Queensland Curriculum & Assessment Authority
+ | url = https://www.qcaa.qld.edu.au/about/k-12-policies/aboriginal-torres-strait-islander-perspectives/resources/spirituality-religion
+ | date = 25 July 2018 | access-date = 5 January 2020
+ | ref = {{harvid|QCAA|2018}}
+}}
+*{{Cite journal | title = Origins of Travelling Stock Routes
+0.165711
+This led the author to conclude that issues such as rape and incest are widespread particularly within regional Aboriginal communities despite being drastically underreported to local government or police.{{sfn|Ampe Akelyernemane Meke Mekarle|2007}} A later statistical overview of Aboriginal Australians did note however "that non-Aboriginal children were more likely than Aboriginal children to have substantiations where the main type of abuse was sexual." The author also noted that while underreporting must be considered as a factor, the information available at the time "does not appear to support the allegations of endemic child abuse in NT remote communities that was the rationale for the NTER".{{sfn|AHRC|2008}}
+
+=== Substance abuse ===
+{{Further|Indigenous health in Australia}}
+[[File:kava.JPG|thumb|upright=1.15|A signpost outside [[Yirrkala, Northern Territory|Yirrkala]], NT, where [[kava]] was introduced as a safer alternative to alcohol, but was withdrawn in 2007.]]
+
+Many Indigenous communities suffer from a range of health, social and legal problems associated with [[substance abuse]] of both legal and illegal drugs
+0.166226
+ | journal = Nature
+ | year = 2011
+ | doi = 10.1038/news.2011.551
+ | ref = harv
+}}
+*{{cite book| title = Invisible Invaders: Smallpox and Other Diseases in Aboriginal Australia, 1780–1880
+ | last = Campbell | first = Judy
+ | publisher = Melbourne UP | place = Carlton, Vic
+ | url = http://search.informit.com.au.simsrad.net.ocs.mq.edu.au/browsePublication;res=IELIND;isbn=0522849393
+ | date = 2007
+ | isbn = 978-0-522-84939-4
+ | ref = harv
+}}
+*{{Cite journal | title = The Moyjil site, south-west Victoria, Australia: fire and environment in a 120,000-year coastal midden — nature or people
+0.171028
+"The dancing and its movements express the songs and acts as the illustrative material".{{sfn|Wiltshire|2017}}
+
+=== Literature ===
+{{Main|Indigenous Australian literature}}
+{{multiple image
+ | align        = right
+ | direction    = horizontal
+ | header_align = centre
+ | header       =
+ | image1       = David Unaipon.jpg
+ | width1       = 170
+ | alt1         =
+ | caption1     = [[David Unaipon]], the first Aboriginal published author
+ | image2       = Noel Pearson 8Feb10.jpg
+ | width2       = 154
+ | alt2         =
+ | caption2     = Aboriginal lawyer, activist and essayist [[Noel Pearson]]
+}}
+There was no written form of the many languages spoken by Indigenous peoples before colonisation
+0.172221
+| access-date = 8 December 2019
+ | ref = harv
+}}
+*{{Cite book| title = Ampe Akelyernemane Meke Mekarle: "Little Children are Sacred"
+ | publisher = Board of Inquiry into the Protection of Aboriginal Children from Sexual Abuse
+ | year = 2007
+ | url = http://www.inquirysaac.nt.gov.au/pdf/bipacsa_final_report.pdf
+ | isbn = 978-0-9803874-1-4
+ | ref = {{harvid|Ampe Akelyernemane Meke Mekarle|2007}}
+}}
+*{{cite web| title = Observations on the Northern Territory Emergency Response in Australia
+ | last = Anaya | first = James
+ | author-link = James Anaya
+ | publisher = un.org.au
+ | url = http://www.un.org.au/files/files/United%20Nations%20Special%20Rapporteur%20-%20Feb%202010.pdf | url-status = dead
+ | archive-url = https://web.archive.org/web/20130420190302/http://www.un.org.au/files/files/United%20Nations%20Special%20Rapporteur%20-%20Feb%202010.pdf
+ | date = February 2010 | access-date = 18 June 2011 | archive-date = 20 April 2013
+ | ref = harv
+}}
+*{{Cite book| title = The Seven Sisters
+ | last = Andrews | first = M
+0.173243
+The earliest conclusively human remains found in Australia are those of [[Lake Mungo remains|Mungo Man LM3 and Mungo Lady]], which have been dated to around 50,000 years [[Before Present|BP]].{{sfn|Bowler|Johnston|Olley|Prescott|2003}} Recent archaeological evidence from the analysis of charcoal and artefacts revealing human use suggests a date as early as 65,000 BP.{{sfn|Davidson|Wahlquist|2017}}{{sfn|Wright|2017}} [[Luminescence dating]] has suggested habitation in [[Arnhem Land]] as far back as 60,000 years BP.{{sfn|Bird|Turney|Fifield|Jones|2002|p=1074}} Evidence of fires in South-West Australia suggest "human presence in Australia 120,000 years ago", although more research is required.{{sfn|Carey|Sherwood|Price|Bowler|2018|pp=71–93}} Genetic research has inferred a date of habitation as early as 80,000 years BP
+0.175772
+These NDSHS comparisons are non-age-standardised; the paper notes that Indigenous figures are based on a sample of 372 people and care should be exercised when using Indigenous figures
+0.175772
+Some Indigenous people who initially became famous in other spheres – for instance, poet [[Oodgeroo Noonuccal]] – have used their celebrity to draw attention to Indigenous issues
+0.175772
+In 1998, a Constitutional Convention which selected a Republican model for a referendum included just six Indigenous participants, leading Monarchist delegate [[Neville Bonner]] to end his contribution to the Convention with his Jagera tribal "Sorry Chant" in sadness at the low number of Indigenous representatives
+0.176039
+ | journal = Journal of the Royal Society of Western Australia
+ | year = 1997 | issue = 80 | pages = 173–179
+ | url = http://www.rswa.org.au/publications/Journal/80%283%29/80%283%29bindon.pdf
+ | ref = harv
+}}
+*{{cite news| title = Aboriginal identity goes beyond skin colour
+ | last = Bird | first = Dylan
+ | newspaper = [[The Sydney Morning Herald]]
+ | url = http://www.smh.com.au/opinion/politics/aboriginal-identity-goes-beyond-skin-colour-20110406-1d40r.html
+ | date = 6 April 2011 | access-date = 13 August 2013
+ | ref = harv
+}}
+*{{Cite journal | title = Radiocarbon analysis of the early archaeological site of Nauwalabila I, Arnhem Land, Australia: implications for sample suitability and stratigraphic integrity
+ | last1 = Bird | first1 = M.I
+0.176867
+ | journal = Quaternary Science Reviews
+ | year = 2002 | volume = 21 | issue = 8–9 | pages = 1061–1075
+ | url = https://www.researchgate.net/publication/240424155
+ | doi = 10.1016/S0277-3791(01)00058-0
+ | ref = harv
+}}
+*{{cite journal | title = Aboriginal Couples at the 2001 Census
+ | last1 = Birrell | first1 = Bob
+ | last2 = Hirst | first2 = John
+ | journal = People and Place
+ | year = 2002 | volume = 10 | issue = 3 | pages = 23–28
+ | url = https://figshare.com/articles/Aboriginal_couples_at_the_2001_census/4969748/1
+ | issn = 1039-4788
+ | ref = harv
+}}
+*{{cite web| title = Black Comedy
+ | publisher = [[ABC (Australian TV channel)|ABC TV]]
+ | url = https://www.abc.net.au/tv/programs/black-comedy/
+ | access-date = 8 January 2020
+ | ref = {{harvid|Black Comedy}}
+}}
+*{{Cite book| title = A Land Half Won
+ | last = Blainey | first = Geoffrey | year = 1980
+ | publisher = Macmillan | location = South Melbourne
+ | page = 75
+ | isbn = 978-0333299494
+ | ref = harv
+}}
+*{{cite book| title = Australien in 142 Photographischen Abbildungen
+ | last = Blandowski | first = W
+0.178101
+ | website = Common Ground
+ | url = https://www.commonground.org.au/learn/aboriginal-or-indigenous
+ | access-date = 6 January 2020
+ | ref = {{harvid|Common Ground}}
+}}
+*{{Cite book| chapter = Aborigine - Definition
+ | title = Merriam-Webster Dictionary
+ | chapter-url = http://www.merriam-webster.com/dictionary/aborigine
+ | date = 31 August 2012
+ | ref = {{harvid|Aborigine – Definition|2012}}
+}}
+*{{cite news| title = Aborigine stitches up role as surgeon
+ | newspaper = The Sydney Morning Herald
+ | url = http://www.smh.com.au/articles/2003/01/04/1041566268546.html
+ | date = 5 January 2003 | access-date = 27 June 2010
+ | ref = {{harvid|''The Sydney Morning Herald''|2003}}
+}}
+*{{cite web| title = About
+ | website = Stand for Freedom
+ | year = 2012
+ | url = http://standforfreedom.org.au/about/ | url-status = dead
+ | archive-url = https://web.archive.org/web/20120413181905/http://standforfreedom.org.au/about/
+ | access-date = 26 April 2012 | archive-date = 13 April 2012
+ | ref = {{harvid|''Stand for Freedom''|2012}}
+}}
+*{{cite web| title = About the reparations scheme
+ | publisher = Government of Queensland
+ | url = https://www.qld.gov.au/atsi/having-your-say/stolen-wages-about/index.html | url-status = dead
+ | archive-url = https://web.archive.org/web/20161124095135/https://www.qld.gov.au/atsi/having-your-say/stolen-wages-about/index.html
+ | access-date = 23 November 2016 | archive-date = 24 November 2016
+ | ref = {{harvid|GoQ}}
+}}
+*{{Cite journal | title = Mitochondrial DNA sequences in ancient Australians: Implications for modern human origins
+ | last1 = Adcock | first1 = G
+0.180868
+"Half-caste aboriginal natives" were shown separately up to the 1966 census, but since 1971 there has been no provision on the forms to differentiate "full" from "part" Indigenous or to identify non-Indigenous persons who are accepted by Indigenous communities but have no genetic descent.{{sfn|Gardiner-Garden|2000}}
+
+As there is no formal procedure for any community to record acceptance, the primary method of determining Indigenous population is from self-identification on census forms
+0.181654
+Two estimates of Indigenous life expectancy in 2008 differed by as much as five years.{{sfn|''National Indigenous Times''|2008}}
+
+In some regions the median age at death was identified in 1973 to be as low as 47 years and the life expectancy gap between Aboriginal people and the rest of the Australian population as a whole, to be 25 years
+0.182073
+Tauris
+ | url = https://books.google.com/?id=3PsLXeDflfMC&pg=PA344&dq=tasmania+genocide+Reynolds
+ | page = 344 n.105
+ | isbn = 978-1-84511-057-4
+ | ref = harv
+}}
+*{{Cite magazine| title = Living with the Past
+ | magazine = FOCUS Asia-Pacific
+ | date = September 1997 | volume = 9
+ | url = http://www.hurights.or.jp/asia-pacific/no_9/no9_past.htm
+ | access-date = 25 September 2010
+ | ref = {{harvid|FOCUS Asia-Pacific|1997}}
+}}
+*{{cite news| title = Wyatt to challenge for WA Labor leadership
+ | last = Lloyd | first = J
+ | newspaper = The Sydney Morning Herald
+ | url = http://news.smh.com.au/breaking-news-national/wyatt-to-challenge-for-wa-labor-leadership-20110105-19g4i.html
+ | date = 5 January 2011 | access-date = 13 August 2013
+ | ref = harv
+}}
+*{{cite book| chapter = 4
+0.185149
+Dhakiyarr disappeared upon release.{{sfn|NAA Uncommon Lives|2004}}{{sfn|AustLII|1934}} In 1938, the 150th anniversary of the arrival of the British [[First Fleet]] was marked as a [[Day of Mourning (Australia)|Day of Mourning]] and Protest at an Aboriginal meeting in Sydney, and has since become marked around Australia as "Invasion Day" or "Survival Day" by Aboriginal protesters and their supporters.{{sfn|Kooriweb.org|1938}}
+
+Hundreds of Indigenous Australians served in the Australian armed forces during World War Two&nbsp;– including with the [[Torres Strait Light Infantry Battalion]] and The [[Northern Territory Special Reconnaissance Unit]], which were established to guard [[Northern Australia|Australia's North]] against the threat of Japanese invasion.{{sfn|AWM}} However, most were denied pension rights and military allotments, except in Victoria, where each case was judged individually, without a blanket denial of rights accruing from their service.{{efn|Indigenous people across Australia and other colonist societies – Canada, New Zealand and South Africa – did not gain equal access to their repatriation benefits and military wages
+0.185506
+These low employment rates suggest significant barriers to Aboriginal persons gaining employment, which may include job location, employer discrimination, and lack of education, amongst others.{{sfn|Biddle|Hunter|Yap|Gray}}
+
+A big factor for Aboriginal employment is education
+0.18564
+In 1973 [[Arthur Beetson]] became the first Indigenous Australian to captain his country in any sport when he first led the Australian National Rugby League team, [[Australia national rugby league team|the Kangaroos]].{{sfn|Arthur Beetson OAM}} In 1982, [[Mark Ella]] became Captain of the Australian National [[Rugby Union]] Team, [[the Wallabies]].{{sfn|Rugby Hall of Fame|2007}} In 2000, Aboriginal sprinter [[Cathy Freeman]] lit the [[Olympic flame]] at the opening ceremony of the [[2000 Summer Olympics]] in Sydney, and went on to win the [[400 metres]] at the Games
+0.187351
+tribal land
+|-
+|Queensland
+|38.2%
+|37.9%
+|34.2%
+|-
+|Western Australia
+|19.7%
+|20.2%
+|22.1%
+|-
+|Northern Territory
+|15.9%
+|12.6%
+|17.2%
+|-
+|New South Wales
+|15.3%
+|18.9%
+|10.3%
+|-
+|Victoria
+|4.8%
+|5.7%
+|5.7%
+|-
+|South Australia
+|4.8%
+|4.0%
+|8.6%
+|-
+|Tasmania
+|1.4%
+|0.6%
+|2.0%
+|}
+
+====Torres Strait Island people====
+The Torres Strait peoples' fishing economy relied on boats, which they built themselves
+0.187676
+von | year = 1862
+ | publisher = Gustav Neumann
+ | url = https://www.wdl.org/en/item/15128/ | via = [[World Digital Library]]
+ | ref = {{harvid|WDL – Blandowski|1862}}
+}}
+*{{Cite book| title = The Aboriginals and Half-Castes of Central Australia and North Australia
+ | last = Bleakley | first = John William | year = 1929
+ | publisher = Government Printer
+0.187908
+Convicts: Exile and Dislocation
+ | last = Ballyn | first = Sue | year = 2011
+ | publisher = University of Barcelona
+ | url = http://www.ub.edu/dpfilsa/2ballyn.pdf
+ | ref = harv
+}}
+*{{Cite news| title = Eight ways we can improve Indigenous employment
+ | last1 = Biddle | first1 = Nicholas
+ | last2 = Hunter | first2 = Boyd
+ | last3 = Yap | first3 = Mandy
+ | last4 = Gray | first4 = Matthew
+ | website = The Conversation
+ | url = https://theconversation.com/eight-ways-we-can-improve-indigenous-employment-60377
+ | access-date = 30 October 2018
+ | ref = harv
+}}
+*{{Cite journal | title = Aboriginal people and granite domes
+ | last = Bindon | first = P
+0.198716
+1933]]
+
+Until the [[1967 Australian referendum (Aboriginals)|1967 referendum]], official Australian population statistics excluded "full-blood aboriginal natives" in accordance with section 127 of the [[Constitution of Australia|Australian Constitution]], even though many such people were actually counted
+0.199717
+The Yirrkala Bark petitions were traditional Aboriginal documents to be recognised under Commonwealth law.{{sfn|indigenous.gov.au|2013}}
+* On Australia day in 1972, 34 years after the first "Day of Protest and Mourning", Indigenous activists set up the [[Aboriginal Tent Embassy]] on the lawn of [[Old Parliament House, Canberra|Old Parliament House]] to protest the state of [[Aboriginal land rights in Australia|Aboriginal land rights]]
+0.200083
+However, in 1889 Parliament recognised [[Fanny Cochrane Smith]] (d:1905) as the last surviving full-blooded Tasmanian Aboriginal person.{{efn|For discussion of the Truganini claim, and the other candidates, Suke and Fanny Cochrane Smith, see {{harvnb|Taylor|2008|pp=140ff}}}}{{efn|{{harvnb|Ryan|1996|p=220}} denies Truganini was the last "full-blood", and makes a case for Suke (d.circa 1888)}}
+
+The 2016 census reported 23,572 Indigenous Australians in the state of Tasmania.{{sfn|ABoS Census|2017}}
+
+==== Torres Strait Islanders ====
+[[File:TorresStraitIslandsMap.png|thumb|Map of [[Torres Strait Islands]]]]
+
+{{Main|Torres Strait Islanders}}
+The Torres Strait Islander people possess a heritage and cultural history distinct from Aboriginal traditions
+0.202394
+Gillen]] in 1900–1903.{{sfn|ADBO|1929}}
+
+''[[Jedda]]'' (1955) was the first Australian feature film to be shot in [[colour film]], the first to star Aboriginal actors in lead roles ([[Ngarla Kunoth]] and [[Robert Tudawali]]), and the first to be entered at the [[Cannes Film Festival]].{{sfn|Festival de Cannes|2011}} 1971's ''[[Walkabout (film)|Walkabout]]'' was a British film set in Australia; it was a forerunner to many Australian films related to indigenous themes and introduced [[David Gulpilil]] to cinematic audiences
+0.20446
+The right of Indigenous ex-servicemen to vote was affirmed in 1949 and all Indigenous Australians gained the unqualified right to vote in Federal elections in 1962.{{sfn|AEC|2007}} Unlike other Australians, however, voting was not made compulsory for Indigenous people
+0.209703
+
+Using a new method based on tracing the deaths of people identified as Indigenous at the 2006 census, in 2009 the ABS estimated life expectancy at 67.2 years for Indigenous men (11.5 years less than for non-Indigenous) and 72.9 years for Indigenous women (9.7 years less than for non-Indigenous)
+0.209756
+As part of this, there was an increase in the number of children forcibly removed from their homes and placed with white people, either in institutions or foster homes.{{sfn|''Face the Facts''|2005}}
+
+====Frontier Wars====
+{{main|Australian frontier wars|List of massacres of Indigenous Australians}}
+As part of the colonisation process, there were many small-scale conflicts and clashes between colonists and Aboriginal and Torres Strait Islander people across the continent and islands
+0.210336
+All of these terms include people descended from groups who existed in Australia and surrounding islands before [[History of Australia (1788–1850)|British colonisation]]
+0.210336
+In 1992, the [[High Court of Australia]] reversed Justice Blackburn's ruling and handed down its decision in the [[Mabo v Queensland (No 2) (1992)|Mabo Case]], declaring the previous legal concept of ''terra nullius'' to be invalid and confirming the existence of [[native title in Australia]]
+0.210336
+2)|Mabo v Queensland]]'', the High Court of Australia recognised native title in Australia for the first time
+0.210336
+The policy has been criticised by organisations such as [[Amnesty International]] and other groups, including on the basis that it maintains "racially-discriminatory" elements of the ''Emergency Response Act'' and continues control by the federal government over "Aboriginal people and their lands".{{sfn|''Stand for Freedom''|2012}}
+
+====Constitutional change proposed====
+In 2010, the federal government appointed a panel comprising Indigenous leaders, other legal experts and some members of parliament (including Ken Wyatt) to provide advice on how best to recognise Aboriginal and Torres Strait Islander peoples in the [[Australian Constitution|federal Constitution]]
+0.210719
+ATSIC Review: Complex Challenges, No Simple Solutions
+ | last = Pratt | first = Angela
+ | publisher = Parliament of Australia, Parliamentary Library
+ | url = http://www.aph.gov.au/library/Pubs/RN/2003-04/04rn05.htm | url-status = dead
+ | archive-url = https://web.archive.org/web/20120203012437/http://www.aph.gov.au/library/Pubs/RN/2003-04/04rn05.htm
+ | date = 11 August 2003 | archive-date = 3 February 2012
+ | ref = harv
+}}
+*{{cite news| title = Preserving Indigenous culture through language
+ | publisher = University of South Australia
+ | type = Media release
+ | url = http://w3.unisa.edu.au/news/2008/160508.asp | url-status = live
+ | archive-url = https://web.archive.org/web/20110705140154/http://www.unisa.edu.au/news/2008/160508.asp
+ | date = 16 May 2008 | access-date = 26 May 2015 | archive-date = 5 July 2011
+ | ref = {{harvid|UniSA|2008}}
+}}
+*{{cite web| title = Rabbit-Proof Fence (2002) on ASO – Australia's audio and visual heritage online
+ | website = australianscreen
+ | url = http://aso.gov.au/titles/features/rabbit-proof-fence/
+ | access-date = 2 June 2011
+ | ref = {{harvid|ASO – Rabbit-Proof Fence}}
+}}
+*{{Cite journal | title = An Aboriginal Australian Genome Reveals Separate Human Dispersals into Asia
+ | last1 = Rasmussen | first1 = M
+0.214271
+ | journal = The American Journal of Human Genetics
+ | year = 2010 | volume = 87 | issue = 2 | pages = 297–305
+ | doi = 10.1016/j.ajhg.2010.07.008 | pmc = 2917718 | pmid = 20691402
+ | ref = harv
+}}<br />"Some individuals are close to the Oceanic cluster, composed of MEL and PAP individuals but most occupy a wide range on PC2 between Europeans and East Asians, generally falling in an area occupied by Central and South Asian populations."
+*{{cite news| title = Chickenpox blamed for Aboriginal deaths
+ | last = McIlroy | first = Tom
+ | newspaper = The Canberra Times
+ | url = http://www.canberratimes.com.au/act-news/chickenpox-blamed-for-aboriginal-deaths-20130807-2rh3m.html
+ | date = 8 August 2013 | access-date = 17 October 2015
+ | ref = harv
+}}
+*{{cite news| title = The Aboriginal Tent Embassy has been left off the ACT heritage list
+ | last = McIlroy | first = Tom
+ | newspaper = The Canberra Times
+ | url = https://www.canberratimes.com.au/national/act/the-aboriginal-tent-embassy-has-been-left-off-the-act-heritage-list-20150417-1mn6xe.html
+ | url-status = dead
+ | archive-url = https://web.archive.org/web/20181024112910/https://www.canberratimes.com.au/national/act/the-aboriginal-tent-embassy-has-been-left-off-the-act-heritage-list-20150417-1mn6xe.html
+ | date = 19 April 2015 | access-date = 24 October 2018 | archive-date = 24 October 2018
+ | ref = harv
+}}
+*{{cite web| title = First Words: A Brief History of Public Debate on a New Preamble to the Australian Constitution 1991–1999 (Research Paper 16 1999–2000)
+ | last = McKenna | first = Mark
+ | publisher = Parliament of Australia, Parliamentary Library
+ | url = http://www.aph.gov.au/library/pubs/RP/1999-2000/2000rp16.htm | url-status = dead
+ | archive-url = https://web.archive.org/web/20120216141203/http://www.aph.gov.au/library/pubs/RP/1999-2000/2000rp16.htm
+ | date = 4 April 2000 | access-date = 12 October 2009 | archive-date = 16 February 2012
+ | ref = harv
+}}
+*{{cite news| title = What's wrong with this street sign
+0.220796
+The book included interviews with several members of the Aboriginal community, including [[Robert Jabanungga]], reflecting on contemporary Aboriginal culture.{{citation needed|date=January 2020}} Use of this term varies depending on context and its use needs care as it may be deemed inappropriate.{{sfn|Common Ground}}
+
+A less formal term, used by Indigenous Australians and not normally derogatory, is "[[blackfella]]s", as distinguished from "whitefellas"
+0.221949
+ | last75 = Willerslev | first75 = Eske
+ | display-authors = 5
+ | journal = Nature
+ | date = 21 September 2016 | volume = 538 | issue = 7624 | pages = 207–214
+ | type = Submitted manuscript
+ | url = http://discovery.ucl.ac.uk/1516136/
+ | bibcode = 2016Natur.538..207M | doi = 10.1038/nature18299 | pmid = 27654914
+ | ref = harv
+}}
+*{{Cite journal | title = Genome-wide data substantiate Holocene gene flow from India to Australia
+ | last1 = Manfred | first1 = K
+ | last2 = Mark | first2 = S
+ | last3 = Irina | first3 = P
+ | last4 = Frederick | first4 = D
+ | last5 = Ellen | first5 = G
+ | journal = PNAS
+ | date = 14 January 2013 | volume = 110 | issue = 5 | pages = 1803–1808
+ | bibcode = 2013PNAS..110.1803P | doi = 10.1073/pnas.1211927110 | pmc = 3562786 | pmid = 23319617
+ | ref = harv
+}}
+*{{Cite web| title = Map of Aboriginal and Islander health/medical services
+ | publisher = [[Australian Indigenous HealthInfoNet]]
+ | url = http://www.healthinfonet.ecu.edu.au/map-aboriginal-australia
+ | ref = {{harvid|AIHIN map}}
+}}
+*{{cite news| title = Mapping the massacres of Australia's colonial frontier
+ | publisher = University of Newcastle, Australia
+ | url = https://www.newcastle.edu.au/newsroom/featured-news/mapping-the-massacres-of-australias-colonial-frontier
+ | date = 5 July 2017b
+ | ref = {{harvid|University of Newcastle|2017b}}
+}}
+*{{cite news| title = Astounding archaeology discovery places inland human occupation of Australia at 49,000 years
+ | last = Marcus | first = S
+ | newspaper = [[The Sydney Morning Herald]]
+ | url = http://www.smh.com.au/technology/sci-tech/astounding-archaeology-discovery-places-inland-human-occupation-of-australia-at-49000-years-20161102-gsg4ox.html
+ | date = 3 November 2016 | access-date = 5 November 2016
+ | ref = harv
+}}
+*{{cite book| title = Children and War: A Historical Anthology
+ | last = Marten | first = James A
+0.224044
+Stories of the Tagai represent Torres Strait Islanders as sea people, with a connection to the stars, as well as a system of order in which everything has its place in the world.{{sfn|WVA - 8 interesting facts}}{{sfn|QCAA|2018}} Some Torres Strait Islander people share beliefs similar to the Aboriginal peoples' Dreaming and "Everywhen" concepts, passed down in [[oral history]].{{sfn|'The Dreaming'}}
+
+===After colonisation===
+{{further|Christianity in Australia#Indigenous Australians and Christianity}}
+
+Christianity and [[European culture]] have had a significant impact on Indigenous Australians, their religion and their culture
+0.228044
+{{harv|AIATSIS|2015}}}} '''First Nations of Australia''', '''First Peoples of Australia''' and '''First Australians''' are also increasingly common terms
+0.229856
+State/territory || 1930-estimated share of population || 1988-estimated share of population || Distribution of trad
+0.232643
+
+Sporting teams include the [[Indigenous All-Stars (Australian football)|Indigenous All-Stars]], [[Flying Boomerangs]] and [[Indigenous Team of the Century]] in Australian rules football, and the [[Indigenous All Stars (rugby league)|Indigenous All Stars]], [[NSW Koori Knockout]] and the [[Murri Rugby League Team]] in rugby league
+0.242835
+Not only were many of the children abused – psychologically, physically, or sexually – after being removed and while living in group homes or adoptive families, but were also deprived of their culture alongside their families.{{sfn|Australians Together}} This has resulted in the disruption of Aboriginal oral culture, as families were unable to communicate their knowledge to the Stolen Generations, and thus much has been lost.{{sfn|Australians Together}} There is also high incidences of anxiety, depression, PTSD and suicide amongst the Stolen Generations, with this resulting in unstable parenting and family situations.{{sfn|Australians Together}}
+
+An inquiry into the Stolen Generations was launched in 1995 by the [[Keating Government|Keating government]], and the final report delivered in 1997 – the ''Bringing Them Home'' report – estimated that around 10% to 33% of all Aboriginal children had been separated from their families for the duration of the policies.{{sfn|Australians Together}} The then-Howard government largely ignored the recommendations provided by the report, one of which was a formal apology to Aboriginal Australians for the Stolen Generations.{{sfn|Australians Together}} There was a formal apology issued on 13 February 2008 by Prime Minister [[Kevin Rudd]] on behalf of the federal government of Australia to the Aboriginal Australians over the [[Stolen Generations]].{{sfn|Welch|2008}}
+
+=== Political representation ===
+{{See also|Voting rights of Aboriginal and Torres Strait Islander peoples}}
+
+Under Section 41 of the [[Constitution of Australia|Australian Constitution]], Aboriginal Australians always had the legal right to vote in Australian Commonwealth elections if their State granted them that right
+0.243377
+
+Since 1995, the [[Australian Aboriginal Flag]] and the [[Torres Strait Islander Flag]] have been among the official [[List of Australian flags|flags of Australia]]
+0.243377
+In Australian rules football, Indigenous Australians are playing at the highest level, the [[Australian Football League]]: [[Graham Farmer]], [[Gavin Wanganeen]] and [[Adam Goodes]] are just a few prominent names
+0.243377
+In 1971, [[Neville Bonner]] joined the [[Australian Senate]] as a Senator for Queensland for the [[Liberal Party of Australia|Liberal Party]], becoming the first Indigenous Australian in the Federal Parliament
+0.245674
+ | journal = Proceedings of the Royal Society of Victoria
+ | year = 2018 | volume = 130 | issue = 2 | pages = 71–93
+ | doi = 10.1071/rs18007 | issn = 2204-1362
+ | ref = harv
+}}
+*{{cite web| title = Seminar: The 'myth' of smallpox at Sydney Cove in April 1789
+ | last = Carmody
+ | publisher = Australian National University
+ | url = http://caepr.anu.edu.au/Seminars/13/Seminar-Topics%E2%80%94Series-2/07_8_Seminar.php | url-status = dead
+ | archive-url = https://web.archive.org/web/20170202101013/http://caepr.anu.edu.au/Seminars/13/Seminar-Topics%E2%80%94Series-2/07_8_Seminar.php
+ | date = 7 August 2013 | access-date = 28 January 2017 | archive-date = 2 February 2017
+ | ref = harv
+}}
+*{{cite web| title = Census of Population and Housing: Reflecting Australia – Stories from the Census, 2016
+ | publisher = [[Australian Bureau of Statistics]]
+ | url = http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/by%20Subject/2071.0~2016~Main%20Features~Aboriginal%20and%20Torres%20Strait%20Islander%20Population%20Article~12!OpenDocument
+ | date = 31 October 2017 | access-date = 6 March 2016
+ | ref = {{harvid|ABoS Census|2017}}
+}}
+*{{cite web| title = Centre For 21st Century Humanities
+ | website = The Centre for 21st Century Humanities
+ | publisher = University of Newcastle
+ | url = https://c21ch.newcastle.edu.au/colonialmassacres/
+ | ref = {{harvid|UoN}}
+}}
+*{{cite web| title = Chapter 10: Indigenous education
+ | publisher = Cms.curriculum.edu.au
+ | url = http://cms.curriculum.edu.au/anr2004/ch10_literacy.htm | url-status = dead
+ | archive-url = https://archive.today/20121128200610/http://cms.curriculum.edu.au/anr2004/ch10_literacy.htm
+ | access-date = 9 August 2009 | archive-date = 28 November 2012
+ | ref = {{harvid|Cms.curriculum.edu.au}}
+}}
+*{{cite journal | title = Human occupation of northern Australia by 65,000 years ago
+ | last1 = Clarkson | first1 = Chris
+ | last2 = Jacobs | first2 = Zenobia
+ | last3 = Marwick | first3 = Ben
+ | last4 = Fullagar | first4 = Richard
+ | last5 = Wallis | first5 = Lynley
+ | last6 = Smith | first6 = Mike
+ | last7 = Roberts | first7 = Richard G
+0.247916
+Indigenous languages are divided into language groups with from ten to twenty-four language families identified.{{sfn|ABoS|2012}} It is currently estimated that up to 145 Indigenous languages remain in use, of which fewer than 20 are considered to be strong in the sense that they are still spoken by all age groups.{{sfn|ABoS|2012}}{{sfn|Zuckermann|2009}} All but 13 Indigenous languages are considered to be endangered.{{sfn|AIATSIS|2014}} Several extinct Indigenous languages are being reconstructed
+0.248579
+In 2004, the [[Howard government]] disbanded ATSIC and replaced it with an appointed network of thirty Indigenous Coordination Centres that administer Shared Responsibility Agreements and Regional Partnership Agreements with Aboriginal communities at a local level.{{sfn|OIPC|2006}}
+
+In October 2007, just before the calling of a [[2007 Australian general election|federal election]], the then Prime Minister, John Howard, revisited the idea of bringing a referendum to seek recognition of Indigenous Australians in the Constitution (his government first sought to include recognition of Aboriginal peoples in the Preamble to the Constitution in a 1999 referendum)
+0.248579
+By 1995, population numbers had reached pre-colonisation levels, and in 2010 there were around 563,000 Indigenous Australians.{{sfn|Hugo|2012}}
+
+Although, as [[British subject]]s, all Indigenous Australians were nominally entitled to vote, generally only those who merged into mainstream society did so
+0.248579
+
+During the twentieth century, as social attitudes shifted and interest in Indigenous culture increased, there were more opportunities for Indigenous Australians to gain recognition
+0.250359
+590,056 respondents declared they were Aboriginal, 32,345 declared they were [[Torres Strait Islander]], and a further 26,767 declared they were both Aboriginal and [[Torres Strait Islanders]].{{sfn|ABoS Census|2017}} Growth has been mainly in major cities and along the eastern coast of Australia
+0.260052
+In 1976, Sir [[Douglas Nicholls]] was appointed as the 28th Governor of South Australia, the first Aboriginal person appointed to vice-regal office.{{sfn|Civics and Citizenship Education|2005}} In the [[2010 Australian federal election|general election of 2010]], [[Ken Wyatt]] of the [[Liberal Party of Australia|Liberal Party]] became the first Indigenous Australian elected to the [[Australian House of Representatives]]
+0.262242
+Campaigns continue to have Aboriginal body parts returned to Australia for burial; Truganini's body was returned in 1976 and cremated, and her ashes were scattered according to her wishes.{{cn|date=January 2020}}<!--in her article linked above--><!---yes, but still needs citations in this article--->
+
+Place names sometimes reveal discrimination, such as Mount Jim Crow in [[Rockhampton, Queensland]] (now [[Mount Baga]]), as well as racist policies, like Brisbane's Boundary Streets which used to indicate boundaries where Aboriginal people were not allowed to cross during certain times of the day.{{sfn|Condon|2011}} There is ongoing discussion about changing many of these names.{{sfn|McMah|2016}}{{sfn|Terzon|Robinson|2018}}
+
+[[File:Indigenous-wages-graph.jpg|thumb|Graph showing the destination of Indigenous wages in Queensland in the 19th and 20th centuries]]
+Throughout most of the 19th and 20th centuries, Aboriginal and Torres Strait Islander people had their lives under the jurisdiction of various state-based protection laws
+0.26639
+Early encounters on the Adelaide Plains and Encounter Bay
+ | last = Lockwood | first = Christine
+ | title = Colonialism and its Aftermath: A history of Aboriginal South Australia
+ | editor1-last = Brock | editor1-first = Peggy
+ | editor2-last = Gara | editor2-first = Tom
+ | publisher = [[Wakefield Press (Australia)|Wakefield Press]]
+ | date = 2017 | pages = 65–81
+ | isbn = 978-1743054994
+ | ref = harv
+}}
+*{{cite web| title = Indigenous Australian servicemen
+ | last = Londey | first = Peter
+ | publisher = Australian War Memorial
+ | url = http://www.awm.gov.au/encyclopedia/aborigines/indigenous/
+ | access-date = 17 August 2014
+ | ref = harv
+}}
+*{{Cite news| title = Life gap figures not black and white
+ | last = Lunn | first = Stephen
+ | newspaper = The Australian
+ | url = http://www.theaustralian.news.com.au/story/0,25197,24708205-601,00.html | url-status = dead
+ | archive-url = https://web.archive.org/web/20090705190107/http://www.theaustralian.news.com.au/story/0,25197,24708205-601,00.html
+ | date = 26 November 2008 | access-date = 24 April 2009 | archive-date = 5 July 2009
+ | ref = harv
+}}
+*{{cite web| title = Mabo v Queensland (No 2) ('Mabo case') [1992] HCA 23; (1992) 175 CLR 1
+ | publisher = [[Australasian Legal Information Institute]]
+ | url = http://www.austlii.edu.au/au/cases/cth/HCA/1992/23.html | url-status = dead
+ | archive-url = https://archive.today/20120805062252/http://www.austlii.edu.au/au/cases/cth/HCA/1992/23.html
+ | date = 3 June 1992 | access-date = 28 January 2017 | archive-date = 5 August 2012
+ | ref = {{harvid|ALII|1992}}
+}}
+*{{cite journal | title = Single, Rapid Coastal Settlement of Asia Revealed by Analysis of Complete Mitochondrial Genomes
+ | last1 = MacAulay | first1 = V
+0.270418
+[[Oodgeroo Noonuccal]] (1920–1995) was a famous Aboriginal poet, writer and rights activist, credited with publishing the first book of verse by an Aboriginal author, ''We Are Going'' (1964).{{sfn|Modern Australian poetry}} [[Sally Morgan (artist)|Sally Morgan]]'s novel ''[[My Place (book)|My Place]]'' (1987) was considered a breakthrough memoir in terms of bringing Indigenous stories to a wider audience
+0.270418
+Employed Aboriginal Australians are more likely to experience discrimination than those who are unemployed, and it has been found that the second most common source of unfair treatment after members of the public is while Aboriginal persons are at work or applying for work
+0.270419
+Aboriginal women are again highly overrepresented in this figure, accounting for a higher proportion of assault victims than the non-Aboriginal category.{{sfn|ABoS Victims of Crime|2017}}
+
+In 2007, the Northern Territory Government commissioned a study into sexual abuse crimes being committed on children in Aboriginal communities
+0.27047
+
+== Population ==
+===Pre-colonisation===
+It has been variously estimated that before the arrival of British settlers, the population of Indigenous (probably Aboriginal only) Australians was approximately 318,000–1,000,000{{sfn|Gough|2011}} with the distribution being similar to that of the current Australian population, the majority living in the south-east, centred along the [[Murray River]].{{sfn|Pardoe|2006|pp=1–21}}
+
+=== Definition ===
+Over time Australia has used various means to determine membership of ethnic groups such as [[Lineage (genetic)|lineage]], [[Blood quantum laws|blood quantum]], birth and [[self-determination]]
+0.276369
+| year = 2002
+ | publisher = [[New York University Press]] | location = New York
+ | url = https://books.google.com/books?id=ueBgyV7inJAC&lpg=PA229
+ | page = 229
+ | isbn = 978-0-8147-5667-6
+ | ref = harv
+}}
+*{{cite magazine| title = Nothing new in cynicism towards politicians
+ | last = Matthews | first = Brian
+ | magazine = [[Eureka Street (magazine)|Eureka Street]]
+ | url = http://www.eurekastreet.com.au/article.aspx?aeid=3581
+ | date = 17 October 2007 | access-date = 27 June 2010
+ | ref = harv
+}}
+*{{Cite book| title = Living with the Locals: Early Europeans' Experience of Indigenous Life
+ | last1 = Maynard | first1 = John
+ | last2 = Haskins | first2 = Victoria
+ | year = 2016
+ | publisher = National Library of Australia
+ | ref = harv
+}}
+*{{cite magazine| title = Failed state of health
+ | last1 = McCallum | first1 = Kerry
+ | last2 = Waller | first2 = Lisa
+ | magazine = [[Arena Magazine (Australia)|Arena Magazine]]
+ | location = Fitzroy, Victoria
+ | date = June–July 2012 | issue = 118 | pages = 33–34
+ | url = https://search.informit.com.au/documentSummary;res=IELAPA;dn=340259244160866
+ | eissn = 1837-2317 | issn = 1039-1010
+ | ref = harv
+}}
+*{{cite book| title = National Indigenous Languages Survey Report 2005
+ | last1 = McConvell | first1 = Patrick
+ | last2 = Marmion | first2 = Douglas
+ | last3 = McNicol | first3 = Sally
+ | display-authors = etal
+ | year = 2005
+ | publisher = [[Australian Institute of Aboriginal and Torres Strait Islander Studies|AIATSIS]] in association with the Federation of Aboriginal and Torres Strait Islander Languages (FATSIL)
+ | url = https://aiatsis.gov.au/sites/default/files/products/report_research_outputs/nils-report-2005.pdf
+ | isbn = 0-642753-229
+ | ref = {{harvid|AIATSIS & FATSIL|2005}}
+}}
+*{{Cite journal | title = Whole-Genome Genetic Diversity in a Sample of Australians with Deep Aboriginal Ancestry
+ | last1 = McEvoy | first1 = B
+0.278628
+| location = Melbourne
+ | url = http://www.nla.gov.au/apps/doview/nla.aus-vn4969615-p.pdf
+ | page = 17
+ | ref = harv
+}}
+*{{Cite book| title = Australian Languages: Classification and the comparative method
+ | editor1-last = Bowern | editor1-first = Claire
+ | editor2-last = Harold | editor2-first = K
+ | year = 2004
+ | publisher = John Benjamins | location = Sydney
+ | url = https://books.google.com/books?id=CUhQfoMARvgC&printsec=frontcover
+ | isbn = 978-90-272-4761-2
+ | ref = harv
+}}
+*{{Cite journal | title = New ages for human occupation and climatic change at Lake Mungo, Australia
+ | last1 = Bowler | first1 = James M
+ | last2 = Johnston | first2 = H
+ | last3 = Olley | first3 = J M
+ | last4 = Prescott | first4 = John R
+ | last5 = Roberts | first5 = Richard G
+ | last6 = Shawcross | first6 = Wilfred
+ | last7 = Spooner | first7 = Nigel A
+ | journal = [[Nature (journal)|Nature]]
+ | date = 20 February 2003 | volume = 421 | issue = 6925 | pages = 837–840
+ | bibcode = 2003Natur.421..837B | doi = 10.1038/nature01383 | pmid = 12594511
+ | ref = harv
+}}
+*{{cite journal | title = The History of Apologies Down Under
+ | last = Brennan | first = Frank
+ | journal = Thinking Faith – Online Journal of the British Jesuits
+ | url = http://www.thinkingfaith.org/articles/20080221_1.htm | url-status = dead
+ | archive-url = https://web.archive.org/web/20141202000730/http://www.thinkingfaith.org/articles/20080221_1.htm
+ | date = 21 February 2008 | archive-date = 2 December 2014
+ | ref = harv
+}}
+*{{cite web| title = Bringing them home education module: the laws: [www.humanrights.gov.au/education/bth/resources/laws_act.html Australian Capital Territory]; [www.humanrights.gov.au/education/bth/resources/laws_nsw.html New South Wales]; [ww.humanrights.gov.au/education/bth/resources/laws_nt.html Northern Territory]; [www.humanrights.gov.au/education/bth/resources/laws_qld.html Queensland Queensland]; [www.humanrights.gov.au/education/bth/resources/laws_sa.html South Australia]; [www.humanrights.gov.au/education/bth/resources/laws_sa.html Tasmania]; [www.humanrights.gov.au/education/bth/resources/laws_vic.html Victoria]; [www.humanrights.gov.au/education/bth/resources/laws_wa.html Western Australia
+ | publisher = [[Australian Human Rights Commission]]
+ | url = http://www.humanrights.gov.au/education/bth/contents.html | url-status = dead
+ | archive-url = https://web.archive.org/web/20080722011904/http://www.humanrights.gov.au/education/bth/contents.html
+ | archive-date = 22 July 2008
+ | ref = {{harvid|Bringing them home education module}}
+}}
+*{{cite book| title = Aboriginal Australians: A History Since 1788
+ | last = Broome | first = Richard | year = 2010
+ | author-link = Richard Broome
+ | publisher = [[Allen & Unwin]]
+ | url = https://books.google.com/books?id=prDiOdI4H9IC&pg=PA15
+ | isbn = 978-1-741-76554-0
+ | ref = harv
+}}
+*{{cite web| title = Lake Mungo 3
+ | last = Brown | first = Peter James
+ | orig-year = First published 2002
+ | publisher = peterbrown-palaeoanthropology.net
+ | url = http://www.peterbrown-palaeoanthropology.net/LM3.html
+ | date = 18 November 2015 | access-date = 28 January 2017
+ | ref = harv
+}}
+*{{cite web| title = History of Torres Strait to 1879 – a regional view
+ | last = Burton | first = John
+ | publisher = Torres Strait Regional Authority
+ | url = http://www.tsra.gov.au/the-torres-strait/general-history.aspx | url-status = dead
+ | archive-url = http://webarchive.loc.gov/all/20090515015550/http://www.tsra.gov.au/the-torres-strait/general-history.aspx
+ | date = n.d
+0.283629
+However, traditional Aboriginal conversational interaction is "communal", broadcast to many people, eye contact is not important, the listener controls the interaction; and "continuous", spread over a longer, indefinite time frame.{{sfn|Zuckermann|2015|p=12}}{{sfn|Zuckermann|2015|p=12}}{{sfn|Walsh|1997|pp=7–9}}
+
+== Prominent Indigenous Australians ==
+{{Main|Lists of Indigenous Australians}}
+
+[[File:Cathy400 mediafrenzy.jpg|thumb|[[Cathy Freeman]] surrounded by world media and carrying the [[Aboriginal flag|Aboriginal]] and [[Australian flag]]s following her victory in the 400&nbsp;m final of the [[Sydney Olympics]], 2000.]]
+[[File:ABC Sydney Olympics Freeman.ogv|thumb|[[Australian Broadcasting Corporation|ABC]] footage and interviews of Australians celebrating Freeman's Olympics win – many noting how it brought the country together "as one".]]
+
+After the arrival of European settlers in New South Wales, some Indigenous Australians became translators and go-betweens; the best-known was [[Bennelong]], who eventually adopted European dress and customs and travelled to England where he was presented to [[King George III]]
+0.286822
+[[Carol Martin (politician)|Carol Martin]] was the first Aboriginal woman elected to an Australian parliament (the [[Western Australian Legislative Assembly]]) in 2001, and the first woman minister was [[Marion Scrymgour]], who was appointed to the Northern Territory ministry in 2002 (she became Deputy Chief Minister in 2008).{{sfn|AEC|2007}} Representation in the Northern Territory has been relatively high, reflecting the high proportion of Aboriginal voters
+0.289282
+A further 4% of Indigenous Australians identify themselves as having both Torres Strait Islander and Aboriginal heritage.{{sfn|ABoS|2004a}}
+
+The [[Torres Strait Islands]] comprise over 100 islands{{sfn|Places – Torres Strait Islands|2005}} which were annexed by Queensland in 1879.{{sfn|Places – Torres Strait Islands|2005}} Many Indigenous organisations incorporate the phrase "Aboriginal and Torres Strait Islander" to highlight the distinctiveness and importance of Torres Strait Islanders in Australia's Indigenous population
+0.29375
+(See also below under [[Indigenous Australians#Regional groups|Regional groups]] section.) The abbreviation "ATSI" (for Aboriginal and Torres Strait Islander people) is considered disrespectful.{{sfn|Appropriate words & terminology}}
+
+==== Terms "black" and "blackfella" ====
+The term "black" has been used to refer to Indigenous Australians since European settlement.{{sfn|''Hobart Town Courier''|1828|p=1}} While originally related to [[skin colour]] and often used pejoratively,{{sfn|Common Ground}} the term is used today to indicate Aboriginal heritage or culture in general and refers to any people of such heritage regardless of their level of skin pigmentation.{{sfn|Bird|2011}} In the 1970s, many Aboriginal activists, such as [[Gary Foley]], proudly embraced the term "black", and writer [[Kevin Gilbert (author)|Kevin Gilbert]]'s book from the time was entitled ''Living Black''
+0.295218
+ | journal = Before Farming
+ | year = 2006 | volume = 2006 | pages = 1–21
+ | doi = 10.3828/bfarm.2006.1.4
+ | ref = harv
+}}
+*{{cite book| title = Convincing Ground: Learning to Fall in Love with your Country
+ | last = Pascoe | first = Bruce
+ | date = 1 April 2007 | pages = 182–185
+ | isbn = 978-0855755492
+ | ref = harv
+}}
+*{{Cite book| title = Dark Emu; Black Seeds: Agriculture or Accident
+ | last = Pascoe | first = Bruce | year = 2015
+ | publisher = Magaballa Books
+ | isbn = 978-1911344780
+ | ref = harv
+}}
+*{{Cite book| title = Dark emu: Aboriginal Australia and the birth of agriculture
+ | last = Pascoe | first = Bruce | year = 2018
+ | location = Melbourne
+ | isbn = 978-1-947534-08-7 | oclc = 1037018065
+ | ref = harv
+}}
+*{{cite news| title = The people and history of the Torres Strait Islands
+ | publisher = BBC News
+ | url = https://www.bbc.com/news/world-australia-34037235
+ | date = 24 August 2015
+ | ref = {{harvid|BBC|2015}}
+}}
+*{{Cite web| title = Persons in corrective services
+ | publisher = [[Australian Bureau of Statistics]]
+ | url = http://www.abs.gov.au/ausstats/abs@.nsf/mf/4512.0
+ | date = 6 September 2018 | access-date = 30 October 2018
+ | ref = {{harvid|ABoS prisoners|2018}}
+}}
+*{{Cite web| title = Petrol Sniffing in Remote Northern Territory Communities
+ | publisher = Northern Territory Government
+ | url = http://www.nt.gov.au/lant/parliament/committees/substance/Petrol%20Sniffing%20Report%20-%20FINAL.pdf | url-status = dead
+ | archive-url = https://web.archive.org/web/20110414100601/http://nt.gov.au/lant/parliament/committees/substance/Petrol%20Sniffing%20Report%20-%20FINAL.pdf
+ | date = October 2004 | archive-date = 14 April 2011
+ | ref = {{harvid|LAoNT|2004}}
+}}
+*{{Cite web| title = Petrol Sniffing – Health & Wellbeing
+ | publisher = Australian Broadcasting Corporation
+ | url = http://www.abc.net.au/health/library/stories/2005/11/24/1831506.htm
+ | date = 8 October 2013
+ | ref = {{harvid|ABC Petrol Sniffing|2013}}
+}}
+*{{Cite news| title = Pilbara Rock Art not Affected by Mining Emissions: Study
+ | publisher = ABC
+ | url = http://www.abc.net.au/news/stories/2009/02/10/2487552.htm?section=entertainment
+ | date = 10 February 2009
+ | ref = {{harvid|ABC – Pilbara Rock Art}}
+}}
+*{{Cite web| title = Places – Torres Strait Islands
+ | publisher = [[ABC Radio (Australia)|ABC Radio]]
+ | year = 2005
+ | url = http://www.abc.net.au/ra/pacific/places/country/torres_strait_islands.htm
+ | access-date = 21 June 2007
+ | ref = {{harvid|Places – Torres Strait Islands|2005}}
+}}
+*{{Cite web| title = Population Distribution, Aboriginal and Torres Strait Islander Australians
+ | publisher = [[Australian Bureau of Statistics]]
+ | year = 2006
+ | url = http://www.abs.gov.au/AUSSTATS/abs@.nsf/Lookup/4705.0Main+Features12006?OpenDocument
+ | ref = {{harvid|ABoS – population|2006}}
+}}
+*{{cite web| title = Research Note no
+0.295345
+ | last = Cronshaw | first = Damon
+ | newspaper = Newcastle Herald
+ | url = https://www.theherald.com.au/story/5243974/a-body-in-the-bush-or-an-urban-legend/
+ | date = 23 February 2018
+ | ref = harv
+}}
+*{{cite news| title = Why the number of Indigenous deaths in the frontier wars matters
+ | last = Daley | first = Paul
+ | newspaper = The Guardian
+ | url = https://www.theguardian.com/commentisfree/2014/jul/15/why-the-number-of-indigenous-deaths-in-the-frontier-wars-matters
+ | date = 15 July 2014
+ | ref = harv
+}}
+*{{cite news| title = Australia Day, Invasion Day, Survival Day: a long history of celebration and contestation
+ | last = Darian-Smith | first = Kate
+ | website = The Conversation
+ | url = https://theconversation.com/australia-day-invasion-day-survival-day-a-long-history-of-celebration-and-contestation-70278
+ | date = 26 January 2017
+ | ref = harv
+}}
+*{{cite journal | title = Badu 15 and the Papuan‐Austronesian settlement of Torres Strait
+ | last1 = David | first1 = Bruno
+ | last2 = McNiven | first2 = Ian
+ | last3 = Mitchell | first3 = Rod
+ | last4 = Orr | first4 = Meredith
+ | last5 = Haberle | first5 = Simon
+ | last6 = Brady | first6 = Liam
+ | last7 = Crouch | first7 = Joe
+ | display-authors = 5
+ | journal = Archaeology in Oceania
+ | via = Wiley Online Library
+ | date = July 2004 | volume = 39 | issue = 2 | pages = 65–78
+ | url = https://onlinelibrary.wiley.com/doi/abs/10.1002/j.1834-4453.2004.tb00564.x
+ | doi = 10.1002/j.1834-4453.2004.tb00564.x
+ | quote = First published 14 November 2014 [online?]
+ | ref = harv
+}}
+*{{Cite news| title = Australian dig finds evidence of Aboriginal habitation up to 80,000 years ago
+ | last1 = Davidson | first1 = Helen
+ | last2 = Wahlquist | first2 = Calla
+ | newspaper = [[The Guardian]]
+ | url = https://www.theguardian.com/australia-news/2017/jul/19/dig-finds-evidence-of-aboriginal-habitation-up-to-80000-years-ago
+ | date = 20 July 2017
+ | ref = harv
+}}
+*{{cite web| title = Dead Heart (1996) on ASO – Australia's audio and visual heritage online
+ | website = australianscreen
+ | url = http://aso.gov.au/titles/features/dead-heart/
+ | access-date = 2 June 2011
+ | ref = {{harvid|ASO – Dead Heart}}
+}}
+*{{cite web| title = Dead Reckoning: a guide to family history research in WA: Aboriginal People
+ | publisher = State Library of Western Australia
+ | url = http://www.slwa.wa.gov.au/dead_reckoning/private_archives/a-f/aboriginal_people
+ | date = 23 December 2015 | access-date = 3 August 2013
+ | ref = {{harvid|SLoWA|2015}}
+}}
+*{{cite news| title = Death forms undermine promises
+ | newspaper = [[National Indigenous Times]]
+ | issue = 157
+ | url = https://www.coursehero.com/file/p206v70/Death-forms-undermine-promises-NIT-157-10-July-2008-In-1973-in-some-regions-the/
+ | via = Course Hero
+ | date = 10 July 2008
+ | ref = {{harvid|''National Indigenous Times''|2008}}
+}}
+*{{Cite web| title = Defence, Discrimination and Regrets
+ | publisher = Australian Broadcasting Corporation
+ | url = http://www.abc.net.au/tv/qanda/txt/s3182043.htm
+ | date = 11 April 2011 | access-date = 20 November 2011
+ | ref = {{harvid|ABC|2011}}
+}}
+*{{cite news| title = Who is Really Airbrushing the Past

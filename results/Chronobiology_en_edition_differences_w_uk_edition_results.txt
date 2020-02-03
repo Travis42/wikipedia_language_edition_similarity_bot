@@ -1,0 +1,82 @@
+Chronobiology
+en edition's differences with the uk version: 
+-8.14907e-10
+<ref>{{cite journal |last=Dzogang |first=Fabon |author2=Stafford Lightman |author3= Nello Cristianini  |date=2018-06-20 |title= Diurnal Variation of Psychometric Indicators in Twitter Content |journal= PLoS ONE |volume=13 |issue=6 |pages=e0197002 |doi= 10.1371/journal.pone.0197002 |pmid=29924814 |pmc=6010242 }}</ref>
+
+==Other fields==
+Chronobiology is an interdisciplinary field of investigation
+-6.53927e-10
+More recently it has been difficult to get funding for such research on any other organisms than mice, rats, humans<ref>{{cite web |url=http://scienceblogs.com/clock/2006/07/clocktutorial_3_fortyfive_year.php |title=ClockTutorial #2a, Forty-Five Years of Pittendrigh's Empirical Generalizations |accessdate=2007-12-23 |last=Zivkovic |first=Bora |date=2006-07-03 |work=A Blog Around the Clock |publisher=ScienceBlogs}}</ref><ref>{{cite web |url=http://scienceblogs.com/clock/2006/09/clocks_in_bacteria_v_how_about.php |title=Clocks in Bacteria V |accessdate=2007-12-23 |last=Zivkovic |first=Bora |date=2006-05-17 |work=A Blog Around the Clock |publisher=ScienceBlogs}}</ref> and [[Drosophila melanogaster|fruit flies]]
+-2.91038e-11
+[[File:Biological clock human.PNG|350px|thumb|Overview, including some [[Physiology|physiological]] parameters, of the human [[Circadian rhythm|circadian rhythm ("biological clock")]].]]
+{{Time sidebar |science}}
+
+'''Chronobiology''' is a field of [[biology]] that examines periodic (cyclic) phenomena in living organisms and their adaptation to [[sun|solar]]- and [[moon|lunar]]-related rhythms.<ref name="chrono">{{cite book |author=Patricia J
+1.52795e-10
+The term ''circadian'' comes from the [[Latin]] ''circa'', meaning "around" and ''dies'', "day", meaning "approximately a day." It is regulated by [[circadian clock]]s
+5.82077e-10
+The best studied rhythm in chronobiology is the [[circadian rhythm]], a roughly 24-hour cycle shown by physiological processes in all these organisms
+0.0492217
+Pg587.</ref>
+* [[Diurnality|Diurnal]], which describes organisms active during daytime
+* [[Nocturnal]], which describes organisms active in the night
+* [[Crepuscular]], which describes animals primarily active during the dawn and dusk hours (ex: white-tailed deer, some bats)
+
+While [[circadian rhythms]] are defined as regulated by [[endogenous]] processes, other biological cycles may be regulated by exogenous signals
+0.0501965
+
+==History==
+A circadian cycle was first observed in the 18th century in the movement of plant leaves by the French scientist [[Jean-Jacques d'Ortous de Mairan]].<ref>for a description of circadian rhythms in plants by de Mairan, Linnaeus, and Darwin see [http://www.hhmi.org/biointeractive/museum/exhibit00/02_1.html] {{Webarchive|url=https://web.archive.org/web/20051225212335/http://www.hhmi.org/biointeractive/museum/exhibit00/02_1.html |date=2005-12-25 }}</ref> In 1751 Swedish [[botanist]] and [[naturalist]] [[Carl Linnaeus]] (Carl von Linné) designed a [[Linnaeus' flower clock|flower clock]] using certain species of [[flowering plant]]s
+0.125491
+
+[[Franz Halberg]] of the [[University of Minnesota]], who coined the word ''circadian'', is widely considered the "father of American chronobiology." However, it was [[Colin Pittendrigh]] and not Halberg who was elected to lead the ''Society for Research in Biological Rhythms'' in the 1970s
+0.125491
+
+Many other important cycles are also studied, including:
+* [[Infradian rhythm]]s, which are cycles longer than a day
+0.125491
+Examples include [[Circannual Cycle|circannual]] or annual cycles that govern migration or reproduction cycles in many plants and animals, or the human [[menstrual cycle]]
+0.125491
+* [[Ultradian rhythm]]s, which are cycles shorter than 24 hours, such as the 90-minute [[REM cycle]], the 4-hour [[nasal cycle]], or the 3-hour cycle of [[growth hormone]] production
+0.188237
+|title=Sports Chronobiology, An Issue of Clinics in Sports Medicine |publisher=Saunders |year=2005 |isbn=978-1-4160-2769-0}}</ref><ref>{{cite book |last=Ernest Lawrence Rossi |first=David Lloyd |title=Ultradian Rhythms in Life Processes: Inquiry into Fundamental Principles of Chronobiology and Psychobiology |publisher=Springer-Verlag Berlin and Heidelberg GmbH & Co
+0.188237
+
+==Description==
+The variations of the timing and duration of biological activity in living organisms occur for many essential biological processes
+0.188237
+Kaschka, "''Biological Rhythms and Behavior''", ''Advances in Biological Psychiatry''
+0.212966
+It is not a part of chronobiology.<ref name="NASA">{{cite web |title=Effects of circadian rhythm phase alteration on physiological and psychological variables: Implications to pilot performance (including a partially annotated bibliography) |url=https://ntrs.nasa.gov/search.jsp?R=19810016185&hterms=NASA-TM-81277&qs=Ntx%3Dmode%2520matchallany%26Ntk%3DAll%26Ns%3DLoaded-Date%7C1%26N%3D0%26Ntt%3DNASA-TM-81277 |work=NASA-TM-81277 |publisher=[[NASA]] |date=1981-03-01 |accessdate=2011-05-25}} "No evidence exists to support the concept of biorhythms; in fact, scientific data refute their existence."</ref>
+
+==See also==
+* [[Bacterial circadian rhythms]]
+* [[Biological clock (aging)]]
+* [[Circadian rhythm]]
+* [[Circannual cycle]]
+* [[Circaseptan]], 7-day biological cycle
+* [[Hitoshi Okamura]]
+* [[Light effects on circadian rhythm]]
+* [[Suprachiasmatic nucleus]]
+* [[Time perception]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+{{refbegin|colwidth=40em}}
+* Hastings, Michael, "''[http://bmj.bmjjournals.com/cgi/content/full/317/7174/1704 The brain, circadian rhythms, and clock genes]''"
+0.280607
+| doi = 10.1177/0748730409360890 | title = Time-Dependent Effects of Dim Light at Night on Re-Entrainment and Masking of Hamster Activity Rhythms | journal = Journal of Biological Rhythms | volume = 25 | issue = 2 | pages = 103–112 | year = 2010 | pmid =  20348461| pmc = }}</ref>
+
+Humans can have a propensity to be morning people or evening people; these behavioral preferences are called [[chronotype]]s for which there are various assessment questionnaires and biological marker correlations.<ref>{{Cite book|title=The Power of When|last=Breus, PHD|first=Michael|publisher=Little Brown and Company|year=2016|isbn=978-0-316-39126-9|location=|pages=|quote=|via=}}</ref>
+
+In the second half of 20th century, substantial contributions and formalizations have been made by Europeans such as [[Jürgen Aschoff]] and [[Colin Pittendrigh]], who pursued different but complementary views on the phenomenon of [[entrainment (chronobiology)|entrainment]] of the circadian system by light (parametric, continuous, tonic, gradual vs
+0.289143
+* [http://www.linnean.org/ The Linnean Society of London]
+{{refend}}
+
+==External links==
+{{refbegin|}}
+* [http://halbergchronobiologycenter.umn.edu Halberg Chronobiology Center] at the [[University of Minnesota]], founded by [[Franz Halberg]], the "Father of Chronobiology"
+* The [[University of Virginia]] offers an [https://web.archive.org/web/20030602130556/http://www.cbt.virginia.edu/tutorial/TUTORIALMAIN.html online tutorial] on chronobiology

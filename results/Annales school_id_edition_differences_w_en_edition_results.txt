@@ -1,0 +1,94 @@
+Annales school
+id edition's differences with the en version: 
+-1.15108e-11
+Teks lengkap artikel.]
+
+{{Aliran Annales}}
+{{Teori sejarah}}
+{{Authority control}}
+{{Portal bar| Sejarah}}
+
+[[Kategori:Historiografi]]
+[[Kategori:Teori sejarah]]
+[[Kategori:Abad ke-20]]
+[[Kategori:Historiografi Prancis]]
+0.0119743
+
+Its main scientific output is the ' ' Annales d'Histoire Economique et Sociale ' ' Journal ("Annals of economic and Social history"), founded in 1929 by Lucien Febvre and Marc Bloch, who separated themselves radically with traditional historiography by emphasizing the importance of bringing all walks of life into consideration and emphasizing the collective nature of mentality
+0.0119743
+(ed.), ''The Annales School and archaeology'', Leicester: Leicester University Press (1991), 'ISBN|978-0-7185-1758-8'
+* 'fr icon' Burguiére, André
+0.0119743
+"Histoire et Science Sociale: La Longue Durée" (1958) ''Annales E.S.C.,'' 13:4 October–December 1958, 725–753
+* Braudel, Fernand
+0.0127007
+''Méthodologie Historique'' (1988); awalnya disusun pada 1906 namun tidak dipublikasikan sampai tahun 1988; direvisi pada 1996
+* {{fr icon}} Bloch, Marc
+0.0179615
+<ref> On The decline of Annales, see Hunt (1986); For a summary of the movement see Burke, ' ' French Historical Revolution ' ', 106 – 107
+0.0179615
+Bloch did not pay attention to the effectiveness of the king's touch — he acted like an anthropologist in questioning why the people believed it and how it formed the relationship between the king and the ordinary people
+0.0179615
+The most massive polemic was expressed by [[Gerhard Ritter]] and [[Hermann Heimpel]]; see, for example[[Heinz-Gerhard Haupt]]: ''Trends in The Federal Republican Research on France'', in: Michael Nerlich (ed.): Criticism of French Research 1871-1975, Karlsruhe 1977, pp
+0.0179615
+"The Annales and the History of Technology," ''Technology and Culture,'' 46#1 (2005), pp.&nbsp;177–186 [http://muse.jhu.edu/journals/technology_and_culture/v046/46.1long.html dalam Project Muse]
+* Megill, Allan
+0.0183979
+The second generation was led by [[Fernand Braudel]] (1902 – 1985) and included [[Georges Duby]] (1919 – 1996), [[Pierre Goubert]] (1915 – 2012), [[: fr: Robert Mandrou | Robert Mandrou]] (1921 – 1984), [[Pierre Chaunu]] (1923 – 2009), [[Jacques Le Goff]] (1924 – 2014), and [Ernest Labrousse]] (1895 – 1988)
+0.0299358
+<ref> Hunt (1986) </ref> In 1980, sensibility [[Pascamodernisme]| Pascamodern] weakens the belief in thorough mearation
+0.0338685
+The third generation is led by [Emmanuel Le Roy Ladurie] (1929 –) and includes [[Jacques Revel]], <ref> from 1978, Revel taught at the Ecole des Hautes Etudes en Sciences Sociales (Paris), where he became directeur d'études (full professor); He served as president of the Ecole from 1995 to 2004
+0.0338685
+The fourth generation historian Annales, led by [[Roger Chartier]] (1945-), is obviously alienating himself from an approach mentality, replaced by [[cultural shifts]] and [[Linguistic shifts | linguistics]], which emphasizes the analysis of the social history of cultural practice
+0.035923
+
+The genre was mainly associated with Europe [the late medieval]] and [[the Early Modern period]] (before [the French Revolution]), with little interest in the subject of the revolution
+0.0363025
+</ref>
+
+= = ' ' Mentalités ' ' = =
+The writings of Bloch, ' ' Les Rois Thaumaturges ' ' (1924) <ref> Translated as ' ' The Royal Touch: Monarchy and Miracles in France and England ' ' (1990) </ref> discuss the long-standing beliefs of the people that the king could heal [Skrofula]] with [[The Touch of The King | His writ]]
+0.0465692
+[http://www.jstor.org/stable/651003 dalam JSTOR]
+* [[Lynn Hunt| Hunt, Lynn]]
+0.0550364
+{{ISSN|0022-2801}} [http://www.jstor.org/stable/1876804 dalam JSTOR]
+* [[Peter Burke (historian)| Burke, Peter]], ed
+0.0550364
+by [[Peter Burke (historian)| Peter Burke]] (1973) artikel terjemahan dari ''Annales''
+* Le Roy Ladurie, Emmanuel
+0.0635035
+</ref>
+
+The first book of Braudel, La Méditerranée et le Monde Méditerranéen à l'Epoque de Philippe II ' ' (1949) (' ' The Mediterranean and The Mediterranean World in The Age of Philip II ' ') is the most influential
+0.0635035
+''La Méditerranée et le Monde Méditerranéen à l'Epoque de Philippe II'' (1949) (diterjemahkan menjadi ''The Mediterranean and the Mediterranean World in the Age of Philip II'' [http://www.amazon.com/dp/0520203089 pencarian kutipan dan teks vol
+0.0656771
+''Feudal Society: Vol 1: The Growth and Ties of Dependence'' (1989); ''Feudal Society: Vol 2: Social Classes and Political Organisation''(1989) [http://www.amazon.com/dp/0415039185 pencarian kutipan dan teks]
+* Bloch, Marc
+0.0658588
+This section became an independent grantee institution in 1975 under the name [[School for Advanced Studies in the Social Sciences | École des Hautes Études en Sciences Sociales] (EHESS)
+0.067737
+Institutionally, this stream is based on Annales ' ' Journal, SEVPEN publishing House, {{Lang | fr | Fondation Maison des sciences de l'homme}} ' ' (FMSH), and especially the 6th section ' ' [[École Pratique des Hautes Études]], all of which are based in Paris
+0.0760472
+Noticing the political upturn in Europe, especially France in 1968, [Eric Hobsbawm]] argues that "in France, the virtual hegemony of Braudelian and ' ' Annales ' ' ended after 1968, and the journal's international influence declined sharply." <ref> {{cite book | author = Eric J
+0.0838203
+{{ISSN|0315-7997}}
+* Le Goff, Jacques, ''History and Memory' (1996) [http://www.amazon.com/dp/023107591X pencarian kutipan dan teks]
+* Revel, Jacques, and Lynn Hunt, eds
+0.113756
+In the 1960 's, [Robert Mandrou]] and [[Georges Duby]] aligned the historical "mentalité" concept with the historical time structure [Fernand Braudel]] and attributed the mentality to changing social conditions
+0.113756
+"Scuola delle Annales e storia del diritto: la situazione italiana", ''[Mélanges de l'Ecole fran'aise de Rome]], antiquité'', vol
+0.139708
+<ref> See [http://www.editions.ehess.fr/revues/annales-histoire-sciences-sociales/numeros-parus/for the latest edition] </ref> This genre is very influential in establishing the agenda [historiography | Historical writing]] in France and many other countries, particularly concerning the use of the [[] Social Sciences] method by historians; Emphasizing social and economic themes as opposed to politics or diplomatic
+0.148638
+''Historiography in the Twentieth Century: From Scientific Objectivity to the Postmodern Challenge'' (1997), ch.5
+* Leroux, Robert, ''Histoire et sociologie en France: de l'histoire-science à la sociologie durkheimienne'', Paris, Presses universitaires de France, 1998
+0.155666
+
+= = Braudel = =
+Fernand Braudel become second generation leader after 1945
+0.167641
+As noted by [Jacques Revel]], the success of the Annales sect, particularly the use of social structures as a self-explanatory force, contains the seed of its own fall, because "no more implicit consensus is the basis of social unity, identified with the original"

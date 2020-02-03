@@ -1,0 +1,126 @@
+Iron Age Europe
+en edition's differences with the ar version: 
+-1.26238e-09
+New York: The Encyclopædia Britannica Co.</ref> These are no longer cast but hammered into shape, and decoration is elaborate curvilinear rather than simple rectilinear; the forms and character of the ornamentation of the northern European weapons resembles in some respects Roman arms, while in other respects they are peculiar and evidently representative of northern art
+-8.14907e-10
+[[Roman Iron Age]] is a term used in the [[archaeology of Northern Europe]] (but not Britain) for the period when the unconquered peoples of the area lived under the influence of the [[Roman Empire]]
+-1.45519e-10
+In the Swiss or La Tène group of implements and weapons, the forms are new and the transition complete.<ref name="TJEB" />
+
+The [[Celts|Celtic culture]], or rather [[Proto-Celtic]] groups, had expanded to much of [[Central Europe]] ([[Gauls]]), and, following the [[Gallic invasion of the Balkans]] in 279 BC, as far east as central [[Anatolia]] ([[Galatia]]ns)
+1.41881e-10
+In Poland, the Iron Age reaches the late [[Lusatian culture]] in about the 6th century, followed in some areas by the [[Pomeranian culture]]
+1.41881e-10
+The burial characteristics relate the Villanovan culture to the Central European Urnfield culture (c
+1.41881e-10
+1300–750 BC), and 'Celtic' Hallstatt culture (which succeeded the Urnfield culture)
+0.0801927
+The fragmentary [[Epic Cycle]]s, a collection of Ancient Greek epic poems that related the story of the Trojan War, were a distillation in literary form of an oral tradition developed during the Greek Dark Age
+0.0801927
+These scripts were used until the end of the 1st century BC or the beginning of the 1st century AD
+0.11341
+On the [[Iberian peninsula]], the [[Paleohispanic scripts]] began to be used between 7th century to the 5th century BC
+0.11341
+In Scandinavia, further periods followed up to 1100: the [[Migration Period]], the [[Vendel Period]] and the [[Viking Age]]
+0.129864
+
+==Timeline==
+<timeline>
+ImageSize = width:1060 height:220
+PlotArea = width:1000 height:180 left:60 bottom:40
+AlignBars = justify
+
+Colors =
+    id:time value:rgb(0.7,0.7,1) #
+    id:period value:rgb(1,0.7,0.5) #
+    id:age value:rgb(0.95,0.85,0.5) #
+    id:era value:rgb(1,0.85,0.5) #
+    id:eon value:rgb(1,0.85,0.7) #
+    id:filler value:gray(0.8) # background bar
+    id:black value:black
+
+Period     = from:-1300 till:500
+TimeAxis   = orientation:horizontal
+ScaleMajor = unit:year increment:500 start:-1300
+ScaleMinor = unit:year increment:100 start:-1300
+
+PlotData =
+  align:center textcolor:black fontsize:8 mark:(line,black) width:15 shift:(0,-5)
+
+  bar:Europe color:eon
+  from: -1100 till: 500 text:European Iron Age
+  bar:E.Europe color:age
+  from: -1100 till: -500 shift:(-40,6) text:[[Koban culture|Koban]]
+  from: -900 till: -725 text:[[Novocherkassk culture|Novocherkassk]]
+  bar:E.Europe color:filler
+  from: -500 till: 100  text:[[Scythian]]
+  from: 100 till: 500  text:[[Sarmatians]]
+  bar:S.Europe color:era
+  from: -1100 till: -900 shift:(0,3) text:[[Proto-Villanovan culture|Proto-Villanovan]]
+  from: -900 till: -750 shift:(0,3) text:[[Villanovan culture|Villanovan (Etruscans)]]
+  from: -900 till: -400 shift:(0,-6) text:[[Golasecca culture]]
+  bar:S.Europe color:Filler
+  from: -400 till: 50 text:[[Roman Republic]]
+  from: 50 till: 300 text:[[Roman Empire]]
+  from: 300 till:  500 text:[[Migration Period|Migration]]
+  bar:C.Europe color:age
+  from: -800 till: -450  text:[[Hallstatt culture]]
+  from: -450 till: -100  text:[[La Tène culture]]
+  bar:C.Europe color:Filler
+  from: -100 till: 300 text:[[Roman Empire]]
+  from: 300 till: 500 text:[[Migration Period|Migration]]
+  bar:W.Europe color:era
+  from: -800 till: 50 text:[[British Iron Age]]
+  bar:W.Europe color:Filler
+  from: 50 till: 300 text:[[Roman Empire]]
+  from: 300 till: 500 text:[[Migration Period|Migration]]
+  bar:N.Europe color:age
+  from: -500 till: -100 text:[[Pre-Roman Iron Age|Pre-Roman]]
+  from: -100 till: 300 text:[[Roman Iron Age|Roman]]
+  bar:N.Europe color:Filler
+  from: 300 till: 500 text:[[Migration Period|Migration]]
+  bar:Mediter color:era
+  from: -1200 till: -600 shift:(0,-5) text:[[Phoenicia]]
+  from: -1200 till: -1200 shift:(5,0) text:[[Greek Dark Ages]]
+  bar:Mediter color:Filler
+  from: -600 till: -145 text:[[Ancient Greece]]
+  from: -145 till: 300 text:[[Roman Empire]]
+  from: 300 till: 500 text:[[Migration Period|Migration]]
+</timeline>
+
+:::''Dates are approximate, consult particular article for details''
+::: {{color box|#f2d97f}}{{color box|#ffd880}} Prehistoric (or [[Proto-historic]]) Iron Age {{color box|#cccccc}} Historic Iron Age
+
+==Eastern Europe==
+The early 1st millennium BC marks the Iron Age in Eastern Europe
+0.192541
+The civilisation spread across the Mediterranean between 1500 BC and 300 BC.<ref>{{Cite news|url=http://www.ancient.eu/phoenicia/|title=Phoenicia|work=Ancient History Encyclopedia|access-date=2017-08-09}}</ref> A [[stela]] found in [[Kition (ancient state)|Kition]], [[Cyprus]], which was erected by Assyrian king [[Sargon II]] in 709 BC, commemorated his victory over the island's seven kings,<ref>{{cite web
+|url=http://www.ucl.ac.uk/sargon/essentials/countries/cyprus/
+|title=The Cypriot rulers as client kings of the Assyrian empire
+|date=5 Nov 2012
+|work=The many kingdoms of Cyprus
+|accessdate=21 January 2016}}</ref> marking an important step in the emancipation of Cyprus from [[Tyre, Lebanon|Tyrian]] rule by the [[Neo-Assyrian Empire|Assyrian military]].<ref>http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=291290&partId=1</ref><ref>Yon, M., Malbran-Labat, F
+0.196431
+File:Monte Prama statue.JPG|Nuragic statue of a warrior from Monte Prama, 10th–8th century bc
+</gallery>
+In Italy, the Iron Age was probably introduced by the [[Villanovan culture]], which succeeded the Bronze Age [[Proto-Villanovan culture]] in the territory of [[Tuscany]] and northern [[Latium]] and spread in parts of [[Romagna]], [[Campania]] and [[Fermo]] in the [[Marche]]
+0.200482
+5 ff.), That Tacitus discusses the shifting cultivation: "arva per annos mutant".</ref>
+
+The [[Migration Period]] in Europe after the Roman Empire and immediately before the Viking Age suggests that it was still more profitable for the peoples of Central Europe to move on to new forests after the best parcels were exhausted than to wait for the new forest to grow up
+0.216063
+In Sardinia iron working seems to have begun around the 13th–10th century bc with the Nuragic civilization, perhaps via Cyprus<ref>http://www.quaderniarcheocaor.beniculturali.it/index.php/quaderni/article/view/334</ref><ref>https://www.academia.edu/32873599/Testimonianze_di_siderurgia_in_un_area_del_Campidano_centro-meridionale_tra_la_seconda_met%C3%A0_del_XII_e_gli_inizi_del_X_sec_a.C</ref>
+
+==Western Europe==
+[[File:Aerial photograph of Maiden Castle, 1935.jpg|thumb|[[Hill fort]]s spread across Europe in the Iron Age and [[Maiden Castle, Dorset|Maiden Castle]] in England is one of the largest.<ref>{{citation |url=http://www.english-heritage.org.uk/server/show/nav.15733 |title=Maiden Castle |publisher=[[English Heritage]] |accessdate=31 May 2009}}</ref><ref>{{PastScape|mnumber=451864 |mname=Maiden Castle|accessdate=27 May 2009|mode=cs2}}</ref> Photograph taken in 1935 by Major George Allen (1891–1940).]]
+
+<gallery widths="200px" heights="200px">
+File:Hallstatt 'C' Swords in Wels Museum, Upper Austria.jpg|Hallstatt 'C' swords; generally iron swords are longer than bronze ones
+0.23367
+One design element on the extremely-well preserved Pocklington shield, a scalloped border, "is not comparable to any other Iron Age finds across Europe, adding to its valuable uniqueness", said Paula Ware, managing director at MAP Archaeological Practice Ltd in late 2019.<ref>{{cite news|title=Celtic warrior from 2,000 years ago buried in chariot with weapons and ponies hailed as most important find of its kind in UK |date=6 December 2019|url=https://www.independent.co.uk/news/science/archaeology/celtic-warrior-grave-important-find-uk-archaeology-shield-yorkshire-a9234571.html |work=The Independent|access-date=10 December 2019|quote=}}</ref><ref>{{cite news|title=Iron Age shield found in Pocklington is "one of most important ancient finds this millennium" |date=5 December 2019|url=https://www.yorkshirepost.co.uk/heritage/iron-age-shield-found-in-pocklington-is-one-of-most-important-ancient-finds-this-millennium-1-10137418 |work=Yorkshire Post|access-date=8 December 2019|quote=}}</ref> Horses were rarely included in Iron Age burials, making the find particularly significant
+0.240578
+The transition from bronze to iron in Central Europe is exemplified in the great cemetery, discovered in 1846, of [[Hallstatt]], near [[Gmunden]], where the forms of the implements and weapons of the later part of the Bronze Age are imitated in iron
+0.283524
+1956, The clearing of the Woodland in Europe II</ref>
+
+It is clear that Europe remained wooded, and not only in the north

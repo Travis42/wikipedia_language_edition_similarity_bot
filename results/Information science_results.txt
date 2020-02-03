@@ -1,6 +1,0 @@
-Information science
-Language edition's article farthest from the English version: vi
-0.0968928
-* [[Knowledge Management | Knowledge management]] &ndash; of information and [[knowledge]]
-0.24154
-The industry is often researched as a branch of [[Computer science]] or [[computing]] and is closely related to [[Cognitive Sciences]] ("Cognitive science") and [[social] disciplines]

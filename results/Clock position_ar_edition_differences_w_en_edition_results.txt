@@ -1,0 +1,24 @@
+Clock position
+ar edition's differences with the en version: 
+0.169638
+
+In [Flying], the position of the watch indicates the horizontal direction, and may be complemented by a high or low word to describe the vertical direction that indicates your feet
+0.179928
+<ref>=:00=0=9795068=0-2 |pages=89-90}</ref>
+
+==also see==
+*[clockangle issue]]]
+*[[Angle Quest]]
+
+== References==
+{{Reference}}
+
+{{Time Topics}}
+
+{{Gatebar|Fly}}
+
+[Rating:hour]]
+[Rating:Routing]]
+[Rating:Encryption]]
+[Rating:Flat Angle Units]]
+{{Flying Seed}}

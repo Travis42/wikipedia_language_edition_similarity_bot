@@ -1,0 +1,58 @@
+K–Ar dating
+en edition's differences with the vi version: 
+9.09495e-12
+
+The scale factor 0.109 corrects for the unmeasured fraction of {{SimpleNuclide2|potassium|40}} which decayed into {{SimpleNuclide2|calcium|40}}; the sum of the measured {{SimpleNuclide2|potassium|40}} and the scaled amount of {{SimpleNuclide2|argon|40}} gives the amount of {{SimpleNuclide2|potassium|40}} which was present at the beginning of the elapsed time period
+3.43334e-11
+
+==Formula==
+The ratio of the amount of {{SimpleNuclide2|argon|40}} to that of {{SimpleNuclide2|potassium|40}} is directly related to the time elapsed since the rock was cool enough to trap the Ar by the equation
+:<math chem> t = \frac{t_\frac{1}{2}}{\ln(2)} \ln\left(\frac{\ce{K}_f + \frac{\ce{Ar}_f}{0.109}}{\ce{K}_f}\right)</math>,
+where
+* ''t'' is time elapsed
+* ''t''<sub>1/2</sub> is the [[half-life]] of {{SimpleNuclide2|potassium|40}}
+* K<sub>f</sub> is the amount of {{SimpleNuclide2|potassium|40}} remaining in the sample
+* Ar<sub>f</sub> is the amount of {{SimpleNuclide2|argon|40}} found in the sample
+4.72937e-11
+Time since recrystallization is calculated by measuring the ratio of the amount of {{SimpleNuclide2|argon|40}} accumulated to the amount of {{SimpleNuclide2|potassium|40}} remaining
+0.0751646
+
+In 2013, the K–Ar method was used by the [[Mars Curiosity]] rover to date a rock on the Martian surface, the first time a rock has been dated from its mineral ingredients while situated on another planet.<ref>{{Citation|url=http://www.jpl.nasa.gov/news/news.php?release=2013-356|title=NASA Curiosity: First Mars Age Measurement and Human Exploration Help|publisher=[[Jet Propulsion Laboratory]]|date=2013-12-09}}</ref><ref>{{Citation|url=https://www.uq.edu.au/news/article/2013/12/martian-rock-dating-technique-could-point-signs-of-life-space|title=Martian rock-dating technique could point to signs of life in space|date=2013-12-13|publisher=University of Queensland}}</ref>
+
+==Notes==
+{{Reflist}}
+
+==References==
+*{{cite book
+ |last1=McDougall |first1=I
+0.112747
+Conversion to stable {{SimpleNuclide2|calcium|40}} occurs via electron emission ([[beta decay]]) in 89.3% of decay events
+0.112747
+Conversion to stable {{SimpleNuclide2|argon|40}} occurs via [[electron capture]] in the remaining 10.7% of decay events.<ref>
+{{cite web
+ |date=December 2019
+ |title=ENSDF Decay Data in the MIRD Format for {{SimpleNuclide2|argon|40}}
+ |url=https://www.nndc.bnl.gov/useroutput/40k_mird.html
+ |publisher=[[National Nuclear Data Center]]
+ |accessdate=29 December 2019
+}}</ref>
+
+Argon, being a [[noble gas]], is a minor component of most rock samples of [[geochronology|geochronological]] interest: it does not bind with other atoms in a crystal lattice
+0.112747
+The [[geomagnetic polarity time scale]] was calibrated largely using K–Ar dating.<ref name=McD-H_9>{{harvnb|McDougall|Harrison|1999|p=9}}</ref>
+
+==Decay series==
+{{further|Isotopes of potassium}}
+Potassium naturally occurs in 3 isotopes: {{SimpleNuclide2|potassium|39}} (93.2581%), {{SimpleNuclide2|potassium|40}} (0.0117%), {{SimpleNuclide2|potassium|41}} (6.7302%)
+0.14762
+
+== Assumptions ==
+According to {{harvtxt|McDougall|Harrison|1999|p=11}} the following assumptions must be true for computed dates to be accepted as representing the true age of the rock:<ref>{{harvnb|McDougall|Harrison|1999|p=11}}: "As with all isotopic dating methods, there are a number of assumptions that must be fulfilled for a K–Ar age to relate to events in the geological history of the region being studied."</ref>
+
+* The parent nuclide, {{SimpleNuclide|Potassium|40}}, decays at a rate independent of its physical state and is not affected by differences in pressure or temperature
+0.150329
+In these materials, the decay product {{SimpleNuclide2|argon|40}} is able to escape the liquid (molten) rock, but starts to accumulate when the rock solidifies ([[Recrystallization (geology)|recrystallizes]])
+0.150329
+
+==Obtaining the data==
+To obtain the content ratio of isotopes {{SimpleNuclide2|argon|40}} to {{SimpleNuclide2|potassium|40}} in a rock or mineral, the amount of Ar is measured by [[mass spectrometry]] of the gases released when a rock sample is volatilized in vacuum

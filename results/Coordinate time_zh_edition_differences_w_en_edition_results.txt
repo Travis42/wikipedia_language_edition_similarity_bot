@@ -1,0 +1,115 @@
+Coordinate time
+zh edition's differences with the en version: 
+-5.32054e-11
+Moyer |journal = Celestial Mechanics and Dynamical Astronomy |volume = 23 |date = 1981-01 |issue = 1 |pages = 33－56 |doi = 10.1007/BF01228543}}</ref>
+
+<ref name=timgraf2>{{cite journal |url = http://articles.adsabs.harvard.edu/full/1992A%26A...265..833S |title = Why new time scales
+1.39835e-11
+ref name s-klnr1992/
+
+Two events are referred to only when the selected coordinates have the same value, it is called "simultaneous" in the selected reference system at the same time (noteTag) (noteTag
+0.0155211
+-- the !-- of the previous sentence has no source - General relativity excludes many assumptions of classical mechanics and the assumptions used by classical theory to describe space-time, and therefore other concepts related to synchronization and contemporaneousity must be carefully defined within the theoretical framework
+0.0179223
+The time of the Center of Mass, the coordinates of the center of mass, the clock placed in the center of the earth, can not be measured to the point of the center of the earth
+0.0182637
+<math> sfrac?d?tau?dt?1 - sfrac?U?c?2-frac?v?2?2?2?2'</math> 
+| (EquationRef)
+
+Among them:
+:: <math>U s.sum_i .frac.GM_i.r_i.</math> 
+
+The <math> r_i </math> the distance of each object from the clock, which is caused by the "gravity bit" of the object
+0.0219502
+For a clock with a spatial coordinate as a fixed value, the relationship between the original time <math> the </math> of the <math> and the </math> of the """""""""""""""""""""""</math> <math>""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+NumBlk
+0.0219502
+
+In addition, the <math>c </math> is the "light speed", <math>v </math> the clock movement of the selected coordinates of the "reference system":
+
+NumBlk
+0.0219502
+Geocentric Coordinate Time, Center Of Coordinates, (TCG) and (TT) (TT) (TT) ("Klioner 2008") 
+0.0219502
+(Albert Einstein) and "Einstein") have defined a specific 
+0.0219502
+ref name s "Klioner 2008"/"""rp")
+
+The mathematical note is the
+
+According to general relativity, observers in non-inertial systems are freer to choose coordinate systems
+0.0271923
+| journal = Astronomy & Astrophysics |volume = 265 |date = 1992-11 |issue = 2 |pages = 833–838 | ISSN = 0004-6361}}</ref>
+
+<ref name = ":01">{{cite web|title = IAU 2006 Resolution B3 |url = http://www.iau.org/static/resolutions/IAU2006_Resol3.pdf |publisher = [[International Astronomical Union]]}}</ref>
+
+<ref name = ":10">{{cite journal |url = http://articles.adsabs.harvard.edu/abs/1967AJ.....72.1324C |title = Annual variation of an atomic clock |author1 = G M Clemence |author2 =  V Szebehely |journal = Astronomical Journal |volume = 72 |date = 1967-12 |issue = 1 |pages = 1324–1326 |doi = 
+10.1086/110411}}</ref>
+
+<ref name = ":100">{{cite web |url = http://syrte.obspm.fr/IAU_resolutions/Resol-UAI.htm |title = Resolutions of the IAU 2000 24th General Assembly (Manchester) |date = 2000-08 |publisher = [[IAU]] }}</ref>
+
+<ref name = "微分几何入门与广义相对论">{{cite book |title = 微分几何入门与广义相对论 第二版 上册 |author1 = 梁灿彬 |author2 = 周彬 |publisher = 科学出版社 |location = 北京 |edition = 2 |date = 2006-01| ISBN = 7-03-016460-1}}</ref>
+}}
+
+{{时间导航}}
+{{time themes}}
+
+[[Category:相对论]]
+[[Category:時標]]
+0.0310423
+
+By convention, the coordinates of the events observed in the "Special Relativity" of the "Inertial Reference System" and "Inertial Observer" are the same as those observed by the "Original Time"
+0.0310423
+the sum of the </math> of the <math>, the GM_i, the r_i, is the sum of the "Newtonian law of gravity" (plus the tidal bit stoication that is to be considered), and is expressed by positive sign due to astronomical conventions
+0.0380189
+The concept of The Einstein synchronisation, Einstein sync, clock sync, and the limited concept of the "relative simultaneousity" was created
+0.0439004
+This description is of limited use because coordinates are defined at every point in the reference system, but imaginary observers and clocks selected for illustration have only a limited number of tracks to choose from
+0.0487031
+<math>v2 s (dx?2 s/dy?2) and (dt_c)-2</math> 
+| (EquationRef)
+
+Where <math>dx, dy, dz, dt_c </math> the spatial coordinates (<math>x, y, z</math>) and coordinates (<math> t_c </math>) of the location of the clock in the reference system
+0.049388
+Klioner |journal = Celestial Mechanics and Dynamical Astronomy |volume = 53 |date = 1992 |issue = 1 |pages = 81-109 |doi = 10.1007/BF00049363 | ISSN s 0923-2958 s archiveurl s https://archive.today/20121214203423/http://articles.adsabs.harvard.edu/full/1992CeMDA..53...81K s archivedate s 2012年12月14日 |deadurl = no |df =  }}</ref>
+
+<ref name = "Klioner 2008">{{cite journal |url = https://www.aanda.org/articles/aa/pdf/2008/06/aa7786-07.pdf |title = Relativistic scaling of astronomical quantities and the system of astronomical units |author = S
+0.0612226
+Geocentric Coordinate Time, when the center of the earth coordinates, the coordinates of the center of the earth - the system, the coordinates
+0.0651329
+The space-time coordinate system here implies that "the meaning of every imaginary space-time point is "the observer" is the "noteTag" in physics, a point that is calibrated by spatial coordinates and time coordinates is called "events (relativism) " ( events) , " (relativity) , events) ( relativity), and a collection of all events is called " space-time" 
+0.0896731
+To the observer, the clock appears to be stationary and has been used with the Einstein synchronisation, Einstein sync, Einstein sync, Einstein sync convention, corrected, synchronized with the observer's clock
+0.0947054
+For example, for the The observer must be infinitely far away from the solar system, so that the gravity of the solar system disappears where it is, and the observer must also be stationary relative to the centorofic ness of the solar system
+0.113001
+ref name s ":10"/
+
+(tsl?en) Geocentric Coordinate Time, when the Earth's center of the earth, (TCG) is defined as a reference system that moves with the center of the earth (the center of the earth) and is, in principle, used for phenomena on earth and inside the Earth, such as the rotation of the Earth and the motion of the Earth." For the same reason as the Definition of TDB (The SI seconds of TCG are slightly faster than the SI seconds on the earth's surface clock, although the magnitude is much smaller than the previous), here is also defined as the scale version of the TCG, which is equal to SI seconds in the unit of the Earth Level
+0.113945
+ref name s ":100"/
+
+Comments
+snoteFoot
+
+Related entries
+
+:: (Absolute Space-Time)
+:: (Special Relativity)
+the slsl.en Introduction to the general relativity , introduction to mathematics in general relativity , introduction to mathematics in general relativity 
+0.149757
+To match the time and coordinates, you must keep the observer and clock at a standstill in the selected reference system (the <math>v?0 </math>) of the selected reference system, and be infinitely away from the gravity mass in the reference system (conditions that cannot be achieved in reality) so that the gravity bit of the system is at the observer's position of zero (the U-<math>-0 </math>)
+0.157063
+The person observing the physical event is called the observer, which is the observer and the observer, and the observer is modeled as the "mass point" that does not occupy any space, and that it carries an accurate clock (standard clock), the reading value of which is defined as the observer's 
+0.182373
+
+When a clock is placed where the reference system is nominally defined, the coordinates of the reference system cannot be measured: the clock at the center of the solar system cannot measure to the point of the system
+0.27162
+ref name s "Klioner 2008"/""rp")
+
+The coordinate timescales are s/he s/he s/he s/he s/he s/
+
+Coordinate timescales are a kind of "time standard" designed to be used for the calculation of relativistic effects when needing to be taken into account coordinates
+0.294902
+In many, but not all, coordinate systems, the occurrence of an instant, a place, of the event (relativity) of the event, can be calibrated by one time coordinate and three spatial coordinates

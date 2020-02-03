@@ -1,0 +1,13 @@
+History of ideas
+en edition's differences with the ru version: 
+-5.14774e-10
+ These unit-ideas work as the building-blocks of the history of ideas: though they are relatively unchanged in themselves over the course of time, unit-ideas recombine in new patterns and gain expression in new forms in different historical eras
+-2.32831e-10
+
+The unit-idea methodology, intended to extract the basic idea within any philosophical work and movement,<ref name="greatchain"/> also has certain defining principles: 1) assumptions, 2) dialectical motives, 3) metaphysical pathos, and 4) philosophical semantics
+0.056682
+they regard] the distinction between "philosophy" and "non-philosophy" as something that is itself historically conditioned rather than eternally fixed."<ref name="history.fas.harvard.edu"/> Thus, intellectual historians who see intellectual history as a means of reproducing a historically valid interpretation of a philosophical argument, tend to implement a contextualist approach when studying ideas and broader philosophical movements
+0.0981761
+His historical method differs from the traditional sense of historical writing and is divided up into four different ideas
+0.294528
+{{ISBN|978-3-8252-3314-3}}</ref> The global historian of ideas [[Dag Herbjørnsrud]] writes that "the Skinner perspective is in danger of shutting the door to comparative philosophy and the search for common problems and solutions across borders and time."<ref>{{Cite journal|last=Herbjørnsrud|first=Dag|date=2019-05-10|title=Beyond decolonizing: global intellectual history and reconstruction of a comparative method|journal=Global Intellectual History|volume=0|pages=1–27|doi=10.1080/23801883.2019.1616310|issn=2380-1883}}</ref> Skinner's idea has also been criticised as too context sensible and thus unable to provide any unified accounts of the development of ideas over time

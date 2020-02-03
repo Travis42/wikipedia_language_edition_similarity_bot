@@ -1,0 +1,83 @@
+Homeric Hymns
+en edition's differences with the uk version: 
+0.0718988
+53–62.</ref>
+
+The hymns, which must be the remains of a once more strongly represented genre, vary widely in length, some being as brief as three or four lines, while others are in excess of five hundred lines
+0.118627
+This still places the older ''Homeric Hymns'' among the oldest monuments of [[Greek literature]]; but although most of them were composed in the seventh and sixth centuries, a few may be [[Hellenistic]], and the ''Hymn to Ares'' might be a late pagan work, inserted when it was observed that a hymn to [[Ares]] was lacking
+0.135574
+[[Walter Burkert]] has suggested that the ''Hymn to Apollo'', attributed by an ancient source to [[Cynaethus]] of Chios (a member of the [[Homeridae]]), was composed in 522 BC for performance at the unusual double festival held by [[Polycrates of Samos]] to honor Apollo of [[Delos]] and of [[Delphi]].<ref>[[Walter Burkert]]
+0.155553
+
+==List of the ''Homeric Hymns''==
+
+# "To [[Dionysus]]", 21 lines
+# "To [[Demeter]]", 495 lines
+# "To [[Apollo]]", 546 lines <!-- A combination of two (probably older) hymns", A and B-->
+# "To [[Hermes]]", 580 lines
+# "To [[Aphrodite]]", 293 lines
+# "To Aphrodite", 21 lines
+# "To Dionysus", 59 lines
+# "To [[Ares]]", 17 lines 
+# "To [[Artemis]]", 9 lines
+# "To Aphrodite", 6 lines
+# "To [[Athena]]", 5 lines
+# "To [[Hera]]", 5 lines
+# "To Demeter", 3 lines
+# "To [[Rhea (mythology)|the mother of the gods]]", 6 lines <!-- Could also be [[Cybele]] or [[Gaia (mythology)|Gaia]] or another mother goddess -->
+# "To [[Heracles]] with the heart of a lion", 9 lines
+# "To [[Asclepius]]", 5 lines
+# "To the [[Dioscuri]]", 5 lines
+# "To Hermes", 12 lines
+# "To [[Pan (god)|Pan]]", 49 lines
+# "To [[Hephaestus]]", 8 lines
+# "To Apollo", 5 lines
+# "To [[Poseidon]]", 7 lines
+# "To [[Zeus]]", 4 lines
+# "To [[Hestia]]", 5 lines
+# "To the [[Muses]] and [[Apollo]]", 7 lines
+# "To Dionysus", 13 lines
+# "To Artemis", 22 lines
+# "To Athena", 18 lines
+# "To Hestia", 13 lines
+# "To [[Gaia (mythology)|Gaia]], mother of all", 19 lines
+# "To [[Helios]]", 20 lines
+# "To [[Selene]]", 20 lines
+# "To the Dioscuri", 19 lines
+
+==Notes==
+{{reflist}}
+
+==Select translations==
+*[https://books.google.com/books?id=GkZJehm339wC&printsec=frontcover ''The Homeric Hymns''], [[Apostolos Athanassakis|Apostolos N
+0.167764
+Parker notes that, for instance,  Hymn 18 preserves a version of the beginning and end of the ''Hymn to Hermes''.</ref> which a [[rhapsode]] could employ in the manner of a prelude
+0.167764
+"Perfecting the Hymn in the Homeric Hymn to Apollo." In ''Apolline Politics and Poetics.'' Edited by Lucia Athanassaki, 17-42
+0.169467
+"The Homeric Hymns." In ''Space in Ancient Greek Literature: Studies in Ancient Greek Narrative.'' Edited by Irene J
+0.209603
+Bruxelles: Éditions de l'Université de Bruxelles
+
+==External links==
+{{Library resources box |by=no |onlinebooks=yes |others=yes |about=yes |label=Homeric Hymns
+  |viaf= |lccn= |lcheading= |wikititle= }}
+{{wikisource author|Homer}}
+{{wikisourcelang|el|Ομηρικοί Ύμνοι}}
+*[http://www.perseus.tufts.edu/hopper/searchresults?q=Hymns&redirect=true Homeric Hymns at Perseus Digital Library]
+*[https://web.archive.org/web/20120423060609/http://people.pwf.cam.ac.uk/orht3/resources.htm Scholarly bibliography on the ''Homeric Hymns'']
+*[http://www.ucpress.edu/books/pages/9232/9232.intro.html Introduction to the ''Homeric Hymns''] A condensed version of the introduction by Diane J
+0.237254
+"Modern Scholarship on the Homeric Hymns: Foundational Issues." In ''The Homeric Hymns: Interpretative Essays.'' Edited by Andrew Faulkner
+0.244132
+Rayor, ''The Homeric Hymns : A Translation, with Introduction and Notes'' (2004)
+*{{Librivox book |title=Homeric Hymns |author=Homer}}
+
+{{Homer}}
+{{Authority control}}
+
+[[Category:7th-century BC books]]
+[[Category:6th-century BC books]]
+[[Category:Ancient Greek hymns]]
+[[Category:Homer]]

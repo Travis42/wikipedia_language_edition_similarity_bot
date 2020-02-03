@@ -1,0 +1,81 @@
+Experience
+en edition's differences with the hi version: 
+-1.74623e-09
+
+=== Social ===
+{{Main|Socialization}}
+
+Growing up and living within a society can foster the development and observation of social experience.<ref>
+Compare:
+{{cite book
+|last= Blumin
+|first= Stuart M
+-5.92991e-10
+| authorlink  =
+| year        = 1999
+| title       = The Development of Wisdom: An Analysis of Tibetan Buddhist Experience
+| journal     = Journal of Humanistic Psychology
+| volume      = 39
+| issue       = 2
+| pages       = 86–105
+| doi         = 10.1177/0022167899392006
+| url         = http://jhp.sagepub.com/cgi/content/abstract/39/2/86
+| accessdate  = 2010-01-21
+| quote       = Instead of significant events, however, they spoke of gradual experiences, such as learning through teachings day by day
+0.0565799
+Certain principles (for example: for any two objects, there is a collection of objects consisting of precisely those two objects) could be directly seen to be true, but some conjectures, like the [[continuum hypothesis]], might prove undecidable just on the basis of such principles
+0.123237
+
+== See also ==
+{{Portal|Philosophy}}
+{{Wikiquote}}
+{{Wiktionary}}
+* {{annotated link|Customer experience}}
+* {{annotated link|Empiricism}}
+* {{annotated link|The Experience Economy}}
+* {{annotated link|Experiential education}}
+* {{annotated link|Engagement marketing|aka=Experiential marketing}}
+* {{annotated link|Ideasthesia}}
+* {{annotated link|Perception}}
+* {{annotated link|Adrenaline junkie|Thrill}}
+* {{annotated link|Wisdom#Confucianism}}
+** {{annotated link|Human self-reflection|Reflection}}
+** {{annotated link|Imitation}}
+
+==References==
+{{Reflist}}
+
+{{Philosophy topics}}
+{{metaphysics}}
+
+{{Authority control}}
+
+[[Category:Sources of knowledge]]
+[[Category:Philosophy of science]]
+[[Category:Concepts in metaphysics]]
+[[Category:Perception]]
+[[Category:Consciousness]]
+0.279942
+Societies which lack institutional arranged marriages can call on emotional experience in individuals to influence [[mate selection|mate-selection]].<ref>
+{{cite journal
+ |last        = Kim
+ |first       = Jungsik
+ |author2     = Elaine Hatfield
+ |year        = 2004
+ |title       = Love types and subjective well-being: a cross-cultural study
+ |journal     = Social Behavior and Personality
+ |volume      = 32
+ |issue       = 2
+ |pages       = 173–182
+ |publisher   = Society for Personality Research
+ |url         = http://www.elainehatfield.com/103.pdf
+ |format      = PDF
+ |accessdate  = 2009-12-01
+ |quote       = Evolutionary theory theorizes that love is just one of the emotional experiences which have been selected during the evolution process since it has helped humans find mates for reproduction [...]
+ |doi         = 10.2224/sbp.2004.32.2.173
+ |url-status     = dead
+ |archiveurl  = https://web.archive.org/web/20110710174921/http://www.elainehatfield.com/103.pdf
+ |archivedate = 2011-07-10
+}}
+</ref>
+The concept of emotional experience also appears in the notion of [[empathy]]

@@ -1,0 +1,124 @@
+Manuscript
+en edition's differences with the es version: 
+-4.79304e-10
+Digital reproductions can be called (high-resolution) [[Image scanner|scan]]s or [[digital image]]s
+-4.79304e-10
+Chicago: Association of College and Research Libraries, 2002.</ref> A growing digital catalog of pre-modern manuscripts is [[Digital Scriptorium]], hosted by the [[University of California at Berkeley]]
+-6.18456e-11
+<ref>{{Citation|last=George|first=Alain|chapter=The Qurʾan, Calligraphy, and the Early Civilization of Islam|date=2017-06-20|pages=109–129|publisher=John Wiley & Sons, Inc.|isbn=9781119069218|doi=10.1002/9781119069218.ch4|title=A Companion to Islamic Art and Architecture}}</ref>
+
+=== Genres ===
+Islamic manuscripts include a variety of topics such as religious, medical, astrological, and literature
+-6.18456e-11
+In Muqarnas: An Annual on the Visual Culture of the Islamic World, XVII, pg.38.</ref> The development of early illustrated scientific manuscripts began under the Islamic [[Abbasid Caliphate|Abbasid]] dynasty in Baghdad in approximately the mid 8th century
+-3.19886e-11
+Accessed 10-11-2007.</ref> while the forms '''MS.''', '''ms''' or '''ms.''' for singular, and '''MSS.''', '''mss''' or '''mss.''' for plural (with or without the full stop, all uppercase or all lowercase) are also accepted.<ref>[http://www.bl.uk/catalogues/illuminatedmanuscripts/GlossM.asp "Manuscript" (abbreviated ms
+-1.81188e-11
+Accessed 12 March 2016.</ref><ref>[http://www.thefreedictionary.com/ms "ms", "ms." and "MS"] in The Free Dictionary (American Heritage 2011 and Random House Kernerman Webster's 2010)
+-1.45519e-11
+<ref name=":02">{{Citation|last=George|first=Alain|chapter=The Qurʾan, Calligraphy, and the Early Civilization of Islam|date=2017-06-20|pages=109–129|publisher=John Wiley & Sons, Inc.|isbn=9781119069218|doi=10.1002/9781119069218.ch4|title=A Companion to Islamic Art and Architecture}}</ref>
+
+==== Scientific ====
+Many early illustrated Arabic manuscripts are affiliated with scientific subjects
+9.15179e-12
+Accessed 12 March 2016.</ref><ref>[http://www.thefreedictionary.com/MSS "MSS", "mss" and "mss."] in The Free Dictionary (American Heritage 2011, Collins 2014 and Random House Kernerman Webster's 2010)
+0.0171205
+A script that has been thus formalized is known as a ''bastard'' script (whereas a bookhand that has had cursive elements fused onto it is known as a hybrid script)
+0.0308643
+HMD Collection, MS E 78.]]
+[[File:Illuminated letter U between 1210 and 1230 ..JPG|thumb|right|Inside the letter is a picture of a master in cathedra expounding on the Aphorisms of Hippocrates
+0.0308643
+stains
+* condition:
+** smokiness
+** evidence of fire
+** mold
+** wormed
+
+===Reproduction===
+{{see also|Facsimile}}
+The mechanical reproduction of a manuscript is called [[facsimile]]
+0.0308643
+
+==== Religious ====
+A common religious manuscript would be a copy of the [[Quran|Qur'an]], which is the sacred book of Islam
+0.0308643
+Parchment made from calf or sheep was the most common in Northern Europe, while civilizations in Southern Europe preferred goatskin.<ref name="Intro">Clemens, Raymond, and Timothy Graham
+0.0308643
+Such manuscript collections are described in finding aids, similar to an index or table of contents to the collection, in accordance with national and international content standards such as [[Describing Archives: A Content Standard|DACS]] and [[ISAD(G)]]
+0.0308643
+
+===Scripts===
+[[Merovingian script]], or "Luxeuil minuscule", is named after an abbey in Western France, the [[Abbey of Luxeuil|Luxeuil Abbey]], founded by the Irish missionary St [[Columba]] ca
+0.0308643
+For example, a library's collection of hand-written letters or diaries is considered a manuscript collection
+0.0462965
+2001|publisher=Yale University Press|isbn=0300089554|location=|pages=[https://archive.org/details/paperbeforeprint0000bloo/page/12 12]|oclc=830505350}}</ref> Manuscripts eventually transitioned to using paper in later centuries with the diffusion of paper making in the Islamic empire
+0.0462965
+The Chinese practice of writing on paper, presented to the Islamic world around the 8th century, enabled Qur'ans to be begin to be written on paper
+0.0462965
+The staff paper commonly used for handwritten music is, for this reason, often called "manuscript paper"
+0.0534586
+<ref name=":0">{{Citation|last=George|first=Alain|chapter=The Qurʾan, Calligraphy, and the Early Civilization of Islam|date=2017-06-20|pages=109–129|publisher=John Wiley & Sons, Inc.|isbn=9781119069218|doi=10.1002/9781119069218.ch4|title=A Companion to Islamic Art and Architecture}}</ref> The demand for calligraphy in the early stages of the Islamic empire (circa 7-8th century) can be attributed to a need to produce Qur'an manuscripts
+0.0534586
+HMD Collection, MS E 78.]]
+A '''manuscript''' (abbreviated '''MS''' for singular and '''MSS''' for plural) was, traditionally, any document that is written by hand — or, once practical [[typewriter]]s became available, [[typewritten]] — as opposed to being mechanically [[printing|printed]] or reproduced in some indirect or automated way.<ref>{{cite web|url=http://www.merriam-webster.com/dictionary/manuscript|title=Definition of MANUSCRIPT|author=|date=|website=www.merriam-webster.com|accessdate=15 April 2018}}</ref> More recently, the term has come to be understood to further include ''any'' written, typed, or word-processed copy of an author's work, as distinguished from its rendition as a printed version of the same.<ref>{{OED|manuscript}}</ref> Before the arrival of [[printing]], all documents and books were manuscripts
+0.0540126
+Manuscripts using all upper case letters are called [[majuscule]], those using all lower case are called [[lower case|minuscule]]
+0.0617287
+[[Parchment]] or [[vellum]], as the best type of parchment is known, had also replaced [[papyrus]], which was not nearly so long lived and has survived to the present only in the extremely dry conditions of [[Egypt]], although it was widely used across the Roman world
+0.0621133
+For modern parchment makers and calligraphers, and apparently often in the past, the terms parchment and vellum are used based on the different degrees of quality, preparation and thickness, and not according to which animal the skin came from, and because of this, the more neutral term "membrane" is often used by modern academics, especially where the animal has not been established by testing.<ref name="Intro" />
+
+Because they are books, pre-modern manuscripts are best described using bibliographic rather than archival standards
+0.0801879
+
+====Bibles====
+“[[The Bible]] was the most studied book of the Middle Ages.”<ref name="beryl">Beryl Smalley, The Study of the Bible in the Middle Ages
+0.092593
+In England during the fourteenth and fifteenth centuries, many books were written in the script known as Bastard Anglicana.</blockquote>
+
+=== Genres ===
+From ancient texts to medieval maps, anything written down for study would have been done with manuscripts
+0.130946
+Extant copies of these early manuscripts written in [[Greek language|Greek]] or [[Latin]] and usually dating from the 4th century to the 8th century, are classified according to their use of either all [[majuscule|upper case]] or all [[lower case|lower case letters]]
+0.151466
+The oldest known dated Arabic manuscript on paper in [[Leiden University Library]], dated 319 [[Hijri year|AH]] (931 AD)]]
+[[File:Sargis Pitsak.jpg|thumb|[[Armenian manuscript|Armenian Manuscript]]]]
+Before the invention of [[woodblock printing]] in China or by [[movable type]] in a [[printing press]] in Europe, all written documents had to be both produced and reproduced by hand
+0.152771
+
+====Book of hours====
+[[File:Pentecost 01.jpg|thumb|The Pentecost, from an illuminated Catholic [[liturgical]] manuscript, c.1310-1320]]
+A [[book of hours]] is a type of devotional text which was widely popular during the Middle Ages
+0.160478
+In the Islamic world and the West, all books were in manuscript until the introduction of movable type printing in about 1450.{{clarify|date=May 2019|reason=Not clear whether this means movable type invention in 1040 AD or printing press in 1450 AD}} Manuscript copying of books continued for a least a century, as printing remained expensive
+0.169754
+These books were used for owners to recite prayers privately eight different times, or hours, of the day.<ref>{{cite web|url=https://www.lesenluminures.com/learn/34/|title=Learn: Basic Tutorial |last=|first=|date=|website=Les Enluminures|archive-url=|archive-date=|access-date=}}</ref>
+
+====Liturgical books and calendars====
+Along with Bibles, large numbers of manuscripts made in the Middle Ages were revieved in Church{{Clarify|reason=received
+0.185186
+
+[[Paper]] spread from China via the Islamic world to Europe by the 14th century, and by the late 15th century had largely replaced parchment for many purposes
+0.185507
+{{short description|Document written by hand}}
+{{Other uses}}
+[[File:Codex Bruchsal 1 68r.jpg|thumb|right|[[Christ Pantocrator]] seated in a capital "U" in an [[illuminated manuscript]] from the Badische Landesbibliothek, Germany.]]
+[[File:De urinarum differencia negocium between 1210 and 1230 ..JPG|thumb|right|Image of two facing pages of the illuminated manuscript of "Isagoge", fols
+0.200143
+
+== Islamic world ==
+[[File:Quran_Kufic_script.jpg|thumb|[[:File:Quran Kufic script.jpg|Qur'anic Kufic script]]]]
+[[File:Der blaue Koran,Kairouan.JPG|thumb|[[Blue Qur'an|Blue Qu'ran]], 9-10th century manuscript]]
+[[File:Book_of_the_Fixed_Stars_Auv0218_gemini.jpg|thumb|[[Book of Fixed Stars|Book of the Fixed Stars]], 12th century scientific manuscript]]
+Islamic manuscripts were produced in different ways depending on their use and time period
+0.239145
+More specifically, a motion picture manuscript is called a screenplay; a television manuscript, a teleplay; a manuscript for the theatre, a stage play; and a manuscript for audio-only performance is often called a radio play, even when the recorded performance is disseminated via non-radio means
+0.262347
+Because of the likelihood of errors being introduced each time a manuscript was copied, the [[Stemmatics|filiation]] of different versions of the same text is a fundamental part of the study and criticism of all texts that have been transmitted in manuscript
+0.283717
+Most manuscripts were ruled with horizontal lines that served as the baselines on which the text was entered.]]
+[[File:Thucydides Manuscript.jpg|thumb|10th-century minuscule manuscript of [[Thucydides]]'s [[History of the Peloponnesian War]]]]
+[[File:Satie sports preface.jpg|thumb|First page of [[Erik Satie|Satie]]'s ''[[Sports et divertissements]]'' (published as a facsimile in 1923)]]
+The study of the writing, or "hand" in surviving manuscripts is termed [[palaeography]]

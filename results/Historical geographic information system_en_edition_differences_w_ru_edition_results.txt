@@ -1,0 +1,32 @@
+Historical geographic information system
+en edition's differences with the ru version: 
+0.0289127
+* '''[[Atlas Digital da América Lusa]]''', Interactive gazetteer-type atlas on colonial Brazil, maintained by [[University of Brasília]],  focussing on populated places.<ref>[http://lhs.unb.br/atlas/In%C3%ADcio Atlas Digital da América Lusa]</ref>
+* '''[[HGIS de las Indias]]''', spatial data infrastructure with a WebGIS, focussing on Spanish America (1701-1808)  featuring administrative and church boundaries and changes, a gazetteer, demographic data, post routes etc
+0.0339765
+<ref>Web site for [http://www.euratlas.com Euratlas]</ref>
+* '''[[DECM project - Digging into Early Colonial Mexico]]'''<ref>{{cite web |title=DECM project |url=https://www.lancaster.ac.uk/digging-ecm/ |accessdate=18 March 2019}}</ref>
+
+==Software or web services developed for Historical GIS==
+* [[TimeMap]] &mdash; A Java open-source applet (or program) for browsing spatial-temporal data and [[Electronic Cultural Atlas Initiative|ECAI]] data sets<ref>[http://www.timemap.net Project homepage]</ref> Developed by the department of archaeology University of Sydney
+0.0509647
+
+* Version 4+ of [[Google Earth]] added a time line feature that enables simple temporal browsing of spatial data<ref>Announcement of the feature [http://www.gearthblog.com/blog/archives/2006/09/google_earth_4_time.html at the Google Earth blog]</ref>
+
+==See also==
+* [[Digital history]]
+* {{section link|Geographic information system|Adding the dimension of time}}
+* [[GIS in archaeology]]
+* [[Spatiotemporal database]]
+* [[Time geography]]
+
+==Literature==
+* Ian N
+0.172733
+Wahrnehmung und Deutung im Mittelalter und in der Moderne (Nova Mediaevalia Quellen und Studien zum europäischen Mittelalter, 12), Göttingen: V&R unipress 2014, p
+0.280692
+ Hosted by the Historical Environments Spatial Analytics Lab at [http://www.mtu.edu Michigan Tech University]  
+* '''[[China Historical GIS]]''' similar project for Imperial China developed by the universities of [[Harvard university|Harvard]] and [[Fudan University|Fudan, China]]
+0.292153
+Developed by the [[University of Ghent]]<ref>Web site for the [http://www.flwi.ugent.be/hisgis/start_en.htm Belgian Historical GIS] {{webarchive|url=https://web.archive.org/web/20070222193023/http://www.flwi.ugent.be/hisgis/start_en.htm |date=2007-02-22 }}</ref> 
+* '''[[Historical Atlas of the Low Countries 1350-1800]]''' parish and local administrative-judicial boundaries of the pre-modern Low Countries (Northern France, Belgium, Netherlands, Luxembourg, Western Germany)

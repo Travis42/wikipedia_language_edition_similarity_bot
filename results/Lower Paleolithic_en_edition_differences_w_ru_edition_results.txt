@@ -1,0 +1,69 @@
+Lower Paleolithic
+en edition's differences with the ru version: 
+-1.45519e-10
+Many [[Mousterian]] finds in the [[Middle Paleolithic]] have been knapped using a Levallois technique, suggesting that [[Neanderthal Man|Neanderthals]] evolved from ''Homo erectus'' (or, perhaps, ''Homo heidelbergensis''; see below)
+2.7012e-10
+[[Derek Bickerton]] (2009) has designated to this period the  move from simple [[animal communication systems]] found in all [[great apes]] to the earliest form of symbolic communication systems capable of displacement (referring to items not currently within sensory perception) and motivated by the need to "recruit"  group members for scavenging large carcasses.<ref>Derek Bickerton, ''Adam's Tongue: How Humans Made Language, How Language Made Humans'', New York: Hill and Wang 2009.</ref>
+
+''[[Homo erectus]]'' appeared by about 1.8 million years ago, via the transitional variety ''[[Homo ergaster]]''
+6.40284e-10
+
+Also, in Europe, a type of human appeared that was intermediate between ''Homo erectus'' and ''Homo sapiens'', sometimes summarized under [[Archaic humans|archaic ''Homo sapiens'']], typified by such fossils as those found at [[Swanscombe Man|Swanscombe]], [[Steinheim Skull|Steinheim]], [[Tautavel Man|Tautavel]], and [[Vertesszollos]] (''Homo palaeohungaricus'')
+0.057675
+
+In Europe, the [[Olduwan]] tradition (known in Europe as [[Abbevillian]]) split into two parallel traditions, the [[Clactonian]], a flake tradition, and the [[Acheulean]], a [[hand-axe]] tradition
+0.0964028
+''[[Anatomically modern humans|Homo sapiens]]'' first appear about 300,000 years ago, as evidenced by fossils found at [[Jebel Irhoud]] in Morocco.<ref>{{Cite news|url=http://www.sciencemag.org/news/2017/06/world-s-oldest-homo-sapiens-fossils-found-morocco|title=World's oldest Homo sapiens fossils found in Morocco|date=2017-06-06|work=Science {{!}} AAAS|access-date=2018-05-04|language=en}}</ref> 
+
+==Lower Paleolithic era by region==
+===India===
+{{anchor | India | indian subcontinent}}
+
+[[South_Asian_Stone_Age#Neolithic|Neolithic Stone Age of Indian subcontinent]] (7000 BCE - 5500 BCE) finds were excavated from [[Pinjore#Lower_Paleolithic_Pinjore_finds|Pinjore]] in Haryana on the [[Ghaggar-Hakra River|banks of the stream]] (paleochannel of [[Saraswati river]]) flowing through HMT complex,<ref>Manmohan Kumar : Archaeology of Ambala and Kurukshetra Districts, Haryana, 1978, Mss, pp.240-241.</ref><ref name=harsamvad1>[http://haryanasamvad.gov.in/store/document/Haryana%20Samvad%20October%202018.pdf Haryana Samvad], Oct 2018, p38-40.</ref> by the [[Guy Ellcock Pilgrim]] who was a British geologist and [[palaeontology|palaeontologist]], who discovered 15 million years old [[Archaic humans|prehistoric human]] teeth and part of a jaw denoting that the [[Peopling of India#Early hominins of Acheulean period|ancient people]], who were intelligent [[Hominini|hominins]] dating as far back as 1,500,000 [[Before Present|ybp]] [[Acheulean]] period,<ref name="sciencemag.org">[http://www.sciencemag.org/content/331/6024/1596.abstract Early Pleistocene Presence of Acheulian Hominins in South India]</ref> lived in Pinjore region near [[Chandigarh]].<ref>Pilgrim, Guy, E
+0.110282
+{{more citations needed|date=March 2014}}
+[[Image:Biface Cintegabelle MHNT PRE 2009.0.201.1 V2.jpg|thumb|right|250px|Four views of an Acheulean handaxe]]
+{{Paleolithic|lower}}
+The '''Lower Paleolithic''' (or '''Lower Palaeolithic''') is the earliest subdivision of the [[Paleolithic]] or Old [[Stone Age]]
+0.129769
+Whether the earliest [[control of fire]] by hominins dates to the Lower or to the Middle Paleolithic remains an open question.<ref>{{cite web |url=http://www.dictionary.com/browse/lower-paleolithic |title=Lower Paleolithic |publisher=Dictionary com |date=  |author= |accessdate= December 30, 2016}}</ref>
+
+==Gelasian==
+{{further|Gelasian|Homo habilis|Olduvai Gorge}}
+
+The Lower Paleolithic began with the appearance of the first [[stone tool]]s in the world
+0.155963
+Whether [[control of fire]] and earliest [[paleolithic burial|burials]] date to this period or only appear during the Middle Paleolithic is an open question
+0.155963
+
+==Transition to the Middle Paleolithic==
+{{further|Homo rhodesiensis|Anatomically modern humans}}
+From about 300,000 years ago, technology, social structures and behaviour appear to grow more complex, with [[prepared-core technique]] lithics, earliest instances of [[paleolithic burial|burial]] and changes to [[hunting-gathering]] patterns of subsistence
+0.176524
+The most ancient European prehistoric sites, dated from 1.8 to 1.1 Ma, have been discovered in a variety of contexts: fl uvio- lacustrine (Dmanisi, Georgia; Orce, Spain), littoral (Monte Poggiolo, Italy)  |publisher=researchgate |date=  |author= |accessdate= December 28, 2016}}</ref>
+
+==Middle Pleistocene==
+{{main|Middle Pleistocene}}
+{{see|Homo heidelbergensis||Archaic humans}}
+The appearance of ''[[Homo heidelbergensis]]'' about 600,000 years ago heralds a number of other new varieties, such as ''[[Homo rhodesiensis]]'' and ''[[Homo cepranensis]]'' about 400,000&nbsp;years ago
+0.226892
+2-61.</ref> [[Quartzite]] tools of [[lower Paleolithic]] period were excavated in this region extending from Pinjore in Haryana to [[Nalagarh]] ([[Solan district]] in Himachal Pradesh).<ref name=hargazc1>[http://revenueharyana.gov.in/Portals/0/hr-gaz-ch-5.pdf Haryana Gazateer], Revennue Dept of Haryana, Capter-V.</ref>
+
+== See also ==
+*[[Control of fire by early humans]]
+*[[Lomekwi]], site of the oldest tools discovered
+
+== References ==
+
+{{Reflist}}
+
+== External links ==
+*[http://www.indiana.edu/~arch/saa/matrix/ia/ia03_mod_10.html The First People and Culture] at Indiana University Bloomington
+
+{{Prehistoric technology| state=expanded}}
+
+{{Authority control}}
+
+[[Category:Lower Paleolithic| ]]
+
+[[sv:Paleolitikum#Tidigpaleolitikum]]

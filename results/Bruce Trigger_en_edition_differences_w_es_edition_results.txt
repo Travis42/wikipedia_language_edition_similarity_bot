@@ -1,0 +1,106 @@
+Bruce Trigger
+en edition's differences with the es version: 
+4.36557e-11
+
+==Honours and awards==
+
+He received a number of academic awards and numerous other honours such as a Fellow of the [[Royal Society of Canada]] from 1976, he became a recipient of their [[Innis-Gérin Medal]] in 1985
+0.0228352
+Sub-atomic research, 20th Century Danish specialist, Pauline research, Arcadian and Ugaritic specialist -->
+| movement           = <!-- Should match the idiologial movement or denomination (for religious), "school" of thought etc
+0.0395517
+|date=2007 |volume=Heft 18 |page=219 |url=https://www.sag-online.de/wp-content/uploads/2018/06/Phillips2007_BruceGrahamTrigger1937-2006_MittSAG18.pdf}}</ref> His PhD thesis entitled "History and Settlement of Lower Nubia" argued that four principle parameters determined the density of Nubia over 4,000 years: the height of floods, agricultural techniques, foreign trade and wars.<ref>{{cite journal |last1=Klejn |first1=Leo S
+0.0791033
+Edinburgh: Edinburgh University Press, 1978 (U.S
+0.0791033
+Edinburgh: Edinburgh University Press, 1978
+0.0839017
+Fenton |date=April 1980 |title=Frederick Starr, Jesse Cornplanter and the Cornplanter Medal for Iroquois Research |jstor=23169465 |journal=New York History |publisher=New York State Historical Association |volume=26 |issue=2 |pages= |doi= |ref=harv }}</ref>
+0.0988791
+|date=2007 |volume=Heft 18 |page=219 |url=https://www.sag-online.de/wp-content/uploads/2018/06/Phillips2007_BruceGrahamTrigger1937-2006_MittSAG18.pdf}}</ref>
+
+===Ethnohistory===
+He was arguably best known for ''The Children of Aataentsic'', his two-volume study of the [[Hurons|Huron peoples]], a work which remains the definitive study on the history and ethnography of that people
+0.0988791
+ One  essay entitled "Archaeology and the Image of the American Indian" documents how archaeological interpretation reflected and legitimated [[stereotypes]] of Native American peoples and expressed the dominant [[political]] ideas and interests of Euro-American culture
+0.114176
+The Québec Government in 2001 made him an Officer of the [[National Order of Quebec]] while five years later, in 2005, he was made an Officer of the [[Order of Canada]]
+0.144586
+[[Leo Klejn]] (2008:4, (Lev Samuilovich Klejn, known as Leo Klejn, was an internationally acclaimed Russian archaeologist) who corresponded with him at great length and depth wrote "Since then I always felt (and said) that if  there were another archaeologist in the world whose positions were the most similar to mine, it would be Bruce Trigger."<ref name="Klejn">{{cite journal |last1=Klejn |first1=Leo |title=Bruce Trigger in World Archaeology |journal=Bulletin of the History of Archaeology |date=2008 |volume=18 |issue=2 |page=4}}</ref> He described (2008:4) Bruce and his contributions after his death as: "Today no other scholar is able to skillfully embrace the whole multifaceted range of  activities of this modest and calm man
+0.158207
+Cambridge: Cambridge University Press, 1983
+0.158207
+Cambridge: Cambridge University Press, 1989
+0.158207
+''Cambridge: Cambridge University Press, 2006
+0.185724
+
+{{Authority control}}
+
+{{DEFAULTSORT:Trigger, Bruce}}
+[[Category:1937 births]]
+[[Category:2006 deaths]]
+[[Category:Canadian archaeologists]]
+[[Category:Fellows of the Royal Society of Canada]]
+[[Category:Officers of the National Order of Quebec]]
+[[Category:Officers of the Order of Canada]]
+[[Category:People from Cambridge, Ontario]]
+[[Category:McGill University faculty]]
+[[Category:Deaths from cancer in Quebec]]
+[[Category:Canadian male non-fiction writers]]
+[[Category:20th-century Canadian historians]]
+0.197758
+|journal=Bulletin of the History of Archaeology |date=2007 |volume=17 |issue=1 |page=52 |doi=10.5334/bha.17116}}</ref>
+
+==Contributions==
+Bruce Trigger contributed to a wide range of fields and wrote on many aspects of archaeology
+0.201713
+Trigger
+| honorific_suffix   = {{post-nominals|country=CAN|OC|OQ|FRSC|size=100%}}
+| image              = Bruce Trigger.jpg
+| image_size         = 
+| alt                = 
+| caption            = 
+| birth_name         = <!-- Use only if different from full/othernames -->
+| birth_date         = {{birth date and age|1937|6|18}}
+| birth_place        = [[Preston, Ontario|Preston]], Ontario, Canada
+| death_date         = {{death date and age|2006|12|1|1937|6|18}}
+| death_place        = 
+| death_cause        = 
+| region             =
+| nationality        = Canadian
+| period             = 
+| occupation         = 
+| title              = 
+| boards             = <!-- Board or similar positions extraneous to main occupation   -->
+| known_for          =
+| spouse             = Barbara Welch
+| children           = Isabel Trigger and Rosalyn Trigger
+| signature          = 
+| signature_alt      = 
+| signature_size     = 
+| era                = 
+| discipline         = [[Archaeology]] <br /> [[Anthropology]] <br /> [[Ethnohistory]]
+| sub_discipline     = <!-- Academic discipline specialist area - e.g
+0.209754
+ In ''Natives and Newcomers'' Trigger, writing in the tradition of [[Franz Boas]], argued that the colonial and Aboriginal societies of early Canada all possessed rich and complex social and cultural systems, and that there are no grounds to argue that any society of early Canada was superior to the others
+0.2211
+He was taught by [[George Murdock|George Peter Murdock]] and [[Irving Rouse|Benjamin Irving Rouse]].<ref name="Bruce Trigger in World Archaeology">{{cite journal |last1=Klejn |first1=Leo |title=Bruce Trigger in World Archaeology |journal=Bulletin of the History of Archaeology |date=2008 |volume=18 |issue=2 |page=6 |doi=10.5334/bha.18202}}</ref> He was co-supervised by co-supervised by [[William Kelly Simpson]] and [[Michael D
+0.284033
+Mary’s Collegiate Institute<br>Stratford Collegiate Institute
+| alma_mater         = [[University of Toronto]] {{small|(B.A., 1959)}} [[Yale University]] {{small|(Ph.D., 1964)}}
+| thesis_title       = 
+| thesis_url         = 
+| thesis_year        = 1964
+| doctoral_advisor   = 
+| doctoral_students  = 
+| notable_students   = <!--Only those with WP articles-->
+| main_interests     = 
+| workplaces         = [[Northwestern University]] <br /> [[McGill University]]
+| notable_works      = 
+| notable_ideas      = 
+| awards             = <!--Notable national level awards only-->
+| website            =
+| footnotes          =
+}}
+'''Bruce Graham Trigger''' {{post-nominals|country=CAN|OC|OQ|FRSC}} (June 18, 1937 – December 1, 2006) was a [[Canadians|Canadian]] [[archaeology|archaeologist]], [[Anthropology|anthropologist]], and [[ethnohistory|ethnohistorian]]

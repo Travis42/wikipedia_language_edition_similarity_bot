@@ -1,0 +1,87 @@
+Epoch (geology)
+en edition's differences with the ja version: 
+0.0394891
+& Smith, A.G.}}; 2004: ''A Geologic Time Scale 2004'', [[Cambridge University]] Press
+
+{{Clear}}
+{{Geological history|c}}
+
+[[Category:Geological epochs| ]]
+[[Category:Geochronology]]
+[[Category:Geologic time scales]]
+[[Category:Units of geologic time by rank]]
+0.0542725
+The current epoch is the [[Holocene]] Epoch of the [[Quaternary]] Period
+0.147957
+
+[[Cenozoic]]
+
+*[[Quaternary]]
+**[[Holocene]]
+**[[Pleistocene]]
+*[[Neogene]]
+**[[Pliocene]]
+**[[Miocene]]
+*[[Paleogene]]
+**[[Oligocene]]
+**[[Eocene]]
+**[[Paleocene]]
+
+[[Mesozoic]]
+*[[Cretaceous]]
+**[[Late Cretaceous|Late (Upper)]]
+**[[Early Cretaceous|Early (Lower)]]
+*[[Jurassic]]
+**[[Late Jurassic|Late (Upper)]]
+**[[Middle Jurassic|Middle]]
+**[[Early Jurassic|Early (Lower)]]
+*[[Triassic]]
+**[[Late Triassic|Late (Upper)]]
+**[[Middle Triassic|Middle]]
+**[[Early Triassic|Early (Lower)]]
+
+[[Paleozoic]]
+
+*[[Permian]]
+**[[Lopingian]]
+**[[Guadalupian]]
+**[[Cisuralian]]
+*[[Carboniferous]]
+**[[Pennsylvanian (geology)|Pennsylvanian]]
+**[[Mississippian (geology)|Mississippian]]
+*[[Devonian]]
+**Late (Upper)
+**Middle
+**Early (Lower)
+*[[Silurian]]
+**[[Pridoli epoch|Pridoli]] 
+**[[Ludlow Group|Ludlow]]
+**[[Wenlock Group|Wenlock]]
+**[[Llandovery Group|Llandovery]]
+*[[Ordovician]]
+**Late (Upper)
+**Middle
+**Early (Lower)
+*[[Cambrian]]
+**[[Furongian|Late (Upper)/Furongian]]
+**Middle
+**Early (Lower)
+
+=== Geological Hierarchy of Chronological Periodization ===
+[[Geochronology]]: From largest to smallest:
+# [[Supereon]]
+# [[Eon (geology)|Eon]]
+# [[Era]]
+# [[Period (geology)|Period]]
+# [[Epoch]]
+# [[Age (geology)|Age]]
+# [[Polarity chron|Chron]]
+
+==References==
+<references/>
+*{{aut|Gradstein, F.M.; Ogg, J.G
+0.230658
+{{short description|Subdivision of geological time; shorter than a period and longer than an age}}
+{{about||historical time|epoch (reference date)|astronomical usage|epoch (astronomy)}}
+
+In [[geochronology]], an '''epoch''' is a subdivision of the [[geologic timescale]] that is longer than an [[age (geology)|age]] but shorter than a [[period (geology)|period]]

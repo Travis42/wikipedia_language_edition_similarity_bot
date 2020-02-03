@@ -1,0 +1,32 @@
+Hot spring
+en edition's differences with the fi version: 
+-4.65661e-10
+* [[Elizabeth Springs]] in western [[Queensland]], Australia might have had a flow of 158&nbsp;liters/second in the late 19th century, but now has a flow of about 5&nbsp;liters/second
+0.0453916
+| date=2006-03-30 | publisher=physorg.com | url=http://www.physorg.com/news62952904.html | accessdate = 2007-09-19 }}</ref><ref name=physicsworld>{{cite web|last=Johnston|first=Hamish|title=Radioactive decay accounts for half of Earth's heat|url=http://physicsworld.com/cws/article/news/2011/jul/19/radioactive-decay-accounts-for-half-of-earths-heat|work=PhysicsWorld.com|publisher=Institute of Physics|accessdate=18 June 2013|date=19 July 2011}}</ref>  The major heat-producing isotopes in the Earth are [[potassium-40]], [[uranium-238]], [[uranium-235]], and [[thorium-232]].<ref>{{cite news  | first=Robert | last=Sanders  | title=Radioactive potassium may be major heat source in Earth's core | publisher=UC Berkeley News | date=2003-12-10 | url=http://www.berkeley.edu/news/media/releases/2003/12/10_heat.shtml  | accessdate=2007-02-28 }}</ref> [[File:Evolution of Earth's radiogenic heat.svg|thumb|275px|The [[radiogenic heat]] from the decay of <sup>238</sup>U and <sup>232</sup>Th are now the major contributors to the [[earth's internal heat budget]].]]
+[[Water]] issuing from a hot spring is heated [[geothermal (geology)|geothermally]], that is, with [[heat]] produced from the [[Earth]]'s [[Mantle (geology)|mantle]]
+0.0631824
+
+==Sources of heat==
+Much of the heat is created by [[radioactive decay|decay]] of naturally radioactive elements
+0.0893534
+If the water is mixed with mud and [[clay]], it is called a [[mud pot]]
+0.0893534
+One example of a non-volcanic warm spring is [[Warm Springs, Georgia]] (frequented for its [[physical therapy|therapeutic]] effects by [[paraplegic]] [[President of the United States|U.S
+0.154765
+[[File:Chaudes-Aigues-Lavoir.JPG|thumb|upright|Chaudes-Aigues-Lavoir]]
+* The springs in Europe with the highest temperatures are located in France, in a small village named [[Chaudes-Aigues]].{{citation needed|date=April 2017}} Located at the heart of the French volcanic region [[Auvergne]], the thirty natural hot springs of Chaudes-Aigues have temperatures ranging from 45&nbsp;°C (113&nbsp;°F) to more than 80&nbsp;°C (176&nbsp;°F)
+0.185866
+{{redirect|Hot springs||Hot Springs (disambiguation)}}
+{{globalize|article|the First World|date=June 2017}}
+[[File:Aerial view of Grand Prismatic (23428929375).jpg|[[Grand Prismatic Spring]] and Midway Geyser Basin in [[Yellowstone National Park]]|thumb|300px]]
+A '''hot spring''' is a [[Spring (hydrology)|spring]] produced by the emergence of [[Geothermal (geology)|geothermally heated]] [[groundwater]] that rises from the [[Earth's crust]]
+0.223384
+Leet |title=Physical Geology |publisher=Prentice-Hall |location=Englewood Cliffs, NJ |year=1982 |edition=6th |url= http://www.webref.org/geology/h/hot_spring.htm |quote=A thermal spring is defined as a spring that brings warm or hot water to the surface
+0.235431
+(2003) suggest that the phrase "warm spring" is not useful and should be avoided.<ref name="pubs.nrc-cnrc.gc.ca"/> The US [[NOAA]] Geophysical Data Center defines a "warm spring" as a spring with water between {{convert|20|and|50|°C|°F}}
+0.26806
+
+Warm springs are sometimes the result of hot and [[spring (hydrosphere)|cold springs]] mixing
+0.26806
+There are many more high flow non-thermal springs than geothermal springs

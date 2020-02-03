@@ -1,0 +1,18 @@
+A series and B series
+en edition's differences with the zh version: 
+0.0983231
+The metaphysical issues that continue to divide A-theorists and B-theorists concern the reality of the past, the reality of the future, and the [[ontological]] status of the present.{{citation needed|date=December 2014}}
+
+==Relation to other ideas in the philosophy of time==
+There are two principal varieties of the A-theory, [[presentism (philosophy of time)|presentism]] and the [[growing block universe]].<ref>[http://fas-philosophy.rutgers.edu/zimmerman/Presentism%20and%20Rel.for.Web.2.pdf Presentism and the Space-Time Manifold] by Dean Zimmerman, p
+0.0983231
+If an event ever is earlier than some events and later than the rest, it is always earlier than and later than those very events
+0.10218
+The essential characteristic of this descriptive modality is that one must think of the ''series of temporal positions'' as being in ''continual transformation'', in the sense that an event is first part of the future, then part of the present, and then past
+0.117988
+In the image of McTaggart the passage of time consists in the fact that terms ever further in the future pass into the present...or that the present advances toward terms ever farther in the future
+0.120421
+The non-temporal relation of precedence between two events, say "E precedes F", does not change over time
+(excluding from this discussion the issue of the relativity of temporal order of causally disconnected events in the theory of relativity)
+0.133786
+7</ref> Both assume an objective present, but presentism assumes that only present objects exist, while the growing block universe assumes both present and past objects exist, but not future ones

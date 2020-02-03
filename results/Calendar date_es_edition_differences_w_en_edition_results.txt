@@ -1,0 +1,190 @@
+Calendar date
+es edition's differences with the en version: 
+0.0142309
+
+In [[Spanish language]], the date of a letter is also usually set at the beginning of the letter (with or without indication of the place where the letter is written), as noted in the following examples: "June 23, 2008" or "23 June 2008"; however, this standard is not always strictly followed, as can be seen in the attached image (letter from James Kezer)
+0.0144492
+
+Numerous [[Programming Language]] contain an integrated [[computer library]], which offers certain date-related functionalities; this is for example in the case of [[C (programming language)-C language]], [[Java (programming language)-Java language]], in the case of [[PHP]], etc
+0.0319484
+The different months each have 30 or 31 days, with the exception of February which, depending on whether it is leap or not, has 28 (in which case it is not leap) or 29 days (if it is)
+0.058572
+[[:File:Einstein Szilard p2.jpg Access the second veneer of the letter]]]
+In [[France]] and [letter]]s, the date is written as follows: "le 23 juin 2008"; that is, that is the way to point out the day a letter was written (usually this information is located at the beginning of it)
+0.0891262
+
+Countries that use the format ''dd-mm-yyyy''
+[[File:Date.png-thumb-350px] "Legend" #4D6DF3-dd-mm-yyyy-
+"Legend" #27D830-dd-mm-yyyyyy yyyy-mm-dd-
+"Legend" #DFDA00-yyyy-mm-dd-
+"Legend" #CE111B-mm-dd-yyyy-
+"Legend" #6F3198-mm-dd-yyyy and dd-mm-yyyy
+"Legend" #9B7500-mm-dd-yyyy, dd-mm-yyy, and yyyy-mm-dd-]]
+
+This format has numeric values, in the day order, month, and [[year]]
+0.0965971
+
+* [[South Africa]]
+* [[Anatolia]]
+* [[Saudi Arabia]] <ref>[http://www.google.com/search?hl=en&lr=&q=site%3Agov.sa+%222008-01-01%22]</ref><ref>[http://www.google.com/search?hl=en&lr=&q=site%3Asa+%222008-01-01%22]</ref>
+* [[Armenia]]
+* [[Azerbaijan]]
+* [[Bahrain]]
+* [[Canada]] <ref name-Canada>-citation web-title-5.14 Dates-url-http://www.btb.termiumplus.gc.ca/tcdnstyl-chap?lang-eng&lettr-chapsect5&info 5.14th/A/C/</ref> (corresponds to the format of official use, which is dif(s) by a friend, Eduardo, give me 5 min)iere of the form of use in the Anglophone population: <tt>mm/dd/yyyy</tt>, and the form of use among Francophones: <tt>dd/mm/yyyy</tt>)
+* [[People's Republic of China] China]]
+* [[Cyprus (country)' Cyprus]]
+* [[Korea]]
+* [[Yibuti]]
+* [[United Arab Emirates]]
+* [[Eritrea]]
+* [[Hong Kong]]
+* [[Hungary]] (aaaa.mm.dd.)
+* [[Iraq]]
+* [[Iran]]
+* [[Israel]]
+* [[Japan]] (often in the form aaaa-mm-d-d-, or aa-mm-d-d- but using the corresponding year of the [Japanese Eras of Japan]); this era may be, but not necessarily, prefixed, for example in the form of the form of thetual)
+* [[Jordan]]
+* [[Kuwait]]
+* [[Lebanon]]
+* [[Libya]] <ref>[http://www.google.com/search?hl=en&lr=&q=site%3Aly+%222008-01-01%22]</ref>
+* [[Lithuania]]
+* [[Norway]]
+* [[Oman]]
+* [[Catar]]
+* [[Sweden]] (yyyy-mm-dd or aaaa.mm.dd)
+* [[Syria]]
+* [[Taiwan]]
+* [[Yemen]]
+
+* [[European Union]: A consumer committee (CC) plans to adopt this format<ref>[http://ec.europa.eu/consumers/cons_org/associations/committ/opinions/cc04_fr.pdf Avis du Comité des Consommateurs sur les probl'mes liés é l'an 2000<!-- Titre généré automatiquement -->]</ref>
+
+See also
+* [[Julian Calendar]]
+* [[Gregorian Calendar]]
+
+• References
+"list"2"
+
+• External links
+Translated ref-fr Date partial
+"Wiktionary"
+"Authority Control"
+
+[[Category:Time]]
+0.0978939
+
+The Gregorian calendar used today in most European countries and the world, is based on the so-called terrestrial [[Year (calendar)]], that is, the time it takes for the planet [[Earth]] to take a full turn around the [[Sun]]
+0.168763
+
+* [[Albania]]
+* 
+* [[Argentina]]
+* [[Australia]]
+* [[Austria]]
+* [[Belgium]]
+* [[Bolivia]]
+* [[Brazil]]
+* [[Bulgaria]]
+* [[Canada]] 'Citation needed' (dd/mm/yyyy)
+* [[Chile]]
+* [[Colombia]]
+* [[Costa Rica]]
+* [[Croatia]]
+* [[Denmark]] (often in a format similar to a fraction <SUP>d</SUP>/<SUB>m</SUB>-a)
+* [[Spain]]
+* [[Estonia]]
+* [[Ecuador (country) Ecuador]]
+* [[Finland]] (d.m.a)
+* [[France]]
+* [[Greece]]
+* [[Guatemala]]
+* [[Guyana]]
+* [[Hong Kong]] (in English format)
+* [[India]]
+* [[Ireland]]
+* [[Israel]]
+* [[Italy]]
+* [[Latvia]]
+* [[Macao]] (English or Portuguese, not very clear)
+* [[Morocco]]
+* [[Mexico]]
+* [[Norway]] (d.m.a or fractionally <sup>d</sup>/<sub>m</sub>-a, the latter is common but considered incorrect)
+* [[New Zealand]]
+* [[Paraguay]]
+* [[Netherlands]]
+* [[Poland]]
+* [[Portugal]]
+* [[Peru]]
+* [[Romania]]
+* [[UK]]
+* [[Russia]]
+* [[Dominican Republic]]
+* [[Czech Republic]]
+* [[Singapour]]
+* [[Slovakia]]
+* [[Slovenia]]
+* [[Switzerland]]
+* [[Sweden]] (fractional form <sup>d</sup>/<sub>m</sub>-a, or alternatively yyyy-mm-dd)
+* [[Thailand]]
+* [[Turkey]]
+* [[Ukraine]] (dd.mm.yyyy)
+* [[European Union]] ''Brussels, 6.4.2005''<ref>[http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:52005PC0116:EN:HTML 52005PC0116].</ref>
+* [[Uruguay]]
+* [[Venezuela]]
+
+Countries that use the format ''mm-dd-yyyy''
+In these countries, the date begins with the month, then the day is specified within the month, and finally the year
+0.188258
+The year is generally divided into 12 [[month]], with a total of 365 [[day]] s (except for [Leap Year]] each that have 366 days)
+0.195788
+[[Year (Calendar)' Year]]<br />(''11.03.00'')
+|' Name of day', Day
+0.230054
+Country
+|-
+| Day/Month/[[Year (calendar) Year]]<br />(''11/03/00'')
+|' Name of the day' Day Month [[Year (calendar)' Year]]<br />(''Saturday, March 11, 2000'')
+| [[Spain]], [[Belgium]], [[UK]]
+|-
+| Day, month
+0.244844
+
+The date in the different countries
+
+There are different legal ways to indicate the date in different countries: the two most common forms are the so-called ''''little endian''''' (dd-mm-yyyy) and '''big endian''''' (yyyy-mm-dd)
+0.249184
+[[Year (Calendar)' Year]]<br />(''11.03.00''.)
+11.03.2000
+| [[Bulgaria]]
+|-
+| Month/Day/[Year (Calendar) Year]]<br />(''03/11/00'')
+|' Name of the day', Day Month, [[Year (calendar)' Year]]<br/>''(Saturday, March 11th, 2000'')
+| [[United States]]
+[[Germany]]
+
+[[Sweden] Philippines]]
+|-
+| [[Year (Calendar)' Year]]/Month/Day<br />(''00/03/11'')
+|' Name of the day', [[Year (calendar)' Year]] -Mes-Day-Br-Day />-A-Day-A-Day-A-Day-A-Day-A-Day-A-2000-0-3-1-1)
+| [[Japan]]
+|}
+
+The existence of several simplified representations of dates complicates international trade, particularly if the [[Year (calendar)'] is indicated only by its last two figures, for of course, in that case the year 06 could be a year of the 1st century, or perhaps 2006, or perhaps 1906
+0.260912
+* [[United States]]
+* [[Philippines]]
+*[[Germany]]
+
+Countries that use the format ''yyyy-mm-dd''
+
+This format is composed of numeric values, in the order [[year (calendar)-year]], month, and day; is the order of the standard [[ISO 8601]]
+0.263561
+It is used to signal, together with the indication of [[time (time)]], the existence or the beginning or end of a given temporary event or, depending on the context, a period of time in which something of historical importance elapsed
+0.278248
+Hence the interest of the format [[ISO 8601]], which always requires indicating four digits for the year, and which also sets the order of the elements: [[Year (calendar)-year]] (with 4 digits), month, and then day; In addition, this format facilitates by date sorting (see [[text processor]])
+0.286151
+[[Year (Calendar)' Year]]<br />(''11.03.00'')
+|' Name of the day' Day Month [[Year (calendar)' Year]]<br />(Samedi, 11 ''mars 2000'')
+| [[Switzerland]] French, [[France]]
+|-
+| Day, month

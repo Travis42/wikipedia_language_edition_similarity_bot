@@ -1,0 +1,11 @@
+Integrated Authority File
+ru edition's differences with the en version: 
+0.236508
+
+
+History
+The GND was launched in April 2012 by the German National Library in collaboration with various library networks and includes recordings of four systems:
+(PND)
+(SWD);
+(GKD);
+(DMA-EST)

@@ -1,0 +1,6 @@
+History of mentalities
+en edition's differences with the ar version: 
+0.204124
+Ginzburg attempted to reconstruct peasant mentalities in sixteenth century Italy by examining the trial records of a single miller, Domenico Scandella, called [[Menocchio]], and trying to find currents or similarities in otherwise fragmentary and obscure evidence.<ref name=Ginzburg>{{cite book|last1=Ginzburg|first1=Carlo|title=The Cheese and the Worms: The Cosmos of a Sixteenth-Century Miller|date=2013|publisher=The Johns Hopkins University Press|location=Baltimore}}</ref>{{rp|119}}
+
+Similar techniques can be seen in [[Robert Darnton]]'s ''[[The Great Cat Massacre]]'', which uses microhistory to establish the mentalities of groups at different social levels of French society

@@ -1,0 +1,165 @@
+Decimal time
+en edition's differences with the es version: 
+-9.09495e-12
+The distance the [[terminator (solar)|twilight zone]] travels in one such ''tierce'' at the [[equator]], which would be one-billionth of the [[circumference]] of the [[earth]], would be a new unit of length, provisionally called a half-[[palm (unit)|handbreadth]], equal to four modern [[centimetre]]s
+0.0175842
+Date<br>Time
+| 1 Jan<br>0:00 || 6 Feb<br>12:36 || 15 Mar<br>1:12 || 20 Apr<br>13:48 || 27 May<br>2:24 || 1 Jul<br>15:00 || 8 Aug<br>3:36 || 13 Sep<br>16:12 || 20 Oct<br>4:48 || 25 Nov<br>17:24 || 1 Jan<br>6:00
+|}
+
+These values, based on the Julian year, are most likely to be those used in astronomy and related sciences
+0.0211336
+ The decimal fraction is usually added to the calendar date or [[Julian day]] for natural objects, or to the [[ordinal date]] for artificial satellites in [[Two-line element set|two-line elements]]
+0.0224155
+et la distance périhélie, égale à 1,053095 ; ce qui a donné pour l'instant du passage au périhélie, sept.29{{sup|j}},10239, temps moyen compté de minuit à Paris
+0.0224155
+
+Les valeurs précédentes de a, b, h, l, relatives à trois observations, ont donné la distance périhélie égale à 1,053650; et pour l'instant du passage, sept.29{{sup|j}},04587; ce qui diffère peu des résultats fondés sur cinq observations
+0.029307
+
+Thus, midnight was called either ''dix heures'' ("ten hours") or ''zero heures'', noon was called ''cinq heures'', etc
+0.0317004
+There are exactly 86.4 ks or 8.64 mys in one day
+0.0380991
+Thus, midnight is 0.0 day, noon is 0.5 d, etc., which can be added to any type of date, including (all of which refer to the same moment):
+* [[Gregorian calendar|Gregorian dates]]: 2000 January 1.5
+* [[Two-line element set|Two-line elements]]: 00001.50000000
+* [[Julian day|Julian dates]]: 2451545.0
+* [[Microsoft Excel|Excel]] serial dates: 36526.5
+
+As many decimal places may be used as required for precision, so 0.5 d = 0.500000 d
+0.0448311
+He also suggested a week of 10 days and dividing the year into 10 "solar months".<ref>{{cite book
+| first = Claude Boniface
+| last = Collignon
+| title = Découverte d'étalons justes, naturels, invariables et universels
+| year = 1788
+| pages = 39–40
+| url = https://books.google.com/books?id=WPA4AAAAMAAJ
+}}</ref>
+
+Decimal time was officially introduced during the [[French Revolution]]
+0.0590637
+Hours/minutes
+| 2&nbsp;h 24&nbsp;min || 4&nbsp;h 48&nbsp;min || 7&nbsp;h 12&nbsp;min || 9&nbsp;h 36&nbsp;min || 12&nbsp;h || 14&nbsp;h 24&nbsp;min || 16&nbsp;h 48&nbsp;min || 19&nbsp;h 12&nbsp;min || 21&nbsp;h 36&nbsp;min || &nbsp; 24&nbsp;h &nbsp;
+|}
+
+;Length of a decimal year
+Since there are about 365 days in a year, there are about 365/10 = 36.5 days in a tenth of a year
+0.0610074
+
+Decimal time was part of a larger attempt at [[decimal]]isation in revolutionary France (which also included [[decimalisation]] of currency and [[metrication]]) and was introduced as part of the [[French Republican Calendar]], which, in addition to decimally dividing the day, divided the month into three ''décades'' of 10 days each; this calendar was abolished at the end of 1805
+0.0634007
+''L'Heure décimale et la division de la circonférence'', Oran: Fouque</ref> Although endorsed by the Bureau des Longitudes, this proposal failed, but using decimal fractions of an hour to represent the time of day instead of minutes has become common
+0.0732675
+Second
+| 6&nbsp;s || 12&nbsp;s || 18&nbsp;s || 24&nbsp;s || 30&nbsp;s || 36&nbsp;s || 42&nbsp;s || 48&nbsp;s || 54&nbsp;s || 60&nbsp;s
+|}
+
+;Minutes in a decimal hour
+Since there are 60 minutes in an hour, a tenth part represents 60/10 = 6 minutes
+0.0821903
+The day, from midnight to midnight, is divided into ten parts, each part into ten others, and so forth until the smallest measurable portion of duration
+0.0845343
+(The myriasecond is based on the ''[[myria-]]'' prefix, which represented a multiple of 10000 but was made obsolete in the mid-20th century.) Occasionally, these units can be found in technical literature, but traditional units like minutes, hours, days and years are much more common, and are accepted for use with SI
+0.0945319
+([https://books.google.co.uk/books?id=HrBKLQ5xwasC&lpg=PA316&dq=%22decimal%20year%22&pg=PA316#v=onepage&q=%22decimal%20year%22&f=false page 316])</ref> More exactly, a [[Julian year (astronomy)|Julian year]] is exactly 365.25 days long, so a tenth of the year is 36.525 days (36 days, 12 hours, 36 minutes)
+0.103963
+Reingold]], ''"[https://books.google.com/books?id=DPbx0-qgXu0C&printsec=frontcover&hl=en&ei=YTxeTrSCKfDN4QSW86Us&sa=X&oi=book_result&ct=result&resnum=2&ved=0CDEQ6AEwAQ#v=onepage&q&f=false Calendrical calculations]"'', page 207</ref><ref>Joseph Needham, Ling Wang, and Derek John de Solla Price [https://books.google.com/books?id=bCA9AAAAIAAJ&pg=PA199#v=onepage&q&f=false ''Heavenly clockwork: the great astronomical clocks of medieval China''] (Cambridge: Cambridge University Press, 1986) 199-202, {{ISBN|0-521-32276-6}}.</ref> Other numbers of ''ke'' per day were used during three short periods: 120 ''ke'' from 5–3 BC, 96 ''ke'' from 507–544 CE, and 108 ''ke'' from 544–565
+0.105668
+
+In the 1890s, Joseph Charles François de Rey-Pailhade, president of the Toulouse Geographical Society, proposed dividing the day into 100 parts, called ''cés'', equal to 14.4 standard minutes, and each divided into 10 ''decicés'', 100 ''centicés'', etc
+0.105668
+The commission adopted a compromise, originally proposed by Henri de Sarrauton of the Oran Geographical Society, of retaining the 24-hour day, but dividing each hour into 100 decimal minutes, and each minute into 100 seconds
+0.109883
+Le jour, de minuit à minuit, est divisé en dix parties, chaque partie en dix autres, ainsi de suite jusqu’à la plus petite portion commensurable de la durée.''
+
+:XI
+0.112078
+
+==Decimal multiples and fractions of the second==
+The second is the [[International System of Units|International System of Units (SI)]] unit of time duration
+0.116235
+Using fractional days reduces the number of units in time calculations from four (days, hours, minutes, seconds) to just one (days)
+0.122015
+Several of the roughly 50 Chinese calendars also divided each ''ke'' into 100 ''fen'', although others divided each ''ke'' into 60 ''fen''
+0.125399
+A [[Gregorian year]], which takes into account the 100/400 leap year rules of the [[Gregorian calendar]], is 365.2425 days (the average length of a year over a 400-year cycle), resulting in 0.1 years being a period of 36.52425 days (3155695.2 seconds; 36 days, 12 hours, 34 minutes, 55.2 seconds)
+0.12855
+The primary divisions were called hours, and they added:
+
+:''La centième partie de l'heure est appelée ''minute décimale''; la centième partie de la minute est appelée ''seconde décimale''
+0.134812
+;Seconds in a decimal minute
+Since there are 60 seconds in a minute, a tenth part represents 60/10 = 6 seconds
+0.137368
+It is also the standard single-unit time representation in many programming languages, most notably C, and part of UNIX/POSIX standards used by Linux, Mac OS X, etc.; to convert fractional days to fractional seconds, multiply the number by 86400
+0.137607
+This division would result in much easier and more convenient calculations and would be very preferable to the arbitrary division of the ''livre'' into twenty ''sous'', of the ''sou'' into twelve ''deniers'', of the day into twenty-four hours, the hour into sixty minutes, etc.<ref>{{cite journal
+ |journal=KronoScope 
+ |url=http://www.newschool.edu/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=56733
+ |title=Decimal Time: Misadventures of a Revolutionary Idea, 1793–2008 
+ |first=Hector 
+ |last=Vera 
+ |year=2009 
+ |volume=9 
+ |issue=1-2 
+ |doi=10.1163/156771509X12638154745382 
+ |issn=1567-715X 
+ |publisher=Brill 
+ |pages=31–32 
+}}{{dead link|date=December 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{cite book
+ |title = Encyclopédie
+ |first = Jean le Rond
+ |last  = d'Alembert
+ |year  = 1754
+ |url   = http://artflx.uchicago.edu/cgi-bin/philologic/getobject.pl?c.3:1756.encyclopedie0311.6994586
+|archive-url = https://archive.is/20121215015726/http://artflx.uchicago.edu/cgi-bin/philologic/getobject.pl?c.3:1756.encyclopedie0311.6994586
+|url-status = dead
+|archive-date = 2012-12-15
+}}</ref>
+In 1788, [[Claude Boniface Collignon]] proposed dividing the day into 10 hours or 1000 minutes, each new hour into 100 minutes, each new minute into 1000 seconds, and each new second into 1000 ''tierces'' (Latin for "third")
+0.193141
+Minutes
+| 6&nbsp;min || 12&nbsp;min || 18&nbsp;min || 24&nbsp;min || 30&nbsp;min || 36&nbsp;min || 42&nbsp;min || 48&nbsp;min || 54&nbsp;min || 60&nbsp;min
+|}
+
+;Hours in a decimal day
+Since there are 24 hours in a day, a tenth part represents 24/10 = 2.4 hours (2 hours and 24 minutes)
+0.232469
+For instance, instead of adding 1:36 to 2:36, getting 3:72 and converting it to 4:12, one would add 1.6 to 2.6 and get 4.2 hours.<ref>{{Cite web |url=http://www.casa.gov.au/scripts/nc.dll?WCMS:STANDARD::pc=PC_90100 |title=Archived copy |access-date=2012-06-23 |archive-url=https://web.archive.org/web/20120321102102/http://www.casa.gov.au/scripts/nc.dll?WCMS:STANDARD::pc=PC_90100 |archive-date=2012-03-21 |url-status=dead }}</ref>
+
+==Fractional days==
+The time of day is sometimes represented as a decimal fraction of a day in science and computers
+0.241006
+For example, decimal days divides the day into 10 equal parts, and decimal years divides the year into 10 equal parts
+0.245322
+h:mm:ss.sss
+|-
+| style="text-align: left"|Decimal second
+| {{yes2|style=text-align:right}} 0.864
+| 0.0144
+| 0.00024
+| 0:00:00.864
+|-
+| style="text-align: left"|Decimal minute
+| 86.4
+| {{yes2|style=text-align:right}} 1.44
+| 0.024
+| 0:01:26.400
+|-
+| style="text-align: left"|Decimal hour
+| 8,640
+| 144
+| {{yes2|style=text-align:right}} 2.4
+| 2:24:00.000
+|}
+
+==Decimal hours==
+Another common type of decimal time is decimal hours
+0.279009
+For instance, 1:23:00 is 1 decimal hour and 23 decimal minutes, or 1.23 hours, or 123 minutes; 3 hours is 300 minutes or 30,000 seconds
+0.292988
+''(emphasis in original)
+
+:The hundredth part of the hour is called ''decimal minute''; the hundredth part of the minute is called ''decimal second''

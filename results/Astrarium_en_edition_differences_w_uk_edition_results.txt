@@ -1,0 +1,33 @@
+Astrarium
+en edition's differences with the uk version: 
+0.0120461
+A famous example is the [[Eise Eisinga Planetarium]] built in 1774 by [[Eise Eisinga]] from Dronrijp, Friesland, the Netherlands
+0.024589
+* [http://www.scienceandsociety.co.uk/results.asp?image=10249624 Science and Society Picture Library]: - a picture of De Dondi’s "Astrarium", the world’s first astronomical clock, 1364
+0.0276831
+* [http://www.almagest.co.uk/middle/astrar.htm de Dondi's Astrarium Hi-Tech, 14th Century style]
+* [http://www.planetarium-friesland.nl/ Het Eise Eisinga Planetarium]
+* [http://theorderoftime.org/truetime/solartime.html Solar tempometer] An astrarium clock running to the sun
+0.0565548
+
+{{Time Topics}}
+{{Time measurement and standards}}
+
+[[Category:Astronomical clocks]]
+[[Category:Historical scientific instruments]]
+[[Category:Astronomical instruments]]
+[[Category:History of astronomy]]
+0.0936968
+It displays the mean time, sidereal, (or star), time and the motions of the sun, moon and the five then-known planets [[Venus]], [[Mars]], [[Saturn]], [[Mercury (planet)|Mercury]], and [[Jupiter]]
+0.0946678
+
+===Middle Ages and Renaissance===
+The first modern documented astrarium clock was completed in 1364 by [[Giovanni Dondi dell'Orologio|Giovanni de' Dondi]] (1318–1388), a scholar and physician of the [[Middle Ages]] interested in astronomy and [[horology]]
+0.136286
+The original clock, consisting of 107 wheels and [[pinion]]s, has been lost, perhaps during the sacking of Mantua in 1630, but de' Dondi left detailed descriptions which have survived, enabling a reconstruction of the clock
+0.151193
+[[File:Astrario Dondi 05869 01 dia - Museo scienza e tecnologia Milano.jpg|thumb|The astrarium made by [[Giovanni Dondi dell'Orologio]] showed hour, year calendar, movement of the planets, Sun and Moon
+0.151193
+De' Dondi was inspired by his father [[Jacopo Dondi dell'Orologio|Jacopo]] who designed the [[astronomical clock]] in the Piazzi dei Signori, [[Padua]], in 1344 – one of the first of its type
+0.206822
+This mechanism, known as the [[Antikythera mechanism]], was recently redated to end of the 2nd century BCE.<ref>{{cite web |title=Antikythera Mechanism Research Project |url=http://www.antikythera-mechanism.gr/ |website=www.antikythera-mechanism.gr |language=en |access-date=2008-03-17 |archive-url=https://www.webcitation.org/6Ay917M8F?url=http://www.antikythera-mechanism.gr/ |archive-date=2012-09-26 |url-status=dead }}</ref> Extensive study of the fragments, using X-rays, has revealed enough details (gears, pinions, crank) to enable researchers to build partial replicas of the original device.<ref>{{cite web |title=Solid Models of the Antikythera Mechanism {{!}} Antikythera Mechanism Research Project |url=http://www.antikythera-mechanism.gr/data/models/solid-models.html |website=www.antikythera-mechanism.gr |language=en |access-date=2008-03-17 |archive-url=https://web.archive.org/web/20080315145051/http://www.antikythera-mechanism.gr/data/models/solid-models.html |archive-date=2008-03-15 |url-status=dead }}</ref><ref>{{cite web|url=http://sfr.ee.teiath.gr/historia/historia/graphics/instr/images/antik06.jpg |title=Archived copy |accessdate=2006-11-29 |url-status=dead |archiveurl=https://web.archive.org/web/20061206040835/http://sfr.ee.teiath.gr/historia/historia/graphics/instr/images/antik06.jpg |archivedate=2006-12-06 }}</ref><ref>{{cite web|url=http://ircamera.as.arizona.edu/NatSci102/text/extgreek_files/image004.jpg |title=Archived copy |accessdate=2006-11-29 |url-status=dead |archiveurl=https://web.archive.org/web/20080216100016/http://ircamera.as.arizona.edu/NatSci102/text/extgreek_files/image004.jpg |archivedate=2008-02-16 }}</ref> Engraved on the major gears are the names of the planets, which leaves little doubt as to the intended use of the mechanism

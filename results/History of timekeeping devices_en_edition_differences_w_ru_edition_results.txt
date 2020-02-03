@@ -1,0 +1,402 @@
+History of timekeeping devices
+en edition's differences with the ru version: 
+-5.92166e-09
+|year=1958 |publisher=World Publishing Company |location=Cleveland |isbn= }}
+* {{Cite book|title=History of the Hour: Clocks and Modern Temporal Orders |last=Dohrn-Van Rossum |first=Gerhard |year=1996 |publisher=University of Chicago Press |location=Chicago |isbn=0-226-15510-2}}
+* {{cite journal|last=Frye|first=Richard N
+-5.92166e-09
+* {{Cite book |title=Time's Arrows: Scientific Attitudes Toward Time |last=Morris |first=Richard |year=1985 |publisher=Simon and Schuster |location=New York |isbn=978-0-671-61766-0 |url-access=registration |url=https://archive.org/details/timesarrows00rich }}
+* {{Cite book|title=Heavenly Clockwork: The Great Astronomical Clocks of Medieval China |last=Needham |first=Joseph |author2=Ling, Wang|author3=deSolla Price, Derek J
+-5.92166e-09
+|year=1986 |publisher=Cambridge University Press |location=Cambridge |isbn=978-0-521-32276-8}}
+* {{Cite book|title=The Calendars of Ancient Egypt |last=Parker |first=Richard Anthony|year=1950 |publisher=University of Chicago|isbn=|oclc=2077978}}
+* {{Cite book|title=Man and Time |last=Priestley |first=John Boynton |authorlink=J
+-1.45889e-09
+Different powdered incense clocks used different formulations of incense, depending on how the clock was laid out.<ref>{{Cite journal|last=Bedini|first=Silvio A.|year=1963|title=The Scent of Time
+-9.43629e-10
+434</ref> This has inspired several modern replicas, including some in London's [[Science Museum (London)|Science Museum]] and the [[Smithsonian Institution]].<ref name="Davies434"/> Other notable examples from this period were built in [[Milan]] (1335), [[Strasbourg astronomical clock|Strasbourg]] (1354), [[Lund Cathedral|Lund]] (1380), [[Rouen]] (1389), and [[Prague]] (1462).<ref name="Davies434"/>
+
+[[Salisbury cathedral clock]], dating from about 1386, is one of the oldest working clocks in the world, and may be the oldest
+-7.78755e-10
+[[National Bureau of Standards]] (NBS, now [[National Institute of Standards and Technology|NIST]])
+-6.16637e-10
+Around 610, this design was trumped by two [[Sui Dynasty]] inventors, Geng Xun and Yuwen Kai, who were the first to create the balance clepsydra, with standard positions for the [[steelyard balance]].<ref name=needham>{{Cite journal|first=Joseph |last=Needham |authorlink=Joseph Needham|year=1986 |title=Science and Civilization in China |volume=4 |journal=Physics and Physical Technology, Part 2: Mechanical Engineering |location=Taipei |publisher=Caves Books, Ltd |pages=479–480 |ref=harv}}</ref> Joseph Needham states that:
+{{quote|text=...&nbsp;[the balance clepsydra] permitted the seasonal adjustment of the pressure head in the compensating tank by having standard positions for the counterweight graduated on the beam, and hence it could control the rate of flow for different lengths of day and night
+-5.62068e-10
+18</ref><ref>{{cite web|url=http://www.nawcc.org/museum/nwcm/galleries/asian/incense.htm |title=Asian Gallery – Incense Clock|accessdate=April 28, 2008|publisher=[[National Watch and Clock Museum]]}}</ref> Sticks of incense with different scents were also used, so that the hours were marked by a change in fragrance.<ref>Richards, p
+-2.17412e-10
+
+The chronometer was trialled in 1761 by Harrison's son and by the end of 10 weeks the clock was in error by less than 5 seconds.<ref name=gould>{{cite book|author=Gould, Rupert T.|authorlink=Rupert Gould|title=The Marine Chronometer
+-2.02122e-10
+When the [[waistcoat]] was introduced as a manly fashion at the court of [[Charles II of England|Charles II]] in the 17th century, the pocket watch was tucked into its pocket
+-1.47338e-10
+Water, flowing into scoops, turned a wheel automatically, rotating it one complete revolution in one day and night
+-1.0823e-10
+|last2=Heckscher |first3=Mary-Alice |last3=Rogers |last4=Metropolitan Museum of Art|author4-link=Metropolitan Museum of Art|url=https://books.google.com/books?id=kWIh7QgkBe8C&pg=PA290#v=onepage&q&f=false|pages=290–291|title=187
+-1.04258e-10
+Daytime divided into 12 parts.]]  
+The oldest known sundial is from [[Ancient Egypt|Egypt]]; it dates back to around 1500 BC (19th Dynasty), and was discovered in the Valley of the Kings in 2013.<ref name="One of world's oldest sundials dug up in Kings' Valley, Upper Egypt">[https://www.sciencedaily.com/releases/2013/03/130314085052.htm One of world's oldest sundials dug up in Kings' Valley, Upper Egypt]</ref> [[Sundial]]s have their origin in [[shadow clock]]s, which were the first devices used for measuring the parts of a day.<ref>Major, p
+-6.24709e-11
+Interspersed with Various Notices of Many Distinguished Men: with an Appendix, Containing Sundry Philosophical and Other Papers, Most of which Have Not Hitherto Been Published|page=97|location=Philadelphia|publisher=Edward Parker|year=1813|oclc=166059809|lccn=15004714|accessdate=February 23, 2019|quote=It was at this period, or rather at about the seventeenth year of his age, that he made a wooden clock, of very ingenious workmanship:|via=[[Google Books]]}}<br />(3) {{cite journal|first=Fred C.|last=Sweinhart|url=https://hsmcpa.org/images/thebulletin/1941vol3no1.pdf|title=Early Pennsylvania Clocks and Their Makers|page=43|journal=The Bulletin of the Historical Society of Montgomery County|volume=3|number=1|date=October 1941|publisher=Historical Society of [[Montgomery County, Pennsylvania|Montgomery County]]|location=[[Norristown, Pennsylvania]]|oclc=1681070|lccn=sf77000139|issn=0362-8590|accessdate=February 22, 2019|quote=David Rittenhouse was born in 1732 and died in 1796
+-6.24141e-11
+Officers in the [[British Army]] began using wristwatches during colonial military campaigns in the 1880s, such as during the [[Third Anglo-Burmese War|Anglo-Burma War]] of 1885.<ref name="Evolu" />
+
+During the [[Boer War]], the importance of coordinating troop movements and synchronizing attacks against the highly mobile Boer insurgents was paramount, and the use of wristwatches subsequently became widespread among the officer class
+-6.18456e-11
+The idea of using hours of equal length throughout the year was the innovation of Abu'l-Hasan [[Ibn al-Shatir]] in 1371, based on earlier developments in [[trigonometry]] by [[Muhammad ibn Jābir al-Harrānī al-Battānī]] (Albategni)
+-3.63798e-12
+By the beginning of the [[Han Dynasty]], in 202{{nbsp}}{{sc|bc}}, the outflow clepsydra was gradually replaced by the inflow clepsydra, which featured an indicator rod on a float
+8.98126e-12
+
+[[Thomas Tompion]] was the first English clockmaker with an international reputation and many of his pupils went on to become great horologists in their own right, such as [[George Graham (clockmaker)|George Graham]] who invented the deadbeat escapement, orrery and mercury [[pendulum]], and his pupil [[Thomas Mudge (horologist)|Thomas Mudge]] who created the first [[lever escapement]]
+1.72236e-11
+The [[creeping barrage]] artillery tactic, developed during the War, required precise synchronization between the artillery gunners and the infantry advancing behind the barrage
+2.28795e-11
+It was clear that using pocket watches while in the heat of battle or while mounted on a horse was impractical, so officers began to strap the watches to their wrist
+3.73586e-11
+(Cambridge, England: Cambridge University Press, 1879), vol
+4.6068e-11
+Some dispute remains as to whether British scientist [[Robert Hooke]] (his was a straight spring) or Dutch scientist [[Christiaan Huygens]] was the actual inventor of the [[balance spring]]
+4.64979e-11
+{{cite web|url= http://italian.about.com/library/anthology/dante/blparadiso010.htm |title= Paradiso – Canto X – Divine Comedy – Dante Alighieri – La Divina Commedia |publisher= [[About.com]] |accessdate= April 11, 2008}}</ref> the first known literary reference to a clock that struck the hours.<ref name="Reid"/> [[Giovanni Dondi dell'Orologio|Giovanni da Dondi]], Professor of Astronomy at [[University of Padua|Padua]], presented the earliest detailed description of clockwork in his 1364 treatise ''Il Tractatus Astrarii''.<ref name="Davies434">Davies, Norman; p
+5.58487e-11
+[[Elizabeth I]] of England received a wristwatch from [[Robert Dudley, 1st Earl of Leicester|Robert Dudley]] in 1571, described as an arm watch
+5.84288e-11
+After construction was completed on a small workshop at the family's Norriton farm, David began making and selling clocks.|archive-url=https://web.archive.org/web/20190222155106/https://archives.profsurv.com/magazine/article.aspx?i=824|archive-date=February 22, 2019|url-status=dead|df=mdy-all}}<br />(2) {{cite book|last=Barton|first=William|url=https://books.google.com/books?id=bRw6AAAAcAAJ&pg=PA97&lpg=PA97#v=onepage&q&f=false|title=Memoirs of the Life of David Rittenhouse Anterior to His Settlement in Philadelphia|work=Memoirs of the Life of David Rittenhouse, LLD
+8.0334e-11
+[[George Graham (clockmaker)|George Graham]] invented the [[Escapement#Deadbeat escapement|deadbeat escapement]] for clocks in 1720
+1.22398e-10
+The most famous original still standing is possibly [[St Mark's Clock]] on the top of [[St Mark's Clocktower]] in [[St Mark's Square (Venice)|St Mark's Square]] in [[Venice]], assembled in 1493 by the clockmaker Gian Carlo Rainieri from [[Reggio Emilia]]
+1.71184e-10
+Once lit, the candles were placed in wooden framed glass boxes, to prevent the flame from extinguishing.<ref name="alfred">{{cite encyclopedia |encyclopedia=[[Encyclopædia Britannica]] |url=http://kids.britannica.com/clockworks/t_candle.html |title=Clockworks: Candle clock |accessdate=March 16, 2008 |url-status=dead |archiveurl=https://web.archive.org/web/20151126001057/http://kids.britannica.com/clockworks/t_candle.html |archivedate=November 26, 2015  }}</ref>
+
+The most sophisticated candle clocks of their time were those of [[Al-Jazari]] in 1206
+1.71184e-10
+TV channel)|History Channel]]|url=https://www.youtube.com/watch?v=PwGfw1YW9Js|accessdate=September 7, 2008}}</ref> [[Donald Routledge Hill]] described Al-Jazari's candle clocks as follows:
+
+{{quote|The candle, whose rate of burning was known, bore against the underside of the cap, and its wick passed through the hole
+2.72976e-10
+The concentric minute hand was added to the clock by [[Daniel Quare]], a London clock-maker, and the Second Hand was introduced
+2.72976e-10
+Rather than fit British works into a colonial cabinet, which was typical considering the cost and complexity of the mechanical components, Bagnall created the works himself with parts acquired from fellow Bostonians
+3.31397e-10
+Case: Primary wood is walnut; secondary wood: white pine
+3.47768e-10
+187</ref>
+
+===Sundials===
+{{Main|Sundial}}
+[[Image:SevillaGlorietaDelReloj01.JPG|thumb|A 20th-century [[sundial]] in [[Seville]], [[Andalusia]], Spain]]
+Sundials had been used for timekeeping since [[ancient Egypt]]
+3.76588e-10
+The company [[Mappin & Webb]] began production of their successful 'campaign watch' for soldiers during the [[Battle of Omdurman|campaign at the Sudan in 1898]] and ramped up production for the Boer War a few years later.<ref name="Evolu" />
+
+[[File:First Battle of Passchendaele - barrage map (colour balance).jpg|thumb|right|Planning map for an Allied creeping barrage at [[Battle of Passchendaele|Passchendaele]] – a tactic that required precise synchronisation between the artillery and infantry.]]
+These early models were essentially standard pocket-watches fitted to a leather strap, but by the early 20th century, manufacturers began producing purpose-built wristwatches
+3.79613e-10
+Two centuries later, these clocks are usually rejected by collectors on the basis of quality, although the ingenious wooden mechanism and the marketing concept behind it were among the more sophisticated ideas afoot in the marketplace of eighteenth-century New England.}}</ref> [[David Rittenhouse]] constructed a clock with wooden gears around 1749 while living on a farm near [[Philadelphia]] at the age of 17.<ref>(1) {{cite web|url=https://archives.profsurv.com/magazine/article.aspx?i=824|title=Feature: Construction Details of Rittenhouse Compasses|work=Professional Surveyor Magazine|date=December 2001|first=Jeffrey D.|last=Lock|accessdate=February 22, 2019|issn=0278-1425|oclc=1043615987|lccn=82643590|location=[[Frederick, Maryland]]|publisher=Professional Surveyors Publishing Company|via=Flatdog Media, Inc.|quote=David Rittenhouse was born April 8, 1732 in Roxborough Township, [[Philadelphia County, Pennsylvania|Philadelphia County]]
+4.24109e-10
+Among the earliest known clockmakers in the colonies were Thomas Nash of [[New Haven, Connecticut]] (1638),<ref name=Uselding>{{cite web |last=Uselding |first=Paul |archiveurl=https://web.archive.org/web/20160513081258/http://www.encyclopedia.com/topic/clock.aspx |archivedate=2016-05-13|url=http://www.encyclopedia.com/topic/clock.aspx |title=Clock and Watch Industry |work=Dictionary of American History |publisher=[[Gale (publisher)|The Gale Group Inc.]] |year=2003 |accessdate=2017-05-31|quote=The first clockmaker of record in America was Thomas Nash, an early settler of New Haven in 1638
+6.29115e-10
+56</ref>
+
+While early incense seals were made of wood or stone, the Chinese gradually introduced disks made of metal, most likely beginning during the [[Song dynasty]]
+6.29115e-10
+209, ''A history of mechanical inventions'', Abbott Payson Usher, Courier Dover Publications, 1988, {{ISBN|0-486-25593-X}}.</ref>  Timepieces which indicated minutes and seconds were occasionally made from this time on, but this was not common until the increase in accuracy made possible by the pendulum clock and, in watches, by the spiral balance spring
+9.18033e-10
+[[Edward Barlow (priest)|Edward Barlow]] invented the rack and snail striking mechanism for [[striking clock]]s, which was a great improvement over the previous mechanism
+1.65346e-09
+K.|publisher=Courier Dover Publications|year=1993|isbn=0-486-27472-1|url=https://books.google.com/?id=PoAJbWm3nEUC&printsec=frontcover#PPA293,M1|page=293}}</ref> Before then, pendulum clocks used the older [[verge escapement]] mechanism, which required very wide pendulum swings of about 100°
+1.65346e-09
+This requirement for height, along with the need for a long drop space for the weights that power the clock, gave rise to the tall, narrow case.<ref>{{cite web|last=Brain|first=Marshall|url=http://electronics.howstuffworks.com/clock.htm|title=How Pendulum Clocks Work|publisher=[[HowStuffWorks]] |accessdate=December 10, 2007}}</ref>
+
+Clement also introduced the pendulum suspension spring in 1671
+1.84809e-09
+ The addition of the balance spring made the balance wheel a [[harmonic oscillator]] like the pendulum in a pendulum clock, which oscillated at a fixed [[resonant frequency]] and resisted oscillating at other rates
+0.0189092
+995 Plate CDXV in ''Science and Civilization in China'', Volume 4 part 3, Joseph Needham, 1971, Cambridge University Press, Library of Congress Catalogue Card Number: 54-4723</ref> and the hourglass implies the use of glassblowing, which appears to be an entirely European and Western art.<ref>''Science and Civilization in China'', Volume 4-3, Joseph Needham, 1971, Cambridge University Press, page 570</ref>
+
+===Clocks with gears and escapements===
+The earliest instance of a liquid-driven escapement was described by the [[Ancient Greece|Greek]] engineer [[Philo of Byzantium]] (fl
+0.01975
+In 1904, [[Alberto Santos-Dumont]], an early aviator, asked his friend, a French [[watchmaker]] called [[Louis Cartier]], to design a watch that could be useful during his flights.<ref>{{Cite book|title=Lego Mindstorms NXT Hacker's Guide|last=Prochnow|first=Dave|publisher=McGraw-Hill|year=2006|isbn=0-07-148147-8|url-access=registration|url=https://archive.org/details/legomindstormsnx0000proc}}</ref>
+<ref>{{cite web | last = Silva de Mattos | first = Bento | title = Alberto Santos-Dumont | url = https://www.aiaa.org/SecondaryTwoColumn.aspx?id=15163 | accessdate = June 21, 2008 | publisher = American Institute of Aeronautics and Astronautics | archive-url = https://web.archive.org/web/20140416205737/https://www.aiaa.org/SecondaryTwoColumn.aspx?id=15163 | archive-date = April 16, 2014 | url-status = dead }}</ref> [[Hans Wilsdorf]] moved to London in 1905 and set up his own business with his brother-in-law Alfred Davis, Wilsdorf & Davis, providing quality timepieces at affordable prices—the company later became [[Rolex]].<ref>Rolex Jubilee Vade Mecum published by the Rolex Watch Company
+in 1946.</ref> Wilsdorf was an early convert to the wristwatch, and contracted the Swiss firm Aegler to produce a line of wristwatches
+0.0223461
+Although it was less accurate than existing [[quartz clock]]s, it served to demonstrate the concept.<ref>{{cite conference|author=Sullivan, D.B.|year=2001|title=Time and frequency measurement at NIST: The first 100 years|url=http://tf.nist.gov/timefreq/general/pdf/1485.pdf|work=2001 IEEE International Frequency Control Symposium|pages=4–17|publisher=[[National Institute of Standards and Technology|NIST]]|url-status=dead|archiveurl=https://web.archive.org/web/20110927062444/http://tf.nist.gov/timefreq/general/pdf/1485.pdf|archivedate=September 27, 2011}}</ref>
+<ref name="NISTshistorymeasuring">{{cite web|url=http://tf.nist.gov/general/museum/847history.htm|title=Time and Frequency Division|publisher=National Institute of Standards and Technology|accessdate=April 1, 2008|url-status=dead|archiveurl=https://web.archive.org/web/20080415135733/http://tf.nist.gov/general/museum/847history.htm|archivedate=April 15, 2008}}</ref><ref name=nistatomic>{{cite web|url=http://physics.nist.gov/GenInt/Time/atomic.html |title=The "Atomic Age" of Time Standards |accessdate=May 2, 2008 |publisher=National Institute of Standards and Technology| archiveurl = https://web.archive.org/web/20080412040352/http://physics.nist.gov/GenInt/Time/atomic.html| archivedate = April 12, 2008}}</ref>
+
+The first accurate atomic clock, a [[caesium standard]] based on a certain transition of the [[caesium-133]] atom, was built by [[Louis Essen]] in 1955 at the [[National Physical Laboratory, UK|National Physical Laboratory]] in the UK.<ref>
+{{Cite journal | last1 = Essen | first1 = L
+0.024758
+59</ref>
+
+====Wristwatch====
+{{Main|Wristwatch|history of watches}}
+[[File:Leicester as Governor-General engraving by Goltzius.jpg|thumb|upright|right|One of the earliest references to a wristwatch – an 'arm watch' given to Queen [[Elizabeth I]] by her favourite [[Robert Dudley, 1st Earl of Leicester|Robert Dudley]].]]
+The concept of the wristwatch goes back to the production of the very earliest watches in the 16th century
+0.0254714
+From its invention in 1675 by [[Christiaan Huygens]], the spiral [[hairspring]] ([[balance spring]]) system for portable timekeepers, still used in [[mechanical watch]]making industry today.<ref>{{cite web|url=http://www.livemint.com/Consumer/BRV0yH484NEmX6sDvVJ58K/A-spring-apart.html |author=Vadukut, Sidin |title=''A spring apart'' |publisher=Livemint.com |date=May 31, 2010 |accessdate=April 14, 2017 }}</ref><ref>{{cite web|url=http://www.europastar.com/magazine/highlights/1004084682-tag-heuer-going-beyond-huygens.html |author=Maillard, Pierre |title=TAG Heuer, going beyond Huygens |publisher=Europa Star Magazine |date=March 7, 2012 |accessdate=April 14, 2017 }}</ref><ref>{{cite news|url=https://www.nytimes.com/2013/04/25/fashion/25iht-acaw-technology25.html?pagewanted=all&_r=0 |author=Gomelsky, Victoria |title=Swiss Watch Houses Embrace Technology |publisher=NYTimes.com |date=April 24, 2013 |accessdate=April 14, 2017 }}</ref><ref>{{cite web|url=http://www.escapementmagazine.com/articles/tag-heuer-carrera-mikropendulum.html |author=Davies, Angus |title=TAG Heuer Carrera Mikropendulum |publisher=Escapementmagazine.com |date=February 21, 2014 |accessdate=April 14, 2017 }}</ref>
+
+===Pocket watch===
+{{Main|Pocket watch}} 
+{{See also|Automatic watch|l1=Automatic watch (self-winding watch)|Diving watch}}
+In 1675, Huygens and [[Robert Hooke]] invented the [[spiral balance]], or the hairspring, designed to control the oscillating speed of the [[balance wheel]]
+0.0283638
+
+==Timekeeping devices of early civilizations==
+{{See also|History of calendars|Water clock|l1=Water clock (clepsydra)}}
+[[Image:Summer Solstice Sunrise over Stonehenge 2005.jpg|thumb|right|The sun rising over [[Stonehenge]] on the [[solstice|June solstice]]]]
+Many ancient civilizations observed [[Astronomical object|astronomical bodies]], often the [[Sun]] and [[Moon]], to determine times, dates, and seasons.<ref name="Chobotovp1">Chobotov, p
+0.0314668
+1</ref><ref name=bruton>{{Cite book|title=The History of Clocks and Watches |last=Bruton |first=Eric |location=New York |publisher=Crescent Books |isbn=0-517-37744-6 |year=1979}}</ref> The first [[calendar]]s may have been created during the [[last glacial period]], by [[hunter-gatherer]]s who employed tools such as sticks and bones to track the [[phases of the moon]] or the seasons.<ref name=bruton/> [[Stone circle]]s, such as England's [[Stonehenge]], were built in various parts of the world, especially in [[Prehistoric Europe]], and are thought to have been used to time and predict seasonal and annual events such as [[equinox]]es or [[solstice]]s.<ref name=bruton/><ref name=NISTancient>{{cite web|url=http://physics.nist.gov/GenInt/Time/ancient.html |title=Ancient Calendars |accessdate=April 30, 2008 |publisher=National Institute of Standards and Technology| archiveurl = https://web.archive.org/web/20080409142829/http://physics.nist.gov/GenInt/Time/ancient.html| archivedate = April 9, 2008}}</ref> As those [[megalith]]ic civilizations left no [[recorded history]], little is known of their calendars or timekeeping methods.<ref>Richards, p
+0.0378184
+Famous clockmakers of this period included [[Joseph Windmills]], Simon de Charmes who established the De Charmes clockmaker firm and [[Christopher Pinchbeck]] who invented the alloy [[Pinchbeck (alloy)|pinchbeck]].<ref>{{cite web|url=http://www.british-history.ac.uk/report.aspx?compid=22169|title=Clock and Watch-Making|publisher=British History Online}}</ref>
+
+Later famous horologists included [[John Arnold (watchmaker)|John Arnold]] who made the first practical and accurate modern watch by refining Harrison's chronometer, [[Thomas Earnshaw]] who was the first to make these available to the public, [[Daniel Quare]], who invented a repeating watch movement, a portable barometer and introduced the concentric minute hand
+0.038054
+This crucial advance finally made accurate [[pocket watch]]es possible.<ref name="Pockets"/>  This resulted in a great advance in accuracy of pocket watches, from perhaps several hours per day to 10&nbsp;minutes per day, similar to the effect of the pendulum upon mechanical clocks.<ref name="NIST" /><ref>{{Cite book| last=Milham | first= Willis I
+0.0401125
+103</ref> In measuring an accurate one-second pendulum, for example, the Italian astronomer Father [[Giovanni Battista Riccioli]] persuaded nine fellow Jesuits "to count nearly 87,000 oscillations in a single day".<ref name="Woods103"/> They served a crucial role in spreading and testing the scientific ideas of the period, and collaborated with contemporary scientists, such as Huygens.<ref name="Woods100"/>
+
+===Spiral-hairspring watch===
+{{main|Balance spring}}
+{{See also|Balance wheel|Mechanical watch}}
+[[File:Fotothek df tg 0003783 Uhr ^ Uhrwerk.jpg|thumb|right|Drawing of one of his first [[balance spring]]s, attached to a [[balance wheel]], by Christiaan Huygens, published in his letter in the ''Journal des Sçavants'' of February 25, 1675
+0.0401125
+The clock had many innovations, including the use of bearings to reduce friction, weighted balances to compensate for the ship's pitch and roll in the sea and the use of two different metals to reduce the problem of expansion from heat
+0.0401125
+[[File:Aerides Athens 2.jpg|thumb|upright|The [[Tower of the Winds]] in [[Athens]], Greece, a 1st-century-BC [[clocktower]] from the period of [[Roman Greece]]]]
+In Greek tradition, clepsydrae were used in [[court]]; later, the [[Ancient Rome|Romans]] adopted this practice, as well
+0.0401125
+The Zeebad Gonabad water clock was in use until 1965 when it was substituted by modern clocks.<ref name=Qanat/>
+
+===Ancient and medieval China===
+{{See also|History of science and technology in China|Su Song}}
+[[Joseph Needham]] speculated that the introduction of the outflow clepsydra to China, perhaps from [[Mesopotamia]], occurred as far back as the 2nd millennium{{nbsp}}{{sc|bc}}, during the [[Shang Dynasty]], and at the latest by the 1st millennium{{nbsp}}{{sc|bc}}
+0.0401125
+The application of the [[spiral]] balance spring ([[spiral hairspring]]) for [[watch]]es ushered in a new era of accuracy for portable timekeepers, similar to that which the [[pendulum]] had introduced for [[clock]]s.]]
+[[File:Russian finished watch movement.jpg|thumb|right|180px|A [[mechanical watch]] [[Movement (clockwork)|movement]]
+0.0590516
+| title = The Egyptians | year = 1997 | publisher = The University of Chicago Press | location = Chicago, IL | isbn = 0-226-15555-2 | chapter = Bureaucrats|oclc=35808323}}
+* {{Cite book|author=Bottomley, Frank|title=The Castle Explorer's Guide|publisher=Crown Publishers|year=1983|isbn=0-517-42172-0|oclc=9762252|location=New York, NY|url=https://archive.org/details/castleexplorersg00bott}}
+* {{Cite book|author=Clarke, Howard B.|author2=Dent, Sarah |author3=Johnson, Ruth |title=Dublinia: The Story of Medieval Dublin|publisher=O'Brien|location=[[Dublin]], [[Ireland]]|year=2002 |isbn=0-86278-785-8|oclc=50528116}}
+* {{Cite book|url=https://books.google.com/?id=SuPQmbqyrFAC&printsec=frontcover#PPA1,M1|title=Orbital Mechanics|last=Chobotov|first=Vladimir|accessdate=June 20, 2008|year=2002|isbn=1-56347-537-5|publisher=[[AIAA]]|edition=3rd|oclc=49923275|location=Reston, VA}}
+* {{Cite book| last =Cotterell | first =Brian |author2=Kamminga, Johan| title =Mechanics of Pre-Industrial Technology: An Introduction to the Mechanics of Ancient and Traditional Material Culture |location=Cambridge |publisher =Cambridge University Press |year=1990 | isbn =0-521-42871-8|oclc=18520966}}
+* {{Cite book |last=Davies |first=Norman |title=Europe: A History |publisher=Oxford University Press |location=[[Oxford]] |year=1996 |isbn=0-19-820171-0 |oclc=35593922 |url-access=registration |url=https://archive.org/details/europehistory00davi_0 }}
+* {{Cite book|publisher=Scala Books|isbn=0-935748-80-6|last=Frugoni|first=Chiara|title=Pietro et Ambrogio Lorenzetti|year=1988|oclc=18827370|location=New York, NY}}
+*{{Cite book | last = Lewis | first = Michael | year = 2000 | contribution = Theoretical Hydraulics, Automata, and Water Clocks | editor-last = Wikander | editor-first = Örjan | editor-link = Örjan Wikander | title = Handbook of Ancient Water Technology | series = Technology and Change in History | publication-place = Leiden | volume = 2 | pages = 343–369 (356f.) | isbn = 90-04-11123-9 | publisher = Brill | location = Leiden | ref=harv}}
+* {{Cite book|last=Major|first=Fouad G.|title=The Quantum Beat: The Physical Principles of Atomic Clocks|publisher=Springer|year=1998|isbn=0-387-98301-5|url=https://books.google.com/?id=DpW_hGoo-NUC&printsec=frontcover|accessdate=June 22, 2008|location=New York, NY|oclc=37315254}}
+* {{Cite journal|last=Marrison|first=Warren A.|title=The Evolution of the Quartz Crystal Clock|year=1948|journal=Bell System Technical Journal|publisher=AT&T|volume=27|issue=3|pages=510–88|oclc=10999639|location=New York, NY|doi=10.1002/j.1538-7305.1948.tb01343.x|url=https://semanticscholar.org/paper/d4d1d8e526fdfb906175740e02ce597c703bd9ab}}
+* {{Cite book|url=https://books.google.com/?id=SPFiZ31mTnUC&printsec=frontcover#PPA128,M1|title=The 100 Greatest Inventions of All Time: A Ranking Past to Present|last=Philbin|first=Tom|year=2005|publisher=[[Citadel Press]]|isbn=0-8065-2404-9|accessdate=June 20, 2008|location=New York, NY|oclc=57166331}}
+* {{Cite book|last=Reid|first=Thomas|title=Treatise on Clock and Watch Making: Theoretical and Practical|publisher=Carey and Lea|year=1832|url=https://books.google.com/?id=dpAEAAAAYAAJ|oclc=17454059}}
+* {{Cite book |last=Richards |first=E
+0.0629336
+
+===Marine chronometer===
+{{Main|Marine chronometer}}
+[[File:Harrison H4 clock in The principles of Mr Harrison's time-keeper 1767.jpg|thumb|left|Drawings of [[John Harrison|Harrison]]'s H4 [[Marine chronometer|chronometer]] of 1761, published in ''The principles of Mr Harrison's time-keeper'', 1767.<ref>''[https://books.google.com/books?id=aB8OAAAAQAAJ&printsec=frontcover The principles of Mr Harrison's time-keeper]''</ref>]]
+[[Marine chronometer]]s are clocks used at sea as [[time standard]]s, to determine [[longitude]] by [[celestial navigation]].<ref name=marinechrono/>
+A major stimulus to improving the accuracy and reliability of clocks was the importance of precise time-keeping for navigation
+0.064323
+[[Marcus Vitruvius Pollio]], the Roman author of ''[[De Architectura]]'', wrote on the mathematics of [[gnomon]]s, or sundial blades.<ref name="thayer">{{cite web|url= http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Vitruvius/9*.html#refK|title= Marcus Vitruvius Pollio: de Architectura, Book IX|accessdate= September 7, 2007|date= July 7, 2007|publisher= The Latin text is that of the Teubner edition of 1899 by Valentin Rose, transcribed by Bill Thayer}}</ref> During the reign of [[Augustus|Emperor Augustus]], the Romans constructed the largest sundial ever built, the [[Solarium Augusti]]
+0.0655034
+3rd century{{nbsp}}{{sc|bc}}) in his technical treatise ''Pneumatics'' (chapter 31) where he likens the escapement mechanism of a [[washstand]] [[automaton]] with those as employed in (water) clocks.<ref name="Lewis 2000 356f"/> Another early clock to use [[escapement]]s was built during the 7th century in [[Chang'an]], by [[Vajrayana|Tantric]] monk and mathematician, [[Yi Xing]], and government official [[Liang Lingzan]].<ref name="ASME">{{Cite book|last=American Society of Mechanical Engineers|title=Proceedings of the 2002 ASME Design Engineering Technical Conferences|year=2002|publisher=American Society of Mechanical Engineers|isbn=0-7918-3624-X}}</ref><ref name="Shafer">{{Cite book| last = Schafer | first = Edward H
+0.0687642
+He then installed them in an elegant walnut cabinet created by a local cabinetmaker.}}</ref>
+
+During the 1600s, when metal was harder to come by in the colonies than wood, works for many American clocks were made of wood, including the gears, which were whittled and fashioned by hand, as were all other parts.<ref>{{cite book|first=Franklin H.|last=Gottshall|url=https://books.google.com/?id=XVnCAgAAQBAJ&pg=PA101&lpg=PA101#v=onepage&q&f=false|title=Making Antique Furniture Reproductions: Instructions and Measured Drawings for 40 Classic Projects|year=1971|location=New York|publisher=[[Dover Publications]]|page=101|isbn=9780486161648|oclc=829166996|lccn=93048643|accessdate=February 23, 2019|quote=Before the eighteenth century, when metal was harder to come by in the colonies than wood, which was in plentiful supply, works for many of these clocks were made of wood, including the gears, which were whittled and fashioned by hand, as indeed were all other parts.|via=[[Google Books]]}}</ref> There is some evidence that wooden clocks were being made as early as 1715 near [[New Haven, Connecticut]].<ref name="Uselding" /><ref name=Bedini1964>[https://archive.org/stream/bulletinunitedst2311964unit#page/66/mode/2up Bedini, 1964: Instruments of Wood: The Use of Wood, pp
+0.0802249
+Its gnomon was an obelisk from [[Heliopolis (ancient Egypt)|Heliopolis]].<ref>{{Cite journal|last=Buchner |first=Edmund |authorlink=Edmund Buchner|title=Solarium Augusti und Ara Pacis |journal=Römische Mitteilungen |volume=83 |language=German |location=Berlin |year=1976|issue=2|pages=319–375 |ref=harv}}</ref> Similarly, the obelisk from [[Campus Martius]] was used as the gnomon for Augustus's zodiacal sundial.<ref name="story of time">{{Cite book |author=National Maritime Museum; Lippincott, Kristen; Eco, Umberto; Gombrich, E
+0.0825508
+By 1796, the industry reached a high point with almost 200,000 clocks being produced annually in London, however by the mid-19th century the industry had gone into steep decline from Swiss competition.<ref>{{cite web|title=England: Where watchmaking all began|url=http://www.watchpro.com/england-where-watchmaking-all-began/}}</ref>
+
+Switzerland established itself as a clockmaking center following the influx of [[Huguenot]] craftsmen, and in the 19th century, the Swiss industry "gained worldwide supremacy in high-quality machine-made watches"
+0.084164
+
+===Quartz clock and watch===
+{{Main|Quartz clock|Quartz watch}}
+{{See also|Quartz crisis|l1=Quartz crisis (quartz revolution)}}
+[[Image:InsideQuartzCrystal.jpg|upright|thumb|Internal construction of a modern high performance HC-49 package quartz [[crystal oscillator]].]]
+The [[piezoelectric]] properties of crystalline [[quartz]] were discovered by [[Jacques Curie|Jacques]] and [[Pierre Curie]] in 1880.<ref name=nistrevolution/><ref>{{cite web|url=http://www.aip.org/history/curie/pierre.htm |title=Pierre Curie |accessdate=April 8, 2008|publisher=[[American Institute of Physics]]}}</ref> The first quartz [[crystal oscillator]] was built by [[Walter Guyton Cady|Walter G
+0.0982551
+By the mid nineteenth century, most watchmakers produced a range of wristwatches, often marketed as [[bracelet]]s, for women.<ref name="Evolu">{{cite web|url=http://www.vintagewatchstraps.com/wristwatches.html|title=THe Evolution of the Wristwatch}}</ref>
+
+Wristwatches were first worn by military men towards the end of the nineteenth century, when the importance of synchronizing manoeuvres during war without potentially revealing the plan to the enemy through signalling was increasingly recognized
+0.100281
+[[University of Texas Press]], {{ISBN|0-292-78149-0}}.</ref> It was possible to reset the length of day and night in order to account for the changing lengths of day and night throughout the year
+0.101477
+Cheney Wells Collection of New England Clocks at Old Sturbridge Village |year=1986 |publisher=[[Old Sturbridge Village]] |location=[[Sturbridge, Massachusetts]] |accessdate=April 9, 2015 |quote=In inland New England, the demand to know the time also increased, and clockmakers devised ways to lower the cost of expensive-looking clocks in order to make them available to more households
+0.107205
+...."</ref> Benjamin Cheney of [[East Hartford, Connecticut]], was producing wooden striking clocks by 1745.<ref name="Uselding" /><ref name=Bedini1964/><ref name=Cheney3>(1) {{cite book |author=[[Federal Writers Project]] of the [[Works Progress Administration]] for the State of Connecticut |url=https://books.google.com/?id=OpxRPBjvrUcC&pg=PA59&lpg=PA59#v=onepage&q&f=false |page=59 |title=Industry and Commerce |work=Connecticut: A Guide to Its Roads, Lore and People |publisher=Houghton Mifflin Company |location=Boston |year=1938 |oclc=905140234 |via=[[Google Books]] |quote=Benjamin Cheney produced wooden clocks about 1745, in a small back-yard shop at East Hartford
+0.107633
+9</ref> Ancient Egyptian obelisks, constructed about 3500 BC, are also among the earliest shadow clocks.<ref name=bruton/><ref name=Britannica>{{cite web|url=http://www.britannica.com/EBchecked/topic/573826/sundial |title=Sundial |encyclopedia=[[Encyclopædia Britannica]] |accessdate=April 4, 2008}}</ref><ref name=clockhistory>{{Cite book|last=Bruton |first=Eric |title=The History of Clocks and Watches |publisher=Crescent Books |place=New York |isbn=0-517-37744-6 |year=1979 |edition=1982}}</ref>
+[[Image:Louxor obelisk Paris dsc00780.jpg|thumb|left|upright|The [[Luxor Obelisk]] in [[Place de la Concorde]], [[Paris, France]]]]
+
+Egyptian shadow clocks divided [[daytime]] into 12 parts with each part further divided into more precise parts.<ref name="One of world's oldest sundials dug up in Kings' Valley, Upper Egypt"/> One type of shadow clock consisted of a long stem with five variable marks and an elevated crossbar which cast a shadow over those marks
+0.113455
+When the bowl become full of water, it would sink into the pot, and the manager would empty the bowl and again put it on the top of the water in the pot
+0.120337
+66-69.] {{webarchive|url=https://web.archive.org/web/20150408055636/https://archive.org/details/bulletinunitedst2311964unit|date=April 8, 2015 }} "Wooden clocks were made as early as the 17th century in Germany and Holland, and they were known in England in the early 18th century
+0.123826
+The concept appeared in Western sundials starting in 1446.<ref>{{cite web|title=History of the sundial |url=http://www.nmm.ac.uk/server/show/conWebDoc.353 |publisher=[[National Maritime Museum]] |accessdate=July 2, 2008 |url-status=dead |archiveurl=https://web.archive.org/web/20071010044606/http://www.nmm.ac.uk/server/show/conWebDoc.353 |archivedate=October 10, 2007 }}</ref><ref>{{Cite journal|title=The Sundial And Geometry|first=Lawrence|last=Jones|journal=North American Sundial Society|volume=12|issue=4|date=December 2005|ref=harv}}</ref>
+
+Following the acceptance of [[heliocentrism]] and equal hours, as well as advances in trigonometry, sundials appeared in their present form during the [[Renaissance]], when they were built in large numbers.<ref>{{Cite book|author1=Mayall, Margaret W
+0.123826
+ The invention of the [[mainspring]] in the early 15th century allowed portable clocks to be built, evolving into the first [[pocketwatch]]es by the 17th century, but these were not very accurate until the [[balance spring]] was added to the balance wheel in the mid 17th century
+0.125867
+149–150</ref> The astronomer and mathematician [[Pierre-Simon Laplace]], among other individuals, modified the dial of his pocket watch to decimal time.<ref name="Alder"/> A clock in the [[Palais des Tuileries]] kept decimal time as late as 1801, but the cost of replacing all the nation's clocks prevented decimal clocks from becoming widespread.<ref name="Alder162">Alder, pp
+0.131007
+By 1745 Benjamin Cheney of East Hartford was producing wooden clocks, and there is some evidence that these clocks were being made as early as 1715 near New Haven.}}</ref> William Davis of Boston (1683), Edvardus Bogardus of New York City (1698) and James Baterson of Boston (1707).<ref>{{cite book|last=Moore|first=N
+0.147477
+|title=Encyclopedia of Time |publisher=Garland Pub |location=New York |year=1994 |isbn=0-8153-0615-6|url=https://books.google.com/?id=F7wNQk219KMC&printsec=frontcover#PPA209,M1|page=209}}</ref> The [[Portugal|Portuguese]] navigator [[Ferdinand Magellan]] used 18 hourglasses on each ship during his circumnavigation of the globe in 1522.<ref>{{Cite book|author=Bergreen, Laurence |title=Over the Edge of the World: Magellan's Terrifying Circumnavigation of the Globe |publisher=Morrow |location=New York |year=2003 |isbn=0-06-621173-5|url=https://books.google.com/?id=uK9d2EFrMJIC&printsec=frontcover#PPA53,M1|page=53}}</ref>  Though also used in China, the [[hourglass]]'s history there is unknown,<ref>{{Cite book|last=Blaut|first=James Morris|title=Eight Eurocentric Historians|publisher=Guildford Press|year=2000|isbn=1-57230-591-6|url=https://books.google.com/?id=ktn7LmLgc6oC&printsec=frontcover#PPA186,M1|page=186}}</ref> but does not seem to have been used in China before the mid 16th century,<ref>see notes fig
+0.156441
+and enlarged edition, Harvard University Press, Cambridge 2000, {{ISBN|0-674-00282-2}}, p.18f.</ref> dates back to 3rd century{{nbsp}}{{sc|bc}} in [[ancient Greece]];<ref name="Lewis 2000 356f">{{harvnb|Lewis|2000|pp=343–369 (356f.)}}</ref> [[Science and technology in China|Chinese engineers]] later invented clocks incorporating [[Mercury (element)|mercury]]-powered escapement mechanisms in the 10th century,<ref name="needham 411"/> followed by [[Inventions in medieval Islam|Arabic engineers]] inventing water clocks driven by [[gear]]s and [[Maintaining power|weights]] in the 11th century.<ref name=Hassan/>
+
+The first [[mechanical clock]]s, employing the [[verge escapement]] mechanism with a [[Balance wheel|foliot]] or [[balance wheel]] timekeeper, were invented in Europe at around the start of the 14th century, and became the standard timekeeping device until the [[pendulum clock]] was invented in 1656
+0.16045
+Peter Lightfoot, a 14th-century monk of [[Glastonbury Abbey|Glastonbury]], built one of the oldest clocks still in existence, which now sits in excellent condition in [[Science Museum (London)|London's Science Museum]].<ref name="Woods36"/>}}
+
+The appearance of clocks in writings of the 11th century implies that they were well known in Europe in that period.<ref name="Reid">Reid, p
+0.16045
+Some incense clocks were held in elegant trays; open-bottomed trays were also used, to allow the weights to be used together with the decorative tray.<ref>Levy, p
+0.16045
+One type consisted of a bowl with small holes in its bottom, which was floated on water and allowed to fill at a near-constant rate; markings on the side of the bowl indicated elapsed time, as the surface of the water reached them
+0.16045
+No other candle clocks of this sophistication are known.<ref name=Hill2/>}}
+
+[[Image:Oil-lamp clock00.jpg|thumb|left|upright|An [[oil-lamp clock]]]]
+
+A variation on this theme were [[oil-lamp clock]]s
+0.16045
+This was a wooden clock and the records show that he and his brother Benjamin made brass clocks in 1760.|archive-url=https://web.archive.org/web/20190222154911/https://hsmcpa.org/images/thebulletin/1941vol3no1.pdf|archive-date=February 22, 2019|url-status=dead|df=mdy-all}}</ref>
+
+Between 1794 and 1795, in the aftermath of the [[French Revolution]], the French government briefly mandated [[decimal time|decimal clocks]], with a day divided into 10&nbsp;hours of 100&nbsp;minutes each.<ref name="Alder">Alder, pp
+0.163758
+52</ref> [[Incense]] clocks were first used in China around the 6th century; in Japan, one still exists in the [[Shōsōin]],<ref>{{Cite book|title=Eastern Magnificence and European Ingenuity: Clocks of Late Imperial China|url=https://books.google.com/?id=8bXxHSZkWssC&printsec=frontcover#PPA209,M1|last=Pagani|first=Catherine|page=209|isbn=0-472-11208-2|publisher=[[University of Michigan Press]]|year=2001}}</ref> although its characters are not Chinese, but [[Devanagari]].<ref name="Schafer">{{Cite book|url=https://books.google.com/?id=QerLX9x8pIkC&printsec=frontcover#PPA160,M1|title=The Golden Peaches of Samarkand: A Study of T'ang Exotics|pages=160–161|last=Schafer|first=Edward|year=1963|isbn=0-520-05462-8|publisher=[[University of California Press]]}}</ref> Due to their frequent use of Devanagari characters, suggestive of their use in [[Buddhist]] ceremonies, [[Edward H
+0.165102
+One of the more common problems in most types of clepsydrae was caused by [[water pressure]]: when the container holding the water was full, the increased pressure caused the water to flow more rapidly
+0.168545
+Heavy floats were used as weights and a constant-head system was used as an [[escapement]] mechanism,<ref name=Hassan>[[Ahmad Y Hassan|Hassan, Ahmad Y]], [http://www.history-science-technology.com/Articles/articles%2071.html Transfer Of Islamic Technology To The West, Part II: Transmission Of Islamic Engineering], ''History of Science and Technology in Islam''</ref> which was present in the hydraulic controls they used to make heavy floats descend at a slow and steady rate.<ref name=Hill-794>[[Donald Routledge Hill]] (1996), "Engineering", p
+0.170183
+His sundial is the oldest polar-axis sundial still in existence
+0.176069
+Like pendulum clocks, [[balance spring|spiral-hairspring]] [[watch]]es were early precision timekeeping devices.]]
+
+The invention of the [[mainspring]] in the early 15th century allowed portable clocks to be built, evolving into the first [[pocketwatch]]es by the 17th century, but these were not very accurate until the [[balance spring]] was added to the [[balance wheel]] in the mid 17th century
+0.188801
+''Clepsydra'', literally ''water thief'', is the Greek word for ''water clock''.<ref>{{Cite book|url=https://books.google.com/?id=fyBb_Xh5hqIC&printsec=frontcover#PPT63,M1|title=Really Useful: The Origin of Everyday Things|page=63|year=2002|last=Levy|first=Joel|isbn=1-55297-622-X|publisher=Firefly Books|accessdate=June 20, 2008}}</ref>]]
+[[Water clock]]s, or clepsydrae, were commonly used in [[ancient Greece]] following their introduction by [[Plato]], who also invented a water-based [[alarm clock]].<ref>{{cite web|last=O'Connor |first=J
+0.188801
+
+===Incense clocks===
+{{Main|Incense clock}}
+In addition to water, mechanical, and candle clocks, [[incense clock]]s were used in the [[Far East]], and were fashioned in several different forms.<ref>Richards, p
+0.190315
+The marine chronometer would have to keep the time of a fixed location—usually [[Greenwich Mean Time]]—allowing seafarers to determine longitude by comparing the local high noon to the clock.<ref name=marinechrono>{{cite web|url=http://www.nawcc.org/museum/nwcm/galleries/marine/marine.htm |title=Marine Chronometers Gallery |accessdate=May 20, 2008 |publisher=[[National Association of Watch and Clock Collectors]]}}</ref><ref name=manitoba>{{cite web|url=http://www.manitobamuseum.ca/sg_marine.html |title=Science News – The Marine Chronometer |accessdate=May 20, 2008 |first=Jérôme |last=Marchildon |publisher=[[Manitoba Museum]]|archiveurl=https://web.archive.org/web/20060919035618/http://www.manitobamuseum.ca/sg_marine.html|archivedate=September 19, 2006 }}</ref><ref name=longitudeprize>{{cite web |url=http://www.nmm.ac.uk/collections/explore/index.cfm/category/chronometers |title=Chronometers, precision watches, and timekeepers |publisher=[[National Maritime Museum]] |location=[[Greenwich]] |accessdate=May 20, 2008 |url-status=dead |archiveurl=https://web.archive.org/web/20071029165741/http://www.nmm.ac.uk/collections/explore/index.cfm/category/chronometers |archivedate=October 29, 2007  }}</ref> This clock could not contain a pendulum, which would be virtually useless on a rocking ship
+0.198064
+|title=Mapping Time: The Calendar and its History |publisher=Oxford University Press |location=Oxford |year=1998 |isbn=0-19-850413-6 |oclc=185547970 |url=https://archive.org/details/mappingtimecalen00rich }}
+* {{Cite book|url=https://books.google.com/?id=o8Nb5KLBxVQC&printsec=frontcover|title=Time in History: Views of Time from Prehistory to the Present Day|last=Whitrow|first=Gerald J.|year=1989|publisher=[[Oxford University Press]]|location=Oxford|isbn=0-19-285211-6|oclc=21182984|edition=1st}}
+* {{Cite book|title=How the Catholic Church Built Western Civilization|last=Woods|first=Thomas|year=2005|isbn=0-89526-038-7|oclc=58720707|location=Washington D.C., United States |publisher=Regnery Publ.}}
+{{Refend}}
+
+==Further reading==
+{{Refbegin|35em}}
+* {{Cite book|last=Andrews|first=William J
+0.198064
+[[British Library]], London.]]
+The earliest medieval European [[clockmaker]]s were Catholic monks.<ref>{{Cite book|title=Understanding the Middle Ages|first= Harald|last= Kleinschmidt|year= 2000|publisher= Boydell & Brewer|isbn= 0-85115-770-X|url= https://books.google.com/?id=JlwDcFHzds0C&printsec=frontcover#PPA26,M1|page= 26}}</ref> Medieval religious institutions required clocks because they regulated daily prayer- and work-schedules strictly, using various types of time-telling and recording devices, such as water clocks, sundials and marked candles, probably in combination.<ref name=nistrevolution>{{cite web|url= http://physics.nist.gov/GenInt/Time/revol.html |title= A Revolution in Timekeeping |accessdate= April 30, 2008 |publisher= NIST| archiveurl = https://web.archive.org/web/20080409174853/http://physics.nist.gov/GenInt/Time/revol.html | archivedate = April 9, 2008}}</ref><ref name="Abbot">{{Cite book|first= Abbot|last= Payson Usher|year= 1988|publisher= Courier Dover Publications|title =A History of Mechanical Inventions|isbn= 0-486-25593-X}}</ref> When mechanical clocks came into use, they were often wound at least twice a day to ensure accuracy.<ref>Usher, p
+0.198064
+Tuttle Co |location=Rutland, Vt |year=1970 |isbn=0-8048-0901-1}}</ref>
+
+Although clepsydrae were more useful than sundials—they could be used indoors, during the night, and also when the sky was cloudy—they were not as accurate; the Greeks, therefore, sought a way to improve their water clocks.<ref>{{Cite book|url=https://books.google.com/?id=-QcE2pBCLE8C&printsec=frontcover|title=Empires of Time: Calendars, Clocks, and Cultures|last=Aveni|first=Anthony F.|publisher=Tauris Parke Paperbacks|year=2000|isbn=1-86064-602-6|accessdate=June 22, 2008|page=92}}</ref> Although still not as accurate as sundials, Greek water clocks became more accurate around 325{{nbsp}}{{sc|bc}}, and they were adapted to have a face with an hour hand, making the reading of the clock more precise and convenient
+0.198547
+A Study of the Use of Fire and Incense for Time Measurement in Oriental Countries|journal=Transactions of the American Philosophical Society|publisher=[[American Philosophical Society]]|location=[[Philadelphia, Pennsylvania]]|volume=53|issue=5|pages=1–51|doi=10.2307/1005923|ref=harv|jstor=1005923|hdl=2027/mdp.39076006361401}}</ref> The length of the trail of incense, directly related to the size of the seal, was the primary factor in determining how long the clock would last; all burned for long periods of time, ranging between 12 hours and a month.<ref>Bedini, p
+0.198604
+Parry |year=1958|title=Frequency of cesium in terms of ephemeris time|journal=[[Physical Review Letters]]|volume=1|issue=3 |pages=105–107|doi=10.1103/PhysRevLett.1.105|bibcode=1958PhRvL...1..105M}}</ref>
+
+The [[International System of Units]] standardized its unit of time, the second, on the properties of cesium in 1967.<ref name=nistatomic /> [[International System of Units|SI]] defines the second as 9,192,631,770 cycles of the [[radiation]] which corresponds to the transition between two electron spin energy levels of the [[ground state]] of the <sup>133</sup>Cs atom.<ref>{{cite web|url=http://www.nrc-cnrc.gc.ca/eng/services/time/faq/index.html#Q10|title=What is a Cesium Atomic Clock?|publisher=National Research Council Canada|accessdate=March 4, 2015}}</ref> The cesium atomic clock, maintained by the [[National Institute of Standards and Technology]], is accurate to 30&nbsp;billionths of a second per year.<ref name=nistatomic/> Atomic clocks have employed other elements, such as [[hydrogen]] and [[rubidium]] vapor, offering greater stability—in the case of hydrogen clocks—and smaller size, lower power consumption, and thus lower cost (in the case of rubidium clocks).<ref name=nistatomic />
+
+==Clock and watch-making industry==
+{{Main|Clockmaking|Watchmaking}}
+[[Image:MontreGousset001.jpg|thumb|A [[pocket watch]]]]
+The first professional clockmakers came from the [[guild]]s of [[locksmith]]s and [[jeweller]]s
+0.201363
+|date=January 1989 |title=The Adoption of Standard Time |journal=Technology and Culture |volume=30 |pages=25–56 |doi=10.2307/3105430 |issue=1 |jstor=3105430 |url=https://zenodo.org/record/1235143 }}
+* Breasted, James H., "The Beginnings of Time Measurement and the Origins of Our Calendar", in Time and its Mysteries, a series of lectures presented by the James Arthur Foundation, New York University, New York: New York University Press, 1936, pp.&nbsp;59–96
+0.202955
+To counteract the increased water flow, the clock's water containers—usually bowls or jugs—were given a conical shape; positioned with the wide end up, a greater amount of water had to flow out in order to drop the same distance as when the water was lower in the cone
+0.224236
+It is said that one soldier in every four wears a wristlet watch, and the other three mean to get one as soon as they can." By the end of the War, almost all enlisted men wore a wristwatch, and after they were demobilized, the fashion soon caught on—the British ''[[British Horological Institute|Horological Journal]]'' wrote in 1917 that "...the wristlet watch was little used by the sterner sex before the war, but now is seen on the wrist of nearly every man in uniform and of many men in civilian attire." Within a decade, sales of wristwatches had outstripped those of pocket watches.<ref name="Evolu" />
+
+====Equation clock====
+{{Main|Equation clock}}
+In the late 17th and 18th Centuries, [[equation clock]]s were made, which allowed the user to see or calculate apparent [[solar time]], as would be shown by a [[sundial]]
+0.22691
+Although initially limited to laboratories, the development of [[microelectronics]] in the 1960s made [[quartz clock]]s both compact and cheap to produce, and by the 1980s they became the world's dominant timekeeping technology in both clocks and [[wristwatch]]es
+0.22691
+
+Throughout history, clocks have had a [[Watch#Power sources|variety of power sources]], including [[gravity]], [[Spring (device)|springs]], and [[electrical power|electricity]].<ref>{{cite web|publisher=[[St Edmundsbury Borough Council]] |url=http://www.stedmundsbury.gov.uk/sebc/visit/mechanicaltimekeeping.cfm|title=Mechanical Timekeeping|accessdate=December 10, 2007|archiveurl=https://web.archive.org/web/20080704065329/http://www.stedmundsbury.gov.uk/sebc/visit/mechanicaltimekeeping.cfm|archivedate=July 4, 2008 }}</ref><ref name=nistrevolution /> Mechanical clocks became widespread in the 14th century, when they were used in medieval [[monastery|monasteries]] to keep the regulated schedule of prayers
+0.22691
+De Dondi's clock was a seven-faced construction with 107&nbsp;moving parts, showing the positions of the Sun, Moon, and five planets, as well as religious feast days.<ref name="Astrarium" /> Around this period, mechanical clocks were introduced into abbeys and monasteries to mark important events and times, gradually replacing water clocks which had served the same purpose.<ref>{{Cite book|author= North, John David |title= God's Clockmaker: Richard of Wallingford and the Invention of Time |publisher= Hambledon & London |year= 2005 |isbn=1-85285-451-0|url= https://books.google.com/?id=rAuj1_x34XoC&printsec=frontcover#PPR15,M1|page= xv}}</ref><ref>{{Cite journal | last = Watson | first = E
+0.22691
+Equation clocks satisfied the demand for clocks that always agreed with sundials
+0.22691
+Perhaps because their father was a joiner, they developed the concept of offering options in clocks to expand their clientele: thirty-hour wooden movements as well as more expensive, eight-day, brass clocks
+0.22691
+Water emptied until it reached the siphon, which transported the water to the other jar
+0.22691
+Water flows more slowly when cold, or may even freeze.<ref>{{Cite book |author=Collier, James Lincoln |title=Clocks |publisher=Benchmark Books |location=[[Tarrytown, New York|Tarrytown]], NY |year=2003 |page=[https://archive.org/details/clocksgreatinven00jame/page/25 25] |isbn=0-7614-1538-6 |url=https://archive.org/details/clocksgreatinven00jame/page/25 }}</ref>
+
+Between 270{{nbsp}}{{sc|bc}} and {{sc|ad}}{{nbsp}}500, [[Hellenistic civilization|Hellenistic]] ([[Ctesibius]], [[Hero of Alexandria]], [[Archimedes]]) and Roman [[horology|horologists]] and [[astronomer]]s began developing more elaborate mechanized water clocks
+0.22691
+The qanat was the only water source for agriculture and irrigation so a just and fair water distribution was very important
+0.22691
+Therefore, a very fair and clever old person was elected to be the manager of the water clock, and at least two full-time managers were needed to control and observe the number of fenjaans and announce the exact time during the days and nights.<ref name="Fenjaan">[http://amordadnews.com/neveshtehNamyesh.aspx?NId=6010 سايه‌ي شهرداري نجف‌آباد بر كهن‌ترين «ساعت آبي»‌ شهر] {{webarchive|url=https://web.archive.org/web/20140429163019/http://amordadnews.com/neveshtehNamyesh.aspx?NId=6010 |date=April 29, 2014 }} Amordad News (in Persian)</ref>
+
+The fenjaan was a big pot full of water and a bowl with small hole in the center
+0.229262
+H.|title=The Quest for Longitude|location=[[Cambridge, Massachusetts]]|publisher=[[Harvard University Press]]|year=1996|isbn=978-0-9644329-0-1|oclc=59617314}}
+* {{Cite book|title=The Measurement of Time: Time, Frequency, and the Atomic Clock |last=Audoin |first=Claude |author2=Guinot, Bernard |year=2001 |publisher=Cambridge University Press |location=Cambridge |isbn=0-521-00397-0}}
+* {{Cite journal|last=Bartky |first=Ian R
+0.230647
+Tall Clock: Boston, 1725-1740: Movement by Benjamin Bagnall (1689-1773)|work=American furniture in the Metropolitan Museum of Art: 1, Late Colonial Period: The Queen Anne and Chippendale Styles|location=New York|publisher=[[The Metropolitan Museum of Art]] and [[Random House]]|year=1985|isbn=9780300116472|oclc=11971332|via=[[Google Books]]|quote=The movement is an eight-day rack and snail striking clock with anchor-recoil escapement.}}</ref> The [[Dallas Museum of Art]] holds in its collections a similar striking clock made entirely of American parts that Bagnall constructed in Boston between 1730 and 1745.<ref>(1) {{cite web|url=https://issuu.com/dallasmuseumofart/docs/dallasmuseumofart_guidetothecollection/166|title=Benjamin Bagnall, Sr., Boston, Massachusetts, 1730-1745: Tall case clock|work=Guide To The Collection|date=February 8, 2012|location=Dallas, Texas|publisher=[[Dallas Museum of Art]]|accessdate=January 2, 2019|via=[[issuu]]|quote=This eight-day striking clock closely follows English design ...|df=mdy-all}}<br>(2) {{cite web|url=https://collections.dma.org/artwork/4084483|title=Tall Case Clock|work=Collections|location=Dallas, Texas|publisher=[[Dallas Museum of Art]]|accessdate=January 2, 2019|quote=MAKER: Benjamin Bagnall Sr
+0.232265
+Stokes Company|pages=91–92|oclc=680744401|lccn=11029009|accessdate=February 23, 2019|via=[[Google Books]]}}</ref>
+[[File:Tall case clock, Benjamin Bagnall, Sr., Boston, Massachusetts, 1730-1745, walnut, maple, beech, cedar, brass, glass, paint - Dallas Museum of Art - DSC04743.jpg|thumb|right|150px|<center><sup>[[Dallas Museum of Art]]</sup></center>Tall-case striking clock constructed in Boston by Benjamin Bagnall, Sr., between 1730 and 1745<br />(2017)]]
+[[Connecticut]] clockmakers were crafting [[striking clock]]s throughout the 1600s.<ref name=Uselding/> The [[Metropolitan Museum of Art]] in New York City holds in its collections a [[Grandfather clock|tall-case]] striking clock that Benjamin Bagnall, Sr., constructed in [[Boston]] before 1740 and that [[Elisha Williams]] probably acquired between 1725 and 1739 while he was rector of [[Yale University|Yale College]].<ref>{{cite book |first=Frances Gruber |last=Safford |first2=Morrison H
+0.238256
+|date=December 1978 |title=Time, Frequency and Physical Measurement |journal=Physics Today |volume=23 |pages=23–30 |doi=10.1063/1.2994867 |issue=12 |bibcode=1978PhT....31l..23H }}
+* {{Cite book|title=How Time Is Measured |last=Hood |first=Peter |year=1955 |publisher=Oxford University Press |location=London |isbn=0-19-836615-9}}
+* {{Cite book |title=Greenwich Time and the Discovery of the Longitude |last=Howse |first=Derek |year=1980 |publisher=Philip Wilson Publishers, Ltd |isbn=978-0-19-215948-9 |url=https://archive.org/details/greenwichtimedis0000hows }}
+* {{Cite book|last=Humphrey|first=Henry|author2=O'Meara-Humphrey, Deirdre |title=When is Now?: Experiments with Time and Timekeeping Devices|publisher=Doubleday Publishing|year=1980|isbn=0-385-13215-8|url=https://books.google.com/?id=dTuMAAAACAAJ&dq=Timekeeping}}
+* {{Cite journal|last=Itano |first=Wayne M
+0.240903
+It is unique in having its original medieval face, showing a philosophical model of the pre-[[Copernican Revolution|Copernican]] universe.<ref name=wells>{{cite web|url= http://www.wellscathedral.org.uk/history/historical-highlights/the-clock/|title= Wells Cathedral History|publisher= WellsCathedral.org.uk|accessdate= June 21, 2008|url-status= dead|archiveurl= https://web.archive.org/web/20140331043623/http://www.wellscathedral.org.uk/history/historical-highlights/the-clock/|archivedate= March 31, 2014|df= mdy-all}}</ref> Above the clock is a set of figures, which hit the bells, and a set of jousting knights who revolve around a track every 15&nbsp;minutes.<ref name=wells/><ref name="ScienceMuseum"/> The clock was converted to [[pendulum]]-and-[[anchor escapement]] in the 17th century, and was installed in London's Science Museum in 1884, where it continues to operate.<ref name="ScienceMuseum">{{cite web |url= http://www.sciencemuseum.org.uk/objects/time_measurement/1884-77.aspx |title= Wells Cathedral clock, c.1392 |accessdate= February 11, 2008 |publisher= [[Science Museum (London)]] |url-status= dead |archiveurl= https://web.archive.org/web/20071011185453/http://www.sciencemuseum.org.uk/objects/time_measurement/1884-77.aspx |archivedate= October 11, 2007 |df= mdy-all }}</ref>  Similar [[astronomical clocks]], or ''horologes'', survive at [[Exeter Cathedral astronomical clock|Exeter]], [[Ottery St Mary astronomical clock|Ottery St Mary]], and [[Wimborne Minster astronomical clock|Wimborne Minster]]
+0.24758
+The water clocks used in Iran were one of the most practical ancient tools for timing the yearly calendar.<ref name=Qanat>[http://www.aftabir.com/articles/view/science_education/technical/c3c1183387267p1.php/%D9%82%D9%86%D8%A7%D8%AA-%D9%85%DB%8C%D8%B1%D8%A7%D8%AB-%D9%81%D8%B1%D9%87%D9%86%DA%AF%DB%8C-%D9%88-%D8%B9%D9%84%D9%85%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%D8%A7%D9%86 Conference of Qanat in Iran – water clock in Persia 1383], in Persian</ref>
+
+Water clocks, or ''Fenjaan'', in Persia reached a level of accuracy comparable to today's standards of timekeeping
+0.256312
+It was constructed by Muhammad al-Sa'ati in the 12th century, and later described by his son Ridwan ibn al-Sa'ati, in his ''On the Construction of Clocks and their Use'' (1203), when repairing the clock.<ref>{{Cite journal|title=Arabic Mechanical Engineering: Survey of the Historical Sources|author=Donald Routledge Hill|journal=[[Arabic Sciences and Philosophy: A Historical Journal]]|year=1991|volume=1|pages=167–186 [174]|publisher=[[Cambridge University Press]]|doi=10.1017/S0957423900001478|ref=harv|postscript=<!--None-->|issue=2|author-link=Donald Routledge Hill}}</ref> In 1235, an early monumental water-powered [[alarm clock]] that "announced the appointed [[Salat times|hours of prayer]] and the time both by day and by night" was completed in the entrance hall of the [[Mustansiriya Madrasah]] in [[Baghdad]].<ref>{{Cite journal|title=Arabic Mechanical Engineering: Survey of the Historical Sources|author=Donald Routledge Hill|journal=[[Arabic Sciences and Philosophy: A Historical Journal]]|year=1991|volume=1|pages=167–186 [180]|publisher=[[Cambridge University Press]]|doi=10.1017/S0957423900001478|ref=harv|postscript=<!--None-->|issue=2|author-link=Donald Routledge Hill}}</ref>
+
+The first [[gear]]ed clock was invented in the 11th century by the [[Inventions in medieval Islam|Arab engineer]] [[al-Muradi|Ibn Khalaf al-Muradi]] in [[Al-Andalus|Islamic Iberia]]; it was a water clock that employed a complex [[gear train]] mechanism, including both segmental and [[epicyclic gearing]],<ref name=Hassan/><ref name=Hill-1996/> capable of transmitting high [[torque]]
+0.280787
+The hourglass was one of the earlier timekeeping devices and has become a symbol of the concept of time.]]
+For thousands of years, devices have been used to measure and keep track of [[time]]
+0.283638
+130</ref> The incense sticks could be straight or spiraled; the spiraled ones were longer, and were therefore intended for long periods of use, and often hung from the roofs of homes and temples.<ref>{{Cite book|title=Fire: Servant, Scourge, and Enigma|url=https://books.google.com/?id=6Lg7o6NnJzgC&printsec=frontcover#PPA157,M1|publisher=[[Dover Publications]]|last=Rossotti|first=Hazel|page=157|year=2002|isbn=0-486-42261-5}}</ref> In Japan, a [[geisha]] was paid for the number of ''senkodokei'' (incense sticks) that had been consumed while she was present, a practice which continued until 1924.<ref>{{Cite book|url=https://books.google.com/?id=xdVkzs6iI1YC&printsec=frontcover#PPA183,M1|title=The Trail of Time: Shih-chien Ti Tsu-chi: Time Measurement with Incense in East Asia|last=Bedini|first=Silvio|publisher=[[Cambridge University Press]]|page=183|isbn=0-521-37482-0|year=1994}}</ref>
+
+Incense seal clocks were used for similar occasions and events as the stick clock; while religious purposes were of primary importance,<ref name="Burning rates"/> these clocks were also popular at social gatherings, and were used by Chinese scholars and intellectuals.<ref name="Bedini103">Bedini, pp
+0.288027
+Wayne |date=July 1991 |title=Special Issue on Time and Frequency |journal=Proceedings of the IEEE |volume=79 |issue=7 |url=http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=2781 |url-status=dead |archiveurl=https://web.archive.org/web/20160122104239/http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=2781 |archivedate=January 22, 2016 }}
+* {{Cite book|title=From Sundials to Atomic Clocks: Understanding Time and Frequency 2nd (revised) edition|last=Jespersen |first=James |author2=Fitz-Randolph, Jane |year=2000 |publisher=Dover Publications |location=Mineola, New York |isbn=0-486-40913-9}}
+* {{Cite book|title=Splitting the Second: The Story of Atomic Timekeeping |last=Jones |first=Tony |year=2000 |publisher=Institute of Physics Publishing |location=Bristol, UK |isbn=978-0-7503-0640-9}}
+* {{Cite book |title=A Revolution in Time: Clocks and the Making of the Modern World |last=Landes |first=Davis S |year=2000 |publisher=Harvard University Press |location=Cambridge, Massachusetts |isbn=978-0-674-76800-0 |url=https://archive.org/details/revolutionintime00land_1 }}
+* Lombardi, Michael A., NIST Time and Frequency Services, NIST Special Publication 432*, revised 2002
+0.291748
+One barrel drives the main wheel, which is regulated by the escapement, and the other drives the striking mechanism and the air brake.<ref name="Salisbury"/>
+
+Note also Peter Lightfoot's [[Wells Cathedral clock]], constructed c.&nbsp;1390.<ref>{{cite web|url= http://www.bbc.co.uk/dna/h2g2/pda/A659892?s_id=1|title= Wells Cathedral Clock – BBC|publisher= [[British Broadcasting Corporation]]|accessdate= June 22, 2008}}</ref><ref>{{cite web|url= http://www.newadvent.org/cathen/06579a.htm|title= Catholic Encyclopedia: Glastonbury Abbey|publisher= Kevin Knight|accessdate= December 10, 2007}}</ref> The dial represents a [[geocentric]] view of the universe, with the [[Sun]] and [[Moon]] revolving around a central fixed [[Earth]]
+0.296139
+The clock was unrivalled in its use of sophisticated complex gearing, until the mechanical clocks of the mid-14th century.<ref name=Hill-1996>{{Cite book|title=A history of engineering in classical and medieval times|author=Donald Routledge Hill|publisher=[[Routledge]]|year=1996|isbn=0-415-15291-7|pages=203, 223, 242|ref=harv|postscript=<!--None-->|author-link=Donald Routledge Hill}}</ref> Al-Muradi's clock also employed the use of mercury in its hydraulic [[Linkage (mechanical)|linkages]],<ref>{{Cite journal|title=Arabic Mechanical Engineering: Survey of the Historical sources|author=Donald Routledge Hill|journal=[[Arabic Sciences and Philosophy: A Historical Journal]]|year=1991|volume=1|pages=167–186 [173]|publisher=[[Cambridge University Press]]|doi=10.1017/S0957423900001478|ref=harv|postscript=<!--None-->|issue=2|author-link=Donald Routledge Hill}}</ref><ref name=Leonardo/> which could function mechanical [[Automaton|automata]].<ref name=Leonardo>{{cite web|title=The Book of Secrets is coming to the world after a thousand years: Automata existed already in the eleventh century!|author=Mario Taddei|publisher=Leonardo3|url=http://www.leonardo3.net/leonardo/qma/img/Press_release_Secrets_UK.pdf|accessdate=March 31, 2010|author-link=Mario Taddei}}</ref> Al-Muradi's work was known to scholars working under [[Alfonso X of Castile]],<ref>{{Cite book|author1=Juan Vernet |author2=Julio Samso |contribution=Development of Arabic Science in Andalusia|editor1=Roshdi Rashed |editor2=Régis Morelon |title=Encyclopedia of the History of Arabic Science|volume=1|pages=243–275 [260–1]|publisher=[[Routledge]]|isbn=0-415-12410-7|ref=harv|postscript=<!--None-->|date=1996-01-01 }}</ref> hence the mechanism may have played a role in the development of the European mechanical clocks.<ref name=Hill-1996/> Other monumental water clocks constructed by medieval Muslim engineers also employed complex gear trains and arrays of [[Automaton|automata]].<ref name=Hill-794/> Like the earlier Greeks and Chinese, Arab engineers at the time also developed a liquid-driven [[escapement]] mechanism which they employed in some of their water clocks

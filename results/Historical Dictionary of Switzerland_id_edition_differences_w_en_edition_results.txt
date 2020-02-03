@@ -1,0 +1,20 @@
+Historical Dictionary of Switzerland
+id edition's differences with the en version: 
+0.0908153
+
+The encyclopedia is published by a foundation under the supervision of [[Swiss Academy of Humanities and Social Sciences]] (SAGW/ASSH) and [[Swiss Historical Institution]] (SGG-SHH) and is funded by national research grants
+0.0908153
+With 35 employees at its head office, the foundation serves 100 academic advisors, 2500 historians and 100 translators who wish to participate in the encyclopedia's writing
+0.204334
+jpg | First edition with three types of prints according to regional language in Switzerland | Jmpl]]
+' ' ' ' ' ' ' ' The History Dictionary of Switzerland ' ' is an [[encyclopedia]] about [[Swiss history]] presenting a variety of Swiss historical news from time to time
+0.249742
+
+There are 40,000 titles grouped in:
+# of life history;
+# article about the family
+# Articles about places (municipalities, cantons, other peoples, fortresses, Manor lands, monasteries, archaeological sites)
+# article Dictional (historical events, institutions, events)
+
+= = Online edition = =
+The online edition has been available since 1998

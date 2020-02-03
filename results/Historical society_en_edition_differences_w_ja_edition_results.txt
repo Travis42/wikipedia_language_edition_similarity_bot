@@ -1,0 +1,58 @@
+Historical society
+en edition's differences with the ja version: 
+-2.02959e-09
+Such things as statement of purpose, the organizational meeting, the constitution and bylaws, incorporation, corporate title, requirements, reviewing, recommendations, and petitioning are all elements of the highly involved creation of charting a historical society.<ref>[https://www.nysm.nysed.gov/services/charter/society.html Chartering a Historical Society on the New York State Museum website] {{webarchive|url=https://web.archive.org/web/20151222155405/https://www.nysm.nysed.gov/services/charter/society.html |date=2015-12-22 }}</ref>
+
+New York, unlike all of the other US states who view cultural agencies as nonprofit businesses, has unique ways with the creation process and sees them as educational organizations
+-9.09722e-10
+Written words were not always given the praise that was sought after; This is displayed quite vividly within the following quotes from “The American Historical Review.”
+
+:::“The early reports of the American Historical Association contain much criticism of the work and publications of local historians and local historical societies, no less justifiable than it was sometimes scathing
+2.46814e-10
+
+Historical societies vary in specialization, with focuses ranging from specific geographical areas such as countries or towns, [[universities]], railways, ethnic and religious groups, to [[genealogy]], pioneer history, and the preservation of [[antiques]] or historic buildings.<ref>{{Cite web|url=http://www.publichistory.org/features/HistoricalSocietyHistory.html#|title=History of Historical Societies in the U.S.|last=Lawrence|first=Debra DeRuyver, Jennifer Evans, Sara|website=www.publichistory.org|access-date=2016-03-27}}</ref>
+
+Often, many of these organizations ensure that historic architecture is [[Historic preservation|preserved]]/restored and period houses are maintained for tours open to the public
+3.8799e-09
+The public inclusion movement is a great example of how the historical societies were sometimes challenged with juggling competing preservation priorities and liberal access policies.<ref>{{Cite web|url=http://www.publichistory.org/features/HistoricalSocietyHistory.html#|title=History of Historical Societies in the U.S.|last=Lawrence|first=Debra DeRuyver, Jennifer Evans, Sara|website=www.publichistory.org|access-date=2016-03-27}}</ref>
+
+==Records==
+Publishing journals and maintaining museums is another way in which the historical societies showcase their collections, research, and field of study
+5.5461e-09
+…it was a president of the Massachusetts Historical Society by the name of Adams who declared that half of the publications of American historical societies could be swept from library shelves with no appreciable loss to learning.”<ref>{{Cite journal|last=Boyd|first=Julian P.|date=1934-10-01|title=State and Local Historical Societies in the United States|url=http://ahr.oxfordjournals.org/content/40/1/10|journal=The American Historical Review|language=en|volume=40|issue=1|pages=10–37|doi=10.1086/ahr/40.1.10|issn=0002-8762}}</ref>
+
+==Funding==
+Support from outside sources and contributors has always played an important role in the life of historical societies
+0.141008
+From this point on, the organization must submit annual reports in order to provide current information and accomplishments to the Regents.<ref>[https://www.nysm.nysed.gov/charter/ Chartering on the New York State Museum website] {{webarchive|url=https://web.archive.org/web/20151220070736/http://www.nysm.nysed.gov/charter/ |date=2015-12-20 }}</ref>
+
+==See also==
+* [[List of historical societies]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Commons category|Historical societies}}
+* [https://www.historians.org/ American Historical Association]
+* [http://www.historicnewengland.org/preservation Preservation at Historic New England]
+* [http://royalhistsoc.org/about/ Royal Historical Society]
+* [http://www.history.org.uk/ The Historical Association]
+* [http://www.centraleuropeanhistory.org/ Central European History Society]
+
+{{Authority control}}
+
+[[Category:Historical societies]]
+0.248513
+For record keeping and educational purposes, many of the transactions and papers read at society meetings have been documented and published, as we see with such publications as:
+
+*The Society’s (Quebec) “Transactions of the Literary and Historical Society of Quebec”<ref>{{Cite book|url=https://books.google.com/books?id=018TAAAAYAAJ|title=Transactions of the Literary and Historical Society of Quebec|last=Quebec|first=Literary and Historical Society of|date=1831-01-01|publisher=The Society|language=en}}</ref> published in 1831
+*The Society’s (Maine) “Collections and Proceedings of the Maine Historical Society”<ref>{{Cite book|url=https://books.google.com/books?id=7Hk9AQAAMAAJ|title=Collections of the Maine Historical Society|date=1893-01-01|publisher=The Society|language=en}}</ref> published in 1893
+*The Society’s (Boston) “Proceedings of the Massachusetts Historical Society”<ref>{{Cite book|url=https://books.google.com/books?id=JtQiAQAAIAAJ|title=Proceedings of the Massachusetts Historical Society|last=Society|first=Massachusetts Historical|date=1919-01-01|publisher=The Society|language=en}}</ref> published in 1919
+*The Cambridge University Press’ “Transactions of the Royal Historical Society”<ref>{{Cite book|url=https://books.google.com/books?id=foj2AwAAQBAJ|title=Transactions of the Royal Historical Society|last=Archer|first=Ian W.|date=2014-01-16|publisher=Cambridge University Press|isbn=9781107063860|language=en}}</ref> published in 2013
+
+At times throughout history, certain records were also criticized
+0.265608
+Aldrich House]], headquarters of the [[Rhode Island Historical Society]] in Providence, Rhode Island, USA]]
+
+A '''historical society''' (sometimes also '''preservation society''') is an organization dedicated to preserving, collecting, researching, and interpreting historical information or items

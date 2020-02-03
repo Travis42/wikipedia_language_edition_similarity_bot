@@ -1,0 +1,95 @@
+Marine chronometer
+en edition's differences with the ar version: 
+-1.74712e-08
+
+==History==
+{{For|further details on discovering longitude|History of longitude}}
+[[File:Chronometer of Jeremy Thacker.jpg|thumb|The marine "Chronometer" of [[Jeremy Thacker]] used [[gimbal]]s and a [[vacuum]] in a bell jar.]]
+To determine a position on the Earth's surface, it is necessary and sufficient to know the [[latitude]], [[longitude]], and [[altitude]]
+-1.74712e-08
+Sulli'', but neither his nor Thacker's models were able to resist the rolling of the seas and keep precise time while in shipboard conditions.<ref>[http://www.anthonygrayclocks.com/horological-timeline.htm A Chronology of Clocks] {{webarchive|url=https://web.archive.org/web/20140325173508/http://www.anthonygrayclocks.com/horological-timeline.htm |date=2014-03-25 }}</ref>
+
+In 1714, the British government offered a [[longitude prize]] for a method of determining longitude at sea, with the awards ranging from £10,000 to £20,000 (£2 million to £4 million in {{CURRENTYEAR}} terms) depending on accuracy
+-6.46105e-09
+These quartz chronometers are not always the most accurate quartz clocks when no signal is received, and their signals can be lost or blocked
+-2.21189e-09
+[[Thomas Mercer Chronometers]] still makes chronometers to the present day
+-1.39698e-09
+Diamond was often used as the cap stone for the lower balance staff pivot to prevent wear from years of the heavy balance turning on the small pivot end
+-1.03319e-09
+ During 1675 Huygens and Hooke each delivered two such devices to Charles, but none worked well and neither Huygens nor Hooke received an English patent
+-2.91038e-10
+ It was during this work that Hooke formulated what is known as [[Hooke's Law]].<ref>{{cite web|url=https://books.google.com/books?isbn=0330532189|title=isbn:0330532189 - Google Search|author=|date=|website=books.google.com|accessdate=19 March 2018}}</ref>
+
+The first published use of the term was in 1684 in ''Arcanum Navarchicum'', a theoretical work by Kiel professor Matthias Wasmuth
+6.98492e-10
+ To compensate for ever-changing spring strength, the majority of chronometer balances used bi-metallic strips to move small weights toward and away from the centre of oscillation, thus altering the period of the balance to match the changing force of the spring
+1.36788e-09
+ There are many constant-force and detached escapement designs, but the most common are the spring detent and pivoted detent
+1.36788e-09
+ On the return oscillation, a passing spring on the tip of the detent allows the unlocking roller on the staff to move by without displacing the detent
+4.45289e-09
+Until the 20th century, the best timekeepers were [[pendulum clock]]s, but both the rolling of a ship at sea and the up to 0.2% variations in the [[gravity of Earth]] made a simple gravity-based pendulum useless both in theory and in practice
+6.83258e-09
+ Around the turn of the 20th century, Swiss makers such as [[Ulysse Nardin]] made great strides toward incorporating modern production methods and using fully interchangeable parts, but it was only with the onset of [[World War II]] that the [[Hamilton Watch Company]] in the [[United States]] perfected the process of [[mass production]], which enabled it to produce thousands of its [[Hamilton Watch Company#Marine chronometers|Hamilton Model 21 and Model 22 chronometers]] of World War Two for the [[United States]] [[US Navy|Navy]] & [[United States Army|Army]] and other [[Allies of World War II|Allied]] navies
+0.0571662
+ The greatest strides toward practicality came at the hands of [[Thomas Earnshaw]] and [[John Arnold (watchmaker)|John Arnold]], who in 1780 developed and patented simplified, detached, "spring detent" [[escapement]]s,<ref name="landes">{{cite book| last = Landes| first = David S.| authorlink = | coauthors = | title = Revolution in Time| publisher = Belknap Press of Harvard University Press| year = 1983| location = Cambridge, Massachusetts| pages = [https://archive.org/details/revolutionintime00land_1/page/165 165]| url = https://archive.org/details/revolutionintime00land_1/page/165| doi = | id = | isbn = 0-674-76800-0| url-access = registration}} Pierre Le Roy had developed the detached spring detent escapement around 1748, but abandoned the concept.</ref><ref>{{cite web|url=https://books.google.com/books?id=F7wNQk219KMC&pg=PA349|title=Encyclopedia of Time|first=Samuel L.|last=Macey|date=19 March 1994|publisher=Taylor & Francis|accessdate=19 March 2018|via=Google Books}}</ref> moved the temperature compensation to the balance, and improved the design and manufacturing of [[balance spring]]s
+0.12643
+|File:Harrison H4 clock in The principles of Mr Harrison's time-keeper 1767.jpg|Drawings of Harrison's H4 chronometer of 1761, published in ''The principles of Mr Harrison's time-keeper'', 1767.<ref>''[https://books.google.com/books?id=aB8OAAAAQAAJ&printsec=frontcover The principles of Mr Harrison's time-keeper]''</ref>
+|File:Marine watch no 3-CnAM 1388-IMG 1522-black.jpg|[[Ferdinand Berthoud]] marine chronometer no.3, 1763
+0.140028
+Nourse|accessdate=19 March 2018|via=Internet Archive}}</ref> A French expedition under [[Charles-François-César Le Tellier de Montmirail]] performed the first measurement of longitude using marine chronometers aboard [[French corvette Aurore (1766)|''Aurore'']] in 1767.<ref name=ancre>{{Cite web|url=https://ancre.fr/en/monograph/64-monographie-de-l-aurore-corvette-1766.html|title=MONOGRAPHIE DE L'AURORE - Corvette -1766|website=Ancre|language=en|access-date=2019-12-05}}</ref>
+
+{{Gallery
+|align=center
+|File:Henry Sully clock with escapement and suspension mechanism.jpg|[[Henry Sully]] (1680-1729) presented a first marine chronometer in 1716
+0.140971
+2 (1832))
+ | title       = The Lieutenant and Commander
+ | location    = London
+ | publisher   = [[George Bell & Sons|Bell and Daldy]] (via [[Project Gutenberg]])
+ | oclc        = 9305276
+ | url         = http://www.gutenberg.org/etext/17032
+ | accessdate  = 2007-11-09
+ | authorlink        = Basil Hall
+}}</ref>  However, by 1825, the [[Royal Navy]] had begun routinely supplying its vessels with chronometers.<ref name="Watchmakers and their Work, pg 230">
+{{cite book
+| first=Frederick James
+| last=Britten
+| title = Former Clock & Watchmakers and Their Work
+| page=230
+| year = 1894
+| publisher=Spon & Chamberlain
+| location = New York
+| url=https://books.google.com/?id=iHwCAAAAIAAJ&printsec=titlepage&dq=marine+chronometer
+| quote=Chronometers were not regularly supplied to the Royal Navy until about 1825
+|accessdate=2007-08-08
+}}
+</ref>
+
+It was common for ships at the time to observe a [[time ball]], such as the one at the [[Royal Observatory, Greenwich]], to check their chronometers before departing on a long voyage
+0.160422
+However [[celestial navigation]], which requires the use of a precise chronometer, is still a requirement for certain international [[Licensed mariner|mariner certifications]] such as Officer in Charge of Navigational Watch, and [[Licensed mariner#Deck officers|Master and Chief Mate]] deck officers,<ref>{{cite web |url=http://www.admiraltylawguide.com/conven/stcw1978.html |title=International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978 |accessdate=2007-09-22 |publisher=Admiralty and Maritime Law Guide, International Conventions }}</ref><ref>{{cite web |url=http://www.imo.org/Conventions/contents.asp?doc_id=651&topic_id=257|title=International Convention on Standards of Training, Certification and Watchkeeping for Seafarers (with amendments) |accessdate=2007-09-22 |publisher=International Maritime Organization |archiveurl = https://web.archive.org/web/20070703133024/http://www.imo.org/Conventions/contents.asp?doc_id=651&topic_id=257 <!-- Bot retrieved archive --> |archivedate = 2007-07-03}}</ref> 
+and supplements offshore yachtmasters on long-distance private cruising yachts.<ref>[https://web.archive.org/web/20110226011139/http://www.muehle-glashuette.de/en/nautical-instruments/yacht-and-marine-chronometer.html Yachting Chronometer and Sextant], Accessed 25 May 2013, publisher=Nautische Instrumente</ref> 
+Modern marine chronometers can be based on [[quartz clock]]s that are corrected periodically by [[Global Positioning System|GPS]] signals or radio [[time signal]]s (see [[radio clock]])
+0.192815
+}}
+
+===The modern chronometer===
+In France, 1748, [[Pierre Le Roy]] invented the [[Escapement#Detent escapement|detent escapement]] characteristic of modern chronometers.<ref name="books.google.com">''Britten's Watch & Clock Makers' Handbook Dictionary & Guide Fifteenth Edition'' p.122 [https://books.google.com/books?id=s-cOAAAAQAAJ&pg=PA122]</ref> In 1766, Pierre Le Roy created a revolutionary chronometer that incorporated a [[escapement|detent escapement]], the [[Balance wheel|temperature-compensated balance]] and the [[Balance spring|isochronous balance spring]]:<ref name="Macey"/> Harrison showed the possibility of having a reliable chronometer at sea, but these developments by Le Roy are considered by [[Rupert Gould]] to be the foundation of the modern chronometer.<ref name="Macey">{{cite web|url=https://books.google.com/books?id=F7wNQk219KMC&pg=PA348|title=Encyclopedia of Time|first=Samuel L.|last=Macey|date=19 March 1994|publisher=Taylor & Francis|accessdate=19 March 2018|via=Google Books}}</ref> The innovations of Le Roy made the chronometer a much more accurate piece than had been anticipated.<ref>{{cite web|url=https://books.google.com/books?id=xuDDqqa8FlwC&pg=PA330|title=A History of Mechanical Inventions|first=Abbott Payson|last=Usher|date=19 March 2018|publisher=Courier Corporation|accessdate=19 March 2018|via=Google Books}}</ref>
+
+{{Gallery
+|align=center
+|File:Pierre Le Roy chronometer 1766.jpg|[[Pierre Le Roy]] marine chronometer, 1766
+0.207973
+
+==Chronometer rating==
+In strictly horological terms, "rating" a chronometer means that prior to the instrument entering service, the average rate of gaining or losing per day is observed and recorded on a rating certificate which accompanies the instrument
+0.214373
+Derham's principal work, ''Physico-theology, or a demonstration of the being and attributes of God from his works of creation'', also proposed the use of vacuum sealing to ensure greater accuracy in the operation of clocks.<ref>{{cite journal | last =Koberer | first =Wolfgang | title =Notes: On the First Use of the Term "Chronometer" | journal =The Mariner's Mirror | volume =102 | issue =2 | pages =203–205 | publisher =Society for Nautical Research | location =United Kingdom | date =May 2016 | doi=10.1080/00253359.2016.1167400}}</ref> Attempts to construct a working marine chronometer were begun by [[Jeremy Thacker]] in England in 1714, and by [[Henry Sully]] in France two years later
+0.247537
+
+Marine chronometers always contain a [[maintaining power]] which keeps the chronometer going while it is being wound, and a [[power reserve]] to indicate how long the chronometer will continue to run without being wound
+0.258544
+
+The term ''[[wikt:chronometer|chronometer]]'' was coined from the Greek words ''[[wikt:χρόνος|χρόνος]] (chronos)'' (meaning time) and ''[[meter]]'' (meaning measure) in 1714 by [[Jeremy Thacker]], an early competitor for the [[Longitude rewards|prize]] set by the [[Longitude Act]] in the same year.<ref>{{cite book | author = Sobel, Dava | authorlink = Dava Sobel | title = [[Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time]] | publisher = Penguin Books | pages = [https://archive.org/details/longitudetruest000sobe/page/56 56, 57] | isbn = 0-14-025879-5 | quote = Dismissing other solutions to the longitude problem, Thacker wrote "In a word, I am satisfied that my Reader begins to think that the ''Phonometers, Pyrometers, Selenometers, Heliometers'' and all the ''Meters'' are not worthy to be compared to my ''Chronometer''" }}</ref> It has recently become more commonly used to describe [[chronometer watch|watches tested and certified]] to meet certain precision standards

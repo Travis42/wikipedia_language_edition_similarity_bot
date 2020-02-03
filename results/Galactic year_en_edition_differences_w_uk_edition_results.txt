@@ -1,0 +1,36 @@
+Galactic year
+en edition's differences with the uk version: 
+0.136558
+The red dots correspond to the positions of the stars studied by the [[European Southern Observatory]] in a monitoring programme.<ref>{{cite web|title=Milky Way Past Was More Turbulent Than Previously Known | url= http://www.eso.org/public/news/eso0411/ |work=ESO News|publisher = [[European Southern Observatory]] |date = 2004-04-06 |quote= After more than 1,000 nights of observations spread over 15 years, they have determined the spatial motions of more than 14,000 solar-like stars residing in the neighbourhood of the Sun.}}</ref>
+ }}
+
+==References==
+{{Reflist}}
+
+{{Star}}
+{{Time measurement and standards}}
+{{Chronology}}
+
+{{DEFAULTSORT:Galactic Year}}
+[[Category:Milky Way]]
+[[Category:Units of time]]
+0.144841
+{{doi|10.1103/RevModPhys.69.337}}.</ref>
+|}
+{{Css Image Crop
+ |Image = Sun_in_orbit_around_Galactic_Centre.gif
+ |bSize = 768
+ |cWidth = 480
+ |cHeight = 480
+ |oLeft = 140
+ |oTop = 60
+ |Location = center
+ |Description = Visualisation of the orbit of the Sun (yellow dot and white curve) around the Galactic Centre (GC) in the last galactic year
+0.229967
+Retrieved 2 January 2014.</ref>
+|-
+|align="right"|2–3 galactic years from now
+|[[Tidal acceleration]] moves the Moon far enough from Earth that [[total solar eclipse]]s are no longer possible
+|-
+|align="right"|4 galactic years from now
+|Carbon dioxide levels fall to the point at which [[C4 photosynthesis]] is no longer possible

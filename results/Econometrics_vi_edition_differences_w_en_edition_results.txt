@@ -1,0 +1,85 @@
+Econometrics
+vi edition's differences with the en version: 
+-5.90887e-11
+
+= = EG = =
+A simple example is to find relationships in the economic economy in the field of [[Labor economy]]:
+
+: <math> \ln (\text{wage}) = \ beta_0 + \ beta_1 (\text{years of Education}) + \varepsilon
+-6.14353e-12
+Sims (2011)
+
+= = Reference = =
+{{Reference}}
+
+= = See more = =
+* [[Time series]]
+* [Composite Metrics | Data Panel]
+* [[Energy and Economy]]
+* [[Econometrica]]
+* [[Frisch Medal]]
+
+{{Business Administration}}
+
+[[Category: Economy Amount |]]
+[[Category: Mathematical Sciences]]
+[[Category: Scientific form]]
+7.34417e-11
+A mathematical equation can be written describing the relation between amount, price, and other variables such as earnings, and a random term ε to reflect the theoretical pattern in a simple way:
+
+: <math> Q = \ beta_0 + \ beta_1 \text{Price} + \ beta_2 \text{Income} + \varepsilon
+0.0208685
+In many cases, the [[minimum square] approach could not be able to present a need-to-study relationship, or could create false estimates, by the hypothesis to run the model much when violated
+0.0295125
+The [[single equation Method]] Models a single variable, called ([[dependent variable]]), as A function that inputs is one or more [[independent variables]]
+0.0521712
+"Report of the Evaluative Committee for ' ' Econometrica ' '," ' ' Econometrica ' ' 22 (2), p
+0.0590249
+When the model consists of multiple equations, the [[simultaneous equation Method]] (simultaneous-equation methods) can be used, including [[Two IV variants]], [[Two-Stage Least Squares]] (2SLS), and [[Three-Stage Least Squares]] (3SLS)
+0.0911042
+
+The database applied in the economy is divided into [[Time string]] (time series), [[Cross-data]] (cross-sectional analysis), array data ([Composite metric | Panel data]) and multidimensional array data
+0.0937146
+
+Other methods of estimation include [[Method of Moments], [Generalized Method of Moments]] (GMM), analysis [[Time Series]] (Time series analysis), and [Bayesian methods]
+0.0939081
+<ref> http://www.dziejekrakowa.pl/biogramy/index.php?id=516 </ref>
+
+The econometrics differ from other branches of statistics at the place of the economics, particularly in relation to observation studies and to systems of equations
+0.104342
+[P [http://www.jstor.org/pss/1907538 p
+0.125211
+Therefore, the data panel is often understood as two-dimensional data
+0.140184
+The model can then be inspected for statistical significance [[statistical significance]] thereby increasing the price of the bridge
+0.140184
+The parameter <math> \ beta_1 </math> measures the increased level of natural logarithm (LN) of wages derived from an increased academic year
+0.144581
+
+= = Method = =
+The most important statistical method in economics is [[regression analysis]] (regression analysis)
+0.177321
+The objective here is to estimate the parameters, <math> \ beta_0 \mbox{and} \ beta_1 </math> with the hypothesis on the random variable <math> \epsilon </math>
+0.184196
+</math>
+
+[[Regression analysis]] can be used to estimate (estimate) the parameters <math> \ beta_0 </math>, <math> \ beta_1 </math>, and <math> \ beta_2 </math> in the above equation, using the price, income and demand data
+0.19825
+The hypothesis to verify here is <math> \ beta_1 < 0 </math>
+0.19825
+<math> \epsilon </math> is a random variable representing all other factors that can affect wages
+0.19825
+For example, if <math> \epsilon </math> is not correlated (uncorrelated) (also known as independent) with the number of years, the above equation can be estimated by the method [[linear regression]]
+
+However, in reality the story is not so simple
+0.223984
+
+= = Purpose = =
+The two main purposes of economic intake are (1) testing economic theories by formulating the [[Economic model]] (which is capable of auditing) and (2) running (estimate) and examining those models whether they give the result of acceptance or veto economic theories
+0.249949
+The empirical economic intake includes: (1) application of economic approaches to the evaluation of economic theories (2) development and use of the economic model, all for use in the study of economic observation in the past or predicting the future
+0.26319
+{{Economics sidebar}}
+{{Business Administration}}
+
+The ' economic ' economy ' (econometrics) is part of the [[economics]], which is understood in the broad sense that the economic science of interferometry with [[Statistical science | Statistics]] and [[Mathematical economics]]

@@ -1,0 +1,70 @@
+Herbert Butterfield
+en edition's differences with the ja version: 
+-7.63976e-11
+
+Butterfield found the Whig interpretation of history objectionable, because it warps the past to see it in terms of the issues of the present and attempts to squeeze the contending forces of the past into a form that reminds us of ourselves
+-1.09139e-11
+in every Englishman there is hidden something of a whig that seems to tug at the heart-strings.<ref>Herbert Butterfield, ''The Englishman and His History'' (Cambridge University Press, 1944), pp
+0.0536442
+Butterfield was a devout Christian and reflected at length on Christian influences in historical perspectives
+0.119952
+
+In 1923, Butterfield won the Le Bas Prize for his first publication, ''[[The Historical Novel]]''; the work was published in 1924.<ref>{{cite book|title=The historical novel: an essay|url=https://books.google.com/?id=voZZAAAAMAAJ|accessdate=26 July 2014|last1 = Butterfield|first1 = Sir Herbert|year = 1924}}</ref>
+
+Also in 1924, Butterfield won the Prince Consort Prize for a work on the problem of peace in Europe between 1806 and 1808
+0.154857
+* Schweizer, Karl ''The International Thought of Herbert Butterfield'', Basingstoke, Palgrave Macmillan, 2007
+
+==Further reading==
+*Bentley, Michael, ''The Life and Thought of Herbert Butterfield, History, Science and God'', Cambridge University Press, 2011
+0.2168
+Vickers considers the book a late example of the earliest stage of modern analysis of the history of [[Renaissance]] magic in relation to the development of science, when magic was largely dismissed as being "entertaining but irrelevant".<ref name="VickersVickers1984">{{cite book|last1=Vickers|first1=Brian|title=Occult and scientific mentalities in the Renaissance|last2=Vickers|first2=Brian|chapter=Introduction|year=1984|pages=1–56|doi=10.1017/CBO9780511572999.002|isbn=9780511572999}}</ref>
+
+==Prizes and accolades==
+
+In 1922, Butterfield was awarded the University Member's Prize for English Essay, writing on the subject of English novelist [[Charles Dickens]] and the way in which the author straddled the fields of history and literature
+0.221463
+At the height of the [[Cold War]], he warned that conflicts between self-righteous value systems could be catastrophic:
+:The greatest menace to our civilization is the conflict between giant organized systems of self-righteousness - each only too delighted to find that the other is wicked - each only too glad that the sins of the other give it pretext for still deeper hatred.<ref>''Christianity, Diplomacy and War'' (1952)</ref>
+
+=== ''The Whig Interpretation of History'' ===
+
+Butterfield's book, ''The Whig Interpretation of History'' (1931), became a classic for history students and is still widely read.<ref>William Cronon, "Two Cheers for the Whig Interpretation of History" (American Historical Association, September 2012) online at https://www.historians.org/publications-and-directories/perspectives-on-history/september-2012/two-cheers-for-the-whig-interpretation-of-history.</ref> Butterfield had in mind especially the historians of his own country but his criticism of the retrospective creation of a line of progress toward the glorious present can be and has subsequently been applied generally
+0.262802
+We can do worse than remember a principle which both gives us a firm Rock and leaves us the maximum elasticity for our minds: the principle: Hold to Christ, and for the rest be totally uncommitted."
+
+===''The Origins of Modern Science''===
+According to [[Brian Vickers (literary scholar)|Brian Vickers]] {{post-nominals|FBA}}, in the 1949 book ''The Origins of Modern Science'' Butterfield makes simplistic generalisations which "seem unworthy of a serious historian"
+0.265525
+Norton & Company|isbn=9780393003185|language=en}}</ref>
+*''Napoleon'', 1939.<ref>{{Cite book|url=https://books.google.com/books?id=5l8OAQAAMAAJ|title=Napoleon|last=Butterfield|first=Herbert|date=1939-01-01|publisher=Duckworth|language=en}}</ref>
+*''The Statecraft of Machiavelli'', 1940.<ref>[https://books.google.com/books/about/The_Statecraft_of_Machiavelli.html?id=Gz4UAQAAIAAJ books.google.com]</ref>
+*''The Englishman and His History'', 1944.<ref>{{Cite book|url=https://books.google.com/books?id=QzJLAAAAMAAJ|title=The Englishman and His History|last=Butterfield|first=Herbert|date=1970-01-01|publisher=Archon Books|language=en}}</ref>
+*''Lord Acton'', 1948.<ref>{{Cite book|url=https://books.google.com/books?id=G6GfAAAAMAAJ|title=Lord Acton|last=Butterfield|first=Herbert|date=1948-01-01|publisher=Historical Assn.|language=en}}</ref>
+*''Christianity and History'', 1949
+0.265525
+We, on the other hand, will not dream of wishing it away, but will rejoice in an interpretation of the past which has grown up with us, has grown up with the history itself, and has helped to make the history..
+0.273223
+
+== Work ==
+
+Butterfield's main interests were [[historiography]], the [[history of science]], 18th century constitutional history, [[Christianity]] and history as well as the theory of international politics.<ref>[http://www.giffordlectures.org/Author.asp?AuthorID=32 Gifford Lectures – Biography of Butterfield] {{webarchive|url=https://web.archive.org/web/20070322065129/http://www.giffordlectures.org/Author.asp?AuthorID=32 |date=22 March 2007 }} by Dr Brannon Hancock</ref> He delivered the [[Gifford Lectures]] at the [[University of Glasgow]] in 1965
+0.279902
+{{Use dmy dates|date=April 2012}}
+{{Use British English|date=April 2012}}
+{{Infobox philosopher
+| region           = [[Western philosophy]]
+| era              = [[20th-century philosophy]]
+| honorific_prefix = [[Sir]]
+| name             = Herbert Butterfield
+| honorific_suffix = {{postnom|country=GBR|size=100|FBA}}
+| birth_date       = {{birth date |1900|10|7|df=y}}
+| birth_place      = [[Oxenhope]], [[Yorkshire]]
+| death_date       = {{death date and age |1979|7|20 |1900|10|7|df=y}}
+| death_place      = [[Sawston]], [[Cambridgeshire]]
+| alma_mater       = [[Peterhouse, Cambridge]]
+| institutions     = [[Peterhouse, Cambridge]]
+| school_tradition = [[Historiography of the United Kingdom|British historiography]]
+| main_interests   = [[History of science]]
+| books            = ''The Whig Interpretation of History'' (1931)<br>''Origins of Modern Science'' (1949)
+| influences       = [[Harold Temperley]]<ref>John D

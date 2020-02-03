@@ -1,0 +1,169 @@
+Calendar date
+en edition's differences with the es version: 
+-9.52625e-11
+Total<br />population<br />(millions)
+|-
+| {{legend|#0ff|Cyan}} || DMY || L || '''[[Date and time notation in Europe|Europe]]''': {{Nowrap|[[Ukraine]] (42)}}, {{Nowrap|[[Netherlands]] (17)}}, {{Nowrap|others (95)}}
+<br />'''[[Central America]]''': {{Nowrap|[[Mexico]] (127)}}, {{Nowrap|[[Guatemala]] (18)}}, {{Nowrap|[[Ecuador]] (17)}}, {{Nowrap|[[Honduras]] (9.2)}}, {{Nowrap|others (19)}}
+<br />'''[[South America]]''': {{Nowrap|[[Brazil]] (210)}}, {{Nowrap|[[Colombia]] (46)}}, {{Nowrap|[[Argentina]] (45)}}, {{Nowrap|[[Peru]] (32)}}, {{Nowrap|[[Venezuela]] (32)}}, {{Nowrap|others (43)}}
+<br />'''[[North Africa]]''': {{Nowrap|[[Egypt]] (99)}}, {{Nowrap|[[Algeria]] (43)}}, {{Nowrap|[[Morocco]] (35)}}, {{Nowrap|[[Tunisia]] (12)}}, {{Nowrap|others (11)}}
+<br />'''West, Central, and Southern [[Africa]]''': {{Nowrap|[[Nigeria]] (193)}}, {{Nowrap|[[Ethiopia]] (99)}}, {{Nowrap|[[Democratic Republic of the Congo|DRC]] (87)}}, {{Nowrap|[[Tanzania]] (56)}}, {{Nowrap|[[Sudan]] (41)}}, {{Nowrap|[[Uganda]] (40)}}, {{Nowrap|others (323)}}
+<br />'''West [[Asia]] and the [[Middle East]]''': {{Nowrap|[[Turkey]] (82)}}, {{Nowrap|[[Iraq]] (40)}}, {{Nowrap|[[Saudi Arabia]] (33)}}, {{Nowrap|[[Yemen]] (30)}}, {{Nowrap|others (107)}}
+<br />'''[[Central Asia]]''': {{Nowrap|[[Pakistan]] (208)}}, {{Nowrap|[[Bangladesh]] (166)}}, {{Nowrap|[[Tajikistan]] (8.9)}}, {{Nowrap|[[Kyrgyzstan]] (6.4)}}, {{Nowrap|[[Turkmenistan]] (5.9)}}
+<br />'''[[East Asia]]''': {{Nowrap|[[Indonesia]] (268)}}, {{Nowrap|[[Thailand]] (66)}}, {{Nowrap|[[Cambodia]] (16)}}, {{Nowrap|others (8.9)}}
+<br />'''Others''': {{Nowrap|various [[Caribbean islands]] (26)}}, {{Nowrap|[[Papua New Guinea]] (8.6)}}, {{Nowrap|[[New Zealand]] (5.0)}}, {{Nowrap|others (5.5)}}
+| align=right | 2,867
+|-
+| {{legend|#ff0|Yellow}} || YMD || B || {{Nowrap|[[China]] (1,397)}}, {{Nowrap|[[Japan]] (126)}}, {{Nowrap|[[South Korea]] (52)}}, {{Nowrap|[[North Korea]] (25)}}, {{Nowrap|[[Canada]] (37)}}, {{Nowrap|[[Taiwan]] (24)}}, {{Nowrap|[[Hungary]] (10)}}, {{Nowrap|[[Mongolia]] (3.3)}}, {{Nowrap|[[Lithuania]] (2.8)}}, {{Nowrap|[[Bhutan]] (0.74)}}
+-1.86446e-11
+[[Ordinal number (linguistics)|Ordinal]] numerals, however, are not always used when writing and pronouncing dates, and "December seven, nineteen forty-one" is also an accepted pronunciation of the date written ''December 7, 1941''
+-1.02318e-11
+
+In [[Canada]] and the [[United States]], the usual written form is ''December 7, 1941'', spoken as "December seventh, nineteen forty-one" or colloquially "December the seventh, nineteen forty-one"
+-8.07177e-12
+(With the years 2000-2009, care must be taken to ensure that [[Year 2000 problem|two digit years do not intend to be 1900-1909 or other similar years]].)
+
+*"9 November 2006" or "9
+1.45519e-11
+
+For example, "07/08/06" could refer to either 7 August 2006 or July 8, 2006 (rarely in both cases: 1006), or 6 August 2007
+1.45519e-11
+The astronomers describe their system as also being a "[[Julian date]]" system
+1.45519e-11
+Unlike the system described above, the astronomical system does not consider years, it only counts days
+1.54614e-11
+9, 2006 or 11/9/2006
+*11-9-2006, 11.9.2006, 11.09.06, or 11/09/06,or
+20060911
+The modern convention is to avoid using the ordinal (th, st, rd, nd) form of numbers when the day follows the month (July 4 or July 4, 2006)
+2.28511e-11
+''Sunday, November the 9th'', and even ''November the 9th, Sunday'', are also possible and readily understood)
+3.09228e-11
+Thus it is unperturbed by complications such as leap years.{{Citation needed|date=July 2009}}
+
+===Week number used===
+Companies in Europe often use year, week number, and day for planning purposes
+3.18323e-11
+For example, "24 {{CURRENTMONTHNAME}} {{CURRENTYEAR}}" is ten days after "14 {{CURRENTMONTHNAME}} {{CURRENTYEAR}}" in the [[Gregorian calendar]]
+3.63798e-11
+
+*Thursday, November 9, 2006
+*November 9, 2006
+*Nov
+0.00855933
+
+===Expressing dates in spoken English===
+In [[English language|English-language]]  outside North America (mostly in Anglophone Europe and some countries in Australasia), full dates are written as ''7 December 1941'' (or ''7th December 1941'') and spoken as "the seventh of December, nineteen forty-one" (exceedingly common usage of "the" and "of"), with the occasional usage of ''December 7, 1941'' ("December the seventh, nineteen forty-one")
+0.0227611
+The big-endian convention is also frequently used in [[Canada]], but all three conventions are used there.<ref>[http://www.cdnpay.ca/news/new_cheque_specs.asp Canadian Payments Association – Specifications for Imageable Cheques and Other Payment Items] {{webarchive |url=https://web.archive.org/web/20100706225538/http://www.cdnpay.ca/news/new_cheque_specs.asp |date=July 6, 2010 }}</ref>
+*2003 November 9
+*2003Nov9
+*2003Nov09
+*2003-Nov-9
+*2003-Nov-09
+*2003-Nov-9, Sunday
+*2003
+0.0278145
+*9 November 2006 [[Common Era|CE]] or 9 November 2006 [[Anno Domini|AD]]
+
+===Gregorian, year–month–day (YMD) <span id="YMD date"></span>===
+<!--[[YMD]] and [[YMD date]] redirect here-->
+In this format the most significant data item is written before lesser data items i.e
+0.0347682
+Numbers are also written in that order, so the digits of 2006 indicate, in order, the millennium, the century within the millennium, the decade within the century, and the year within the decade
+0.0501835
+
+==Advantages for ordering in sequence==
+One of the advantages of using the [[ISO 8601]] date format is that the [[lexicographical order]] ([[ASCIIbetical]]) of the representations is equivalent to the chronological order of the dates, assuming that all dates are in the same time zone
+0.0521522
+The ISO 8601 date order with four-digit years: YYYY-MM-DD (introduced in ISO 2014), is specifically chosen to be unambiguous
+0.0521522
+[[Japan Standard Time]], 8 December in Japan
+0.0544208
+This format was also commonly used by many English-language print media in many former British colonies and also one of two formats commonly used in India during [[British Raj]] era until mid-20th century
+0.0602202
+
+The ISO does present a standard for [[ISO week date|identifying weeks]], but as it does not match up with the Gregorian calendar (the beginning and ending days of a given year do not match up), this standard is somewhat more problematic than the other standards for dates
+0.0602202
+
+ISO 8601 is used widely where concise, human readable yet easily computable and unambiguous dates are required, although many applications store dates internally as [[UNIX time]] and only convert to ISO 8601 for display
+0.061462
+
+===Gregorian, month–day–year (MDY)<span id="MDY date"></span>===
+<!--[[MDY date]] redirects here-->
+{{see also|Date and time notation in the United States}}
+This sequence is used primarily in the [[Philippines]], and the [[United States]]
+0.0695363
+The ISO 8601 standard also has the advantage of being language independent and is therefore useful when there may be no language context and a universal application is desired (expiration dating on export products, for example)
+0.100367
+Years are usually counted from a particular starting point, usually called the [[epoch (reference date)|epoch]], with [[era]] referring to the particular period of time (note [[geologic time scale|the different use]] of the terms in [[geology]])
+0.101251
+This format is also favoured in certain [[Asia]]n countries, mainly [[East Asian]] countries, as well as in some European countries
+0.106719
+island territories]] (0.55)}}
+| align=right | 0.55
+|-
+| {{legend|#0f0|Green}} || DMY, YMD || L, B || {{Nowrap|[[Date and time notation in India|India]] (1,346)}}, {{Nowrap|[[Russia]] (147)}}, {{Nowrap|[[Vietnam]] (95)}}, {{Nowrap|[[Germany]] (83)}}, {{Nowrap|[[Iran]] (82)}}, {{Nowrap|[[France]] (67)}}, {{Nowrap|[[United Kingdom]] (66)}}, {{Nowrap|[[Italy]] (60)}}, {{Nowrap|[[Myanmar]] (54)}}, {{Nowrap|[[Spain]] (47)}}, {{Nowrap|[[Poland]] (38)}}, {{Nowrap|[[Uzbekistan]] (33)}}, {{Nowrap|[[Afghanistan]] (32)}}, {{Nowrap|[[Nepal]] (30)}}, {{Nowrap|[[Australia]] (25)}}, {{Nowrap|[[Cameroon]] (24)}}, {{Nowrap|[[Sri Lanka]] (22)}}, {{Nowrap|[[Romania]] (20)}}, {{Nowrap|others (120)}}
+| align=right | 2,391
+|-
+| {{legend|#00f|Blue}} || DMY, MDY || L, M || {{Nowrap|[[Philippines]] (107)}}, {{Nowrap|[[Malaysia]] (33)}}, {{Nowrap|[[Somalia]] (16)}}, {{Nowrap|[[Togo]] (7.5)}}, {{Nowrap|[[Panama]] (4.2)}}, {{Nowrap|[[Puerto Rico]] (3.2)}}, {{Nowrap|[[Cayman Islands]] (0.63)}}, {{Nowrap|[[Greenland]] (0.56)}}
+| align=right | 171
+|-
+| {{legend|#f00|Red}} || MDY, YMD || M, B || {{Nowrap|[[United States]] (329)}}
+| align=right | 329
+|-
+| {{legend|#888|Gray}} || MDY, YMD, DMY || M, B, L || {{Nowrap|[[South Africa]] (58)}}, {{Nowrap|[[Kenya]] (52)}}, {{Nowrap|[[Ghana]] (30)}} 
+| align=right | 140
+|}
+]]
+
+==Date format==
+{{See also|Date format by country}}
+
+There is a large variety of formats for dates in use, which differ in the order of date components
+0.135216
+
+[[UNIX time]] stores time as a number in seconds since the beginning of the UNIX Epoch (1970-01-01)
+0.139073
+Many Internet sites use YYYY-MM-DD, and those using other conventions often use -MMM- for the month to further clarify and avoid ambiguity (2001-MAY-09, 9-MAY-2001, MAY 09 2001, etc.)
+0.139073
+This also works when a time in 24-hour format is included after the date, as long as all times are understood to be in the same time zone
+0.152346
+So, for example, an event in a project can happen on w43 (week 43) or w43-1 (Monday, week 43) or, if the year needs to be indicated, on w0643 or w643 (year 2006 week 43; i.e., Monday 23 October-Sunday 29 October 2006)
+0.182533
+
+Another "ordinal" date system ("ordinal" in the sense of advancing in value by one as the date advances by one day) is in common use in astronomical calculations and referencing and uses the same name as this "logistics" system
+0.187825
+
+===Gregorian, day–month–year (DMY) <span id="DMY date"></span> ===
+<!--[[DMY]], [[Dmy], [[DMY date]] and [[Dmy date]] redirect here-->
+This [[little-endian]] sequence is used by a majority of the world and is the preferred form by the [[United Nations]] when writing the full date format in official documents
+0.205814
+However, as an exception, the American shorthand "9/11" is widely understood as referring to the [[September 11 attacks|11 September 2001 terrorist attacks]].<ref name="BBC-ADOT">[http://news.bbc.co.uk/hi/english/static/in_depth/americas/2001/day_of_terror/ BBC News – America's Day of Terror"] (Example of British website using "9/11" shorthand)</ref>
+
+When numbers are used to represent months, a significant amount of confusion can arise from the ambiguity of a date order; especially when the numbers representing the day, month, or year are low, it can be impossible to tell which order is being used
+0.208609
+
+Examples for the 9th of November 2003:
+*2003-11-09: the standard Internet date/time format,<ref>[http://www.w3.org/TR/NOTE-datetime W3C Date and Time Formats] Internet date/time format<!-- retrieved 23 September --></ref> a profile of the international standard [[ISO 8601]], orders the components of a date like this, and additionally uses leading zeros, for example, 1996-05-01, to be easily read and sorted by computers
+0.210771
+Using a three-digit [[Julian date|Julian day number]] saves one byte of computer storage over a two-digit month plus two-digit day, for example, "January 17" is 017 in Julian versus 0117 in month-day format
+0.212145
+
+Many computer systems internally store points in time in [[Unix time]] format or some other [[system time]] format
+0.243377
+In most calendar systems, the date consists of three parts: the ''day of the month'', the ''month'', and the ''year''
+0.265624
+A date without the year may also be referred to as a ''date'' or ''calendar date'' (such as "{{CURRENTDAY}} {{CURRENTMONTHNAME}}" rather than "{{CURRENTDAY}} {{CURRENTMONTHNAME}} {{CURRENTYEAR}}")
+0.265624
+government agencies now use ISO 8601 with 4-digit years.<ref>[http://www.nyecounty.net/iso8601.html ] {{webarchive |url=https://web.archive.org/web/20080221020451/http://www.nyecounty.net/iso8601.html |date=February 21, 2008 }}</ref><ref>{{cite web|url=http://www.iprocessmart.com/techsmart/iso-time.htm |title=International Standard Date and Time Notation |publisher=Iprocessmart.com |date= |accessdate=2012-06-26}}</ref>
+
+When transitioning from one date notation to another, people often write both styles; for example [[Old Style and New Style dates]] in the transition from the Julian to the Gregorian calendar
+0.265624
+For example:
+
+ 1998-02-28 (28 February 1998) sorts before
+ 2006-03-01 (1 March 2006) which sorts before
+ 2015-01-30 (30 January 2015)
+
+The YYYY-MM-DD layout is the only common format that can provide this.<ref name=W3CFAQ>{{cite web| url=http://www.w3.org/International/questions/qa-date-format | accessdate=2008-10-21 | title=FAQ: Date formats | publisher=[[World Wide Web Consortium]] (W3C) }}</ref> Sorting other date representations involves some [[parsing]] of the date strings

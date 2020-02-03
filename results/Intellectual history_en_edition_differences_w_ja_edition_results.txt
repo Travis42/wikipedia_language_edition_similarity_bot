@@ -1,0 +1,42 @@
+Intellectual history
+en edition's differences with the ja version: 
+4.72937e-11
+Collingwood]]
+*[[Merle Curti]]
+*[[Robert Darnton]]
+*[[Gilles Deleuze]]
+*[[John Dunn (political theorist)|John Dunn]]
+*[[Norbert Elias]]
+*[[Lucien Febvre]]
+*[[Michel Foucault]]
+*[[Peter Gay]]
+*[[Raymond Geuss]]
+*[[Carlo Ginzburg]]
+*[[Paul Gottfried]]
+*[[Anthony Grafton]]
+*[[Roger Griffin]]
+*[[Richard Hofstadter]]
+*[[H
+0.0103783
+One can read a text both in terms of a chronological context (for example, as a contribution to a discipline or tradition as it extended over time) or in terms of a contemporary intellectual moment (for example, as participating in a debate particular to a certain time and place)
+0.0190662
+An example is [[Reinhart Koselleck]]’s ''Begriffsgeschichte'' (history of concepts), though there are methodological differences between the work of Koselleck and his followers and the work of Anglo-American intellectual historians
+0.0518915
+Ghanshyam Mehta, ''The structure of the Keynesian Revolution'', 1977.</ref>
+
+In Britain the [[history of political thought]] has been a particular focus since the late 1960s and is associated especially with [[Cambridge School (intellectual history)|historians at Cambridge]], such as  [[John Dunn (political theorist)|John Dunn]] and [[Quentin Skinner]]
+0.0808909
+
+==External links==
+{{wikiquote}}
+*''Dictionary of the History of Ideas: Studies of Selected Pivotal Ideas'', edited by Philip P
+0.160864
+Despite the prominence of early modern intellectual historians (those studying the age from the [[Renaissance]] to the [[Age of Enlightenment|Enlightenment]]), the intellectual history of the modern period has also been the locus of intense and creative output on both sides of the Atlantic
+0.186959
+In 2013, [[Samuel Moyn]] and [[Andrew Sartori]] published the anthology ''Global Intellectual History''.<ref>{{Cite book|url=https://cup.columbia.edu/book/global-intellectual-history/9780231160490|title=Global Intellectual History|date=June 2013|publisher=Columbia University Press|isbn=9780231534598|editor-last=Moyn|editor-first=Samuel|editor-last2=Sartori|editor-first2=Andrew}}</ref>
+
+In 2016, the Routledge journal ''Global Intellectual History'' (ed
+0.224697
+
+==Intellectual historiography==
+Intellectual history as a self-conscious discipline is a relatively recent phenomenon

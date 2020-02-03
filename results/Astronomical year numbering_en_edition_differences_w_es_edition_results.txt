@@ -1,0 +1,24 @@
+Astronomical year numbering
+en edition's differences with the es version: 
+0.0854545
+(Latin)</ref> In 1702, the French astronomer [[Philippe de la Hire]] used a year he labeled {{nowrap|''Christum 0''}} at the end of years labeled ''ante Christum'' (BC), and immediately before years labeled ''post Christum'' (AD) on the mean motion pages in his ''Tabulæ Astronomicæ'', thus adding the designation ''0'' to Kepler's ''Christi''.<ref>[https://books.google.com/books?id=BjygAAAAMAAJ&printsec=frontcover#PPP35,M1 Tabulae Astronomicae – Philippo de la Hire] (1702), Tabulæ 15, 21, 39, 47, 55, 63, 71; Usus tabularum 4
+0.0947736
+Although the absolute numerical values of astronomical and historical years only differ by one before year 1, this difference is critical when calculating astronomical events like [[eclipses]] or [[planetary conjunction]]s to determine when historical events which mention them occurred
+0.187603
+Thus, it has a [[0 (year)|year 0]]; the years before that are designated with [[negative number]]s and the years after that are designated with positive numbers.<ref name="nasa-eclipses">{{cite web|url=http://eclipse.gsfc.nasa.gov/SEhelp/dates.html|title=Year Dating Conventions|last=Espenak|first=Fred|work=NASA Eclipse Web Site|publisher=NASA|accessdate=19 February 2009| archiveurl= https://web.archive.org/web/20090208212742/http://eclipse.gsfc.nasa.gov/SEhelp/dates.html| archivedate= 8 February 2009 | url-status= live}}</ref> Astronomers use the [[Julian calendar]] for years before 1582, including the year 0, and the [[Gregorian calendar]] for years after 1582, as exemplified by [[Jacques Cassini]] (1740),<ref name=Cassini>Jacques Cassini, ''[https://books.google.com/books?id=fVIVAAAAQAAJ&pg=RA1-PA10 Tables Astronomiques]'' (1740), Explication et Usage pp
+0.190033
+In the astronomical sequence, however, these leap-years are called 0, −4, −8, −12, ..., and the rule of divisibility by 4 subsists.|Jean Meeus, ''Astronomical Algorithms''}}
+
+==Signed years without the year zero==
+Although he used the usual French terms "avant J.-C." (before Jesus Christ) and "après J.-C." (after Jesus Christ) to label years elsewhere in his book, the Byzantine historian [[Venance Grumel]] used negative years (identified by a minus sign, −) to label BC years and unsigned positive years to label AD years in a table
+0.202986
+The numbers of AD/CE years are not changed and are written with either no sign or a positive sign; thus in general ''n'' AD/CE is simply ''n'' or +''n''.<ref name="nasa-eclipses" /> For normal calculation a [[0 (number)|number zero]] is often needed, here most notably when calculating the number of years in a period that spans the [[epoch (astronomy)|epoch]]; the end years need only be subtracted from each other
+0.215892
+
+==Usage of the year zero==
+{{Main|Year zero}}
+In his [[Rudolphine Tables]] (1627), [[Johannes Kepler]] used a prototype of year zero which he labeled ''Christi'' (Christ's) between years labeled ''Ante Christum'' (Before Christ) and ''Post Christum'' (After Christ) on the mean motion tables for the Sun, Moon, Saturn, Jupiter, Mars, Venus and Mercury.<ref>Johannes Kepler, ''[http://www.ub.uni-kiel.de/digiport/bis1800/Arch3_436.html Tabulae Rudolphinae]'' (1627) Pars secunda, 42 (Zu Seite 191), 48 (197), 54 (203), 60 (209), 66 (215), 72 (221), 78 (227)
+0.259548
+Kenneth Seidelmann, (Sausalito, California: University Science Books, 1992/2005) 579.</ref> completed the transition in his ''Tables astronomiques'', simply labeling this year ''0'', which he placed at the end of Julian years labeled ''avant Jesus-Christ'' (before Jesus Christ or BC), and immediately before Julian years labeled ''après Jesus-Christ'' (after Jesus Christ or AD).<ref name=Cassini/>
+
+Cassini gave the following reasons for using a year 0:<ref>Jacques Cassini, ''[https://books.google.com/books?id=fVIVAAAAQAAJ&pg=RA1-PA3 Tables astronomiques]'', 1740, Explication et Usage p

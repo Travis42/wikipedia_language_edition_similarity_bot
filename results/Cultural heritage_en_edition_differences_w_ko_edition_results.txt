@@ -1,0 +1,42 @@
+Cultural heritage
+en edition's differences with the ko version: 
+0.0164722
+The reality of this risk reinforces the fact that all artifacts are in a constant state of chemical transformation, so that what is considered to be preserved is actually changing – it is never as it once was.<ref>{{Citation | last =Lowenthal| first =David | publication-date = 1985 | title = The Past is a Foreign Country | publication-place =New York | publisher =Cambridge University Press | isbn = 0-521-22415-2 | oclc = 12052097 | year =1985 }}</ref> Similarly changing is the value each generation may place on the past and on the artifacts that link it to the past
+0.0377426
+
+What one generation considers "cultural heritage" may be rejected by the next generation, only to be revived by a subsequent generation
+0.0414747
+These include objects significant to the archaeology, architecture, science or technology of a specified culture.<ref name="repository.jmls.edu"/>
+
+Aspects and disciplines of the preservation and conservation of tangible culture include:
+* [[Museology]]
+* [[Archival science]]
+* [[Conservation (cultural heritage)]]
+** [[Art conservation]]
+** [[Archaeological conservation]]
+** [[Architectural conservation]]
+** [[Film preservation]]
+** [[Phonograph record#Preservation|Phonograph record preservation]]
+* [[Digital preservation]]
+
+===Intangible culture===
+[[File:Anker Grossvater erzählt eine Geschichte 1884.jpg|thumb|''The Grandfather tells a story'', by [[Albert Anker]], ca
+0.0525611
+Its central idea was that social institutions, scientific knowledge and technological applications need to use a "heritage" as a "resource".<ref>{{Citation | url =https://docs.google.com/viewer?url=http%3A%2F%2Fvdavns.org%2Fdata%2Fproposing_varanasi.pdf   | title =  Proposing Varanasi for the World Heritage List of UNESCO| publisher =  Varanasi Development Authority}}.</ref> Using contemporary language, we could say that ancient Indians considered, as social resources, both economic assets (like natural resources and their exploitation structure) and factors promoting social integration (like institutions for the preservation of knowledge and for the maintenance of civil order).<ref>{{Citation | author = Singh, Rana P.B., Vrinda Dar and S
+0.106752
+Pravin  | title =Rationales for including Varanasi as heritage city in the UNESCO World Heritage List  | publisher = National Geographic Journal of India (varanasi) 2001, 47:177-200  }}.</ref> Ethics considered that what had been inherited should not be consumed, but should be handed over, possibly enriched, to successive generations
+0.117892
+
+Aspects of the preservation and conservation of natural heritage include:
+* [[Rare breed (agriculture)|Rare breeds conservation]]
+* [[Heirloom plant]]s
+
+==World heritage movement==
+[[File:Plaque Carthage Unesco.JPG|thumb|175px|Plaque stating the designation of [[Carthage]] as a World Heritage Site.]]
+Significant was the Convention Concerning the Protection of World Cultural and Natural Heritage that was adopted by the General Conference of [[UNESCO]] in 1972
+0.15097
+Not all legacies of past generations are "heritage", rather heritage is a product of selection by society.<ref name = "Logan">{{Cite book|url=https://www.worldcat.org/oclc/187048155|title=Cultural heritage and human rights|last=Logan|first=William S.|date=2007|publisher=Springer|others=|year=|isbn=9780387713137|editors=Silverman, Helaine., Ruggles, D
+0.286446
+This convention is a legal instrument helping states parties to improve the protection of their underwater cultural heritage.<ref>[This convention is a legal instrument helping states parties to improve the protection of their underwater cultural heritage]</ref>
+
+In addition, UNESCO has begun designating [[masterpieces of the Oral and Intangible Heritage of Humanity]]

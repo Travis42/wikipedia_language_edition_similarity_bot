@@ -1,0 +1,25 @@
+Gender history
+id edition's differences with the en version: 
+7.21911e-12
+Gail Bederman mengidentifikasi dua pendekatan: yang muncul dari sejarah perempuan dan yang mengabaikannya:
+:Dua jenis ‘sejarah laki-laki’ sedang ditulis pada saat ini
+0.0131602
+Those who study gender history record the change of this norm as well as the humans who do it from time to time, and interpret the aspect of the change regarding the broader social/cultural/political climate
+0.0131602
+Sex is determined as the biological composition of an individual, while gender is determined as the identity chosen by an individual
+0.0186113
+Chicago: Chicago University Press, 1995
+0.0279169
+| Date = 1993 | title = Brave NEW Worlds: Women's and Gender History | journal = The William and Mary Quarterly | volume = 50 | issue = 2 | pages = 311 – 328 | doi = 10.2307/2947077 | issn = 0043-5597 | jstor = 2947077}} </ref>
+
+Several sementera of historians hesitate to receive the title of "female historian", others have taken this title voluntarily
+0.0537262
+* [[Joan Wallach Scott| Scott, Joan Wallach]]
+0.0930565
+“ ‘Women’s History’ in Transition: The European Case.” ''Feminist Studies'' 3, no
+0.131602
+For example, in an influential article in 1977, "Did Women have a Renaissance?", [Joan Kelly]] questioned whether the [Renaissance] idea was relevant to women
+0.14889
+< ref name = "Kelly" > "Did Women have a Renaissance?" Becoming Visible: Women in European History ' '
+0.150433
+Some changes in historical studies have been quite obvious, such as the increasing number of books on leading women or merely the recognition of the greater number of women in the historical profession

@@ -1,0 +1,39 @@
+Coordinate time
+en edition's differences with the zh version: 
+2.27374e-13
+ Gravitational as well as motional time dilation must be considered for each object of interest, and the effects are functions of the velocity relative to the reference frame and of the [[gravitational potential]] as indicated in ({{EquationNote|2}})
+0.00895595
+This sum of the terms ''GM<sub>i</sub>/r<sub>i</sub>'' is evaluated approximately, as a sum of [[Newton's law of universal gravitation#Problems with Newton's theory|Newtonian gravitational potentials]] (plus any tidal potentials considered), and is represented using the positive astronomical sign convention for gravitational potentials
+0.0145103
+ Synchronization, along with the related concept of simultaneity, has to receive careful definition in the framework of [[General theory of relativity|general relativity theory]], because many of the assumptions inherent in classical mechanics and classical accounts of space and time had to be removed
+0.0153905
+ A derivation, starting from the [[Schwarzschild metric]], with further reference sources, is given in [[Time dilation#Time dilation due to gravitation and motion together|Time dilation due to gravitation and motion together]]
+0.0362757
+ Specific [[Einstein synchronisation|clock synchronization procedures]] were defined by [[Albert Einstein|Einstein]] and give rise to a limited concept of [[Relativity of simultaneity|simultaneity]].<ref name=klnr1992>S A Klioner (1992), [http://articles.adsabs.harvard.edu/full/1992CeMDA..53...81K "The problem of clock synchronization - A relativistic approach"], ''Celestial Mechanics and Dynamical Astronomy'', vol.53 (1992), pp
+0.0615619
+ To a much smaller extent than with TCB compared with TDB, but for a corresponding reason, the SI second of TCG when observed from the Earth's surface shows a slight acceleration on the SI seconds realized by Earth-surface-based clocks
+0.123124
+{{General relativity sidebar}}
+
+In the [[theory of relativity]], it is convenient to express results in terms of a [[spacetime]] [[coordinate system]] relative to an implied [[Observer (special relativity)|observer]]
+0.147773
+
+Also ''c'' is the [[speed of light]], and ''v'' is the [[speed]] of the clock (in the coordinates of the chosen [[Frame of reference|reference frame]]) defined by:  
+
+{{NumBlk|:|
+<math>v^2 = (dx^2 + dy^2 + dz^2)/(dt_c)^2 </math> 
+|{{EquationRef|3}}}}
+
+where ''dx, dy, dz'' and ''dt<sub>c</sub>'' are [[Differential (infinitesimal)|small increments]] in three orthogonal [[spacelike]] coordinates ''x, y, z'' and in the coordinate time ''t<sub>c</sub>'' of the clock's position in the chosen reference frame
+0.184686
+In many (but not all) coordinate systems, an [[Event (relativity)|event]] is specified by one [[time]] coordinate and three [[Three-dimensional space|spatial]] coordinates
+0.219181
+ [[Barycentric Coordinate Time]] (TCB) is based on a reference frame comoving with the [[Barycentric coordinates (astronomy)|barycenter]] of the [[Solar system]], and has been defined for use in calculating motion of bodies within the Solar system
+0.266571
+the rate of [[time dilation]], is given by 
+
+{{NumBlk|:|
+<math>\frac{d\tau}{dt} = \sqrt{-g_{00}}</math>
+|{{EquationRef|1}}}}
+
+where ''g''<sub>00</sub> is a component of the [[metric tensor]], which incorporates [[gravitational time dilation]] (under the convention that the zeroth component is [[timelike]])

@@ -1,0 +1,102 @@
+B-theory of time
+en edition's differences with the es version: 
+0.0209496
+However, an object such as a rotting fruit will have the property of being not rotten one day and being rotten on another
+0.0314244
+
+==Origin==
+The labels, [[A-series and B-series|A-theory and B-theory]], first coined by Richard Gale in 1966,<ref>{{Cite journal|last=Gale|first=Richard|date=April 1966|title=McTaggart's Analysis of Time|jstor=20009201|journal=American Philosophical Quarterly|volume=3|issue=2|pages=145–152}}</ref> are derived from the analysis of time and change developed by [[University of Cambridge|Cambridge]] philosopher [[J
+0.0314244
+*[[Paul Davies|Davies, Paul]] (1980) ''Other Worlds''
+0.0314244
+
+B-theory is often drawn upon in [[theoretical physics]],<ref>"Brian Greene on the B-theory of time" https://www.youtube.com/watch?v=H1WfFkp4puw</ref> and in theories such as [[Eternalism (philosophy of time)|eternalism]]
+0.0314244
+On eternalism, and hence the B-theory, it seems that one is committed to two conflicting states for the same object.<ref name="Temporal Parts" /> The spacetime (Minkowskian) interpretation of relativity adds an additional problem for endurantism under the B-theory
+0.0366618
+It seems bizarre to be thankful that a headache is earlier than one's utterance, anymore than being thankful that the headache is later than one's utterance
+0.0435778
+The endurantist can explain the experience as "There exists an x such that x hears 'Bob' and then x hears 'White'" but the perdurantist cannot give such an account.<ref>{{cite book|last1=Muniz|first1=Milton K
+0.0505731
+D.|publisher=Routledge|year=2016|isbn=978-1-138-67724-1|location=New York|pages=}}</ref>
+
+The debate between A-theorists and B-theorists is a continuation of a metaphysical dispute reaching back to the ancient Greek philosophers [[Heraclitus]] and [[Parmenides]].<ref name=":1">{{cite book|last1=Craig|first1=William Lane|title=The tenseless theory of time : a critical examination|date=2011|publisher=Springer|location=Dordrecht|isbn=978-9048155866|page=22}}</ref><ref>{{cite book|last1=Smart|first1=J.J.C.|title=Time and Cause Essays Presented to Richard Taylor.|date=2010|publisher=Springer Verlag|isbn=978-9048183586|page=7}}</ref> Parmenides thought that reality is timeless and unchanging.<ref>{{cite web|last1=Palmer|first1=John|title=Parmenides|url=http://plato.stanford.edu/archives/sum2012/entries/parmenides/|website=Stanford Encyclopedia of Philosophy|accessdate=29 December 2014}}</ref> Heraclitus, in contrast, believed that the world is a process of ceaseless change or flux.<ref>{{cite web|last1=Graham|first1=Daniel W.|title=Heraclitus|url=http://plato.stanford.edu/entries/heraclitus/|website=Stanford Encyclopedia of Philosophy|accessdate=29 December 2014}}</ref> Reality for Heraclitus is dynamic and ephemeral
+0.052374
+This is demonstrated in the [[Rietdijk–Putnam argument]] and additionally in an advanced form of this argument called the [[Andromeda paradox]], created by mathematical physicist [[Roger Penrose]].<ref>[[Roger Penrose|Penrose, R.]] (1989)
+0.052374
+publ., repr.}}</ref> (See also: [[Further facts]].)
+
+===Endurantism and perdurantism===
+Opponents also charge the B-theory with being unable to explain persistence of objects
+0.052374
+Hence, it will not exist as a whole at any point in time, contradicting the thesis of endurantism.<ref>{{cite journal|last1=Hales|first1=Steven D.|last2=Johnson|first2=Timothy A.|title=Endurantism, Perdurantism, and Special Relativity|journal=The Philosophical Quarterly|volume=53|issue=213|page=535}}</ref>
+
+Opponents will then charge perdurantism with having numerous difficulties of its own
+0.052374
+Indeed, the world is so fleeting, according to Heraclitus, that it is impossible to step twice into the same river.<ref>This sentence has been translated by [[Seneca the Younger|Seneca]] in Epistulae, [http://www.thelatinlibrary.com/sen/seneca.ep6.shtml VI, 58, 23].</ref> The metaphysical issues that continue to divide A-theorists and B-theorists concern the reality of the past, the reality of the future, and the ontological status of the present
+0.0628488
+paperback issue]}}</ref> Quentin Smith claims that current proponents of the B-theory argue that the inability to translate tensed sentences into tenseless sentences does not prove the A-theory of time.<ref>{{cite book|last1=Smith|first1=Quentin|title=Language and time|date=1993|publisher=Oxford University Press|location=Oxford|isbn=0195082273|page=3|edition=[1
+0.0628488
+Cambridge: Cambridge University Press
+0.0733236
+One can think the statement "I am not uttering anything now," and such a statement would be true
+0.074068
+Prior asks the reader to imagine having a headache, and after the headache subsides, saying "thank goodness that's over." Prior argues that the B-theory cannot make sense of this sentence
+0.0786191
+Philosophers are divided as to whether the tensed or tenseless mode of expressing temporal fact is fundamental.<ref name="Stanford" /> Some philosophers have criticised hybrid theories, where one holds a tenseless view of time, but asserts that the present has special properties, as falling foul of McTaggart's paradox.<ref>{{cite journal|last1=Callender|first1=Craig|title=Shedding Light on Time|journal=Philosophy of Science|date=September 1, 2000|volume=67| doi = 10.1086/392848|pages=S587–S599}}<!--|accessdate=29 December 2014--></ref> For a thorough discussion of McTaggart's paradox, see R
+0.0817034
+A piece of chalk can be broken into two physical halves, but it seems nonsensical to talk about breaking it into two temporal halves.<ref>{{cite journal|last1=Thomson|first1=Judith Jarvis|title=Parthood and Identity Across Time|journal=Journal of Philosophy|page=80}}</ref> Chisholm argued that someone who hears the bird call "Bob White" knows "that his experience of hearing 'Bob' and his experience of hearing 'White' were not also had by two other things, each distinct from himself and from each other
+0.0907144
+New York and Oxford: Oxford University Press.</ref>
+
+It is therefore common (though not universal), for B-theorists to be [[four dimensionalism|four-dimensionalists]], that is, to believe that objects are extended in time as well as in space and therefore have temporal as well as spatial parts
+0.0962884
+The A-theory (and especially presentism) denies that all times exist in parity, while the B-theory insists all times exist in parity.<ref>{{Cite journal|last=Carter|first=William R.|last2=Hestevold|first2=H
+0.0962884
+An object is defined as a collection of spatio-temporal parts, which are defined as pieces of a perduring object
+0.102129
+This is sometimes called a time-slice [[ontology]].<ref>{{cite journal|last1=Clark|first1=Michael|title=Time-slices of particular continuants as basic individuals: An impossible ontology|journal=Philosophical Studies|date=May 1978|volume=33|issue=4|pages=403–408|doi=10.1007/bf00354208}}<!--|accessdate=28 December 2014--></ref>
+
+==Opposition==
+In 'Presentism and the Space-Time Manifold', [[Dean Zimmerman]] notes that A-theory is 'almost certainly a minority view among philosophers', while B-theory has 'achieved broad acceptance'; despite this there are still a number of philosophers who maintain opposition for B-theory.<ref name=":0" /><ref name=":1" />
+
+===Irreducibility of tense===
+Earlier B-theorists argued that one could paraphrase tensed sentences (such as "the sun is now shining") into tenseless sentences (such as "on September 28, the sun shines") without loss of meaning.<ref>{{cite journal|last1=Williams|first1=Clifford|title='Now', Extensional Interchangeability, and the Passage of Time|journal=Philosophical Forum|volume=5|page=405}}</ref><ref>{{cite journal|last1=Fisk|first1=Milton|title=A Pragmatic Account of Tenses|journal=American Philosophical Quarterly|volume=8}}</ref> Later B-theorists argued that tenseless sentences could give the truth conditions of tensed sentences or their tokens.<ref>{{cite book|last1=Smart|first1=J.J.C.|title=Time and Cause Essays Presented to Richard Taylor.|date=2010|publisher=Springer Verlag|isbn=978-9048183586|page=11}}</ref><ref>{{cite journal|last1=Beer|first1=Michelle|title=Temporal Indexicals and the Passage of Time|journal=Philosophical Quarterly|volume=38|issue=151|pages=158–164|doi=10.2307/2219921|jstor=2219921|year=1988}}</ref> [[Quentin Smith]] states that "now" cannot be reduced to descriptions of dates and times, because all date and time descriptions, and therefore truth conditionals, are relative to certain events
+0.10281
+B-theorists argue that this notion is purely psychological.<ref>{{cite journal|last1=Harrington|first1=James|title=What "Becomes" in Temporal Becoming?|journal=American Philosophical Quarterly|volume=46|issue=3|page=249}}</ref> Many A-theorists argue that in rejecting temporal 'becoming', B-theorists reject time's most vital and distinctive characteristic.<ref>{{cite journal|last1=McTaggart|first1=J
+0.103695
+Ellis|title=The Unreality of Time|journal=Mind|date=1908|issue=68|page=458}}</ref> It is common (though not universal) to identify A-theorists' views with belief in temporal passage.<ref name="Stanford" /> Another way to characterise the distinction revolves around what is known as the ''principle of temporal parity'', the thesis that contrary to what appears to be the case, all times really exist in parity
+0.125698
+The perdurantist supposedly has a difficult time explaining what it means for such a disk to have a determinate state of rotation.<ref>{{cite journal|last1=Teller|first1=Paul|title=The Rotating Disc Argument and Humean Supervenience|journal=Analysis|date=2002|volume=62|issue=3|pages=206–207|doi=10.1093/analys/62.3.205}}</ref> Temporal parts also seem to act unlike physical parts
+0.139449
+On an [[inertial frame]], however, that same object will have proper parts at different positions, and therefore will have different parts at different times
+0.148136
+
+In [[Special Relativity|special relativity]], the [[relativity of simultaneity]] shows that there is no unique present, and that each point in the universe can have a different set of events that are in its present moment
+0.160234
+
+B-theorists maintain that the fact that we know much less about the future simply reflects an [[epistemological]] difference between the future and the past: the future is no less real than the past; we just know less about it.<ref>{{cite book|last1=Mellor|first1=D
+0.241905
+Smart]]<ref>{{cite web|url=https://docs.google.com/viewer?a=v&q=cache:5sRVGv3QVqEJ:faculty.fullerton.edu/jeelooliu/420_(08)_folder/420_Smart_Tenseless_Theory_of_Time.pdf+jjc+Smart,+time&hl=en&gl=uk&pid=bl&srcid=ADGEESj0Xc_Ysa9-LvI6kx2yVfkGcPkoXK9FEOKyrE4BgwzkDZUX__yFJy2jR-It_lvMGyTka4CsBri4Be0eaCaEtdcpl8zXHBsJ6Kl98DrGrftfuOKqqxJTlXNN7-0ok6WIwbHzSwPj&sig=AHIEtbQQz0Y0XiRU3vXT65BXOgavfEy_Ww |title=Google Drive Viewer |date= |accessdate=2014-03-03}}</ref> wish to eliminate all talk of past, present and future in favour of a tenseless ordering of events, believing the past, present, and future to be equally real, opposing the idea that they are irreducible foundations of temporality
+0.265419
+{{refend}}
+
+==External links==
+* Markosian, Ned, 2002, "[http://plato.stanford.edu/entries/time/ Time]", Stanford Encyclopedia of Philosophy
+*[http://plato.stanford.edu/entries/prior/ Arthur Prior], Stanford Encyclopedia of Philosophy
+
+{{Time Topics}}
+{{Time in philosophy}}
+
+[[Category:Philosophy of time]]
+[[Category:Concepts]]
+[[Category:Concepts in metaphysics]]
+[[Category:Concepts in the philosophy of science]]
+[[Category:Metaphysical theories]]
+[[Category:Metaphysics]]
+[[Category:Ontology]]
+[[Category:Philosophical concepts]]
+[[Category:Philosophical problems]]
+[[Category:Philosophical theories]]
+[[Category:Philosophy of science]]
+[[Category:Time]]

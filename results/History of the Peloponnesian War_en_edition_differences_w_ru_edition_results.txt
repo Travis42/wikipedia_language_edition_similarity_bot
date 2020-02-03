@@ -1,0 +1,91 @@
+History of the Peloponnesian War
+en edition's differences with the ru version: 
+-2.91038e-11
+ The legitimacy of the empire is explored in several passages, notably in the speech at 1.73–78, where an anonymous Athenian legation defends the empire on the grounds that it was freely given to the Athenians and not taken by force
+-2.72848e-12
+[[Ernst Badian]], for example has argued that Thucydides has a strong pro-Athenian bias.<ref>Ernst Badian, "Thucydides and the Outbreak of the Peloponnesian War
+1.3415e-11
+Thucydides references Homer frequently as a source of information, but always adds a distancing clause, such as "Homer shows this, if that is sufficient evidence," and "assuming we should trust Homer's poetry in this case too."<ref>Barbara Graziosi, ''Inventing Homer: The Early Reception of Epic'', p
+2.7967e-11
+Is this a quote?'': Thucydides defines himself simultaneously against Homer and against Herodotus, though he explicitly mentions only Homer
+4.64979e-11
+
+=== Speeches ===
+Thucydides also makes extensive use of speeches in order to elaborate on the event in question
+4.64979e-11
+While the inclusion of long first-person speeches is somewhat alien to modern [[historical method]], in the context of [[Ancient Greece|ancient Greek]] [[Oral tradition|oral culture]] speeches are expected
+4.64979e-11
+
+These speeches are suspect in the eyes of Classicists, however, inasmuch as it is not clear to what degree Thucydides altered these speeches in order to elucidate better the crux of the argument presented
+6.91216e-11
+ For example, the narrative after Thucydides' exile (4.108''ff.'') seems to focus on Peloponnesian events more than the first four books, leading to the conclusion that he had greater access to Peloponnesian sources at that time
+7.36691e-11
+
+=== Military technology ===
+[[File:Trireme.jpg|thumb|250px|Illustration of a Greek [[trireme]]]]
+The ''History'' emphasizes the development of military technologies
+1.35515e-10
+ For example, [[Xenophon]] wrote his ''[[Hellenica (Xenophon)|Hellenica]]'' as a continuation of Thucydides' work, beginning at the exact moment that Thucydides' ''History'' leaves off
+0.0120305
+
+Despite the absence of actions of the gods, religion and piety play critical roles in the actions of the Spartans, and to a lesser degree, the Athenians.<ref>{{cite journal|jstor=283914|title=Religion in Thucydides|first=Borimir|last=Jordan|date=1 January 1986|publisher=|journal=Transactions of the American Philological Association|volume=116|pages=119–47|doi=10.2307/283914}}</ref> Thus natural occurrences such as earthquake and eclipses were viewed as religiously significant (1.23.3; 7.50.4)<ref>Leo Strauss "Preliminary Observations on the gods in Thustaams Work" "Interpretation: A Journal of Political Philosophy" 1974 4:1 1–16</ref>
+
+=== Rationalization of myth ===
+Despite the absence of the gods from Thucydides' work, he still draws heavily from the [[Greek mythology|Greek mythos]], especially from [[Homer]], whose works are prominent in Greek mythology
+0.0144867
+
+Thucydides makes sure to inform his reader that he, unlike Homer, is not a poet prone to exaggeration, but instead a historian, whose stories may not give "momentary pleasure," but "whose intended meaning will be challenged by the truth of the facts."<ref>Thucydides, ''History of the Peloponnesian War''.{{page needed|date=July 2017}}</ref> By distancing himself from the storytelling practices of Homer, Thucydides makes it clear that while he does consider mythology and epics to be evidence, these works cannot be given much credibility, and that it takes an impartial and empirically minded historian, such as himself, to accurately portray the events of the past
+0.0187022
+Some of the speeches are probably fabricated according to his expectations of, as he puts it, "what was called for in each situation" (1.22.1).<ref>Donald Kagan, "The Speeches in Thucydides and the Mytilene Debate", ''Yale Classical Studies'' (1975) 24:71–94.</ref>
+
+=== Neutrality ===
+Despite being an Athenian and a participant in the conflict, Thucydides is often regarded as having written a generally [[Bias|unbiased]] account of the conflict with respect to the sides involved in it
+0.0187022
+For instance, while Thucydides considered the number of over 1,000 Greek ships sent to [[Troy]] to be a poetic exaggeration, he uses Homer's [[Catalog of Ships]] to determine the approximate number of Greek soldiers who were present
+0.0323932
+4.46–4.48
+** Athenians capture [[Cythera (island)|Cythera]], an island off the [[Peloponnese]], and [[Thyrea, Greece|Thyrea]], a town in the [[Peloponnese]]
+0.0453505
+ The subsequent expansion of the empire is defended by these Athenians, "...the nature of the case first compelled us to advance our empire to its present height; fear being our principal motive, though honor and interest came afterward." (1.75.3)
+
+The Athenians also argue that, "We have done nothing extraordinary, nothing contrary to human nature in accepting an empire when it was offered to us and then in refusing to give it up." (1.76) They claim that anyone in their position would act in the same fashion
+0.0647864
+Dover, "Thucydides 'as History' and 'as Literature,' ''History and Theory'' (1983) 22:54–63.</ref> On the one hand, some scholars view the work as an objective and scientific piece of history
+0.0647864
+
+== Subject matter of the ''History'' ==
+The first book of the History, after a brief review of early Greek history and some programmatic historiographical commentary, seeks to explain why the Peloponnesian War broke out when it did and what its causes were
+0.103074
+Thucydides traces the development of Athenian power through the growth of the [[Athenian empire]] in the years 479 BC to 432 BC in book one of the ''History'' (1.89–118)
+0.165306
+16]], fragment of a 1st-century manuscript]]
+Thucydides is considered to be one of the great "fathers" of Western history, thus making his methodology the subject of much analysis in area of [[historiography]].{{Citation needed|date=December 2013}}
+
+=== Chronology ===
+Thucydides is one of the first western historians to employ a strict standard of chronology, recording events by year, with each year consisting of the summer campaign season and a less active winter season
+0.174943
+Popper]] writes that Thucydides was the "greatest historian, perhaps, who ever lived." Thucydides' work, however, Popper goes on to say, represents "an interpretation, a point of view; and in this we need not agree with him." In the war between Athenian democracy and the "arrested oligarchic tribalism of Sparta," we must never forget Thucydides' "involuntary bias," and that "his heart was not with Athens, his native city:"<blockquote>"Although he apparently did not belong to the extreme wing of the Athenian oligarchic clubs who conspired throughout the war with the enemy, he was certainly a member of the oligarchic party, and a friend neither of the Athenian people, the demos, who had exiled him, nor of its imperialist policy."</blockquote>
+
+== Influence ==
+Thucydides' ''History'' has been enormously influential in both ancient and modern [[historiography]]
+0.194359
+{{italic title}}
+[[File:Thucydides Manuscript.jpg|thumb|250px|10th-century minuscule manuscript of [[Thucydides]]'s ''History''.]]
+The '''''History of the Peloponnesian War''''' ({{lang-el|Ἱστορίαι}}, "Histories") is a historical account of the [[Peloponnesian War]] (431–404 BC), which was fought between the [[Peloponnesian League]] (led by [[Sparta]]) and the [[Delian League]] (led by [[Classical Athens|Athens]])
+0.233981
+* Thucydides, [https://books.google.com/books?hl=pl&id=TDMZAAAAYAAJ&q=VERSIONE_LATINA#v ''Thucydidis, olori fil, De bello peloponnesiacoa libri VIII''], Versione Latina, (London 1819)
+
+== External links ==
+{{wikisourcelang|el|Ιστορία του Πελοποννησιακού Πολέμου}}
+* {{wikiquote-inline|Thucydides|The Peloponnesian War}}
+* {{wikisource-inline|History of the Peloponnesian War|''History of the Peloponnesian War''}}
+* {{librivox book | title=The History of the Peloponnesian War | author=THUCYDIDES (ΘΟΥΚΥΔΊΔΗΣ)}}
+{{Authority control}}
+
+[[Category:History books about ancient Greece]]
+[[Category:Books about military history]]
+[[Category:5th-century BC history books]]
+[[Category:Unfinished books]]
+[[Category:Ancient Greek works]]
+[[Category:Peloponnesian War]]
+[[Category:Ancient Greek military books]]

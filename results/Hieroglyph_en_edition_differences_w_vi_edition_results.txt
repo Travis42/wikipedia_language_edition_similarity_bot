@@ -1,0 +1,38 @@
+Hieroglyph
+en edition's differences with the vi version: 
+0.0740797
+
+==List of scripts and script-like systems sometimes labeled 'hieroglyphic'==
+* [[Anatolian hieroglyphs]]
+* [[Aztec hieroglyphs]]
+* [[Chukchi language#Orthography|Chukchi hieroglyphs]] (see [[Tenevil]])
+* [[Cretan hieroglyphs]]
+* [[Egyptian hieroglyphs]]
+* [[Mayan hieroglyphs]]
+* [[Mi'kmaq hieroglyphs]]
+* [[Muisca art#Hieroglyphs|Muisca hieroglyphs]]
+* [[Ojibwe writing systems#Ojibwe "hieroglyphs"|Ojibwe hieroglyphs]]
+* [[Olmec hieroglyphs]]
+* [[Chinese characters]]
+
+One of the two forms of the [[Meroitic alphabet|Meroitic writing system]] is usually described as "Meroitic hieroglyphs" because the characters are similar to and in most cases derived from Egyptian hieroglyphs
+0.234261
+{{short description|Pictographic sign}}
+{{other uses}}
+[[File:Egypt Hieroglyphe4.jpg|right|260px|thumb|Egyptian hieroglyphs typical of the Graeco-Roman period, sculpted in [[Relief]].<br>Glyphs: [[Viper (hieroglyph)|viper]], [[Owl (hieroglyph)|Owl
+]], [[Bread bun (hieroglyph)|'bread bun']], [[Folded cloth (s hieroglyph)|folded cloth]] ]]
+A '''hieroglyph''' ([[Ancient Greek|Greek]] for "sacred writing") was a [[Character (symbol)|character]] of the [[Egyptian hieroglyphs|ancient Egyptian writing system]]
+0.291349
+
+==See also==
+* [[List of languages by writing system]]
+* [[Monas Hieroglyphica]]
+* [[Mother Goose in Hieroglyphics]]
+
+==References==
+<references/>
+
+==Further reading==
+*{{cite book |title= [[Middle Egyptian: An Introduction to the Language and Culture of Hieroglyphs]]|last=Allen|first=James P.|authorlink=James Peter Allen|year=2001 |publisher= Cambridge University Press|location=New York|isbn= 9780521774833|oclc=51226851}}
+*{{cite book |title=Egypt and the Egyptians|last1= Brewer|first1=Douglas J.|last2=Teeter|first2=Emily|year= 2007|publisher= Cambridge University Press|location= Cambridge|isbn=9780521851503 |oclc=433993212}}
+*{{cite book |title= [[Ancient Egyptian Hieroglyphs: A Practical Guide]]|last=Kamrin|first=Janice|year=2004|publisher= Harry N

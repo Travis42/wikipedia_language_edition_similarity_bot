@@ -1,0 +1,54 @@
+JSTOR
+ko edition's differences with the en version: 
+0.00680833
+{Information on the website
+| Name = JSTOR
+| Favicon = 
+| Logo = 
+| Logo size = 
+| Logo description = 
+| Figure = 
+| Figure size = 
+| collapsible = 
+| collapsetext = 
+| Description = 
+| url = {URL|http://www.jstor.org}}
+| Slogan = 
+| Clever = No
+| Type = [Electronic Library]]
+| Registration = 
+| Language = [[English]]
+| Number of users = 
+| Content licensing = 
+| Programming language = 
+| Owner = Ithaka Harbors<ref name="About Ithaka"}{Web Citation=Language=en|url=http://www.ithaka.org/about-ithaka_title=Aboutpublisher=Ithaka _date access=2009-10-25}</ref>
+| Creator = Andrew W
+0.0107649
+== Footnote ==
+{}}
+
+== External link ==
+* {{languagelink_en}} {official website,http://www.jstor.org/}}
+
+{[Stubl's Website]}
+
+[Classification: Education Publisher]]
+[Classification: Academic Publication]]
+[Classification: Electronic Library]]
+[Classification: Surge Database]]
+[Classification: Founded in 1995]]
+[Classification: Online Database]]
+0.042552
+Mellon Foundation
+| Editor = 
+| Start date = 1995
+| Revenue = 
+| Alexa = ={decrease}2,658 ({as of 2014|4|April 2014})<ref name="alexa"},{web quote=en|url= http://www.alexa.com/siteinfo/jstor.org=Jstor.org Site Info | publisher= [Alexa],2015-01-17}</ref>
+| ip = 
+| Current state = 
+| Footnote = 
+}}
+"JSTOR" (JSTORE) was founded in 1995
+0.195739
+=== Response to demand for expanding access
+American jurist Lawrence Lesig asked how much he could convert JSTOR to [Open Access]

@@ -1,0 +1,61 @@
+Knowledge
+en edition's differences with the ja version: 
+1.3074e-12
+His famous aphorism, "[[Scientia potentia est|knowledge is power]]", is found in the Meditations Sacrae (1597).<ref>{{cite web
+| title       = Sir Francis Bacon – Quotationspage.com
+| url         = http://www.quotationspage.com/quote/2060.html
+| accessdate  = 2009-07-08}}</ref>
+
+Until recent times, at least in the Western tradition, it was simply taken for granted that knowledge was something possessed only by humans – and probably ''adult'' humans at that
+3.63798e-12
+(It is compared and contrasted with [[Bhakti#Bhakti Yoga|Bhakti Yoga]] and [[Karma yoga]].)
+
+In [[Islam]], knowledge (Arabic: علم, ''ʿilm'') is given great significance
+0.00710237
+Fundamentally, both argue the [[Contingency (philosophy)|contingency]] of knowledge on the presence of [[history]]; [[Power (social and political)|power]], and [[geography]], as well as the rejection of universal rules or laws or elementary structures; and the idea of [[Power (social and political)|power]] as an inherited trait of [[objectification]].<ref>"The Subject and Power"
+0.0146419
+* The knowledge must constitute some sort of representation of "the outside world",<ref>This "outside world" could include other subsystems within the same organism – e.&nbsp;g
+0.0159803
+In this story, Theuth presents his new invention "writing" to King Thamus, telling Thamus that his new invention "will improve both the [[wisdom]] and memory of the Egyptians" (Postman, Neil (1992) Technopoly, Vintage, New York, p.&nbsp;74)
+0.0160394
+1988.</ref> This situation partially transforms science into a [[narrative]], which [[Arturo Escobar (anthropologist)|Arturo Escobar]] explains as, "neither fictions nor supposed facts." This narrative of situation is historical textures woven of fact and fiction, and as Escobar explains further, "even the most neutral scientific domains are narratives in this sense," insisting that rather than a purpose dismissing science as a trivial matter of contingency, "it is to treat (this narrative) in the most serious way, without succumbing to its mystification as 'the truth' or to the ironic [[skepticism]] common to many critiques."<ref>"Introduction: Development and the Anthropology of Modernity"
+0.016907
+For example, on this account, to ''know'' that the kettle is boiling is not to be in a particular state of mind, but to perform a particular task with the statement that the kettle is boiling
+0.0207068
+"The Knowing" (''al-ʿAlīm'') is one of the [[Names of God in the Qur'an|99 names]] reflecting distinct attributes of [[God in Islam|God]]
+0.0219629
+
+While many would agree that one of the most universal and significant tools for the transfer of knowledge is writing and reading (of many kinds), argument over the usefulness of the written word exists nonetheless, with some scholars skeptical of its impact on societies
+0.0219629
+different "mental levels" corresponding to different Piagetian stages
+0.0219629
+According to Haraway, [[Visual perception|vision]] in [[science]] has been, "used to signify a leap out of the marked body and into a conquering gaze from nowhere." This is the "gaze that mythically inscribes all the marked bodies, that makes the unmarked category claim the power to see and not be seen, to represent while escaping representation."<ref name="Haraway1988" /> This causes a limitation of views in the position of [[science]] itself as a potential player in the creation of knowledge, resulting in a position of "modest witness"
+0.0253605
+It was used by [[Donna Haraway]] as an extension of the [[Feminism|feminist]] approaches of "successor science" suggested by [[Sandra Harding]], one which "offers a more adequate, richer, better account of a world, in order to live in it well and in critical, reflexive relation to our own as well as others' practices of domination and the unequal parts of privilege and oppression that makes up all positions."<ref name="Haraway1988">"[https://philpapers.org/archive/HARSKT.pdf Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective]"
+0.0292838
+Each of these definitions is shown to be unsatisfactory.</ref> specifies that a [[statement (logic)|statement]] must meet three [[wikt:criterion|criteria]] in order to be considered knowledge: it must be [[theory of justification|justified]], [[truth|true]], and [[belief|believed]]
+0.0329443
+|last1=Kirkham |journal=Mind |series=New Series |volume=93 |number=372 |date=October 1984 |pages=501–513 |jstor=2254258 }} [[jstor]] {{subscription}}{{Dead link|date=November 2016}}<!-- the pdf link is the dead one --></ref>
+
+In contrast to this approach, [[Ludwig Wittgenstein]] observed, following [[Moore's paradox]], that one can say "He believes it, but it isn't so," but not "He knows it, but it isn't so."<ref>Ludwig Wittgenstein, ''[[On Certainty]]'', remark 42</ref> He goes on to argue that these do not correspond to distinct mental states, but rather to distinct ways of talking about conviction
+0.0366048
+[[Thomas Jefferson Building]], Washington, D.C.]]
+{{Main|Epistemology}}
+{{quote
+|The eventual demarcation of philosophy from science was made possible by the notion that philosophy's core was "theory of knowledge," a theory distinct from the sciences because it was their ''foundation''..
+0.04704
+{{Redirect|Know|the Jason Mraz album|Know (album)|other uses|Knowledge (disambiguation)}}
+{{pp-semi-indef}}
+{{pp-move-indef}}
+{{short description|Familiarity, awareness, or understanding of information or skills acquired through experience or education}}
+'''Knowledge''' is a familiarity, awareness, or understanding of someone or something, such as [[fact]]s, [[information]], [[description]]s, or [[skills]], which is acquired through [[experience]] or [[education]] by [[perception|perceiving]], [[Discovery (observation)|discovering]], or [[learning]]
+0.0512466
+For biologists, knowledge must be usefully ''available'' to the system, though that system need not be conscious
+0.0543553
+Most real problems have to be solved by taking advantage of a partial understanding of the problem context and problem data, unlike the typical math problems one might solve at school, where all data is given and one is given a complete understanding of formulas necessary to solve them.{{Citation needed|date=September 2007}}
+
+This idea is also present in the concept of [[bounded rationality]] which assumes that in real life situations people often have a limited amount of information and make decisions accordingly
+0.0751273
+"The rationality of scientific revolutions"; in Rom Harré (ed.), ''Problems of Scientific Revolution: Scientific Progress and Obstacles to Progress in the Sciences''
+0.0805304
+Science is "the process used everyday to logically complete thoughts through inference of facts determined by calculated experiments." [[Sir Francis Bacon]] was critical in the historical development of the scientific method; his works established and popularized an inductive methodology for scientific inquiry

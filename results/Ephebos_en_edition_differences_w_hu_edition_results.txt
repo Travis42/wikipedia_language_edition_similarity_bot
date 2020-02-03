@@ -1,0 +1,34 @@
+Ephebos
+en edition's differences with the hu version: 
+-9.31323e-10
+
+===Rome===
+In Rome, where the elite (mainly [[Patrician (ancient Rome)|patricians]]) were often sent to Greece or received Greek teachers, the Greek word was adopted in the [[Latin]]ate form ''ephebus'' (plural ''ephebi''), and fixed at the 16 to 20 age bracket.{{Citation needed|date=November 2019}} Several new officials were introduced, one of special importance being the director of the [[Diogeneion]], where youths under age were trained for the ephebia
+0.0546104
+
+==History==
+===Greece===
+[[Image:Kouros' Head, Acropolis' museum, Athens.jpg|thumb|left|225px|[[Blond Kouros's Head of the Acropolis]] museum in [[Athens]].]]
+Though the word can simply refer to the adolescent age of young men of training age, its main use is for the members, exclusively from that age group, of an official institution (''ephebeia'') that saw to building them into citizens, but especially training them as soldiers, sometimes already sent into the field; the [[Ancient Greece|Greek]] [[city state]] (''[[polis]]'') mainly depended, as the [[Roman republic]] before [[Gaius Marius]]' reform, on its militia of citizens for defense
+0.0569495
+|title=Initiation in Acient Greek Rituals and Narratives: New Critical Perspectives |date=2013 |publisher=Routledge |location=London, UK |isbn=978-1-13-514365-7 |url=https://books.google.com/books?id=XT-0AAAAQBAJ&q=ephebes}}
+* {{cite book |last=Farenga |first=Vincent |title=Citizen and Self in Ancient Greece: Individuals Performing Justice and the Law |date=2006 |publisher=Cambridge University Press |isbn=978-1-13-945678-4 |url=https://books.google.com/books?id=qQfpIXaO2NoC&q=ephebes}}
+* {{cite book |last=Sage |first=Michael |title=Warfare in Ancient Greece: A Sourcebook |date=2002 |publisher=Routledge |location=London, UK |isbn=978-1-13-476331-3 |url=https://books.google.com/books?id=yeuEAgAAQBAJ&q=ephebes}}
+
+==External links==
+* {{Commons category-inline|Ephebes}}
+* {{wiktionary-inline}}
+
+[[Category:Ancient Greek society]]
+[[Category:Ancient Greek sculptures]]
+[[Category:Ancient Roman society]]
+[[Category:Human development]]
+[[Category:Social classes in ancient Greece]]
+0.0713263
+At this period the college of ephebi was a miniature city; its members called themselves "citizens", and it possessed an [[archon]] (ruler), [[strategos]], [[herald]] and other officials, after the model of ancient Athens.<ref name="EB1911"/>
+
+==Sculpture==
+In [[Ancient Greek sculpture]], an '''ephebe''' is a sculptural type depicting a nude ''ephebos'' ([[Archaic Greece|Archaic]] examples of the type are also often known as the [[kouros]] type, or kouroi in the plural)
+0.0865125
+B.C.) - Museo Archeologico Regionale - Agrigento - Italy 2015.JPG|thumb|225px|The ''Agrigento Ephebe'', a [[severe style]] Greek sculpture of the 5th century BCE in the museum of [[Agrigento]], Sicily.]]
+'''''Ephebos''''' (ἔφηβος) (often in the plural '''''epheboi'''''), also anglicised as '''''ephebe''''' (plural: '''''ephebes''''') or archaically '''''ephebus''''' (plural: '''''ephebi'''''), is a [[Greek language|Greek]] term for a male [[adolescent]], or for a social status reserved for that age, in [[Classical antiquity|Antiquity]]

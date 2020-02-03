@@ -1,0 +1,197 @@
+Dendrochronology
+en edition's differences with the es version: 
+-4.14389e-11
+To eliminate individual variations in tree-ring growth, dendrochronologists take the smoothed average of the tree-ring widths of multiple tree-samples to build up a '''ring history''', a process termed replication
+-3.82734e-11
+* "The droughts of western Texas", ''The Texas Almanac for 1861'', pp
+-2.55849e-11
+|last2=Mayer |first3=Richard |last3=Newman |first4=Peter Ian |last4=Kuniholm |first5=Dusan |last5=Stulik |title=The Science of Paintings |url=https://books.google.com/books?id=L8J4Mhb1kjUC&pg=PR6 |year=2000 |publisher=Springer |isbn=978-0-387-98722-4 |chapter=Dendrochronology (Tree-Ring Dating) of Panel Paintings |chapterurl=http://www.arts.cornell.edu/dendro/painttex.html |pages=206–215 |url-status=live |archiveurl=https://web.archive.org/web/20170422142755/https://books.google.com/books?id=L8J4Mhb1kjUC&pg=PR6 |archivedate=2017-04-22 }}</ref> As a result of establishing numerous sequences, it was possible to date 85–90% of the 250 paintings from the fourteenth to seventeenth century analysed between 1971 and 1982;<ref>Fletcher, John, ''Panel Examination and Dendrochronology'' The J
+3.93285e-12
+An additional sample from another beam yielded a date of 1641, thus confirming the house had been constructed starting in 1638 and finished sometime after 1641 .<ref>{{cite web|title=A Grand House in 17th-Century New England|url=http://www.fairbankshouse.org/the_house.html|publisher=Fairbanks House Historical Site|accessdate=May 27, 2012|url-status=live|archiveurl=https://web.archive.org/web/20120316053504/http://www.fairbankshouse.org/the_house.html|archivedate=March 16, 2012}}</ref>
+* The burial chamber of [[Gorm the Old]], who died c
+7.4003e-12
+Southwest.<ref>{{Cite journal|last=Towner|first=Ronald H.|date=2002-04-05|title=Archeological dendrochronology in the southwestern united states|journal=Evolutionary Anthropology: Issues, News, and Reviews|volume=11|issue=2|pages=68–84|doi=10.1002/evan.10009|issn=1060-1538}}</ref>
+* The [[Fairbanks House (Dedham, Massachusetts)|Fairbanks House]] in Dedham, Massachusetts
+2.79526e-10
+It is also used as a check in radiocarbon dating to [[Calibration of radiocarbon dates|calibrate radiocarbon ages]].<ref name=Grissino>{{citation|title=The Science of Tree Rings: Principles of Dendrochronology|first=Henri D.|last=Grissino-Mayer|publisher=Department of Geography, The University of Tennessee|date=n.d.|url=http://web.utk.edu/~grissino/principles.htm|accessdate=October 23, 2016|url-status=live|archiveurl=https://web.archive.org/web/20161104042215/http://web.utk.edu/~grissino/principles.htm|archivedate=November 4, 2016}}</ref>
+
+New growth in [[tree]]s occurs in a layer of cells near the bark
+0.0152204
+(1914) [http://babel.hathitrust.org/cgi/pt?id=uiug.30112111806425;view=1up;seq=88 "Tree-growth and meteorological factors"], ''Recueil des Travaux Botaniques Néerlandais'', '''11''' : 70–93.</ref> In 1881, the Swiss-Austrian forester Arthur [[House of Seckendorff|von Seckendorff]]-Gudent (1845–1886) was using crossdating.<ref>See:
+*  Seckendorff, Arthur von (1881) "Beiträge zur Kenntnis der Schwarzföhre ''Pinus austriaca'' Höss" [Contributions to our knowledge of the black pine ''Pinus austriaca'' Höss], ''Mitteilung aus dem forstlichen Versuchswesen Oesterreichs'' [Report from the Austrian Department of Forestry Research] (Vienna, Austria: Carl Gerold Verlag, 1881), 66 pages
+0.0153924
+121–134.</ref> They found that in [[Great Frost of 1709|1709, a severe winter]] produced a distinctly dark tree ring, which served as a reference for subsequent European naturalists.<ref>du Hamel & de Buffon (4 May 1737) [http://gallica.bnf.fr/ark:/12148/bpt6k3534v/f425.image.r=l%27aubier.langEN "Observations des différents effets que produisent sur les végétaux les grandes gelées d'hiver et les petites gelées du printemps"] {{webarchive|url=https://web.archive.org/web/20150509235420/http://gallica.bnf.fr/ark:/12148/bpt6k3534v/f425.image.r=l'aubier.langEN |date=2015-05-09 }}
+(Observations on the different effects that the severe frosts of winter and the minor frosts of spring produce on plants), ''Mémoires de l'Académie royale des science'', in: ''Histoire de l'Académie royale des sciences'' ..., pp
+0.0202939
+The dating of building via dendrochronology thus requires knowledge of the history of building technology.<ref name=sawyer1993>{{cite book |title= Medieval Scandinavia: from conversion to Reformation, circa 800–1500 |first1= Peter |last1= Sawyer |authorlink1= Peter Sawyer (historian) |first2= Birgit |last2= Sawyer |publisher= [[University of Minnesota Press]] |series= The Nordic Series |volume= 17 |year= 1993 |page= 6 |isbn= 978-0-8166-1739-5 |oclc= 489584487 |url= https://books.google.com/?id=jGJrXOjYvQgC&pg=PA6#v=onepage&q&f=false |url-status= live |archiveurl= https://web.archive.org/web/20150518110748/https://books.google.de/books?id=jGJrXOjYvQgC&pg=PA6&source=gbs_selected_pages&cad=2#v=onepage&q&f=false |archivedate= 2015-05-18 }}</ref>  Many prehistoric forms of buildings used "posts" that were whole young tree trunks; where the bottom of the post has survived in the ground these can be especially useful for dating
+0.0240844
+
+In 2004 a new [[Radiocarbon dating|radiocarbon calibration curve]], INTCAL04, was internationally ratified to provide calibrated dates back to 26,000 [[Before Present|B.P.]] For the period back to 12,400 B.P., the radiocarbon dates are calibrated against dendrochronological dates.<ref>{{cite journal |format=PDF |title=INTCAL04 Terrestrial Radiocarbon age calibration, 0–26 cal kyr BP |author1=Reimer Paula J |author2=Baillie Mike GL |author3=Bard Edouard |author4=Bayliss Alex |author5=Beck J Warren |author6=Bertrand Chanda JH |author7=Blackwell Paul G |author8=Buck Caitlin E |author9=Burr George S |author10=Cutler Kirsten B |author11=Damon Paul E |author12=Edwards R Lawrence |author13=Fairbanks Richard G |author14=Friedrich Michael |author15=Guilderson Thomas P |author16=Hogg Alan G |author17=Hughen Konrad |author18=Kromer Bernd |author19=McCormac Gerry |author20=Manning Sturt |author21=Ramsey Christopher Bronk |author22=Reimer Ron W |author23=Remmele Sabine |author24=Southon John R |author25=Stuiver Minze |author26=Talamo Sahra |author27=Taylor FW |author28=van der Plicht Johannes |author29=Weyhenmeyer Constanze E |journal=Radiocarbon |volume=46 |issue=3 |year=2004 |pages=1029–58 |url=https://journals.uair.arizona.edu/index.php/radiocarbon/article/view/4167 |url-status=live |archiveurl=https://web.archive.org/web/20130630151251/https://journals.uair.arizona.edu/index.php/radiocarbon/article/view/4167 |archivedate=2013-06-30 |doi=10.1017/S0033822200032999 }}</ref><ref>{{cite web |last=Fairbanks |first=Richard |title=Current Research: Radiocarbon Calibration |url=http://radiocarbon.ldeo.columbia.edu/research/radiocarbon.htm |work=Columbia |url-status=dead |archiveurl=https://web.archive.org/web/20110825132650/http://radiocarbon.ldeo.columbia.edu/research/radiocarbon.htm |archivedate=2011-08-25 |access-date=2011-10-22 }}</ref>
+
+Dendrochronology practice faces many obstacles, including the existence of [[species]] of [[ant]]s that inhabit [[tree]]s and extend their galleries into the wood, thus destroying ring structure
+0.0253673
+Researchers can compare and match these patterns  ring-for-ring with patterns from trees which have grown at the same time in the same geographical zone (and therefore under similar climatic conditions)
+0.0307624
+Twining, to the Editor, dated Albany, April 9, 1833"] {{webarchive|url=https://web.archive.org/web/20150514195719/https://books.google.com/books?id=COpQAAAAYAAJ&pg=PA391 |date=May 14, 2015 }}, ''The American Journal of Science'', '''24''' : 391–393.</ref> The English polymath [[Charles Babbage]] proposed using dendrochronology to date the remains of trees in peat bogs or even in geological strata (1835, 1838).<ref>See:
+* (Anon.) (1835) [https://books.google.com/books?id=dfNPAAAAMAAJ&pg=PA116#v=onepage&q&f=false "Evening meeting at the Rotunda"] {{webarchive|url=https://web.archive.org/web/20150514194852/https://books.google.com/books?id=dfNPAAAAMAAJ&pg=PA116 |date=2015-05-14 }}, ''Proceedings of the Fifth Meeting of the British Association for the Advancement of Science held in Dublin during the week from the 10th to the 15th of August, 1835, inclusive'', pp
+0.0310685
+[[Canada]]) or in autumn, as in some [[Mediterranean region|Mediterranean]] species.</ref>); the outer portion is the "late wood" (sometimes termed "summer wood", often being produced in the summer, though sometimes in the autumn) and is denser.<ref>{{Cite book|ref= harv |last= Capon |first= Brian|title= Botany for Gardeners |year= 2005 |pages= 66–67 |edition= 2nd |isbn= 978-0-88192-655-2 |publisher= Timber Publishing|location= Portland, OR}} {{better source|date= November 2014}}</ref>
+
+[[File:Pinus taeda crossx7358.JPG|thumb|right|240px|''[[Pinus taeda]]'' cross section showing annual rings, [[Cheraw, South Carolina]]]]
+Many trees in temperate zones produce one growth-ring each year, with the newest adjacent to the bark
+0.0316603
+While the house had long been claimed to have been built circa 1640 (and being the oldest wood-framed house in North America), core samples of wood taken from a summer beam confirmed the wood was from an oak tree felled in 1637–8, as wood was not seasoned before use in building at that time in New England
+0.0340338
+1, Autumn, 1996</ref>
+
+[[File:Mary Queen of Scots portrait.jpg|thumb|left|A portrait of Mary Queen of Scots, determined to date from the sixteenth century by dendrochronology]]
+Since panels of seasoned wood were used, an uncertain number of years has to be allowed for seasoning when estimating dates.<ref>Peter Ian Kuniholm, [http://dendro.cornell.edu/articles/kuniholm2000.pdf ''Dendrochronology (Tree-Ring Dating) of Panel Paintings''] {{webarchive|url=https://web.archive.org/web/20131017230735/http://dendro.cornell.edu/articles/kuniholm2000.pdf |date=2013-10-17 }} Cornell University</ref> Panels were trimmed of the outer rings, and often each panel only uses a small part of the [[radius]] of the trunk
+0.0369149
+
+== Applications ==
+
+=== Radiocarbon dating calibration ===
+Dates from dendrochronology can be used as a [[Calibration of radiocarbon dates|calibration and check]] of [[radiocarbon dating]]<ref name=RenfrewBahn2004 />
+
+=== Climatology ===
+{{Main|dendroclimatology}}
+
+[[Dendroclimatology]] is the science of determining past [[climate]]s from [[tree]]s primarily from the properties of the annual tree rings.<ref>{{cite journal |url=https://www.ltrr.arizona.edu/~sheppard/Raul/DendroclimatologyReview.pdf |title=Dendroclimatology: extracting climate from trees |first=Paul R
+0.038051
+Moreover, wood from ancient structures with known chronologies can be matched to the tree-ring data (a technique called ''cross-dating''), and the age of the wood can thereby be determined precisely
+0.0507346
+
+A similar technique is used to [[Estimating the age of fish|estimate the age of fish]] stocks through the analysis of growth rings in the [[otolith]] bones
+0.0507346
+Speer, ''Fundamentals of Tree-ring Research'' (Tucson, Arizona: University of Arizona Press, 2010), Chapter 3: History of Dendrochronology, pp
+0.0507346
+While archaeologists can date wood and when it was felled, it may be difficult to definitively determine the age of a building or structure in which the wood was used; the wood could have been reused from an older structure, may have been felled and left for many years before use, or could have been used to replace a damaged piece of wood
+0.0512604
+423: "Moreover, the wood of the silver-fir has many layers, like an onion; there is always another beneath that which is visible, and the wood is composed of such layers throughout." Although many sources claim that Theophrastus recognized that trees form growth rings annually, this is not true.</ref><ref>For the history of dendrochronology, see:
+* R
+0.0538122
+
+=== Archaeology ===
+{{main|Dendroarchaeology}}
+The dating of buildings with wooden structures and components is also done by dendrochronology; [[dendroarchaeology]] is the term for the application of dendrochronology in archaeology
+0.0627809
+Visible rings result from the change in growth speed through the [[season]]s of the year; thus, critical for the title method, one ring generally marks the passage of one year in the life of the tree
+0.0634183
+
+The formula is useful for correct approximation of samples data before data normalization procedure
+0.0710285
+
+== Reference sequences ==
+European chronologies derived from wooden structures initially found it difficult to bridge the gap in the fourteenth century when there was a building hiatus, which coincided with the [[Black Death]],<ref>{{cite book
+ |title=A Slice Through Time
+ |author=Baillie Mike
+ |page=124
+ |year=1997
+ |isbn=978-0-7134-7654-5
+ |publisher=Batsford
+ |location=London
+|author-link=Mike Baillie
+ }}</ref> however there do exist unbroken chronologies dating back to prehistoric times, for example the Danish chronology dating back to 352 BC.<ref>{{cite web|url=http://www.skalk.dk/Sider/0003wm.html |website=skalk.dk |title=WM Trædatering |language=da |trans-title=WM Tree dating |accessdate=15 May 2015 |url-status=dead |archiveurl=https://web.archive.org/web/20141221121805/http://www.skalk.dk/Sider/0003wm.html |archivedate=21 December 2014 }}</ref>
+
+Given a sample of wood, the variation of the tree-ring growths provides not only a match by year, it can also match location because the climate across a continent is not consistent
+0.0713108
+In 1859, the German-American [[Jacob Kuechler]] (1823–1893) used crossdating to examine [[oak]]s (''[[Quercus stellata]]'') in order to study the record of climate in western Texas.<ref>See:
+* Jacob Kuechler ( August 6, 1859) "Das Klima von Texas" (The climate of Texas), ''Texas Staats-Zeitung'' [Texas state newspaper] (San Antonio, Texas), p
+0.0717496
+
+== Sampling and dating ==
+Dendrochronology makes available specimens of once-living material accurately dated to a specific year.<ref name=RenfrewBahn2004>{{cite book |author1=Renfrew Colin |author2=Bahn Paul |title=Archaeology: Theories, Methods and Practice |edition=4th |year=2004 |pages=[https://archive.org/details/archaeology00coli/page/144 144–5] |isbn=978-0-500-28441-4 |publisher=Thames & Hudson |location=London |url-access=registration |url=https://archive.org/details/archaeology00coli/page/144 }}</ref> Dates are often represented as estimated calendar years [[before present|B.P.]], for before present, where "present" refers to 1 January 1950.<ref name=RenfrewBahn2004 />
+
+Timber core samples are sampled and used to measure the width of annual growth rings; by taking samples from different sites within a particular region, researchers can build a comprehensive historical sequence
+0.076102
+However, unlike analysis of samples from buildings, which are typically sent to a laboratory, wooden supports for paintings usually have to be measured in a museum conservation department, which places limitations on the techniques that can be used.<ref>[http://www.helm.org.uk/guidance-library/dendrochronology-guidelines/dendrochronology.pdf English Heritage Guide to Dendrochronology] {{webarchive|url=https://web.archive.org/web/20131023063338/http://www.helm.org.uk/guidance-library/dendrochronology-guidelines/dendrochronology.pdf |date=2013-10-23 }}</ref>
+
+In addition to dating, dendrochronology can also provide information as to the source of the panel
+0.0816938
+For instance, missing rings are rare in oak and [[elm]] trees.<ref>The only recorded instance of a missing ring in oak trees occurred in the year 1816, also known as the "[[Year Without a Summer]]".{{cite web | url = http://www.ltrr.arizona.edu/lorim/good.html | title= Useful Tree Species for Tree-Ring Dating | author= Lori Martinez | year= 1996 | accessdate= 2008-11-08 | url-status= live | archiveurl= https://web.archive.org/web/20081108094321/http://www.ltrr.arizona.edu/lorim/good.html | archivedate= 2008-11-08 }}</ref>
+
+Critical to the science, trees from the same region tend to develop the same patterns of ring widths for a given period of chronological study
+0.0859666
+Sarton also cites a diary of the French writer [[Michel de Montaigne]], who in 1581 was touring Italy, where he encountered a carpenter who explained that trees form a new ring each year.</ref> In 1737, French investigators [[Henri-Louis Duhamel du Monceau]] and [[Georges-Louis Leclerc de Buffon]] examined the effect of growing conditions on the shape of tree rings.<ref>du Hamel & de Buffon (27 February 1737) [http://gallica.bnf.fr/ark:/12148/bpt6k3534v/f263.image.r=l%27aubier.langEN ''"De la cause de l'excentricité des couches ligneuses qu'on apperçoit quand on coupe horisontalement le tronc d'un arbre ; de l'inégalité d'épaisseur, & de different nombre de ces couches, tant dans le bois formé que dans l'aubier"''] {{webarchive|url=https://web.archive.org/web/20150509195022/http://gallica.bnf.fr/ark:/12148/bpt6k3534v/f263.image.r=l'aubier.langEN |date=2015-05-09 }} (On the cause of the eccentricity of the woody layers that one sees when one horizontally cuts the trunk of a tree ; on the unequal thickness, and on the different number of layers in the mature wood as well as in the sapwood), ''Mémoires de l'Académie royale des science'', in: ''Histoire de l'Académie royale des sciences'' ..., pp
+0.087875
+396: ''"Li circuli delli rami degli alberi segati mostrano il numero delli suoi anni, e quali furono più umidi o più secchi la maggiore o minore loro grossezza."'' (The rings around the branches of trees that have been sawn show the number of its years and which [years] were the wetter or drier [according to] the more or less their thickness.)
+* Sarton, George (1954) "Queries and Answers: Query 145
+0.0887856
+Consequently, dating studies usually result in a "[[terminus post quem]]" (earliest possible) date, and a tentative date for the arrival of a seasoned raw panel using assumptions as to these factors.<ref>{{cite book |first1=W
+0.089687
+These are used for dating in a manner similar to dendrochronology, and such techniques are used in combination with dendrochronology, to plug gaps and to extend the range of the seasonal data available to archaeologists and [[paleoclimatologist]]s
+0.101469
+ It also gives data on the timing of events and rates of change in the environment (most prominently climate) and also in wood found in [[archaeology]] or works of art and architecture, such as old [[panel painting]]s
+0.107624
+2) had produced, in the defoliation year of 1862, a growth ring that was twice as strong as in the preceding one, and so was the ring of the year-old shoot (not illustrated here) stronger in the case of the defoliated tree than one that was not defoliated.)</ref> By 1882, this observation was already appearing in forestry textbooks.<ref>[[Franklin B
+0.108072
+The inner portion of a growth ring forms early in the growing season, when growth is comparatively rapid (hence the wood is less dense) and is known as "early wood" (or "spring wood", or "late-spring wood"<ref>"Early wood" is used in preference to "spring wood", as the latter term may not correspond to that time of year in climates where early wood is formed in the early summer (e.g
+0.128699
+
+A fully anchored and cross-matched chronology for oak and pine in central Europe extends back 12,460 years,<ref>{{cite journal |vauthors= Friedrich M, Remmele S, Kromer B, Hofmann J, Spurk M, Kaiser KF, Orcel C, Küppers M |title= The 12,460-year Hohenheim oak and pine tree-ring chronology from central Europe — A unique annual record for radiocarbon calibration and paleoenvironment reconstructions |journal= Radiocarbon |volume= 46 |issue= 3 |year= 2004 |pages= 1111–22 |url= https://journals.uair.arizona.edu/index.php/radiocarbon/article/view/4172 |url-status= live |archiveurl= https://web.archive.org/web/20130630180842/https://journals.uair.arizona.edu/index.php/radiocarbon/article/view/4172 |archivedate= 2013-06-30 |doi= 10.1017/S003382220003304X }}</ref> and an oak chronology goes back 7,429 years in Ireland and 6,939 years in England.<ref>{{cite book|chapter-url= https://books.google.co.uk/books?id=1rYCjUzMM3UC&pg=PT145&lpg=PT145&dq=northern+ireland+dendrochronological&source=bl&ots=-83vqIKmdt&sig=gvKAhREENtGBCdVV2TK7131y92I&hl=en&sa=X&ved=0ahUKEwjR65yEzcnQAhXKCsAKHUP_CG84ChDoAQgqMAM#v=onepage&q=northern%20ireland%20dendrochronological&f=false|chapter= 5.2.3 Dendrochronological Series|first= Mike|last= Walker|title= Quaternary Dating Methods|publisher= John Wiley and Sons|year= 2013|url-status= live|archiveurl= https://web.archive.org/web/20161128050944/https://books.google.co.uk/books?id=1rYCjUzMM3UC&pg=PT145&lpg=PT145&dq=northern+ireland+dendrochronological&source=bl&ots=-83vqIKmdt&sig=gvKAhREENtGBCdVV2TK7131y92I&hl=en&sa=X&ved=0ahUKEwjR65yEzcnQAhXKCsAKHUP_CG84ChDoAQgqMAM#v=onepage&q=northern%20ireland%20dendrochronological&f=false|archivedate= 2016-11-28}}</ref> Comparison of radiocarbon and dendrochronological ages supports the consistency of these two independent dendrochronological sequences.<ref>{{cite journal |author1= Stuiver Minze |author2= Kromer Bernd |author3= Becker Bernd |author4= Ferguson CW |title= Radiocarbon Age Calibration back to 13,300 Years BP and the {{chem|14|C}} Age Matching of the German Oak and US Bristlecone Pine Chronologies |journal= Radiocarbon |volume= 28 |issue= 2B |year= 1986 |format= PDF |pages= 969–979 |url= https://journals.uair.arizona.edu/index.php/radiocarbon/article/view/1010/1015 |url-status= live |archiveurl= https://web.archive.org/web/20130630171355/https://journals.uair.arizona.edu/index.php/radiocarbon/article/view/1010/1015 |archivedate= 2013-06-30 |doi= 10.1017/S0033822200060252 }}</ref> Another fully anchored chronology that extends back 8500 years exists for the bristlecone pine in the [[Southwestern United States|Southwest US]] ([[White Mountains (California)|White Mountains]] of California).<ref>{{cite journal
+ |vauthors= Ferguson CW, Graybill DA
+ |title= Dendrochronology of Bristlecone Pine: A Progress Report
+ |journal= Radiocarbon |volume= 25 |issue= 2
+ |year= 1983 |pages= 287–8
+ |url= https://journals.uair.arizona.edu/index.php/radiocarbon/article/view/787
+ |url-status= live
+ |archiveurl= https://web.archive.org/web/20130630182223/https://journals.uair.arizona.edu/index.php/radiocarbon/article/view/787
+ |archivedate= 2013-06-30 
+|doi= 10.1017/S0033822200005592
+ }}</ref>
+
+== Dendrochronological equation ==
+
+[[File:Annual growth of the wood.jpg|thumb|A typical form of the function of the wood ring width in accordance with the dendrochronological equation]]
+
+[[File:Annual growth of the wood (second typical form of the growth function).jpg|thumb|A typical form of the function of the wood ring (in accordance with the dendrochronological equation) with an increase in the width of wood ring at initial stage]]
+
+The dendrochronological equation defines the law of growth of tree rings
+0.136135
+Douglass sought to better understand cycles of sunspot activity and reasoned that changes in solar activity would affect climate patterns on earth, which would subsequently be recorded by tree-ring growth patterns (''i.e.'', sunspots → climate → tree rings)
+0.152204
+For instance, the [[bristlecone pine]] is exceptionally long-lived and slow growing, and has been used extensively for chronologies; still-living and dead specimens of this species provide tree-ring patterns going back thousands of years, in some regions more than 10,000 years.<ref>{{cite web|url=http://www.wsl.ch/dendro/dendrodb.html |title=Bibliography of Dendrochronology |publisher=ETH Forest Snow and Landscape Research |location=Switzerland |accessdate=2010-08-08 |url-status=dead |archiveurl=https://web.archive.org/web/20100804005355/http://www.wsl.ch/dendro/dendrodb.html |archivedate=2010-08-04 }}{{specify|date=March 2011}}</ref> Currently, the maximum span for fully anchored chronology is a little over 11,000 years B.P
+0.152656
+The results showed that the age of the wood was too late for any of them to have been painted by [[Hieronymus Bosch]].<ref>[http://www.atomium-culture.ilsole24ore.com/?p=78 Tree Rings, the barcodes of Nature illuminate art history] {{webarchive|url=https://web.archive.org/web/20131018043013/http://www.atomium-culture.ilsole24ore.com/?p=78 |date=2013-10-18 }}</ref>
+
+While dendrochronology has become an important tool for dating oak panels, it is not effective in dating the poplar panels often used by Italian painters because of the erratic growth rings in poplar.<ref>[http://www.nationalgallery.org.uk/paintings/glossary/dendrochronology National Portrait Gallery] {{webarchive|url=https://web.archive.org/web/20131017120656/http://www.nationalgallery.org.uk/paintings/glossary/dendrochronology |date=2013-10-17 }}</ref>
+
+The sixteenth century saw a gradual replacement of wooden panels by canvas as the support for paintings, which means the technique is less often applicable to later paintings.<ref>[http://www.getty.edu/conservation/our_projects/education/panelpaintings/ The Getty Conservation Institute] {{webarchive|url=https://web.archive.org/web/20131123200401/http://www.getty.edu/conservation/our_projects/education/panelpaintings/ |date=2013-11-23 }}</ref> In addition, many panel paintings were [[Transfer of panel paintings|transferred onto canvas or other supports]] during the nineteenth and twentieth centuries
+0.179374
+A tree's growth rate changes in a predictable pattern throughout the year in response to seasonal climate changes, resulting in visible growth rings
+0.20628
+The techniques of dendrochronology are more consistent in areas where trees grew in marginal conditions such as aridity or semi-aridity where the ring growth is more sensitive to the environment, rather than in humid areas where tree-ring growth is more uniform (complacent)
+0.253673
+(1963) "Tree growth, some historical chapters in the study of diameter growth", ''Botanical Review'', '''39''' (3) : 245–343
+0.253673
+Growth rings result from new growth in the [[vascular cambium]], a layer of cells near the [[bark (botany)|bark]] that botanists classify as a [[lateral meristem]]; this growth in diameter is known as [[secondary growth]]
+0.259027
+
+== See also ==
+{{Portal|Trees}}
+* [[Dendrology]]
+*[[International Tree-Ring Data Bank]]
+* [[Post excavation]]
+* [[Timeline of dendrochronology timestamp events]]
+
+== References ==
+{{reflist|33em}}
+
+== External links ==
+{{Wikibooks|Historical Geology|Dendrochronology}}
+{{Commons category|Dendrochronology}}
+* [http://www.tree-ringdating.co.uk/ Nottingham Tree-Ring Dating Laboratory]
+* [https://www.youtube.com/watch?v=5iVrhCV-N2E Video & commentary on Medullary Rays, heart wood and tree rings.]
+* [https://www.youtube.com/watch?v=qvT_aGjdI8M Video & commentary on Tree Rings – Formation and Purpose]
+* [http://www.dendrochronology.com/ Oxford Tree-Ring Laboratory]
+* [https://web.archive.org/web/20111119092319/http://www.wsl.ch/dienstleistungen/produkte/glossare/dendro_bibliography/index_EN Bibliography of Dendrochronology]
+* [https://web.archive.org/web/20131022235203/http://www.wsl.ch/dienstleistungen/produkte/glossare/dendro_glossary/index_EN Multilingual Glossary of Dendrochronology]
+* [http://dendro.dans.knaw.nl/ Digital Collaboratory for Cultural Dendrochronology (DCCD)]
+* [http://www.ncdc.noaa.gov/paleo/treering.html International Tree-Ring Data Bank]
+* [http://web.utk.edu/~grissino/ Ultimate Tree-Ring Web Pages]
+* [http://www.ltrr.arizona.edu/ Laboratory of Tree-Ring Research University of Arizona]
+* [https://web.archive.org/web/20120513190656/http://web.utk.edu/~grissino/index.htm "Tree Ring Science"], the academic site of Prof
+0.266357
+33, stated that Carl Linnaeus (1745, 1751) in Sweden, Friedrich August Ludwig von Burgsdorf (1783) in Germany, and Alphonse de Candolle (1839–1840) in France subsequently observed the same tree ring in their samples.</ref> In the U.S., [[Alexander Catlin Twining]] (1801–1884) suggested in 1833 that patterns among tree rings could be used to synchronize the dendrochronologies of various trees and thereby to reconstruct past climates across entire regions.<ref>Alexander C
+0.266357
+Hence, for the entire period of a tree's life, a year-by-year record or ring pattern builds up that reflects the age of the tree and the climatic conditions in which the tree grew

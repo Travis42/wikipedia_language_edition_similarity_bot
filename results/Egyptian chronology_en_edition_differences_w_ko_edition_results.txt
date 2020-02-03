@@ -1,0 +1,121 @@
+Egyptian chronology
+en edition's differences with the ko version: 
+-8.57223e-10
+Kitchen, [https://www.jstor.org/stable/124743 "The Chronology of Ancient Egypt"], ''World Archaeology: Chronologies'', '''23''', (1991), p.&nbsp;202</ref>
+
+In addition, there are a number of "alternative chronologies" outside scholarly consensus, such as the "[[New Chronology (Rohl)|New Chronology]]" proposed in the 1990s, which lowers New Kingdom dates by as much as 350 years, or the "[[Glasgow Chronology]]" (proposed 1978–1982), which lowers New Kingdom dates by as much as 500 years
+-6.26515e-10
+This scholarly consensus is the so-called '''Conventional Egyptian chronology''', which places the beginning of the [[Old Kingdom]] in the 27th century BC, the beginning of the [[Middle Kingdom of Egypt|Middle Kingdom]] in the 21st century BC and the beginning of the [[New Kingdom]] in the mid-16th century BC
+-2.68755e-10
+Another example are blocks from the [[Old Kingdom of Egypt|Old Kingdom]] bearing the names of several kings, which were reused in the construction of [[Middle Kingdom of Egypt|Middle Kingdom]] pyramid-temples at [[Lisht]] in the structures of [[Amenemhat I]]
+-4.94786e-11
+However, further research has shown that these censuses were sometimes taken in consecutive years, or after two or more years had passed.<ref>Miroslav Verner, "Contemporaneous Evidence for the relative chronology of DYNS
+-1.07747e-13
+
+==Synchronisms==
+A useful way to work around these gaps in knowledge is to find [[chronological synchronism]]s, which can lead to a [[absolute dating|precise date]]
+1.95861e-11
+http://www.news.cornell.edu/stories/2014/05/climate-change-caused-empires-fall-tree-rings-reveal][https://www.academia.edu/7041530/High-precision_dendro-14C_dating_of_two_cedar_wood_sequences_from_First_Intermediate_Period_and_Middle_Kingdom_Egypt_and_a_small_regional_climate-related_14C_divergence]</ref>
+
+==Alternative chronologies==
+A number of suggestions for alternatives to the consensus on the conventional chronology have been presented during the 20th century:
+
+* The Revised Chronology of [[Immanuel Velikovsky]] as postulated in his [[Ages in Chaos]] series
+1.95861e-11
+* The [[New Chronology (Rohl)|New Chronology]] of [[David Rohl]], as described in his ''Test of Time'' series
+2.12591e-11
+The earliest such synchronism is in the 18th century BC where a stela of the Governor of Byblos [[Yantin-'Ammu|Yantinu]] indicates that pharaoh [[Neferhotep I]] was contemporary with kings [[Zimri-Lim]] of [[Mari, Syria|Mari]] and [[Hammurabi]] of [[Babylon]].<ref name="smith">William Stevenson Smith: ''Interconnections in the Ancient Near East: A Study of the Relationships Between the Arts of Egypt, the Aegean, and Western Asia'', Yale University Press, 1965</ref> Other early synchronisms date to the 15th century BC, during the [[Amarna Period]], when we have a considerable quantity of diplomatic correspondence between the Egyptian Kings Amenhotep III and [[Akhenaten]], and various [[Near Eastern]] monarchs
+6.01816e-11
+''Nature'' 1996, 782]</ref> Combined use of dendrochronology and radiocarbon dating allowed identification of tree rings even back to the Middle Kingdom period, as in the coffin of Ipi-ha-ishutef (dated 2073±9 BC) or the funerary boat of [[Senusret III]] (dated 1887±11 BC; conventional reign date 1878 BC–1839 BC).<ref>S
+3.31642e-10
+[[Ian Shaw (Egyptologist)|Shaw]] (2000)
+|-
+| rowspan=2 | [[Early Dynastic Period of Egypt]] || [[First dynasty of Egypt|First]] || rowspan=2 | 3400–2980 || rowspan=2 | c
+1.79117e-09
+
+Despite this consensus, disagreements remain within the scholarly community, resulting in variant chronologies diverging by about 300 years for the [[Early Dynastic Period of Egypt|Early Dynastic Period]], up to 30 years in the [[New Kingdom]], and a few years in the [[Late Period of ancient Egypt|Late Period]].<ref>K
+0.0564614
+This is illustrated by comparing the chronology as given by two Egyptologists, the first writing in 1906, the second in 2000 (all dates in the table are BC).<ref>Breasted's dates are taken from his ''[[Ancient Records of Egypt|Ancient Records]]'' (first published in 1906), volume 1, sections 58–75; Shaw's are from his ''Oxford History of Ancient Egypt'' (published in 2000), pp
+0.065196
+
+==See also==
+*[[History of ancient Egypt]]
+*[[List of Pharaohs]]
+*[[Chronology of the Ancient Near East]]
+*[[Biblical chronology]]
+*[[Dating methodologies in archaeology]]
+
+==Notes and references==
+{{Reflist|2}}
+
+==External links==
+*[http://aegyptologie.online-resourcen.de Scientific tool for converting calendar dates mentioned in Greek and Demotic Papyri from Egypt into Julian dates]
+*{{cite book |title=The Reconstructed Chronology of the Egyptian Kings |author= M
+0.112037
+[[Roemer- und Pelizaeus-Museum Hildesheim]]]]
+Forming the backbone of Egyptian chronology are the [[regnal year]]s as recorded in Ancient Egyptian king lists
+0.150313
+Likewise, the third pylon at [[Karnak]], built by [[Amenhotep III]] contained as "fill" material from the kiosk of [[Sesostris I]], along with various stelae of the [[Second Intermediate Period]] and the [[Eighteenth dynasty of Egypt|Eighteenth Dynasty]] of the [[New Kingdom of Egypt|New Kingdom]].<ref>Kitchen, "Chronology", p.&nbsp;203</ref>
+* '''Synchronisms with other chronologies''', the most important of these being with the [[Assyria]]n and [[Babylonia]]n chronologies, but synchronisms with the [[Hittites]], ancient Palestine, and in the final period with [[ancient Greece]], are also used
+0.201113
+Parker]] to argue that the dates of the [[Twelfth dynasty of Egypt|Twelfth dynasty]] could be fixed with absolute precision.<ref>Set forth in "Excursus C: The Twelfth dynasty" in his ''The Calendars of ancient Egypt'' (Chicago: University Press, 1950).</ref> More recent research has eroded this confidence, questioning many of the assumptions used with the Sothic Cycle, and as a result experts have moved away from relying on this Cycle.<ref>One example is Patrick O'Mara, "Censorinus, the Sothic Cycle, and calendar year one in ancient Egypt: the Epistological problem", ''Journal of Near Eastern studies'', '''62''' (2003), pp
+0.203737
+Redford]], in attempting to fix the date of the end of the Eighteenth dynasty, almost completely ignores the Sothic evidence, relying on synchronicities between Egypt and Assyria (by way of the Hittites), and help from astronomical observations.<ref>Redford, "The Dates of the End of the 18th Dynasty", ''History and Chronology of the Eighteenth dynasty of Egypt: Seven studies'' (Toronto: University Press, 1967), pp
+0.228186
+3000–2686
+|-
+| [[Second dynasty of Egypt|Second]]
+|-
+| rowspan=4 | [[Old Kingdom]] || [[Third dynasty of Egypt|Third]] || 2980–2900 || 2686–2613
+|-
+| [[Fourth dynasty of Egypt|Fourth]] || 2900–2750 || 2613–2494
+|-
+| [[Fifth dynasty of Egypt|Fifth]] || 2750–2625 || 2494–2345
+|-
+| [[Sixth dynasty of Egypt|Sixth]] || 2623–2475 || 2345–2181
+|-
+| rowspan=4 | [[First Intermediate Period]] || [[Seventh Dynasty of Egypt|Seventh]] || rowspan=2 | 2475–2445 || rowspan=2 | 2181–2160
+|-
+| [[Eighth Dynasty of Egypt|Eighth]]
+|-
+| [[Ninth dynasty of Egypt|Ninth]] || rowspan=2 | 2445–2160 || rowspan=2 | 2160–2125
+|-
+| [[Tenth dynasty of Egypt|Tenth]]
+|-
+| rowspan=2 | [[Middle Kingdom of Egypt]] || [[Eleventh dynasty of Egypt|Eleventh]] || 2160–2000 || 2125–1985
+|-
+| [[Twelfth dynasty of Egypt|Twelfth]] || 2000–1788 || 1985–1773
+|-
+| rowspan=5 | [[Second Intermediate Period]] || [[Thirteenth dynasty of Egypt|Thirteenth]]
+0.26142
+A 2013 study found a [[First Dynasty of Egypt|First Dynasty]] start in the 32nd or 31st century, compatible with scholarly opinions placing it in between the 34th and 30th centuries.<ref>{{Cite journal|author1=Michael Dee |authorlink2=David Wengrow|author2=David Wengrow |author3=Andrew Shortland |author4=Alice Stevenson |author5=Fiona Brock |author6=Linus Girdland Flink |author7=Christopher Bronk Ramsey |title=An absolute chronology for early Egypt using radiocarbon dating and Bayesian statistical modelling|journal=Proceedings of the Royal Society A|volume=469|page=20130395|date=2013|number=2159|doi=10.1098/rspa.2013.0395|pmid=24204188 |bibcode=2013RSPSA.46930395D|pmc=3780825}}</ref>
+* '''The [[Minoan eruption|Thera eruption]]'''
+0.266564
+|-
+| [[Fifteenth dynasty of Egypt|Fifteenth]]
+|-
+| [[Sixteenth dynasty of Egypt|Sixteenth]]
+|-
+| [[Seventeenth dynasty of Egypt|Seventeenth]]
+|-
+| rowspan=3 | [[New Kingdom of Egypt]] || [[Eighteenth dynasty of Egypt|Eighteenth]] || 1580–1350 || 1550–1295
+|-
+| [[Nineteenth dynasty of Egypt|Nineteenth]] || 1350–1205 || 1295–1186
+|-
+| [[Twentieth dynasty of Egypt|Twentieth]] || 1200–1090 || 1186–1069
+|-
+| rowspan=5 | [[Third Intermediate Period]] || [[Twenty-first dynasty of Egypt|Twenty-first]] || 1090–945 || 1069–945
+|-
+| [[Twenty-second dynasty of Egypt|Twenty-second]] || 945–745 || 945–818
+|-
+| [[Twenty-third dynasty of Egypt|Twenty-third]] || 745–718 || 818–727
+|-
+| [[Twenty-fourth dynasty of Egypt|Twenty-fourth]] || 718–712 || 727–715
+|-
+| [[Twenty-fifth dynasty of Egypt|Twenty-fifth]] || 712–663 || 715–664
+|-
+| [[Late Period of ancient Egypt]] || [[Twenty-sixth dynasty of Egypt|Twenty-sixth]] || 663–525 || 664–525
+|-
+|}
+
+The disparities between the two sets of dates result from additional discoveries and refined understanding of the still very incomplete source evidence

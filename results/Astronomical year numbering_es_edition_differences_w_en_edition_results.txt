@@ -1,0 +1,8 @@
+Astronomical year numbering
+es edition's differences with the en version: 
+0.0684186
+The astronomical numbering is based on the classic Gregorian calendar, but adapted to the integer numbering system
+0.171046
+<ref>Fred Espenak, [https://web.archive.org/web/20090605101653/http://eclipse.gsfc.nasa.gov/phase/phases-0099.html Phases of the Moon: '99 to 0 (100 to 1 BCE)] ''NASA Eclipse web site''</ref>
+
+The prefixes aC and dC (ECB and EC) expressing "[before Christ]] and [[after Christ]", are not used in this convention

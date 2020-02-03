@@ -1,0 +1,112 @@
+Hexadecimal time
+en edition's differences with the ar version: 
+0.0691163
+ So the day begins at midnight with '''.0000''' and one hexadecimal second after midnight is '''.0001'''
+0.0949913
+
+The day is divided into 10<sub>16</sub> (16<sub>10</sub>) hexadecimal hours, each hour into 100<sub>16</sub> (256<sub>10</sub>) hexadecimal minutes, and each minute into 10<sub>16</sub> (16<sub>10</sub>) hexadecimal seconds
+0.114036
+Comment
+|-
+| .0100
+| 0_10_0
+| 00:05:37.5
+|
+|-
+| .0200
+| 0_20_0
+| 00:11:15
+|
+|-
+| .0400
+| 0_40_0
+| 00:22:30
+|
+|-
+| .0800
+| 0_80_0
+| 00:45:00
+|
+|-
+| .1000
+| 1_00_0
+| 01:30:00
+| 1.5:24 = 1:16 = 0.1
+|-
+| .8000
+| 8_00_0
+| 12:00:00
+| 12:24 = 8:16 = 0.8
+|-
+| .F000
+| F_00_0
+| 22:30:00 
+| 22.5:24 = 15:16 = 0.F
+|-
+| .F800
+| F_80_0
+| 23:15:00 
+|
+|}
+
+===Conversions===
+{| class="wikitable"
+
+0.134105
+ Noon is '''.8000''' (one half), one hexadecimal second before was '''.7FFF''' and one hexadecimal second before next midnight will be '''.FFFF'''
+0.154763
+Nystrom]] in 1863 as part of his [[tonal system]].<ref>{{cite book |title=Project of a New System of Arithmetic, Weight, Measure and Coins: Proposed to be Called the Tonal System, with Sixteen to the Base |first=John William |last=Nystrom |publisher=Lippincott |date=1862 |url=https://books.google.com/books?id=aNYGAAAAYAAJ&pg=PA105&source=gbs_selected_pages&cad=0_1#v=onepage&q&f=false}}</ref>
+
+In 1997, the American Mark Vincent Rogers of [[Intuitor]] proposed a similar system of hexadecimal time and implemented it in [[JavaScript]] as the Hexclock.{{citation needed|date=October 2015}}
+
+==The system of Rogers==
+A day is unity, or '''1''', and any fraction thereof can be shown with digits to the right of the hexadecimal [[Radix point|separator]]
+0.19557
+ Also midnight (hour 0) is at the bottom, rather than the top of the clockface.]]
+[[File:Florencetime.jpg|right|256px|thumb|A hexadecimal clock-face]]
+'''Hexadecimal time''' is the representation of the [[time]] of [[day]] as a [[hexadecimal]] [[Real number|number]] in the [[Interval (mathematics)|interval]] (0,1)
+0.243837
+Traditional
+|-
+|-
+| 1 day
+| = || style="text-align:right" | 10000
+| = || style="text-align:right" | 65536
+| = || 24 h
+|-
+| 1 hexadecimal hour
+| = || style="text-align:right" | 1000
+| = || style="text-align:right" | 4096
+| = || 1 h 30 min
+|-style="background:white; color:gray"
+| 1 hexadecimal maxime
+| = || style="text-align:right" | 100
+| = || style="text-align:right" | 256
+| = || 5 min 37.5 s
+|-
+| 1 hexadecimal minute
+| = || style="text-align:right" | 10
+| = || style="text-align:right" | 16
+| = || 21.09375 s
+|-
+| 1 hexadecimal second
+| = || style="text-align:right" | 1
+| = || style="text-align:right" | 1
+| = || 1.318359375 s
+|-
+|1 second
+| = || 0.C22E4
+| = || 0.75851
+| = || 1 s
+|-
+|}
+
+==See also==
+* [[Decimal time]]
+* [[Metric time]]
+
+== References ==
+{{reflist}}
+
+==External links==
+*[http://spwebgames.com/clockinfo/?viewType=Hex Hexadecimal Time Applet] - with digital and analogue representations

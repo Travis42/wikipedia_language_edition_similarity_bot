@@ -1,0 +1,286 @@
+Islamic calendar
+en edition's differences with the es version: 
+-5.67525e-10
+
+|-
+| 6 || [[Jumada al-Thani|Jumādā ath-Thāniyah]] / Jumādā al-ʾĀkhirah || style="direction:rtl;" | {{script/Arabic|جُمَادَىٰ ٱلثَّانِيَة}}<br/>'''''or'''''<br/>{{script/Arabic|جُمَادَىٰ ٱلْآخِرَة}} || the last of parched land ||
+|-
+| 7 || [[Rajab]] || style="direction:rtl;" | {{script/Arabic|رَجَب}} || respect, honour || This is the second sacred month in which fighting is forbidden
+-1.10958e-10
+Those who disbelieve are led to error thereby, making it lawful in one year and forbidden in another in order to adjust the number of (the months) made sacred by God and make the sacred ones permissible
+-1.05956e-10
+This is frequently made official, with many Muslim countries adopting Friday and Saturday (e.g., [[Egypt|Egypt, Saudi Arabia]]) or Thursday and Friday as official weekends, during which offices are closed; other countries (e.g., [[Iran]]) choose to make Friday alone a day of rest
+-7.27596e-11
+(17 Ramadan in Indonesia and Malaysia)
+* Last third of Ramadan which includes [[Laylat al-Qadr]]
+-1.00044e-11
+
+{{quote|The number of the months, with God, is twelve in the Book of God, the day that He created the heavens and the earth; four of them are sacred
+1.27329e-11
+Subsequent Hijri New Years move backward through the civil year back to the beginning of January again, passing through each civil month from December to January
+2.72848e-11
+The Arabs, according to one explanation mentioned by Abu Ma'shar, learned of this type of intercalation from the Jews.<ref name=Moberg2/><ref name=Kitab/><ref name="Nasi"/> The Jewish ''Nasi'' was the official who decided when to intercalate the Jewish calendar.<ref>Bab
+4.54747e-11
+The year AH 20875 will therefore begin seven months later, on the first day of the eighth Jewish month, which the worked example shows to be 7 January, 20875 AD/CE (again ignoring the displacements)
+8.73115e-11
+622 AD/CE corresponds to BH 1 and AH 1
+9.45874e-11
+(On which date will Ramadan 2012 begin?)|publisher=|date=5 July 2012|accessdate=15 January 2019}}</ref> But, shortly after the official adoption of this rule by the [[French Council of the Muslim Faith]] (CFCM) in 2013, the new leadership of the association decided, on the eve of Ramadan 2013, to follow the Saudi announcement rather than to apply the rule just adopted
+1.10958e-10
+They observe the divine precept with respect to the number of the sacred months, but in fact they profane that which God has declared to be inviolable, and sanctify that which God has declared to be profane
+3.0559e-10
+Thus, [[Malaysia]], [[Indonesia]], and a few others begin each month at sunset on the first day that the moon sets after the sun (moonset after sunset)
+4.72937e-10
+
+Since the beginning of AH 1423 (16 March 2002), the rule has been clarified a little by requiring the geocentric conjunction of the sun and moon to occur before sunset, in addition to requiring moonset to occur after sunset at Mecca
+1.47475e-09
+The worked example in [[Hebrew calendar#Conversion between Jewish and civil calendars|Conversion between Jewish and civil dates]], shows that the civil date of the first day of this month (ignoring the displacements) is Friday, 14 June
+1.9736e-09
+The time for the intercalation to move from the beginning of the year to the end (twelve intercalations) is the time it takes the fixed calendar to revolve once through the seasons (about 32 1/2 tropical years)
+0.0330019
+If, on the other hand, the names relate to the intercalated rather than the fixed calendar, the second intercalation might be, for example, of a month between Muharram and Safar allowing for the first intercalation, and the third intercalation of a month between Safar and Rabi'I allowing for the two preceding intercalations, and so on
+0.0356462
+But, there are divergent views on whether it is licit to do so.<ref>Allal el Fassi : "Aljawab assahih wannass-hi al-khaliss ‘an nazilati fas wama yata’allaqo bimabda-i acchouhouri al-islamiyati al-arabiyah", "[...] and the beginning of Islamic Arab months", report prepared at the request of King Hassan II of Morocco, Rabat, 1965 (36 p.), with no indication of editor.</ref>
+
+A majority of theologians oppose the use of calculations (beyond the constraint that each month must be not less than 29 nor more than 30 days) on the grounds that the latter would not conform with Muhammad's recommendation to observe the new moon of Ramadan and Shawal in order to determine the beginning of these months.<ref>Muhammad Mutawalla al-Shaârawi : Fiqh al-halal wal haram (edited by Ahmad Azzaâbi), Dar al-Qalam, Beyrouth, 2000, p
+0.0442136
+Year AD/CE || Year AH
+!style="line-height:1.1em;"| Muslim<br/>month
+|-
+|  2011   ||  1432   || 5 </tr>
+|  2012   ||  1433   || 5 </tr>
+|  2013   ||  1434   || 5 </tr>
+|  2014   ||  1435   || 6 </tr>
+|  2015   ||  1436   || 6 </tr>
+|  2016   ||  1437   || 7 </tr>
+|  2017   ||  1438   || 7 </tr>
+|  2018   ||  1439   || 7 </tr>
+|  2019   ||  1440   || 8 </tr>
+|  2020   ||  1441   || 8 </tr>
+|}
+|
+{|class="wikitable" style="text-align:center;"
+
+0.0487344
+Year AD/CE || Year AH
+!style="line-height:1.1em;"| Muslim<br/>month
+|-
+|  2021   ||  1442   || 8 </tr>
+|  2022   ||  1443   || 9 </tr>
+|  2023   ||  1444   || 9 </tr>
+|  2024   ||  1445   || 10 </tr>
+|  2025   ||  1446   || 10 </tr>
+|  2026   ||  1447   || 10 </tr>
+|  2027   ||  1448   || 11 </tr>
+|  2028   ||  1449   || 11 </tr>
+|  2029   ||  1450   || 11 </tr>
+|}
+|}
+
+This table may be extended since every nineteen years the Muslim month number increases by seven
+0.0504113
+Inscriptions of the ancient [[South Arabia]]n calendars reveal the use of a number of local calendars
+0.0504113
+The date given by this method, being calculated, may differ by a day from the actual date, which is determined by observation
+0.0504113
+At the first day of this month, the [[Eid al-Fitr]], "Festival of Breaking the Fast" begins, remarking the end of [[fasting]] and the end of Ramadhan
+0.0534692
+Note
+|-
+| 1 || [[Muharram|Muḥarram]] || style="direction:rtl;" | {{script/Arabic|مُحَرَّم}}  || forbidden || A sacred month, so called because battle and all kinds of fighting are forbidden (''ḥarām'') during this month
+0.0534692
+According to him, the first day of the first month of the new fixed Islamic calendar (1 Muharram AH 1) was no different from what was observed at the time
+0.0534692
+Traditionally this is based on actual observation of the moon's crescent (''[[wikt:hilal#Noun|hilal]]'') marking the end of the previous lunar cycle and hence the previous month, thereby beginning the new month
+0.0629171
+Rabi'I is the third month and if it coincided with the third month of the Jewish calendar the festival would have been the [[Feast of Weeks]], which is observed on the 6th and 7th days of that month
+0.0629171
+From 412 AD/CE to 632 AD/CE inclusive the month number is 1 and the calculation gives the month correct to a month or so
+0.067215
+Edward Sachau]] (1000/1879) 141.</ref> There are clues in the names of the months themselves:
+
+:Rabi' I - first spring
+:Rabi' II - second spring
+:Jumada I - first month of parched land
+:Jumada II - second month of parched land
+:Sha'ban - Arabs "dispersed" to find water
+:Ramadan - scorched
+:Shawwal - female camels "raised" their tails after calving
+
+In the intercalated calendar's last year (AD/CE 632), Dhu al-Hijjah corresponded to March
+0.0727624
+Also a very holy month of celebration for many Muslims, as it was the month the Prophet Muhammad was born.<ref>{{cite web|url=http://www.minhaj.org/english/tid/9813/The-significance-of-the-12th-of-Rabi-al-Awwal.html|last=Hanif|first=Muhammad|title=The significance of the 12th of Rabi al - Awwal|date=18 February 2010|website=Minhaj - ul - Quran|accessdate=14 June 2016}}</ref>
+|-
+| 4 || [[Rabi' al-Thani|Rabīʿ ath-Thānī]] / Rabīʿ al-ʾĀkhir || style="direction:rtl;" | {{script/Arabic|رَبِيع ٱلثَّانِي}}<br/>'''''or'''''<br/>{{script/Arabic|رَبِيع ٱلْآخِر}} || the second spring || 
+|-
+| 5 || [[Jumada al-Awwal|Jumādā al-ʾAwwal]] / Jumadā al-ʾŪlā || style="direction:rtl;" | {{script/Arabic|جُمَادَىٰ ٱلْأَوَّل}} <br/>'''''or'''''<br/>{{script/Arabic|جُمَادَىٰ ٱلْأُولَىٰ}} || the first of parched land || Often considered the pre-Islamic summer
+0.0756169
+|''[[At-Tawba|Surah at-Tawbah]] (9), ''[[Ayah]]s'' 36–37<ref>{{cite quran|9|36|e=37|s=ns}}</ref>}}
+
+The prohibition of Nasī' would presumably have been announced when the intercalated month had returned to its position just before the month of Nasi' began
+0.0756169
+The single forbidden month is [[Rajab]], month 7
+0.0756169
+The table below gives, for nineteen years, the Muslim month which corresponds to the first Jewish month
+0.0756169
+The Muslim month number corresponding to the first Jewish month is therefore 992×7=6944 higher than in 2026
+0.0778091
+
+===Kuwaiti algorithm===
+{{main|Tabular Islamic calendar#Kuwaiti algorithm}}
+[[Microsoft]] uses the "Kuwaiti algorithm", a variant of the tabular Islamic calendar,<ref>[http://www.staff.science.uu.nl/~gent0113/islam/islam_tabcal.htm#kuwait The "Kuwaiti Algorithm"] (Robert van Gent).</ref> to convert Gregorian dates to the Islamic ones
+0.0794724
+He also says that, in terms of the fixed calendar that was not introduced until 10 AH (632 AD/CE), the first intercalation was, for example, of a month between Dhu al-Hijjah and Muharram, the second of a month between Muharram and Safar, the third of a month between Safar and Rabi'I, and so on.<ref name="Nasi"/> The intercalations were arranged so that there were seven of them every nineteen years
+0.0873149
+
+Although some scholars (see list above) claim that the holy months were shuffled about for convenience without the use of intercalation, there is no documentary record of the festivals of any of the holy months being observed in any month other than those they are now observed in
+0.0891154
+Since AH 1419 (1998/99), several official hilal sighting committees have been set up by the government to determine the first visual sighting of the lunar crescent at the beginning of each lunar month
+0.0978122
+If Nasī' meant intercalation, then the number and the position of the intercalary months between AH 1 and AH 10 are uncertain; western calendar dates commonly cited for key events in early Islam such as the Hijra, the Battle of Badr, the Battle of Uhud and the Battle of the Trench should be viewed with caution as they might be in error by one, two, three or even four lunar months
+0.100823
+Among these twelve months four are sacred, namely, Rajab, which stands alone, and three others which are consecutive.|Translated by Sherrard Beaumont Burnaby<ref>Sherrard Beaumont Burnaby, ''[https://archive.org/details/elementsofjewish00burnuoft Elements of the Jewish and Muhammadan calendars]'' (London: 1901) 370.</ref>}}
+
+The three successive sacred (forbidden) months mentioned by Prophet Muhammad (months in which battles are forbidden) are [[Dhu al-Qadah|Dhu al-Qa'dah]], [[Dhu al-Hijjah]], and [[Muharram]], months 11, 12, and 1 respectively
+0.100823
+This Julian date (16 July) was determined by [[Astronomy in medieval Islam|medieval Muslim astronomers]] by projecting back in time their own [[tabular Islamic calendar]], which had alternating 30- and 29-day months in each lunar year plus eleven leap days every 30 years
+0.101451
+Still, due to the fact that both lunar reckoning systems are ultimately based on the lunar cycle itself, both systems still do roughly correspond to one another, never being more than three days out of synchronisation with one another
+0.106938
+However, certain sects and groups, most notably Bohras Muslims namely [[Alavi Bohras|Alavis]], [[Dawoodi Bohra|Dawoodis]] and [[Sulaymani]]s and [[Shia]] [[Ismaili]] Muslims, use a tabular Islamic calendar (see section below) in which odd-numbered months have thirty days (and also the twelfth month in a leap year) and even months have 29
+0.106938
+
+We first find the Muslim month number corresponding to the first month of the Jewish year which begins in 20874 AD/CE
+0.110039
+Sura 9.36 states "Verily, the number of months with Allah is twelve months" and sura 37 refers to "adjusting the number of months"
+0.111378
+Both [[al-Biruni]] and [[al-Mas'udi]] suggest that the ancient Arabs used the same month names as the Muslims, though they also record other month names used by the pre-Islamic Arabs.<ref name="EI2-Tarikh"/>
+
+The Islamic tradition is unanimous in stating that Arabs of [[Tihamah]], [[Hejaz]], and [[Najd]] distinguished between two types of months, permitted (''ḥalāl'') and forbidden (''ḥarām'') months.<ref name="EI2-Tarikh"/> The forbidden months were four months during which fighting is forbidden, listed as Rajab and the three months around the [[hajj|pilgrimage]] season, Dhu al-Qa‘dah, Dhu al-Hijjah, and Muharram.<ref name="EI2-Tarikh"/> A similar if not identical concept to the forbidden months is also attested by [[Procopius]], where he describes an armistice that the Eastern Arabs of the Lakhmid al-Mundhir respected for two months in the [[summer solstice]] of 541 AD/CE.<ref name="EI2-Tarikh"/> However, Muslim historians do not link these months to a particular season
+0.113192
+(He wants that you) must complete the same number (of days), and that you must magnify God [i.e., to say ''Takbîr'' ("''Allāhu-Akbar''", [i.e.] "God is the Most Great") on seeing the crescent of the months of Ramadân and Shawwâl] for having guided you so that you may be grateful to Him."}}
+
+However, some [[Ulama|jurists]] see no contradiction between Muhammad's teachings and the use of calculations to determine the beginnings of lunar months.<ref>[http://www.islamonline.net/Arabic/contemporary/2003/10/article03.shtml Abderrahman al-Haj : "The faqih, the politician and the determination of lunar months" (in arabic)]</ref> They consider that Muhammad's recommendation was adapted to the culture of the times, and should not be confused with the acts of worship.<ref>Allal el Fassi : "Aljawab assahih..." op
+0.113425
+
+The Islamic calendar, however, is based on a different set of conventions being used for the determination of the month-start-dates.<ref>{{cite web|url=http://tabsir.net/?p=633#more-633|title=tabsir.net|publisher=}}</ref> Each month still has either 29 or 30 days, but due to the variable method of observations employed, there is usually no discernible order in the sequencing of either 29 or 30 day month lengths
+0.11642
+Tabsir.net]</ref>
+
+The major Muslim associations of France also announced in 2012 that they would henceforth use a calendar based on astronomical calculations, taking into account the criteria of the possibility of crescent sighting in any place on Earth.<ref>{{cite web|url=http://oumma.com/13434/ramadan-moubarak|last=Oumma|title=Le Conseil Français du Culte Musulman (CFCM): Ramadan moubarak!|date=19 July 2012|accessdate=15 January 2019}}</ref><ref>{{cite web|url=http://oummatv.tv/13306/sera-premier-jour-mois-de-ramadan|last=Nidhal Guessoum|title=Quel sera le premier jour du mois de Ramadan 2012
+0.124529
+More are listed here:
+
+{| class="wikitable" border="1" style="text-align:center;" cellpadding="2"
+!colspan="3"| {{pad|1.0em}}Islamic year within civil year{{pad|1.0em}} </tr>
+| ''Islamic'' ||  ''Civil'' || ''Difference''
+|-
+| 1060 || 1650 || 590 </tr>
+| 1093 || 1682 || 589 </tr>
+| 1127 || 1715 || 588 </tr>
+| 1161 || 1748 || 587 </tr>
+| 1194 || 1780 || 586 </tr>
+| 1228 || 1813 || 585 </tr>
+| 1261 || 1845 || 584 </tr>
+| 1295 || 1878 || 583 </tr>
+| 1329 || 1911 || 582 </tr>
+| 1362 || 1943 || 581 </tr>
+| 1396 || 1976 || 580 </tr>
+| 1429 || 2008 || 579 </tr>
+| 1463 || 2041 || 578 </tr>
+| 1496 || 2073 || 577 </tr>
+| 1530 || 2106 || 576 </tr>
+| 1564 || 2139 || 575 </tr>
+|}
+
+Because a Hijri or Islamic lunar year is between 10 and 12 days shorter than a civil year, it begins 10–12 days earlier in the civil year following the civil year in which the previous Hijri year began
+0.126028
+|title=Calendrier |url=http://journals.openedition.org/encyclopedieberbere/2039 |website=Encyclopédie Berbère, 11 (Bracelets – Caprarienses) |publisher=OpenEdition |accessdate=5 July 2018 |language=fr}}</ref> These local solar calendars have receded in importance with the near-universal adoption of the Gregorian calendar for civil purposes.{{citation needed|date=May 2016}} The Saudi Arabia uses the lunar Islamic calendar.<ref>the start of each lunar month determined not ahead of time by astronomical calculation, but only after the crescent moon is sighted by the proper religious authorities
+0.133376
+So whoever of you sights (the crescent on the first night of) the month (of Ramadân i.e., is present at his home), he must observe Saum (fasts) that month, and whoever is ill or on a journey, the same number [of days which one did not observe ''Saum'' (fasts) must be made up] from other days
+0.142585
+The day the Prophet moved from Quba' to Medina was originally 26 Rabi' I on the pre-Islamic calendar.<ref>''Chronology of Prophetic Events'', Fazlur Rehman Shaikh (2001) p.52 Ta-Ha Publishers Ltd.</ref> 1 Muharram of the new fixed calendar corresponded to Friday, 16 July 622 AD/CE, the equivalent civil tabular date (same daylight period) in the [[Julian calendar]].<ref>Sherrard Beaumont Burnaby, [https://archive.org/details/elementsofjewish00burnuoft ''Elements of the Jewish and Muhammadan calendars''] (1901) pp.373–5, 382–4.</ref><ref>{{cite web|url=http://emr.cs.iit.edu/home/reingold/calendar-book/Calendrica.html |title=Calendrica |publisher= |url-status=dead |archiveurl=https://web.archive.org/web/20050216102054/http://emr.cs.iit.edu/home/reingold/calendar-book/Calendrica.html |archivedate=16 February 2005 |df= }}</ref> The Islamic day began at the preceding sunset on the evening of 15 July
+0.142585
+
+For AH 1420–22, if moonset occurred after sunset at Mecca, then the day beginning at that sunset was the first day of a Saudi month, essentially the same rule used by Malaysia, Indonesia, and others (except for the location from which the hilal was observed)
+0.145525
+After debating the issue with his counsellors, he decided that the first year should be the year of Muhammad's arrival at Medina (known as Yathrib, before Muhammad's arrival)
+0.151234
+If the festivities of the sacred months were kept in season by moving them into later months, they would move through the whole twelve months in only 33 years
+0.160077
+Traditionally, the first day of each month is the day (beginning at sunset) of the first sighting of the hilal (crescent moon) shortly after sunset
+0.176439
+Once every 33 or 34 Hijri years, or once every 32 or 33 civil years, the beginning of a Hijri year (1 Muharram) coincides with one of the first ten days of January
+0.178231
+Secondly, without a cycle it is difficult to establish from the number of the year (a) if it is intercalary and (b) if it is intercalary, where exactly in the year the intercalation is located
+0.189182
+Therefore, the first month of the Jewish year beginning in 20874 AD/CE corresponds to the sixth month of the Muslim year AH 20874
+0.196054
+This often caused the Saudis to celebrate holy days one or even two days before other predominantly Muslim countries, including the dates for the Hajj, which can only be dated using Saudi dates because it is performed in Mecca
+0.201645
+66–71.</ref> Given the fact that the moon sets progressively later than the sun as one goes west, with a corresponding increase in its "age" since conjunction, Western Muslim countries may, under favorable conditions, observe the new moon one day earlier than eastern Muslim countries
+0.201645
+Rents, wages and similar regular commitments are generally paid by the civil calendar.{{citation needed|date=February 2019}}
+
+The Islamic calendar employs the [[Hijri era]] whose [[Epoch (reference date)|epoch]] was established as the [[Islamic New Year]] of 622 [[Anno Domini|AD]]/[[Common Era|CE]].<ref>[https://www.soundvision.com/article/the-beginning-of-hijri-calendar The Beginning of Hijri calendar]{{snd}} Paul Lunde, ''Saudi Aramco World Magazine'' (November/December 2005), retrieved 1/1/2019</ref> During that year, [[Muhammad]] and his followers migrated from [[Mecca]] to [[Medina]] and established the first Muslim community (''[[ummah]]''), an event commemorated as the [[Hijra (Islam)|Hijra]]
+0.201645
+
+Thus "gathering day" is often regarded as the weekly day of off
+0.201645
+Muḥarram includes [[Day of Ashura|‘Āshūrā’]], the tenth day
+0.201645
+If the hilal is not observed immediately after the 29th day of a month (either because clouds block its view or because the western sky is still too bright when the moon sets), then the day that begins at that sunset is the 30th
+0.209724
+
+A reading of the section which follows will show that the year AH 20875 is wholly contained within the year 20875 AD/CE, also that in the Gregorian calendar this correspondence will occur one year earlier
+0.2317
+
+An example calculation: What is the civil date and year AH of the first day of the first month in the year 20875 AD/CE
+0.2317
+The reason for the discrepancy is that the Gregorian year (like the Julian, though less so) is slightly too long, so the Gregorian date for a given AH date will be earlier and the Muslim calendar catches up sooner
+0.23284
+
+== Notable dates ==
+{{main|Muslim holidays}}
+Important dates in the Islamic (Hijri) year are:
+* 1 Muharram: [[Sunni]] [[Islamic New Year]]
+0.24019
+هل يجوز شرعاً إثباتها|publisher=}}</ref><ref>For a detailed discussion of Shakir's legal opinion on the subject, see "Issue N° 9" in [http://tabsir.net/?p=633#more-633 Khalid Chraibi: Issues in the Islamic Calendar, Tabsir.net]</ref> So did the [[Fiqh Council of North America]] (FCNA) in 2006<ref>{{cite web|url=http://www.fiqhcouncil.org/Default.aspx?tabid=55|title=Fiqh Council of North America Islamic lunar calendar|publisher=|url-status=dead|archiveurl=https://web.archive.org/web/20080516105409/http://www.fiqhcouncil.org/Default.aspx?tabid=55|archivedate=16 May 2008|df=dmy-all}}</ref><ref>{{cite web|url=http://www.icbwayland.org/include/CalculationsFiqhPosition.pdf|title=Zulfikar Ali Shah The astronomical calculations: a fiqhi discussion|publisher=|url-status=dead|archiveurl=https://web.archive.org/web/20080809032701/http://www.icbwayland.org/include/CalculationsFiqhPosition.pdf|archivedate=9 August 2008|df=dmy-all}}</ref> and the [[European Council for Fatwa and Research]] (ECFR) in 2007.<ref>{{cite web|url=http://www.icbwayland.org/include/MoonsightingDecisionWeb.pdf|title=Islamic Center of Boston, Wayland|publisher=}}</ref><ref>For a detailed discussion of the issues and the FCNA and ECFR positions, see : [http://tabsir.net/?p=621#more-621 Khalid Chraibi: Can the Umm al Qura calendar serve as a global Islamic calendar
+0.249523
+First, it cannot be regulated by means of a cycle (the only cycles known in antiquity were the [[octaeteris]] (3 intercalations in 8 years) and the [[enneadecaeteris]] (7 intercalations in 19 years)
+0.249523
+This put the country ten solar years behind the standard Muslim calendar.<ref>{{cite book |last=Hagger |first=Nicholas |title=The Libyan Revolution: Its Origins and Legacy |year=2009 |publisher=O Books |location=Winchester, UK |pages=109}}</ref> However, according to the 2006 ''Encyclopedia of the Developing World'', "More confusing still is Qaddafi's unique Libyan calendar, which counts the years from the Prophet's birth, or sometimes from his death
+0.251522
+<!----Mean civil year = 365d 05h 48m 48s (Milankovic), synodic month = 29d 12h 44 1/18m, hence mean calendar year = 354d 08h 48 12/18m.---->
+
+===Current correlations===
+An Islamic year will be entirely within a Gregorian year of the same number in the year 20874, after which year the number of the Islamic year will always be greater than the number of the concurrent civil year
+0.252056
+
+In 2007, the [[Islamic Society of North America]], the ''Fiqh'' Council of North America and the European Council for ''[[Fatwa]]'' and Research announced that they will henceforth use a calendar based on calculations using the same parameters as the ''Umm al-Qura'' calendar to determine (well in advance) the beginning of all lunar months (and therefore the days associated with all religious observances)
+0.252056
+One year they authorise the Nasi', another year they forbid it
+0.252056
+
+==Year numbering==
+{{main|Hijri year}}
+In pre-Islamic Arabia, it was customary to identify a year after a major event which took place in it
+0.252056
+The raid was unsuccessful, but that year became known as the ''[[Year of the Elephant]]'', during which Muhammad was born (sura [[al-Fil]])
+0.252056
+For earlier years, year BH = (623 or 622) – year AD/CE)
+0.253015
+11.</ref> Some sources say that the Arabs followed the Jewish practice and intercalated seven months over nineteen years, or else that they intercalated nine months over 24 years; there is, however, no consensus among scholars on this issue.<ref>Bonner 2011, page 21.</ref>
+
+Postponement (''Nasī’'') of one ritual in a particular circumstance does not imply alteration of the sequence of months, and scholars agree that this did not happen
+0.269516
+These months were considered forbidden both within the new Islamic calendar and within the old pagan Meccan calendar.{{citation needed|date=October 2016}}
+
+==Days of the Week==
+The Islamic days of the week correspond to the seven days Allah created the world
+0.293613
+Such years occur once every 33 or 34 Islamic years (32 or 33 civil years)
+0.294917
+Edward Sachau]] (1000/1879) 327.</ref> Although not used by either medieval Muslim astronomers or modern scholars to determine the Islamic epoch, the thin [[Lunar phase|crescent moon]] would have also first become visible (assuming clouds did not obscure it) shortly after the preceding sunset on the evening of 15 July, 1.5 days after the associated [[dark moon]] (astronomical [[new moon]]) on the morning of 14 July.<ref>{{cite web|url=http://eclipse.gsfc.nasa.gov/phase/phases0601.html|title=NASA phases of the moon 601–700|publisher=|url-status=dead|archiveurl=https://web.archive.org/web/20101008214455/http://eclipse.gsfc.nasa.gov/phase/phases0601.html|archivedate=8 October 2010|df=dmy-all}}</ref>
+
+Though [[Michael Cook (historian)|Cook]] and [[Patricia Crone|Crone]] in ''[[Hagarism: The Making of the Islamic World]]'' cite a coin from AH 17, the first surviving attested use of a Hijri calendar date alongside a date in another calendar ([[Coptic calendar|Coptic]]) is on a [[papyrus]] from [[Egypt]] in AH 22, [[PERF 558]]

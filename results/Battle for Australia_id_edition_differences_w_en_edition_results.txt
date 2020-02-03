@@ -1,0 +1,20 @@
+Battle for Australia
+id edition's differences with the en version: 
+0.14014
+Army Center of Military History
+| First = 
+| Authorlink =
+| coauthors = 
+| Date = 
+| Year = 
+| month =
+| URL = http://www.army.mil/cmh/books/wwii/MacArthur%20Reports/MacArthur%20V2%20P1/macarthurv2.htm#contents
+| title = Japanese Operations in the Southwest Pacific Area, Volume II-Part I
+| Format = 
+| Work = Reports of General MacArthur
+| Pages =
+| Publisher =
+| Language =
+| accessdate = 2006-12-08
+| Missing =
+}}-Translation of the official record by the Japanese Demobilization Bureaux detailing the Imperial Japanese Army and Navy's participation in the Southwest Pacific area of the [[Pacific War]]

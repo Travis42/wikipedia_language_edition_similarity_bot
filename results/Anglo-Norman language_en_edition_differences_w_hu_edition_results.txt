@@ -1,0 +1,235 @@
+Anglo-Norman language
+en edition's differences with the hu version: 
+-3.70846e-10
+*TROTTER, David (2011b), 'L'anglo-normand et le français, et les emprunts en anglais', Actes du colloque international 'Les emprunts lexicaux au français dans les langues européennes', Craiova, 10–12 novembre 2011 (Craiova: Editura Universitaria, 2011), 299–309
+-1.09139e-10
+
+*DEES, Anthonij (1980), Atlas des formes et des constructions des chartes françaises du 13e siècle (Beihefte zur ZrP, vol
+-1.09139e-10
+*DEES, Anthonij (1987), Atlas des formes linguistiques des textes littéraires de l'ancien français (Beihefte zur ZrP, vol
+-4.99085e-11
+"Des Interférences picardes dans l'Anglo-Norman Dictionary." In De mot en mot: Essays in honour of William Rothwell, edd
+-3.63798e-11
+*STANOVAÏA, Lydia (2003), La standardisation en ancien français, in: Goyens/Verbeke (2003), 241–272
+-1.40972e-11
+In Northern [[France]] at that time,{{when|date=February 2018}} almost nothing was being recorded in the [[vernacular]] because [[Medieval Latin|Latin]] was the language of the [[Roman Catholic Church#Medieval and Renaissance periods|Church]] and consequently of [[Medieval university|education]] and [[historiography]], and was thus used for the purpose of records
+-1.18234e-11
+(edd.), Et multum et multa
+-1.18234e-11
+Les intellectuels et la langue française aux XIIIe et XIVe siècles
+-1.18234e-11
+*PFISTER, Max (1993), 'Scripta' et 'koinè' en ancien français aux XIIe et XIIIe siècles?, in: KNECHT, Pierre/MARZYS, Zygmunt (edd.), Écriture, langues communes et normes
+-1.18234e-11
+Formation spontanée de koinès et standardisation dans la Galloromania et son voisinage, Genève/Neuchâtel, Droz/Faculté des lettres, 17–41
+3.27418e-11
+ The former words were originally pronounced something like 'profoond', 'soon', 'roond' respectively (compare the similarly [[nasal stop|denasalised]] vowels of modern Norman), but later developed their modern pronunciation in English
+3.27418e-11
+Similarly, ''j'' had an older {{IPA|/dʒ/}} sound, which it still has in English and some dialects of modern Norman, but it has developed into {{IPA|/ʒ/}} in Modern French
+4.72937e-11
+(2011), Standardisation et Koinéisation: Deux approaches contraires à l'historiographie d'une langue, in: Dessì Schmid/Hafner/Heinemann (2011), 65–79
+1.10049e-10
+*GOEBL, Hans (2008), Sur le changement macrolinguistique survenu entre 1300 et 1900 dans le domaine d'oïl
+1.10049e-10
+Une étude diachronique d'inspiration dialectométrique, Dialectologia 1, 3–43 [disponible en ligneà l'addresse suivante: http://www.publicacions.ub.edu/revistes/dialectologia1/{{dead link|date=October 2016 |bot=InternetArchiveBot |fix-attempted=yes }} (consulté le 02.02.14)]
+*GOSSEN, Charles Théodore (1968a), Graphème et phonème: le problème central de l'étude des langues écrites au Moyen Age, RLiR 32, 1–16
+1.10049e-10
+*TROTTER, David (1998b), 'Les néologismes de l'anglo-français et le FEW', Le Moyen Français 39–41, 577–636
+1.78261e-10
+Paris: PUF.*LUSIGNAN, Serge (2011), Le français médiéval: perspectives historiques sur une langue plurielle, in: Lusignan, Serge/ Martineau, France/Morin, Yves Charles/Cohen, Paul, L'introuvable unité du français
+2.9695e-10
+*KRISTOL, Andres (1989), Le début du rayonnement parisien et l'unité du français au Moyen Âge: le témoignage des manuels d'enseignement du français publiés en Angleterre entre le XIIIe et le début du XVe siècle, RLiR 53, 335–367
+0.0203363
+''[[couvre-feu]]'') meant ''cover-fire'', referring to the time in the evening when all fires had to be covered to prevent the spread of fire within communities with timber buildings.<ref>''Bailey's Dictionary'', fifth edition, 1731.</ref> The word ''glamour'' is derived from Anglo-Norman ''grammeire'', the same word which gives us modern ''grammar''; ''glamour'' meant first "book learning" and then the most glamorous form of book learning, "magic" or "magic spell" in Medieval times
+0.0249068
+Several Norman words became [[Irish language|Irish]] words, including household terms: {{lang|ga|garsún}} (from Norman {{lang|xno|garçun}}, "boy"); {{lang|ga|cóta}} ({{lang|xno|cote}}, "cloak"); {{lang|ga|hata}} ({{lang|xno|hatte}}, "hat"); {{lang|ga|gairdín}} ({{lang|xno|gardin}}, "garden"); and terms relating to justice (Irish {{lang|ga|giúistís}}, {{lang|ga|bardas}} (corporation), {{lang|ga|cúirt}} (court))
+0.0352235
+*ROTHWELL, William (1980), 'Lexical borrowing in a medieval context', Bulletin of the John Rylands University Library of Manchester, 63, 118–43.*ROTHWELL, William (1983), 'Language and government in medieval England', Zeitschrift fiir französische Sprache und Literatur, 93, 258–70
+0.0352235
+193)</ref> that was used in [[Kingdom of England|England]] and, to a lesser extent, elsewhere in Great Britain and Ireland during the [[Anglo-Normans|Anglo-Norman]] period.<ref>For a wide-ranging introduction to the language and its uses, see [https://archive.is/20120724052814/http://www.anglo-norman.net/sitedocs/main-intro.html Anglo-French and the AND] by [[William Rothwell]]</ref>
+
+When [[William the Conqueror]] led the [[Norman conquest of England]] in 1066, he, his nobles, and many of his followers from [[Normandy]], but also those from northern and western France, spoke a range of [[langues d'oïl]] (northern varieties of [[Gallo-Romance languages|Gallo-Romance]])
+0.0352235
+*ROTHWELL, William (1994), 'The trilingual England of Geoffrey Chaucer', Studies in the Age of Chaucer, 16, 45–67.*ROTHWELL, William (1996a), 'Adding insult to injury: the English who curse in borrowed French', in NIELSEN/SCHØSLER (1996), 41–54
+0.0498135
+It continued to be known as "Norman French" until the end of the 19th century even though, philologically,  there was nothing Norman about it.<ref>Pollock and Maitland, p
+0.0498136
+One of these was [[Old Norman]], also known as "Old Northern French"
+0.0510437
+Retrieved on 18 November 2007.</ref><ref>{{cite web|url=https://publications.parliament.uk/pa/ld/ldcomp/ldctso56.htm|title=Companion to the Standing Orders and guide to the Proceedings of the House of Lords|accessdate=2007-11-18|publisher=United Kingdom Parliament| archiveurl= https://web.archive.org/web/20071121221657/http://www.publications.parliament.uk/pa/ld/ldcomp/ldctso56.htm| archivedate= 21 November 2007 | url-status= live}}</ref> These set phrases include:
+*''Soit baille aux Communes'' ("Let it be sent to the Commons", on a bill sent by the House of Lords to the House of Commons)
+*''A ceste Bille (avecque une amendement/avecque des amendemens) les Communes sont assentus'' ("To this Bill (with an amendment/with amendments) the Commons have assented", on a bill passed by the House of Commons and returned to the House of Lords)
+*''A cette amendement/ces amendemens les Seigneurs sont assentus'' ("To this amendment/these amendments the Lords have assented", on an amended bill returned by the House of Commons to the House of Lords, where the amendments were accepted)
+*''Ceste Bille est remise aux Communes avecque une Raison/des Raisons'' ("This Bill is returned to the Commons with a reason/with reasons", when the House of Lords disagrees with amendments made by the House of Commons)
+*''Le Roy/[[La Reyne le veult]]'' ("The King/Queen wills it", Royal Assent for a public bill)
+*''Le Roy/La Reyne remercie ses bons sujets, accepte leur benevolence et ainsi le veult'' ("The King/Queen thanks his/her good subjects, accepts their bounty, and wills it so", Royal Assent for a supply bill)
+*''Soit fait comme il est désiré'' ("Let it be done as it is desired", Royal Assent for a private bill)
+*''Le Roy/La Reyne s'avisera'' ("The King/Queen will consider it", if Royal Assent is withheld)
+
+The exact spelling of these phrases has varied over the years; for example, ''s'avisera'' has been spelled as ''s'uvisera'' and ''s'advisera'', and ''Reyne'' as ''Raine''
+0.0552632
+*MOLINELLI, Piera/ Guerini, Federica (2013) (edd.), Plurilinguismo e diglossia nella Tarda Antichità et nel Medio Evo (Traditio et Renovatio, 7), Firenze, SISMEL: Edizioni del Galluzzo
+*MONFRIN, Jacques (1968), La mode de tradition des actes écrits et les études de dialectologie, RLiR 32, 17–47
+0.0575197
+*VÖLKER, Harald (2000), Chartes luxembourgeoises du XIIIe siècle: Scripta régionale, locale ou «individuelle»?, in: Actes du XXIIe Congrès International de Linguistique et de Philo¬logie Romanes, Bruxelles, 23–29 juillet 1998, Tübingen, Niemeyer, 2000, 5, 159–166
+0.0622669
+
+*TROTTER, David (1997), 'Mossenhor, fet metre aquesta letra en bon francés: Anglo-French in Gascony', in GREGORY, Stewart and TROTTER, David (eds), De mot en mot: Essays in honour of William Rothwell, Cardiff, 199–222
+0.070447
+*[[Dominica Legge|LEGGE, Dominica]] (1965), La précocité de la littérature Anglo-normande, CCM 8, 327–349
+0.070447
+*MÖHREN, Frankwalt (1997), 'Unité et diversité du champ sémasiologique – l'exemple de l'Anglo-Norman Dictionary', in GREGORY, Stewart and TROTTER, David (eds), De mot en mot: Essays in honour of William Rothwell, Cardiff, 127–146
+0.070447
+Etudes de variation linguistique offertes à Anthonij Dees à l'occasion de son 60ème anniversaire, Amsterdam, 103 12
+0.0718997
+Contacts et variations linguistiques en Europe et en Amérique (XIIe-XVIIIe siècle), Laval, Presses de l'Université Laval, 5–107
+0.0724894
+*HENRY, Albert (1986), Un texte œnologique de Jofroi de Waterford et Servais Copale, Romania 107, 1–37 [première publication: idem, Contribution à l'étude du language œnologique en langue d'oïl, Bruxelle, Académie Royale de Belgique, I, 45–53 et II, 37–49]
+0.0747203
+
+== Literature ==
+{{see also|Anglo-Norman literature}}
+When the [[Normans]] invaded England, [[Anglo-Saxon literature]] had reached a very high level of development
+0.0747203
+However, with the arrival of the Norman, Anglo-Saxon literature came to an end and literature written in Britain was in Latin or Anglo-Norman
+0.075311
+*SCHWAN, Eduard/BEHRENS, Dietrich (41932), Grammaire de l'ancien français, Troisième partie: Matériaux pour servir d'introduction à l'étude des dialectes de l'ancien français, Lepizig, Reisland [traduction par Oscar Bloch de la 12e édition de l'original allemand: Grammatik des Altfranzösischen
+0.0813452
+*WOLEDGE, Brian (1970), Un scribe champenois devant un texte normand: Guiot copiste de Wace, in: Mélanges de langue et de littérature du Moyen Âge et de la Renaissance offerts à Jean Frappier, Genève, Droz, 2, 1139–1154
+0.0862796
+*ROTHWELL, William (1978), 'A quelle époque a-t-on cessé de parler français en Angleterre?' in Mélanges de philologie romane offerts d Charles Camproux (Montpellier, Centre d'estudis occitans), 1075–89.*
+*ROTHWELL, William (1979), 'Anglo-French lexical contacts, old and new', Modern Language Review, 74, 287–96
+0.0880587
+
+Many expressions used in English today have their origin in Anglo-Norman (such as the expression ''before-hand'', which derives from Anglo-Norman ''avaunt-main''), as do many modern words with interesting etymologies
+0.0880587
+*LUSIGNAN, Serge (2004), La langue des rois au Moyen Âge: le français en France et en Angleterre, Paris, Presses universitaires de France
+0.0880587
+* {{cite book|last=Studer|first=Paul|authorlink=Paul Studer|title=The study of Anglo-Norman: Inaugural lecture delivered before the University of Oxford on 6 February 1920|year=1920|publisher=Clarendon Press|location=Oxford|title-link=s:The study of Anglo-Norman}}
+*TIDDEMAN, Megan (2012)
+0.0953857
+*WÜEST, Jakob (2003), Le rapport entre la langue parlée et la langue écrite: les scriptae dans le domaine d'oïl et le domaine d'oc, in: Goyens/Verbeke (2003), 51–70.**
+
+==External links==
+* {{Cite web |url=http://www.anglo-norman.net/ |title=The Anglo-Norman hub contains articles and corpus texts |access-date=2004-05-09 |archive-url=https://wayback.archive-it.org/all/20130704150147/http://www.anglo-norman.net/ |archive-date=2013-07-04 |url-status=bot: unknown }}, and includes:
+** [http://www.anglo-norman.net/gate/index.shtml The Revised Anglo-Norman Dictionary (A-Q), with the entries from the first edition, for R-Z] freely available online
+0.0996271
+*GOSSEN, Charles Théodore (1968b), L'interprétation des graphèmes et la phonétique historique de la langue française, TraLiLi 6/i (1968), 149–168
+0.0996271
+*WÜEST, Jakob (1979), La dialectalisation de la Gallo-Romania
+0.0996271
+"Les régionalismes dans quelques textes anglo-normands." In Actes du XXIVe Congrès International de Linguistique et de Philologie Romanes, ed
+0.0996271
+*TROTTER, David (1994), 'L'anglo-français au Pays de Galles: une enquête préliminaire', Revue de linguistique romane, 58: 461–88
+0.0996271
+*TROTTER, David (2000b), 'L'avenir de la lexicographie anglo-normande: vers une refonte de l'Anglo-Norman Dictionary?', Revue de linguistique romane, 64 (2000), 391–407
+0.0996271
+
+*TROTTER, David (2012a): Saunz desbriser de hay ou de clos: clos(e) in Anglo-French and in English
+0.0996271
+In: Stephen DÖRR/Thomas STÄDTLER (eds.), Ki bien voldreit raisun entendre: Mélanges en l'honneur du 70e anniversaire de Frankwalt Möhren, Strasbourg: Éditions de Linguistique et de Philologie, 323–337
+0.0996271
+In: Emili CASANOVA HERRERO/Cesáro CALVO RIGUAL (edd.), Actas del XXVI Congreso Internacional de Lingüística y de Filología Románicas, Berlin: De Gruyter, I, 441–456
+0.123282
+*TROTTER, David (2008), L'Anglo-normand en France: les traces documentaires, Académie des Inscriptions & Belles-Lettres: Comptes rendus des séances de l'année 2008, avril-juin, II, 893–904
+0.124534
+''La langue des rois au Moyen Âge: Le français en France et en Angleterre''
+0.124534
+Yoko WADA (Cambridge: Boydell & Brewer, 2003), 83–101
+*TROTTER, David (2003c), 'Langues en contact en Gascogne médiévale', in Actas del XXIII Congreso Internacional de Lingüística y Filología Románica, Salamanca, 2001, III
+0.124534
+*ROTHWELL, William (1993b), 'The 'Faus franceis d'Angleterre': later Anglo-Norman', In Short, Ian (ed.) Anglo-Norman Anniversary Essays, London, 309–326
+0.124534
+*SHORT, Ian (1995), 'Tam Angli quam Franci: Self-definition in Anglo-Norman England', Anglo-Norman Studies xviii, 153–175
+0.124534
+*SHORT, Ian (2007), Manual of Anglo-Norman (ANTS, Occasional Publications Series, 7; London: Anglo-Norman Text Society)
+0.124534
+"Mercantile multilingualism: two examples of Anglo-Norman and Italian contact in the fourteenth century." In Present and future research in Anglo-Norman: Proceedings of the Aberystwyth Colloquium, 21–22 July 2011, ed
+0.138158
+*VAN ACKER, Marieke (2010), La transition Latin / langues romanes et la notion de «diglossie», ZrP 126, 1–38.*VIDESOTT, Paul (2013), Les débuts du français à la Chancellerie royale: analyse scriptologique des chartes de Philippe III (1270–1285), RLiR 77, 3–50
+0.149441
+However, from the late 12th century to the early 15th century, Anglo-Norman French and Anglo-French were much used in law reports, charters, ordinances, official correspondence, and trade at all levels; they were the language of the King, his court and the upper class
+0.149441
+
+During the 15th century, English became the main spoken language, but Latin and French continued to be exclusively used in official legal documents until the beginning of the 18th century
+0.158506
+
+The influence of Anglo-Norman was very asymmetric: very little influence from English was carried over into the continental possessions of the Anglo-Norman kings
+0.16945
+Place-names in Norman are few, but there is [[Buttevant]] (from the motto of the Barry family: {{lang|xno|Boutez en Avant}}, "Push to the Fore"), the village of [[Brittas, Dublin|Brittas]] (from the Norman {{lang|xno|bretesche}}, "boarding, planking") and the element ''Pallas'' (Irish {{lang|ga|pailís}}, from Norman {{lang|xno|paleis}}, "boundary fence": compare [[palisade]], [[The Pale]]).<ref>[http://www.logainm.ie/en/s?txt=Pallas&str=on 'Pallas' {{!}} Logainm.ie]</ref> Others exist with English or Irish roots, such as [[Castletownroche]], which combines the English ''Castletown'' and the Norman {{lang|xno|Roche}}, meaning rock
+0.211341
+
+The language of later documents adopted some of the changes ongoing in continental French and lost many of its original dialectal characteristics, so ''Anglo-French'' remained (in at least some respects and at least at some social levels) part of the dialect continuum of modern French, often with distinctive spellings
+0.211341
+Law French was banished from the courts of the [[common law]] in 1731, almost three centuries after the king ceased speaking primarily French
+0.211341
+
+Distinctions in meaning between Anglo-Norman and French have led to many ''[[False friends|faux ami]]s'' (words having similar form but different meanings) in Modern English and Modern French
+0.228953
+English has many [[doublet (linguistics)|doublet]]s as a result of this contrast: 
+* ''warranty – guarantee''
+* ''warden – guardian''
+* ''catch – chase'' (see below)
+
+Compare also: 
+* ''wage'' (Anglo-Norman) – ''gage'' (French)
+* ''wait'' – ''guetter'' (French, Old French ''guaitier'')
+* ''war'' (from Anglo-Norman ''werre'') – ''guerre'' (French)
+* ''wicket'' (Anglo-Norman) – ''guichet'' (French, from Norman)
+
+The [[palatalization (sound change)|palatalization]] of [[velar consonant]]s before the front vowel produced different results in Norman to the central ''langue d'oïl'' dialects that developed into French
+0.233912
+
+Only a handful of Hiberno-Norman-French texts survive, most notably the {{lang|fr|[[chanson de geste]]}} ''[[The Song of Dermot and the Earl]]'' (early 13th century) and the [[Statutes of Kilkenny]] (1366).<ref>{{cite web |url=http://www.ucc.ie/celt/frpage.html |title=Medieval and early modern French Texts at CELT |website=www.ucc.ie }}</ref>
+
+==See also==
+*[[Anglo-Norman literature]]
+*[[Anglo-Norman Text Society]]
+*[[Law French]]
+*[[Middle English creole hypothesis]]
+
+==Notes==
+{{reflist}}
+
+==References==
+* De Wilde, G
+0.241631
+French was used by the merchant middle class as a language of business communication, especially when it traded with the continent, and several churches used French to communicate with lay people.<ref name="Lusignan" /> A small but important number of documents survive associated with the Jews of medieval England, some featuring Anglo-French written in [[Hebrew]] script, typically in the form of [[gloss (annotation)|gloss]]es to the Hebrew scriptures.<ref name="Fuderman" >Fuderman</ref>
+
+==Characteristics==
+As a ''[[langue d'oïl]]'', Anglo-Norman developed collaterally to the central [[Gallo-Romance]] dialects which would eventually become [[Paris]]ian French in terms of [[grammar]], [[pronunciation]] and [[vocabulary]]
+0.244459
+*INGHAM, Richard, 'Mixing languages on the Manor', Medium Aevum 78 (2009), 80–97 (=2009a).*INGHAM, Richard, 'Syntactic change in Anglo-Norman and Continental French Chronicles: was there a 'Middle' Anglo-Norman?', Journal of French Language Studies 16 (2006), 26–49
+0.246564
+Otherwise the direct influence of English in mainland Norman (such as ''smogler'' "to smuggle") is from direct contact with English in later centuries, rather than Anglo-Norman
+0.246564
+In other cases, the Norman or French word was adopted to signify a new reality, such as ''judge'', ''castle'', ''warranty''.<ref name="Lusignan" />
+
+In general, the Norman and French borrowings concerned the fields of culture, aristocratic life, politics and religion, and war whereas the English words were used to describe everyday experience
+0.249068
+Henry IV was the first to take the oath in English, and his son, [[Henry V of England|Henry V]] (1413–1422), was the first to write in English
+0.290132
+Rothwell has called Anglo-French 'the [[Transitional fossil#Missing links|missing link]]' because many etymological [[dictionary|dictionaries]] seem to ignore the contribution of that language in English and because Anglo-Norman and Anglo-French can explain the transmission of words from French into English and fill the void left by the absence of documentary records of English (in the main) between 1066 and c
+0.298881
+
+By the late 15th century, however, what remained of insular French had become heavily anglicised: see [[Law French]]
+0.298881
+
+==Trilingualism in Medieval England==
+
+Much of the earliest recorded [[French language|French]] is in fact Anglo-Norman French
+0.298881
+During this period, marriages with French princesses reinforced the French status in the royal family
+0.298881
+Moreover, with the [[Hundred Years' War]] and the growing spirit of English and French nationalism, the status of French diminished
+0.298881
+Nevertheless, the French language used in England changed from the end of the 15th century into [[Law French]]
+0.298881
+This variety of French was a technical language, with a specific vocabulary, where English words were used to describe everyday experience, and French grammatical rules and morphology gradually declined, with confusion of genders and the adding of ''-s'' to form all plurals
+0.298881
+For example, ''ch'' used to be {{IPA|/tʃ/}} in Medieval French, where Modern French has {{IPA|/ʃ/}}, but English has preserved the older sound (in words like ''chamber, chain, chase'' and ''exchequer'')
+0.298881
+"The Gloss to Philippe de Thaon's Comput and the French of England's Beginnings." In The French of Medieval England
+0.298881
+*ROTHWELL, William (2002), 'The semantic field of Old French Astele: the pitfalls of the medieval gloss in lexicography', Journal of French Language Studies 12, 203–220
+0.298881
+*TROTTER, David (2003d), 'Not as eccentric as it looks: Anglo-Norman and French French', Forum for Modern Language Studies, 39, 427–438

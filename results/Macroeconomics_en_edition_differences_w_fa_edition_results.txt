@@ -1,0 +1,284 @@
+Macroeconomics
+en edition's differences with the fa version: 
+-3.06954e-12
+Defenders of fiscal stimulus argue that crowding out is not a concern when the economy is depressed, plenty of resources are left idle, and interest rates are low.<ref>{{Cite book|url=https://books.google.com/?id=Lec5DwAAQBAJ&pg=PA133&lpg=PA133&dq=Defenders+of+fiscal+stimulus+argue+that+crowding+out+is+not+a+concern+when+the+economy+is+depressed,+plenty+of+resources+are+left+idle,+and+interest+rates+are+low.#v=onepage&q=Defenders%20of%20fiscal%20stimulus%20argue%20that%20crowding%20out%20is%20not%20a%20concern%20when%20the%20economy%20is%20depressed,%20plenty%20of%20resources%20are%20left%20idle,%20and%20interest%20rates%20are%20low.&f=false|title=Scientific Metrics: Towards Analytical and Quantitative Sciences|last=Ye|first=Fred Y.|year=2017|publisher=Springer|isbn=978-981-10-5936-0|language=en}}</ref><ref>{{cite journal |last1=Arestis |first1=Philip |last2=Sawyer |first2=Malcolm |title=Reinventing fiscal policy |journal=Levy Economics Institute of Bard College |date=2003 |issue=Working Paper, No
+0.00891614
+This includes regional, national, and [[global economies]].<ref>{{Citation
+| last1 = O'Sullivan
+| first1 = Arthur
+| author1link = Arthur O'Sullivan (economist)
+| last2 = Sheffrin
+| first2 = Steven M
+0.0126093
+[[File:Circulation in macroeconomics.svg|thumb|[[Circular flow of income|Circulation in macroeconomics]].]]
+===Output and income===
+National [[Output (economics)|output]] is the total amount of everything a country produces in a given period of time
+0.0126093
+
+For example, if the economy is producing less than potential output, government spending can be used to employ idle resources and boost output
+0.0126093
+Crowding out occurs when government spending simply replaces private sector output instead of adding additional output to the economy
+0.0133742
+[[Okun's law]] represents the empirical relationship between unemployment and economic growth.<ref>Dwivedi, 445–46.</ref> The original version of Okun's law states that a 3% increase in output would lead to a 1% decrease in unemployment.<ref>Neely, Christopher J
+0.0178323
+
+===Austrian School===
+[[Ludwig Von Mises]]'s work ''[[Theory of Money and Credit]]'', published in 1912, was one of the first books from the [[Austrian School]] to deal with macroeconomic topics
+0.0182
+Keynes also noted the role uncertainty and [[Animal spirits (Keynes)|animal spirits]] can play in the economy.<ref name="Blanchard 2011, 580" />
+
+The generation following Keynes combined the macroeconomics of the ''General Theory'' with neoclassical microeconomics to create the [[neoclassical synthesis]]
+0.0227318
+For instance, when the government pays for a bridge, the project not only adds the value of the bridge to output, but also allows the bridge workers to increase their consumption and investment, which helps to close the output gap
+0.029053
+Instead of buying government bonds, central banks can implement quantitative easing by buying not only government bonds, but also other assets such as corporate bonds, stocks, and other securities
+0.0312065
+Critics of RB C models argue that money clearly plays an important role in the economy, and the idea that technological regress can explain recent recessions is implausible.<ref name="Blanchard 2011, 587" /> However, technological shocks are only the more prominent of a myriad of possible shocks to the system that can be modeled
+0.0315233
+Prior to Lucas, economists had generally used [[adaptive expectations]] where agents were assumed to look at the recent past to make expectations about the future
+0.0366985
+Output can be measured or it can be viewed from the production side and measured as the total value of [[final goods]] and services or the sum of all [[value added]] in the economy.<ref>Blanchard (2011), 22.</ref>
+
+Macroeconomic output is usually measured by [[gross domestic product]] (GDP) or one of the other [[national accounts]]
+0.037828
+A central development in new classical thought came when [[Robert Lucas, Jr.|Robert Lucas]] introduced [[rational expectations]] to macroeconomics
+0.037828
+
+Lucas also made an [[Lucas critique|influential critique]] of Keynesian empirical models
+0.0504373
+The output and income are usually considered equivalent and the two terms are often used interchangeably,output changes into income
+0.0579549
+Central banks can quickly make and implement decisions while discretionary fiscal policy may take time to pass and even longer to carry out.<ref name="Mayer, 495"/>
+
+==See also==
+{{Portal|Business and economics}}
+* [[Dynamic stochastic general equilibrium]]
+* [[Economic development]]
+
+==Notes==
+{{reflist|30em}}
+
+==References==
+{{Library resources box
+|by=no
+|onlinebooks=no
+|others=no
+|about=yes
+|label=Macroeconomics }}
+* {{cite book |first=Olivier |last=Blanchard |year=2000 |title=Macroeconomics |publisher=[[Prentice Hall]] |isbn=978-0-13-013306-9 |ref=harv}}
+* {{cite book |last=Blanchard |first=Olivier |title=Macroeconomics Updated |publisher=Prentice Hall |location=Englewood Cliffs |year=2011 |edition=5th |isbn=978-0-13-215986-9 |ref=harv}}
+* Blaug, Mark (1986), ''Great Economists before Keynes'', Brighton: Wheatsheaf
+0.0630466
+| title = Economics: Principles in Action
+| publisher = Pearson Prentice Hall
+| year = 2003
+| location = Upper Saddle River, New Jersey 07458
+| page = 57
+| isbn = 978-0-13-063085-8
+}}</ref><ref>Steve Williamson, [http://www.econ.yale.edu/smith/econ510a/notes99.pdf Notes on Macroeconomic Theory], 1999</ref> 
+
+While macroeconomics is a broad field of study, there are two areas of research that are emblematic of the discipline: the attempt to understand the causes and consequences of short-run fluctuations in national income (the [[business cycle]]), and the attempt to understand the determinants of long-run [[economic growth]] (increases in national income)
+0.0630466
+In order to generate macroeconomic fluctuations, RB C models explained recessions and unemployment with changes in technology instead of changes in the markets for goods or money
+0.075656
+Advances in technology, accumulation of machinery and other [[Capital (economics)|capital]], and better education and [[human capital]] are all factors that lead to increase economic output over time
+0.0788083
+
+Macroeconomics and [[microeconomics]], a pair of terms coined by [[Ragnar Frisch]], are the two most general fields in economics.<ref name="blaug1985">{{Citation|author=Blaug, Mark|title=Economic theory in retrospect|year=1985|location=Cambridge|publisher=[[Cambridge University Press]]|isbn=978-0-521-31644-6}}</ref> In contrast to macroeconomics, microeconomics is the branch of economics that studies the behavior of individuals and firms in making decisions and the interactions among these individuals and firms in narrowly-defined markets
+0.0795135
+However, eventually the depreciation rate will limit the expansion of capital: savings will be used up replacing depreciated capital, and no savings will remain to pay for an additional expansion in capital
+0.0819606
+An increase in the savings rate leads to a temporary increase as the economy creates more capital, which adds to output
+0.0841008
+These models are now used by many central banks and are a core part of contemporary macroeconomics.<ref>Blanchard (2011), 590.</ref>
+
+New [[Keynesian economics]], which developed partly in response to new classical economics, strives to provide microeconomic foundations to [[Keynesian economics]] by showing how imperfect markets can justify demand management
+0.0891614
+
+===New classical===
+[[New classical macroeconomics]] further challenged the Keynesian school
+0.0948045
+The Solow model assumes that labor and capital are used at constant rates without the fluctuations in unemployment and capital utilization commonly seen in business cycles.{{sfn|Solow|2002|pp=518–19}}
+
+An increase in output, or economic growth, can only occur because of an increase in the capital stock, a larger population, or technological advancements that lead to higher productivity ([[total factor productivity]])
+0.100875
+A negative supply shock, such as an oil crisis, lowers aggregate supply and can cause inflation
+0.101503
+New Keynesian models investigated sources of [[Sticky (economics)|sticky prices and wages]] due to [[imperfect competition]],<ref>[http://huwdixon.org/SurfingEconomics/chapter4.pdf The role of imperfect competition in new Keynesian economics], Chapter 4 of [http://huwdixon.org/SurfingEconomics/index.html Surfing Economics] by [[Huw Dixon]]</ref> which would not adjust, allowing monetary policy to impact quantities instead of prices
+0.10192
+
+===Keynes and his followers===
+Macroeconomics, at least in its modern form,<ref name="Blanchard 2011, 580">Blanchard (2011), 580.</ref> began with the publication of [[John Maynard Keynes]]'s ''[[General Theory of Employment, Interest and Money]]''.<ref name="Dimand 2008" /><ref name="Modern_macroeconomics">{{cite book|url=|title=Modern Macroeconomics – Its origins, development and current state|last1=Snowdon|first1=Brian|last2=Vane|first2=Howard R.|date=2005|publisher=Edward Elgar|isbn=1-84542-208-2|location=|page=}}</ref> When the Great Depression struck, classical economists had difficulty explaining how goods could go unsold and workers could be left unemployed
+0.10192
+[[File:Economic Policy - Intervention Strategy Matrix.png|thumb|350px|right|An example of intervention strategy under different conditions]]
+Central banks can use unconventional monetary policy such as [[quantitative easing]] to help increase output
+0.105971
+|title=Modern Macroeconomics: Its Origins, Development And Current State |publisher=Edward Elgar Publishing |isbn=1845421809 |year=2005 |ref=harv}}
+* {{cite book |first=Manfred |last=Gärtner |title=Macroeconomics |publisher=Pearson Education Limited |isbn=978-0-273-70460-7 |year=2006 |ref=harv}}
+* {{cite book |first=David |last=Warsh |title=Knowledge and the Wealth of Nations |publisher=Norton |isbn=978-0-393-05996-0 |year=2006 |ref=harv |url-access=registration |url=https://archive.org/details/knowledgewealtho00wars }}
+* {{cite book |last=Levi |first=Maurice |title=The Macroeconomic Environment of Business (Core Concepts and Curious Connections) |publisher=World Scientific Publishing |location=New Jersey |year=2014 |isbn=978-981-4304-34-4 |ref=harv}}
+
+{{Macroeconomics}}
+{{Economics}}
+{{Social sciences}}
+
+{{Authority control}}
+
+[[Category:Macroeconomics| ]]
+0.107142
+Kydland]], created [[real business cycle]] (RB C) models of the macro economy.<ref name="Blanchard 2011, 587">Blanchard (2011), 587.</ref>
+
+RB C models were created by combining fundamental equations from neo-classical microeconomics
+0.1092
+
+Like classical models, new classical models had assumed that prices would be able to adjust perfectly and monetary policy would only lead to price changes
+0.11591
+Independent central banks are less likely to make decisions based on political motives.<ref name="Mayer, 495"/> Second, monetary policy suffers shorter [[inside lag]]s and [[outside lag]]s than fiscal policy
+0.11591
+|title=Macroeconomics: theory and policy |publisher=Tata McGraw-Hill |location=New Delhi |year=2001 |isbn=978-0-07-058841-7 |ref=harv}}
+* {{cite book |first=Milton |last=Friedman |authorlink=Milton Friedman |title=Essays in Positive Economics |publisher=[[University of Chicago Press]] |location=[[London]] |year=1953 |isbn=978-0-226-26403-5 |url-access=registration |url=https://archive.org/details/essaysinpositive00milt }}
+* {{cite book |first=Gottfried |last=Haberler |year=1937 |title=Prosperity and depression |publisher=[[League of Nations]]}}
+* Leijonhufvud, Axel [http://www.econ.ucla.edu/workingpapers/wp165.pdf ''The Wicksell Connection: Variation on a Theme'']
+0.11591
+Gregory |title=Principles of Economics |publisher=Cengage Learning |isbn=978-1-305-15604-3 |year=2014 |ref=harv}}
+* {{cite book |first=Ludwig Von |last=Mises |year=1912 |title=Theory of Money and Credit |publisher=[[Yale University Press]]}}
+* {{cite book |last=Mayer |first=Thomas |editor1-last=Snowdon |editor1-first=Brian |editor2-last=Vane |editor2-first=Howard R
+0.119147
+Friedman and [[Edmund Phelps]] (who was not a monetarist) proposed an "augmented" version of the Phillips curve that excluded the possibility of a stable, long-run tradeoff between inflation and unemployment.<ref>{{Cite web|url=http://www.econlib.org/library/Enc/PhillipsCurve.html|title=Phillips Curve: The Concise Encyclopedia of Economics {{!}} Library of Economics and Liberty|website=www.econlib.org|access-date=2018-01-23}}</ref>{{citation needed|date=June 2016}} When the [[1970s energy crisis|oil shocks]] of the 1970s created a high unemployment and high inflation, Friedman and Phelps were vindicated
+0.119789
+Unable to lower current interest rates, the Federal Reserve lowered long-term interest rates by buying long-term bonds and selling short-term bonds to create a flat [[yield curve]]
+0.119789
+Some of them allow the interest rate to fluctuate and focus on [[Inflation targeting|targeting inflation rates]] instead
+0.12376
+Changes in the non-price level factors or determinants cause changes in aggregate demand and shifts of the entire aggregate demand (AD) curve
+0.13468
+Keynes offered a new theory of economics that explained why markets might not clear, which would evolve (later in the 20th century) into a group of macroeconomic schools of thought known as [[Keynesian economics]] – also called Keynesianism or Keynesian theory
+0.13555
+Most economists believe that this relationship explains long-run changes in the price level.{{sfn|Mankiw|2014|p=634}} Short-run fluctuations may also be related to monetary factors, but changes in aggregate demand and aggregate supply can also influence price level
+0.136391
+
+===Fiscal policy===
+{{Further|Fiscal policy}}
+
+Fiscal policy is the use of government's revenue and expenditure as instruments to influence the economy
+0.137619
+Despite questions about the theory behind RB C models, they have clearly been influential in economic methodology.{{citation needed|date=June 2016}}
+
+===New Keynesian response===
+[[New Keynesian]] economists responded to the new classical school by adopting rational expectations and focusing on developing micro-founded models that are immune to the Lucas critique
+0.140977
+It took many forms, including the version based on the work of [[Irving Fisher]]:
+
+:<math>M\cdot V = P\cdot Q</math>
+
+In the typical view of the quantity theory, [[money velocity]] (V) and the quantity of goods produced (Q) would be constant, so any increase in [[money supply]] (M) would lead to a direct increase in price level (P)
+0.149211
+
+==Macroeconomic models==
+
+===Aggregate demand–aggregate supply===
+
+[[File:AS + AD graph.svg|thumb|A traditional AS–AD diagram showing a shift in AD and the AS curve becoming inelastic beyond potential output.]]
+
+The [[AD-AS model]] has become the standard textbook model for explaining the macroeconomy.{{sfn|Healey|2002|p=12}} This model shows the price level and level of real output given the equilibrium in [[aggregate demand]] and [[aggregate supply]]
+0.14924
+Automatic stabilizers use conventional fiscal mechanisms but take effect as soon as the economy takes a downturn: spending on unemployment benefits automatically increases when unemployment rises and, in a progressive income tax system, the effective tax rate automatically falls when incomes decline
+0.154089
+* {{cite book |last=Blaug |first=Mark |editor1-last=Snowdon |editor1-first=Brian |editor2-last=Vane |editor2-first=Howard |chapter=Endogenous growth theory |title=An Encyclopedia of Macroeconomics |url=https://archive.org/details/encyclopediaofma00bria |url-access=registration |publisher=Edward Elgar Publishing |location=Northampton, Massachusetts |year=2002 |isbn=978-1-84542-180-9 |ref=harv}}
+* {{cite book |first=Peter |last=Boettke |year=2001 |title=Calculation and Coordination: Essays on Socialism and Transitional Political Economy |publisher=[[Routledge]] |isbn=978-0-415-77109-2}}
+* Bouman, John: [http://www.inflateyourmind.com/ Principles of Macroeconomics – free fully comprehensive Principles of Microeconomics and Macroeconomics texts]
+0.163921
+In another example of unconventional monetary policy, the United States Federal Reserve recently made an attempt at such a policy with [[Operation Twist]]
+0.163921
+Automatic stabilizers do not suffer from the policy lags of discretionary fiscal policy
+0.163921
+First, monetary policy is generally implemented by independent central banks instead of the political institutions that control fiscal policy
+0.173865
+
+===Unemployment===
+{{Main|Unemployment}}
+
+[[File:Okuns law differences 1948 to mid 2011.png|thumb|left|A chart using US data showing the relationship between economic growth and unemployment expressed by [[Okun's law]]
+0.176531
+
+==Development==
+{{main|History of macroeconomic thought}}
+
+===Origins===
+Macroeconomics descended from the once divided fields of [[business cycle|business cycle theory]] and [[monetary theory]].<ref name="Dimand 2008">Dimand (2008).</ref>  The [[quantity theory of money]] was particularly influential prior to World War II
+0.176531
+The quantity theory of money was a central part of the classical theory of the economy that prevailed in the early twentieth century
+0.176531
+
+In Keynes's theory, the quantity theory broke down because people and businesses tend to hold on to their cash in tough economic times – a phenomenon he described in terms of [[liquidity preference]]s
+0.181964
+This group of models explains economic growth through other factors, such as increasing returns to scale for capital and [[Learning-by-doing (economics)|learning-by-doing]], that are endogenously determined instead of the exogenous technological improvement used to explain growth in Solow's model.{{sfn|Blaug|2002|pp=202–03}}
+
+==Basic macroeconomic concepts==
+Macroeconomics encompasses a variety of concepts and variables, but there are three central topics for macroeconomic research.<ref>Blanchard (2011), 32.</ref> Macroeconomic theories usually relate the phenomena of output, unemployment, and inflation
+0.183787
+The aggregate demand curve's downward slope means that more output is demanded at lower price levels.{{sfn|Healey|2002|p=13}} The downward slope is the result of three effects: the [[Pigou effect|Pigou or real balance effect]], which states that as real prices fall, real wealth increases, resulting in higher consumer demand of goods; the [[Keynes effect|Keynes or interest rate effect]], which states that as prices fall, the demand for money decreases, causing interest rates to decline and borrowing for investment and consumption to increase; and the net export effect, which states that as prices rise, domestic goods become comparatively more expensive to foreign consumers, leading to a decline in exports.{{sfn|Healey|2002|p=13}}
+
+In the conventional Keynesian use of the AS-AD model, the aggregate supply curve is horizontal at low levels of output and becomes inelastic near the point of [[potential output]], which corresponds with full employment.{{sfn|Healey|2002|p=12}} Since the economy cannot produce beyond the potential output, any AD expansion will lead to higher price levels instead of higher output
+0.193986
+Typically, central banks take action by issuing money to buy bonds (or other assets), which boosts the supply of money and lowers interest rates, or, in the case of contractionary monetary policy, banks sell bonds and take money out of circulation
+0.195614
+
+* Consistent with classical unemployment theory, [[frictional unemployment]] occurs when appropriate job vacancies exist for a worker, but the length of time needed to search for and find the job leads to a period of unemployment.<ref>Dwivedi, 443.</ref>
+* [[Structural unemployment]] covers a variety of possible causes of unemployment including a mismatch between workers' skills and the skills required for open jobs.<ref>Freeman (2008)
+0.200613
+The [[quantity theory of money]] holds that changes in price level are directly related to changes in the [[money supply]]
+0.202838
+
+==Macroeconomic policy==
+
+Macroeconomic policy is usually implemented through two sets of tools: fiscal and monetary policy
+0.204881
+When the economy faces higher costs, [[cost-push inflation]] occurs and the AS curve shifts upward to higher price levels.{{sfn|Healey|2002|p=14}} The AS–AD diagram is also widely used as a pedagogical tool to model the effects of various macroeconomic policies.{{sfn|Colander|1995|p=173}}
+
+===IS-LM===
+
+[[File:Islm.svg|thumb|In this example of an IS/LM chart, the IS curve moves to the right, causing higher interest rates (i) and expansion in the "real" economy (real GDP, or Y).]]
+
+The [[IS–LM]] model gives the underpinnings of aggregate demand (itself discussed above)
+0.2049
+Friedman also argued that monetary policy was more effective than fiscal policy; however, Friedman doubted the government's ability to "fine-tune" the economy with monetary policy
+0.2049
+* Classical unemployment theory suggests that unemployment occurs when wages are too high for employers to be willing to hire more workers.{{citation needed|date=May 2016}} Other more modern economic theories{{which|date=May 2016}} suggest that increased wages actually decrease unemployment by creating more consumer demand
+0.217759
+Structural unemployment is similar to frictional unemployment as both reflect the problem of matching workers with job vacancies, but structural unemployment also covers the time needed to acquire new skills in addition to the short-term search process.<ref>Dwivedi, 444–45.</ref>
+* While some types of unemployment may occur regardless of the condition of the economy, [[Unemployment|cyclical unemployment]] occurs when growth stagnates
+0.226968
+According to these more recent theories, unemployment results from reduced demand for the goods and services produced through labor and suggest that only in markets where profit margins are very low, and in which the market will not bear a price increase of product or service, will higher wages result in unemployment
+0.227362
+http://research.stlouisfed.org/publications/es/10/ES1004.pdf.</ref>
+
+===Inflation and deflation===
+[[File:M2andInflation.png|thumb|right|The ten-year moving averages of changes in price level and growth in money supply (using the measure of M2, the supply of hard currency and money held in most types of bank accounts) in the US from 1875 to 2011
+0.236425
+{{Macroeconomics sidebar}}
+[[File:Circulation in macroeconomics.svg|thumb|right|200px|Macroeconomics takes a big-picture view of the entire economy, including examining the roles of, and relationships between, corporations, governments and households, and the different types of markets, such as the financial market and the labour market.]]
+'''Macroeconomics''' (from the Greek prefix ''makro-'' meaning "large" + ''economics'') is a branch of [[economics]] dealing with the performance, structure, behavior, and decision-making of an [[economy]] as a whole
+0.240003
+By the 1950s, most economists had accepted the synthesis view of the macroeconomy.<ref name="Blanchard 2011, 580" /> Economists like [[Paul Samuelson]], [[Franco Modigliani]], [[James Tobin]], and [[Robert Solow]] developed formal Keynesian models and contributed formal theories of consumption, investment, and money demand that fleshed out the Keynesian framework.<ref>Blanchard (2011), 581.</ref>
+
+===Monetarism===
+[[Milton Friedman]] updated the quantity theory of money to include a role for money demand
+0.244804
+Solow's model suggests that economic growth in terms of output per capita depends solely on technological advances that enhance productivity.{{sfn|Solow|2002|p=519}}
+
+In the 1980s and 1990s [[endogenous growth theory]] arose to challenge neoclassical growth theory
+0.251798
+Economic growth leads to a lower unemployment rate.]]
+
+The amount of [[unemployment]] in an economy is measured by the unemployment rate, i.e
+0.252187
+
+'''Macroeconomists''' study aggregated indicators such as [[Gross domestic product|GDP]], [[Unemployment#Measurement|unemployment rates]], [[national income]], [[price index|price indices]], and the interrelations among the different sectors of the economy to better understand how the whole economy functions
+0.261193
+Both forms of policy are used to [[Stabilization policy|stabilize the economy]], which can mean boosting the economy to the level of GDP consistent with full employment.<ref name="Mayer, 495">Mayer, 495.</ref> Macroeconomic policy focuses on limiting the effects of the business cycle to achieve the economic goals of price stability, full employment, and growth.<ref>{{Cite web|url=http://www.apeconreview.com/business-cycle.html|title=AP Macroeconomics Review|last=|first=|date=|website=|publisher=|access-date=}}</ref>
+
+===Monetary policy===
+{{Further|Monetary policy}}
+
+Central banks implement monetary policy by controlling the money supply through several mechanisms

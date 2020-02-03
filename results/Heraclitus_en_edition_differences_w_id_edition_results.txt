@@ -1,0 +1,478 @@
+Heraclitus
+en edition's differences with the id version: 
+-6.08225e-12
+"The waking have one common world, but the sleeping turn aside each into a world of his own (''[[idios kosmos]]'')."<ref>DK B89, from Pseudo-Plutarch, ''On Superstition'' 166c</ref> "Hearing they do not understand, like the deaf
+-3.75101e-12
+He gives this in the ''[[Symposium (Plato)|Symposium]]'', sounding very much like Heraclitus:<ref name="Large" /><ref> Symposium, 207d</ref> <blockquote>Even during the period for which any living being is said to live and retain his identity - as a man, for example, is called the same man from boyhood to old age - he does not in fact retain the same attributes, although he is called the same person: he is always becoming a new being and undergoing a process of loss and reparation, which affects his hair, his flesh, his bones, his blood and his whole body
+-3.91799e-13
+126</ref></blockquote>
+<blockquote>And it is the same thing in us that is quick and dead, awake and asleep, young and old; the former are shifted and become the latter, and the latter in turn are shifted and become the former.<ref>DK B88
+3.40922e-13
+39.2, [[wiktionary:apud|apud]] [[Eusebius]], ''[[Praeparatio Evangelica]]'', 15.20.2</ref></blockquote><blockquote>We both step and do not step in the same rivers
+3.40922e-13
+|last=Peters |title=Greek Philosophical Terms: A Historical Lexicon |url=https://archive.org/details/greekphilosophic0000pete |url-access=registration |publisher=NYU Press |year=1967 |isbn=978-0814765524 |page=[https://archive.org/details/greekphilosophic0000pete/page/178 178]}} ''Commentary on Aristotle's [[Physics (Aristotle)|Physics]]'', 1313.11.</ref></blockquote>
+
+According to Aristotle, Cratylus went a step beyond his master's doctrine and proclaimed that one cannot step into the same river once
+5.88002e-13
+Johansen, "Logos" in Donald Zeyl (ed.), ''Encyclopedia of Classical Philosophy'', Greenwood Press 1997.</ref> there is no compelling reason to suppose that he used it in a special technical sense, significantly different from the way it was used in ordinary Greek of his time.<ref>pp
+1.00731e-12
+It seems to state one's luck is related to one's character.<ref name=stanf/> Whether in this context "daimon" can indeed be translated to mean "fate" is disputed; however, it lends much sense to Heraclitus' observations and conclusions about [[human nature]] in general
+1.00731e-12
+No man's character, habits, opinions desires pleasures pains and fears remain always the same: new ones come into existence and old ones disappear.</blockquote>
+
+====Stoics====
+[[File:IONIA, Ephesus
+1.02967e-12
+
+==== ''Athánatoi thnetoí, thnetoì athántatoi'', "Mortals are immortal, immortals mortal" ====
+This is most famously expressed with his claim "Mortals are immortals and immortals are mortals, the one living the others' death and dying the others' life".<ref>DK B62, from Hippolytus ''Refutation of All Heresies'' 9.10.6</ref> This is taken to mean men are mortal gods, and gods immortal men.<ref name="lucian">Lucian, Sale of Creeds</ref> He would also point out that sleep is like death
+1.59645e-12
+
+=== Italian ===
+[[Donato Bramante]] painted a fresco, "Democritus and Heraclitus," in Casa Panigarola in [[Milan]] in 1477.<ref>{{cite book|title=Circa 1492: Art in the Age of Exploration|publisher=Yale University Press|year=1991|isbn=978-0-300-05167-4|editor-last=Levenson|editor-first=Jay|location=New Haven|page=229}}</ref>  Heraclitus's most famous depiction in art is in [[Raphael]]'s ''[[School of Athens]],'' painted around 1510
+3.00471e-12
+
+====Plato====
+Plato is the most famous to try and reconcile Heraclitus and Parmenides, and through him both influence virtually all subsequent Western philosophy
+3.82472e-12
+402&fromdoc=Perseus%3Atext%3A1999.01.0171 Paragraph 402 section a line 8].</ref> Instead of "flow" Plato uses ''chōrei'', "to change place" ({{lang|grc|χῶρος}}; {{transl|grc|chōros}}).<blockquote>"All entities move and nothing remains still"</blockquote><blockquote>"Everything changes and nothing remains still&nbsp;..
+4.13181e-12
+If we regard the world as an ” ever-living fire ” (fr
+4.2325e-12
+then I do not think they can resemble a process or flux ....</blockquote>
+
+However, Plato does seem influenced by Heraclitus in his concept of the world as always changing, and thus our inability to have knowledge of [[Particular|particulars]], and by Parmenides in needing another world, the Platonic realm, where things remain unchanging and [[Universal (metaphysics)|universals]] exist as the objects of knowledge, the [[Theory of forms|Forms]]
+1.15805e-11
+It is not to be supposed that this division is due to Herakleitos himself; all we can infer is that the work fell naturally into these three parts when the Stoic commentators took their editions of it in hand."<ref name=":4" /></blockquote>We do know the work's opening lines, proving it was indeed a continuous work
+1.15805e-11
+ The earliest surviving Stoic work, the ''Hymn to Zeus'' of [[Cleanthes]], a work transitional from pagan polytheism to the modern religions and philosophies, though not explicitly referencing Heraclitus, adopts what appears to be the Heraclitean logos modified.{{efn|Different translations of this can be found at {{cite web |first=T.W
+1.54635e-11
+German physicist and philosopher [[Max Bernard Weinstein]] classed his view as a predecessor of [[pandeism]].<ref name="Weinstein-Greece">Max Bernhard Weinsten, ''Welt- und Lebensanschauungen, Hervorgegangen aus Religion, Philosophie und Naturerkenntnis'' ("World and Life Views, Emerging From Religion, Philosophy and Nature") (1910), p
+2.88454e-11
+His dates of birth and death are based on a life span of 60 years, the age at which Diogenes Laërtius says he died,<ref name="ix3">Diogenes Laërtius, ix
+2.88454e-11
+[[John Burnet (classicist)|Burnet]] states in any case that "...&nbsp;Xenophanes left Ionia before Herakleitos was born."<ref>Chapter 3 beginning.</ref> Diogenes Laërtius relates that as a boy Heraclitus had said he "knew nothing" but later claimed to "know everything".<ref name="ix5">Diogenes Laërtius, ix
+0.0060673
+He also wrote "Every beast is driven to pasture by blows."<ref>DK B11, from Aristotle ''On the World'' 6 401a10</ref>
+<blockquote>We must know that war is common to all and strife is justice, and that all things come into being through strife necessarily.<ref>DK B80, from Origen, ''Against Celsus'' 6.42</ref></blockquote>
+<blockquote> War is the father of all and king of all; and some he shows as gods, others as men, some he makes slaves, others free.<ref>DK B53, from Hippolytus, ''Refutation of All Heresies'' 9.9.4</ref></blockquote> 
+<blockquote>Gods and men honor those who are slain in battle.<ref>DK B24, from Clement ''Miscellanies'' 4.16.1</ref>{{efn|Literally, slain by [[Ares]]}}</blockquote>
+<blockquote>The people must fight for its law as for its walls.<ref>DK B44, from Laertius, ''Lives'', 9.2</ref></blockquote>
+
+=====Harmony=====
+{{Multiple image
+| align = right
+| image1 = Terracotta_amphora_(jar)_MET_DT272.jpg
+| width1 = 190
+| height1 = 
+| alt1 = 
+| caption1 = [[Kithara|Kitharode]] by the [[Berlin Painter]]
+0.00696306
+They are one.<ref>DK B57, from Hippolytus, ''Refutation of All Heresies'' 9.10.2</ref></blockquote>
+<blockquote>Concerning a circle the beginning and end are common.<ref>DK B103, from Porphyry, ''Notes on Homer'', on ''Iliad'' 24.200</ref></blockquote>
+
+=====Cycle=====
+[[File:Heraclitus_in_Thomas_Stanley_History_of_Philosophy.jpg|thumb|220px|Heraclitus depicted in 1655.]]
+Another is it illustrates the cyclical nature of reality and transformation, a replacement of one element by another, "turnings of fire".<ref>DK B31, from Clement ''Miscellanies'' 5.105 3,5</ref> This might be another "hidden harmony" and is more consistent with pluralism, not monism.<ref name=stanf/>
+<blockquote>The death of fire is the birth of air, and the death of air is the birth of water.<ref>DK B76, from Maximus of Tyre, 41.4</ref></blockquote>
+<blockquote>For it is death to souls to become water, and death to water to become earth
+0.00996958
+They follow the poets and take the crowd as their teacher, knowing not that "the many are bad and few good."<ref>DK B104, from Proclus ''Commentary of Plato's Alcibiades I 117''</ref>
+
+He hated the [[Athens|Athenians]] and his fellow Ephesians, wishing the latter wealth in punishment for their wicked ways.<ref>DK B125a, from John Tzetzes, Scholium on Aristophanes ''Wealth'' 88</ref> The Ephesians would "do well to [[Suicide|end their lives]], every grown man of them, and leave the city to beardless boys, for that they have driven out Hermodorus, the worthiest man among them, saying, 'We will have none who is worthiest among us; or if there be any such, let him go elsewhere and consort with others."<ref>DK B121, from Strabo, ''Geography'' 14.25</ref>
+
+According to Diogenes Laërtius: "Finally, he became a hater of his kind (''misanthrope'') and wandered the mountains [...] making his diet of grass and herbs."
+
+=== Dropsy and death ===
+Heraclitus' life as a philosopher was interrupted by [[Edema|dropsy]]
+0.0105089
+5</ref> He "heard no one" but "questioned himself".<ref>DK B101, from Plutarch ''Against Colotes'' 1118C</ref>
+
+=== Misanthropy ===
+[[File:Raphael School of Athens Michelangelo.jpg|thumb|250px|Heraclitus (with the face and in the style of [[Michelangelo]]) sits apart from the other philosophers in [[Raphael]]'s ''[[The School of Athens|School of Athens]]''.|alt=]]
+Diogenes Laërtius relates that Heraclitus had a poor opinion of human affairs.<ref name="ix1" />  He said "The mysteries practiced among men are unholy mysteries."<ref>DK B14, from Clement ''Protrepic'' 22</ref> [[Timon of Phlius]] is said to have called him a "mob-reviler"
+0.0105089
+The word ''rhei'' (as in [[rheology]]) is the Greek word for "to stream", and is etymologically related to [[Rhea (mythology)|Rhea]] according to Plato's ''[[Cratylus (dialogue)|Cratylus]]''.<ref>For the etymology see {{cite web |first=Calvert |last=Watkins |title=Appendix I: Indo-European Roots: sreu |url=http://www.bartleby.com/61/roots/IE493.html |website=The American Heritage Dictionary of the English Language |edition=Fourth |year=2000}}</ref>{{efn|In pronunciation the -ei- is a [[diphthong]] sounding like the -ei- in reindeer
+0.0128707
+|authorlink=Gregory Vlastos |title=On Heraclitus |journal=American Journal of Philology |year=1955 |volume=76 |pages=337–378 |doi=10.2307/292270 |issue=4|jstor=292270 }}
+* {{cite encyclopedia | article = Heracleitus of Ephesus | last = Wiesehöfer | first = Josef | authorlink = Josef Wiesehöfer | url = http://www.iranicaonline.org/articles/heracleitus-of-ephesus | editor-last = | editor-first =  | editor-link = | encyclopedia  = Encyclopaedia Iranica, Vol
+0.0132928
+
+=== Childhood ===
+Diogenes Laërtius says that Heraclitus used to play [[knucklebones]] with the youths in the great temple of [[Artemis]], the [[Temple of Artemis|Artemisium]], one of the largest temples of the 6th century BC and one of the [[Seven Wonders of the Ancient World]].{{efn|Ancient temples were regularly used for storing treasures, and were open to private individuals under exceptional circumstances.}} When asked to start making laws he refused saying that the constitution (''politeia'') was ''ponêra'',<ref name="ix2">[[Diogenes Laërtius]], ix
+0.013443
+
+====''Hodos ano kato'', "the way up and the way down"====
+Heraclitus also said "The way up and the way down is one and the same."<ref>DK B60, from Hippolytus, ''Refutation of All Heresies'' 9.10.4</ref> Similarly he said "In writing, the course taken, straight and crooked, is one and the same."<ref>DK B59, from Hippolytus ''Refutation of All Heresies'' 9.10.4</ref> This can be interpreted in various ways
+0.0146596
+}}
+In a [[metaphor]] and one of the earliest uses of a [[force]] in the history of philosophy, Heraclitus compares the union of opposites to a strung bow or lyre held in shape by an equilibrium of the string [[Tension (physics)|tension]]:<ref>DK B51, from Hippolytus, ''Refutation of All Heresies'' 9.9.2</ref><blockquote>There is a harmony in the bending back ({{lang|grc|παλίντροπος}} ''palintropos'') as in the case of the bow and the lyre.</blockquote>
+
+He claims this shows something true yet invisible about reality; "a hidden harmony is better than an apparent one."<ref>DK B54, from Hippolytus, ''Refutation of All Heresies'' 9.9.5</ref> He also noted "the bow's name is life, though its work is death,"<ref>DK B48, from Etymologium Magnum sv bios</ref> a play on both bow and life being the same word as written - biós; further evidence of a continuous, written work
+0.0148618
+The quantity of fire in a flame burning steadily appears to remain the same, the flame seems to be what we call a “ thing.” And yet the substance of it is continually changing
+0.0148618
+It is always passing away in smoke, ‘and its place is always being taken by fresh matter from the fuel that feeds it
+0.0148618
+It is always consuming fuel and always liberating smoke
+0.0148618
+According to Aristotle, he took the view that nothing can be said about the ever-changing world, and "ended by thinking that one need not say anything, and only moved his finger."<ref>Metaphysics Books 4, section 1010a</ref> He seemed to hold the view continuous change warrants [[skepticism]] because we cannot define a thing that does not have a permanent nature.<ref name="Large">{{cite web|last1=Large|first1=William|title=Heraclitus|url=http://www.arasite.org/WLnew/Greeks/heraclitus.html|website=Arasite|accessdate=3 March 2017}}</ref> 20th century linguistic philosophy saw a rise in considerations brought up by Cratylus in Plato's dialogue, and thus offered the doctrine called [[Cratylism]]
+0.0148618
+” "<ref name=":5" /></blockquote>
+
+=====War=====
+[[File:Greek Phalanx.jpg|thumb|340px|War is the father of all and the king of all.]]
+Heraclitus is the original philosopher to claim that [[war]] is a good thing
+0.0148618
+ He was most famous for his insistence on ever-present [[Change (philosophy)|change]], or flux or [[Becoming (philosophy)|becoming]], as the characteristic feature of the world, as stated in the famous saying, "No man ever steps in the same [[river]] twice" as well as "Panta rhei," everything flows
+0.0157633
+But water comes from earth; and from water, soul.<ref>DK B36, from Clement ''Miscellanies'' 6.17.2</ref></blockquote>
+<blockquote>Cold things become warm, and what is warm cools; what is wet dries, and the parched is moistened.<ref>DK B126, from John Tzetzes ''Notes on the Iliad'' p
+0.0187988
+A soul should therefore aim toward becoming more full of fire and less full of water: a "dry" soul was best.<ref>DK B118, from Stobaeus ''Selections'' 3.5.8</ref> According to Heraclitus, worldly pleasures ([[Alcohol intoxication|drinking]] most apparently<ref>DK B117, from Plotinus ''Enneads'' 4.8.1</ref>) made the soul "moist", and he considered mastering one's worldly desires to be a noble pursuit which purified the soul's fire.<ref name="russell">[[Bertrand Russell|Russell, Bertrand]], ''[[History of Western Philosophy (Russell)|History of Western Philosophy]]''</ref> The soul also has a self-increasing ''Logos''.<ref>DK B115, from Stobaeus ''Selectiosn'' 3.1.180</ref> He believed we breathe in the ''logos'', as Anaximenes would say of air and the soul.<ref name="guth46" /> He also stated "It is hard to fight with one's heart's desire
+0.0198157
+ 
+
+Diogenes Laërtius also states that Heraclitus' work was "a continuous treatise...but was divided into three discourses, one on the universe, another on politics, and a third on theology." He does not say whether Heraclitus divided them this way or someone else did.<ref name=stanf/> [[Theophrastus]] says (in Diogenes Laërtius) "...some parts of his work [are] half-finished, while other parts [made] a strange medley."<ref name="ix6" />
+
+Burnet does not think the work had a title:<blockquote>"We do not know the title of the work of Herakleitos.—if, indeed, it had one— and it is not easy to form a clear idea of its contents
+0.0206982
+However, he removes the human sense of justice from his concept of God: "To God all things are fair and good and just, but people hold some things wrong and some right."<ref>DK B102, from Porphyry, ''Notes on Homer'', on Iliad 4.4</ref>  
+===== Mysticism =====
+God's custom has wisdom but human custom does not.<ref>DK B78, from Origen, ''Against Celsus'' 6.12</ref> Wisdom is "to know the thought by which all things are steered through all things",<ref>DK B41, from Laertius, ''Lives'', 9.1</ref> which must not imply that people are or can be wise
+0.0210177
+He says: " For that which is made up of both the opposites is one; and, when the one is divided, the opposites are disclosed
+0.0210177
+===The "weeping philosopher"===
+A later tradition referred to Heraclitus as the "weeping philosopher", as opposed to [[Democritus]], who is known as the "laughing philosopher".<ref>{{cite book |last=Seneca |first=Lucius Annaeus |authorlink=Seneca the younger |translator1=John M
+0.0210177
+
+
+===== Monism =====
+One interpretation is that it shows his [[monism]], though perhaps a [[dialectical monism|dialectical]] one
+0.0222927
+McTaggart]]'s illustration of the [[A series and B series|A-series and B-series]] of time has been seen as an analogous application to time of Heraclitus and Parmenides views of all of reality, respectively
+0.022405
+" Nothing ever is, everything is becoming ”; " All things are in motion like streams ”; "All things are passing, and nothing abides ”; " Herakleitos says somewhere that all things pass and naught abides; and, comparing things to the current of a river, he says you cannot step twicw into the same stream ” (cf
+0.0259448
+{{ISBN|0521136679}}</ref>
+
+With regard to education, Diogenes Laërtius says that Heraclitus was "wondrous" from childhood.{{efn|''thaumasios'', which, as [[Socrates]] explains in [[Plato]]'s ''[[Theaetetus (dialogue)|Theaetetus]]'' and ''[[Gorgias (dialogue)|Gorgias]]'', is the beginning of philosophy}} Diogenes relates that [[Sotion]] said he was a "hearer" of [[Xenophanes]], which contradicts Heraclitus' statement (so says Diogenes Laërtius) that he had taught himself by questioning himself
+0.0260081
+you cannot step twice into the same stream"{{efn|This sentence has been translated by [[Seneca the Younger|Seneca]].<ref>in Epistulae, [http://www.thelatinlibrary.com/sen/seneca.ep6.shtml VI, 58, 23].</ref>}}</blockquote>
+<blockquote></blockquote>
+
+Simplicius references it thus:<blockquote>"...the natural philosophers who follow Heraclitus, keeping in view the perpetual flux of generation and the fact that all corporeal things are coming to be and departing and never really are (as [[Timaeus of Locri|Timaeus]] said too) claim that all things are always in flux and that you could not step twice in the same river."<ref>Barnes (1982), p
+0.0262722
+62)."<ref name=":7" /> </blockquote>[[File:Rijksmuseum.amsterdam_(66)_(15195464645).jpg|250px|thumb|Heraclitus by [[Hendrick ter Brugghen]]]]
+
+Diogenes Laërtius has a quote summing up Heraclitus's philosophy: "All things come into being by conflict of opposites, and the sum of things ({{lang|grc|τὰ ὅλα}} ''ta hola'', "the whole") flows like a stream."<ref name="DLix8">Diogenes Laërtius, ix
+0.0265856
+In his First Apology, he said both Socrates and Heraclitus were Christians before Christ: "those who lived reasonably are Christians, even though they have been thought atheists; as, among the Greeks, Socrates and Heraclitus, and men like them." <ref>{{cite web |last=Martyr |first=Justin |title=First Apology of Justin |publisher=Early Christian Writings |url=http://www.earlychristianwritings.com/text/justinmartyr-firstapology.html}}</ref>
+
+===Modern===
+[[File:Nuremberg chronicles f 70v 3.png|thumb|160px|Heraclitus from the Nuremberg Chronicle]]
+The weeping philosopher was still considered an indispensable motif for philosophy through the modern period
+0.0270338
+
+==== God ====
+Heraclitus distinguishes between human laws and divine law ({{lang|grc|τοῦ θείου}} {{transl|grc|toū theiou}} {{Literal translation|"of God"|lk=on}}).<ref>DK B114, from Stobaeus ''Selections'' 3.1.179</ref> He said both God and fire are "want and surfeit".<ref>DK B65, from Hippolytus ''Refutation of All Heresies'' 9.10.7</ref>  In addition to seeing fire as the most fundamental substance, he presents fire as the divine cosmos
+0.0280861
+Black, Ltd.|year=1930|isbn=|location=4, 5 & 6 Soho Square, London, W.1|pages=145-146}}</ref></blockquote>
+
+====The River====
+[[File:K%C3%BC%C3%A7%C3%BCk_Menderes_1.png|thumb|300px|No man ever steps in the same river twice.]]
+His philosophy has been summed up with another famous adage, "No man ever steps in the same river twice."<ref>DK B91, from Plutarch ''On the E at Delphi'' 392b</ref> It can be contrasted with Parmenides's statement that "whatever is, is, and what is not cannot be." Heraclitus uses the river image more than once:
+
+<blockquote>Ever-newer waters flow on those who step into the same rivers.<ref>DK B12, from Arius Didymus, fr
+0.0288361
+97</ref>
+
+[[Karl Popper]] wrote much on Heraclitus, and both Popper and Heraclitus believe in invisible processes at work.<ref>{{Cite web|url=https://books.google.com/books?id=1mnfAgAAQBAJ&pg=PA149|title=Returning to Karl Popper: A reassessment of his politics and philosophy|first=Alexander|last=Naraniecki|date=January 10, 2014|publisher=Rodopi|via=Google Books}}</ref>
+
+====British philosophy====
+The weeping philosopher may have also been mentioned in [[William Shakespeare]]'s ''[[The Merchant of Venice]]''.<ref>Act I Scene II Line 43.</ref> [[J
+0.0288361
+For example, [[Thales]] usual birth of 625 BC is figured by taking the date he predicted an [[Eclipse of Thales|eclipse]], May 28, 585 BC, and assuming he was 40 years old at the time.}}
+[[File:Efez agora odeon prytaneion RB.jpg|left|230px|thumb|Ephesus on the coast of [[Asia Minor]], birthplace of Heraclitus]]
+
+=== Ephesus ===
+Heraclitus was born to an aristocratic family {{circa|535 BC}} in Ephesus,<ref name="Tesela">{{cite book |title=Historia de la Filosofía |first=Francisco |last=Ríos Pedraza |first2=Fernando |last2=Haya Segovia |year=2009 |page=32 |publisher=[[Oxford University Press]] |isbn=978-84-673-5147-7 |url=https://books.google.com/books?id=n6SzygAACAAJ}}</ref> in the Persian Empire, in what is today called [[Efes, Turkey]].{{sfn|Naddaf|2005|page=126}}{{sfn|Wiesehöfer|2003|pages=201–202}} His father was named either Blosôn or Herakôn.<ref name="ix1" /> Diogenes Laërtius says that he [[abdication|abdicated]] the kingship (''basileia'') in favor of his brother<ref name="ix6">Diogenes Laërtius, ix
+0.0297236
+He was considered a [[Misanthropy|misanthrope]] given to [[Depression (mood)|depression]]; he was also called "the [[Crying|weeping]] philosopher," in contrast to [[Democritus]], "the [[Laughter|laughing]] philosopher"
+0.0297236
+He said "Corpses are more fit to be cast out than dung."<ref>DK B96, from Plutarch ''Table Talk'' 669A</ref> 
+
+[[File:Bias Pio-Clementino Inv279.jpg|thumb|150px|"Most men are bad" - Bias of Priene|alt=|left]]
+Heraclitus was no advocate of [[Egalitarianism|equality]], "One is ten thousand to me, if he be the best."<ref>DK B49, from Theodorus Prodromus, ''Letters 1''</ref> He is generally considered an opponent of [[democracy]].<ref name="stanf" /> Yet he thinks "All men have a claim to self-ascertainment and sound thinking,"<ref>DK B116, from Stobaeus ''Selections'' 3.5.6</ref> and "Thinking is common to all."<ref>DK B113, from Stobaeus ''Selections'' 3.1.179</ref> Heraclitus stressed the heedless unconsciousness of humankind
+0.0297236
+
+{{Multiple image
+| align = left
+| image1 = Democritus,_the_Laughing_Philosopher_LACMA_M.79.95.jpg
+| width1 = 119
+| height1 = 
+| alt1 = 
+| image2 = Bust_of_Heraclitus,_'The_Weeping_Philosopher'_LACMA_M.83.4.jpg
+| width2 = 148
+| height2 = 
+| alt2 = 
+| footer= The laughing philosopher and the weeping philosopher by Johann Christoph Ludwig Lücke
+}}
+
+[[Salvator Rosa]] also painted Democritus and Heraclitus, as did [[Luca Giordano]], together and separately in the 1650s or so
+0.0297236
+Plato knew of Heraclitus through Cratylus, and thus wrote his dialogue of the same name.<ref>Metaphysics, 987a32</ref>  Plato thought the views of Heraclitus entailed that no entity may ever occupy a single state at a single time, and argued against him as follows:<ref>[[Cratylus (dialogue)|Cratylus]] Paragraph 440 sections c-d.</ref><blockquote>How can that be a real thing which is never in the same state
+0.0297236
+We are told that it was divided into three discourses: one dealing with the universe, one political, and one theological
+0.0297236
+6</ref> and [[Strabo]] confirms that there was a ruling family in Ephesus descended from the [[Ionians|Ionian]] founder, Androclus, which still kept the title and could sit in the chief seat at the games, as well as a few other privileges.<ref>Strabo, Chapter 1, section 3.</ref> How much power the king had is another question, for Ephesus had been part of the Persian Empire since 547 BC and was ruled by a [[satrap]], a more distant figure, as [[Cyrus the Great]] allowed the Ionians considerable autonomy
+0.0315266
+Daniel |last=Lancereau |title=Heraclitus |website=Philoctetes: ΦΙΛΟΚΤΗΤΗΣ |year=2007 |url=http://philoctetes.free.fr/heraclitus.htm |accessdate=2007-10-10}} Site with links to pdf's containing the fragments of DK in Greek (Unicode) with the English translations of John Burnet (see Bibliography) and translations into [[French language|French]], either in parallel columns or interlinear, with links on the lexical items to [http://www.perseus.tufts.edu/ Perseus] dictionaries
+0.0316887
+ Of them does the saying bear witness: 'present, they are absent.'<ref>DK B34, from Clement, ''Miscellanies'' 5.115.3</ref>
+
+He also compares the ignorance of the average man to dogs; "Dogs, also, bark at what they do not know."<ref>DK B97, from Plutarch ''On Listening to Lectures'' 40f-41a</ref> He advises us, "Let us not conjecture randomly about the most important things"<ref>DK B47, from Laertius, ''Lives'', 9.73</ref> and said "a fool is excited by every word."<ref>B87, from Plutarch ''On Listening to Lectures'' 40f-41a</ref>
+
+He criticizes [[Hesiod]], Pythagoras, [[Xenophanes]], and [[Hecataeus of Miletus|Hecataeus]] as lacking understanding though learned,<ref name=":2" /> and has the most scorn for Pythagoras.<ref name="b129" />  Though he grants, "Men that love wisdom must be inquirers into very many things indeed;"<ref>DK B35, from Clement ''Miscellanies '' 5.140.5</ref> he said that "The knowledge of the most famous persons, which they guard, is but opinion."<ref>DK B28, from Clement ''Miscellanies'' 5.9.3</ref> 
+
+He also thought that [[Homer]] and [[Archilochus]] deserved to be beaten.<ref>DK B42, from Laertius, ''Lives'', 9.1</ref> The only man of note he praises is [[Bias of Priene]], one of the [[Seven Sages of Greece]], whose famous maxim is "most men are bad."<ref>DK B39, Laertius, ''Lives'', 1.88</ref>  "For what thought or wisdom have they
+0.0324406
+The sleeper, whose vision has been put out, lights up from the dead; he that is awake lights up from the sleeping,"<ref>DK B26, from Clement ''Miscellanies'' 4.141.2</ref> and "All the things we see when awake are death, even as all we see in slumber are sleep."<ref>DK B21, from Clement ''Miscellanies'' 3.21.1</ref>
+
+====''Dike eris'',<!--nominative of "diken erin" (Β80)--> "strife is justice" ====
+In this union of opposites,  of both generation and destruction, Heraclitus called the oppositional processes {{lang|grc|ἔρις}} ({{transl|grc|eris}}), "[[Eris (mythology)|strife]]", and hypothesizes that the apparently stable state, {{lang|grc|δίκη}} ({{transl|grc|dikê}}), or "[[Dike (mythology)|justice]]", is a [[Harmonia (mythology)|harmony]] of it.<ref name=dkb8/> Anaximander described the same as injustice.<ref name="wkcg" /> Aristotle mentions that Heraclitus disliked Homer because he wished strife would leave the world, which for Heraclitus would destroy the world; "there would be no harmony without high and low notes, and no animals without male and female, which are opposites."<ref>Eudemian Ethics 1235a25</ref>
+On the unity of opposites, Burnet says:<blockquote>"The " strife of opposites " is really an “ attunement ” (armonia)
+0.0326959
+
+
+=== The One and the Many ===
+On Heraclitus' teachings of the one and many, Burnet writes: <blockquote>"The truth Herakleitos proclaimed was that the world is at once one and many, and that it is just the “ opposite tension ” of the opposites that constitutes the unity of the One
+0.0332319
+He wanted not merely something from which opposites could be “ separated out,” but something which of its own nature would pass into everything else, while everything else would pass in turn into it
+0.0343218
+
+====''Panta rhei'', "everything flows"<!--'Panta rhei (Heraclitus)' redirects here--> ====
+He is credited with the phrase {{lang|grc|πάντα ῥεῖ}} ('''''panta rhei'''''<!--boldface per WP:R#PLA-->) "everything flows."<ref>Beris, A.N
+0.0358615
+And this is [...] the [[concept]] of a river".<ref>{{Cite book|title=Heraklit von Ephesus und die Entwicklung der Individualität|last=Dietz|first=Karl-Martin|publisher=Verlag Freies Geistesleben|year=2004|isbn=978-3772512735|location=Stuttgart|pages=60}}</ref> 
+
+Heraclitus does seem to say change is what unites things, as with his unity of opposites, or the quote "Even the ''[[kykeon]]'' falls apart if it is not stirred."<ref>B125, from Theophrastus ''On Vertigo'' 9</ref> and "Changing it rests."<ref>Plotnius, ''Enneads'' 4.8.1</ref>
+
+====The Sun====
+[[File:Sunrise_in_Kumkuyu,_Mersin_2009-07-22_01-4.jpg|thumb|300px|The Sun is new every day.]]
+Flux is also expressed by the fact that, rather than thinking the same Sun will rise tomorrow as rose today, Heraclitus said the Sun is new every day.<ref>DK B6, from Aristotle ''Meteorology'' 2.2 355a13</ref>
+
+=== God and the Soul ===
+By "God" Heraclitus does not mean the Christian version of a single God as ''[[primum movens]]'' of all things, God as Creator, for the universe is eternal, "it always was and will be;" but the divine as opposed to human; the immortal as opposed to the mortal, the cyclical as opposed to the transient
+0.0360451
+ He's been seen variously as a "[[Material monism|material monist]] or a [[process philosophy|process philosopher]]; a scientific [[cosmologist]], a [[Metaphysics|metaphysician]], or mainly a [[Religion|religious]] thinker; an [[empiricism|empiricist]], a [[rationalism|rationalist]], or a [[mysticism|mystic]]; a conventional thinker or a revolutionary; a developer of [[logic]] or one who [[dialetheism|denied]] the [[law of non-contradiction]]; the first genuine philosopher or an anti-intellectual obscurantist."<ref name=stanf>https://plato.stanford.edu/entries/heraclitus/</ref>    
+
+He was of distinguished parentage but eschewed his privileged life for a lonely one as a philosopher
+0.036781
+20), we can understand how it is always becoming all things, while all things are always returning to it."<ref>{{Cite book|title=Early Greek Philosophy|last=Burnet|first=John|publisher=A
+0.0371544
+The full quote is "Listening not to me but to the Logos it is wise to agree that all things are one."<ref name="dkb50" />
+<blockquote>The one is made up of all things, and all things issue from the one.<ref>DK B10, from Aristotle ''On the World'' 5 396b20</ref></blockquote>
+<blockquote>Hesiod is most men's teacher
+0.0396496
+1, Cambridge University Press, 1962.</ref> 
+
+The later [[Stoics]] understood the ''Logos'' as "the account which governs everything,"<ref>DK B72, from Marcus Aurelius, ''Meditations'', 4.46</ref> and [[Hippolytus of Rome|Hippolytus]], a [[Church Fathers|Church Father]] in the 3rd century AD, identified it as meaning the [[Christianity|Christian]] ''Word of God'', such as in [[John 1:1]], "In the beginning was the Word (''logos'') and the Word was God."<ref>from Hippolytus, ''Refutation of all Heresies'', ix
+0.0398783
+van Haarlem 01.jpg
+| width2 = 242
+| height2 = 
+| alt2 = 
+| caption2= Democriet (laughing) & Herakliet (crying) by [[Cornelis van Haarlem]] 
+| image3=Utrecht Moreelse Democrite.JPG
+| width3=237
+| caption3= Democritus by [[Johannes Moreelse]] 
+| image4=Johannes Moreelse - Heraclitus - Google Art Project.jpg
+| width4=224
+| caption4= Heraclitus by Johannes Moreelse 
+}}
+Heraclitus has been done several times in western art, especially as part of the weeping and laughing philosopher motif, and with globes
+0.0399475
+But it always was and will be: an ever-living fire, with measures of it kindling, and measures going out.<ref name=":0">DK B30, from Clement ''Miscellanies'' 5.103.3</ref></blockquote>
+<blockquote>All things are an interchange for fire, and fire for all things, just like goods for gold and gold for goods.<ref name=":1">DK B90, from Plutarch ''On the E at Delphi'' 338d-e</ref></blockquote><blockquote>The thunderbolt that steers the course of all things.<ref>DK B64, from Hippolytus, ''Refutation of All Heresies'' 9.10.7</ref></blockquote>
+
+The first quote is the earliest use of ''[[cosmos|kosmos]]'' in any extant Greek text.<ref name=stanf/>
+
+On Heraclitus using Fire as a new primary substance, Burnet writes:<blockquote>"All this made it necessary for him to seek out a new primary substance
+0.0420354
+
+====Parmenides====
+[[File:Parmenides.jpg|thumb|200px|Parmenides may have been responding to Heraclitus.]]
+Parmenides's proem argues that change is impossible, and may very well have been referring to Heraclitus with such passages as "Undiscerning crowds, who hold that it is and is not the same, and all things travel in opposite directions!"
+0.0420355
+In ''[[Refutation of All Heresies]]'', one of the best sources on quotes from Heraclitus, Hippolytus says: "What the blasphemous folly is of [[Noetus]], and that he devoted himself to the tenets of Heraclitus the Obscure, not to those of Christ."<ref>Book IX leading sentence.</ref> Hippolytus then goes on to present an inscrutable quote: "God (''theos'') is day and night, winter and summer, ..
+0.0465178
+Heraclitus is silent on Parmenides, yet Parmenides seems possibly to refer to him, and Heraclitus refers to the likes of [[Pythagoras]].<ref name=":2">DK B40, from Laertius, ''Lives'' 9.1</ref><ref name=b129>DK B129</ref> 
+====Diogenes Laërtius====
+
+The main source for the life of Heraclitus is the notable doxographer [[Diogenes Laërtius]], although some have questioned the validity of his account as "a tissue of [[Hellenistic period|Hellenistic]] anecdotes, most of them obviously fabricated on the basis of statements in the preserved fragments".<ref name="kahn">{{cite book |last=Kahn |first=Charles |title=The Art and Thought of Heraclitus: Fragments with Translation and Commentary |location=London |publisher=Cambridge University Press |year=1979 |pages=1–23 |isbn=978-0-521-28645-9}}</ref> It also seems the stories about Heraclitus could be invented to illustrate his character as inferred from his writings.<ref name=stanf/>
+
+Diogenes Laërtius said that Heraclitus [[floruit|flourished]] in the 69th [[Olympiad]], 504–501 BC.<ref name="ix1">Diogenes Laërtius, ix
+0.0484267
+Scholars have generally believed that either Parmenides was responding to Heraclitus, or Heraclitus to Parmenides, though opinion on who was responding to whom has varied over the course of the 20th and 21st centuries.<ref name="Palmer">{{cite book|url=https://plato.stanford.edu/entries/parmenides|title=Parmenides|author=John Palmer|website=Stanford Encyclopedia of Philosophy|publisher=Metaphysics Research Lab, Stanford University|year=2016}}</ref> Most figure Parmenides was responding to Heraclitus, and therefore Heraclitus was the older of the two
+0.049463
+He cannot accuse Heraclitus of being a heretic so he says instead: "Did not (Heraclitus) the Obscure anticipate Noetus in framing a system ...?" The apparent pantheist deity of Heraclitus (if that is what the fragment means) must be equal to the union of opposites and therefore must be corporeal and incorporeal, divine and not-divine, dead and alive, etc., and the [[Trinity]] can only be reached by some sort of illusory shape-shifting.<ref>{{cite web |author=Hippolytus |title=Refutation of All Heresies |pages=Book IX Chapter 5 |publisher=New Advent |url=http://www.newadvent.org/fathers/050109.htm |accessdate=2007-12-01}}</ref>
+
+===== First Apology =====
+The Christian apologist [[Justin Martyr]], however, took a much more positive view of him
+0.0520162
+* {{cite web |last=Hoyt |first=Randy |title=The Fragments of Heraclitus |year=2002 |url=http://www.heraclitusfragments.com/ |accessdate=2007-10-09}} The fragments also cited in DK in Greek (Unicode) with the English translations of John Burnet (see Bibliography)
+0.0531711
+
+
+Heraclitus also stated "human opinions are children's toys."<ref>DK B70, from Stobaeus, ''Selections'' 2.1.16</ref> However, "Man is called a baby by God, even as a child [is called a baby] by a man."<ref>DK B79</ref> Heraclitus also states "We should not act and speak like 'children of our parents", interpreted by [[Marcus Aurelius]] to mean not simply accept what others believe.<ref>DK B74, from Marcus Aurelius, ''Meditations''</ref>
+[[File:Derveni_papyrus_-_fragment_Heraclitus_-_col._iv,_10-13_(version_2).jpg|thumb|left|155px|Fragment from the Derveni Papyrus]]
+
+====The Soul====
+He regarded the soul as being a mixture of fire and water, with fire being the noble part of the soul, and water the ignoble part
+0.0567544
+Dall'Orto.JPG|thumb|220px| But it always was and will be: an ever-living fire.]]
+Like the previous [[Ionian School (philosophy)|Milesians]], [[Thales of Miletus|Thales]] with water and [[Anaximenes of Miletus|Anaximenes]] with air, Heraclitus considered fire as the [[arche]], the most fundamental element, which gave rise to the other elements, perhaps because living people are warm.<ref name="Weinstein-Greece" /> [[Norman Melchert]] interpreted Heraclitus as using "fire" metaphorically, in lieu of ''Logos'', as the origin of all things.<ref>{{cite book|title=The Great Conversation|last=Melchert|first=Norman|publisher=Oxford University Press|year=2006|isbn=978-0-19-530682-8|edition=5th}}</ref> Others see it as a metaphor for change, like a dancing and flickering flame, or perhaps all of these
+0.0577988
+Says [[Charles Kahn|Kahn]]: "Down to the time of [[Plutarch]] and [[Clement of Alexandria|Clement]], if not later, the little book of Heraclitus was available in its original form to any reader who chose to seek it out."<ref name="kahn" /> Diogenes Laërtius says: "the book acquired such fame that it produced partisans of his philosophy who were called [[Ephesian School|Heracliteans]]."<ref name="ix6" /> [[Cratylus]] was one such follower
+0.0594471
+44</ref><ref>DK B107, from Sextus Empiricus ''Against the Mathematicians'' 7.126</ref> He also said "sight tells falsehoods"<ref>DK B46, from Laertius, ''Lives'', 9.7</ref> and that "nature loves to hide".<ref>DK B123, from Themistius ''Orations'' 5.69</ref> He also warned against hearsay, "Eyes are better witnesses than the ears."
+
+The sense of smell also seemed to play a role in his philosophy
+0.0594471
+|authorlink=Geoffrey Kirk |title=Heraclitus, the Cosmic Fragments |year=1954 |publisher=Cambridge University Press |location=Cambridge}}
+* {{cite book |last=Marcovich |first=Miroslav |authorlink=Miroslav Marcovich |title=Heraclitus
+0.0594471
+8</ref> 
+===Logos===
+{{Main|Logos}}
+The meaning of ''Logos'' is subject to interpretation: "word", "account", "principle", "plan", "formula", "measure", "proportion", "reckoning."<ref>For the etymology see {{cite web|url=http://www.bartleby.com/61/roots/IE267.html|title=Appendix I: Indo-European Roots: leg-|last=Watkins|first=Calvert|year=2000|publisher=The American Heritage Dictionary of the English Language: Fourth Edition}}</ref> Though Heraclitus "quite deliberately plays on the various meanings of ''logos''",<ref>K.F
+0.0594471
+Diogenes Laërtius lists various stories about Heraclitus' death: In two versions, Heraclitus was cured of the dropsy and died of another disease
+0.0594471
+According to him, "the origin of philosophy is to be dated from Heraclitus." He attributes dialectics to Heraclitus rather than, as Aristotle did, to Zeno of Elea
+0.0595034
+ In the ''[[Metaphysics (Aristotle)|Metaphysics]]'' Aristotle mentions how some say Heraclitus denied the [[law of noncontradiction]], and accuses him of not reasoning.<ref>Metaphysics Book 4, section 1005b</ref>  According to Diogenes Laërtius, Timon of Phlius called him "the Riddler" ({{lang|grc|αἰνικτής}}; {{transl|grc|ainiktēs}}), and  explained that Heraclitus wrote his book "rather unclearly" (''asaphesteron'') so that only the "capable" should attempt it.<ref name="ix6" /> Heraclitus himself wrote "The lord whose is the [[oracle at Delphi]] neither speaks nor hides his [[Meaning (philosophy of language)|meaning]], but gives a [[sign]]."<ref>DK B93, from Plutarch ''On the Pythian Oracle'' 404D</ref>[[File:Heraclitus_of_Ephesius,_Ionian_philosopher,_at_Ephesus._Wellcome_L0002557.jpg|thumb|left|190px|Heraclitus]]
+By the time of [[Cicero]] he had become "the dark" ({{lang|grc|ὁ Σκοτεινός}}; {{transl|grc|ho Skoteinós}}) because he had spoken ''nimis obscurē'', "too obscurely", concerning nature and had done so deliberately in order to be misunderstood.<ref>''De Finibus Bonorum et Malorum'', Chapter 2, Section 15.</ref> The customary English translation of {{lang|grc|ὁ Σκοτεινός}} follows the Latin, "the Obscure"
+0.0858045
+
+==== French philosophy ====
+[[Michel de Montaigne]] proposed two archetypical views of human affairs based on them, selecting Democritus' for himself.<ref name="montaigne">{{cite book|url=http://www.gutenberg.org/etext/3600|title=Of Democritus and Heraclitus|last=de Montaigne|first=Michel|date=2004-10-26|website=The Essays|publisher=Project Gutenberg|authorlink=Michel de Montaigne}}</ref>  
+
+====German philosophy====
+[[G
+0.109823
+
+{{Presocratics}}
+{{Greek schools of philosophy}}
+{{Ancient Greece topics}}
+{{philosophy of religion}}
+
+{{Authority control}}
+
+[[Category:Heraclitus| ]]
+[[Category:6th-century BC Greek people]]
+[[Category:6th-century BC philosophers]]
+[[Category:5th-century BC Greek people]]
+[[Category:5th-century BC philosophers]]
+[[Category:530s BC births]]
+[[Category:470s BC deaths]]
+[[Category:Ancient Ephesians]]
+[[Category:Ancient Greek metaphysicians]]
+[[Category:Ancient Greek physicists]]
+[[Category:Ancient Greeks from the Achaemenid Empire]]
+[[Category:Cosmologists]]
+[[Category:Deaths from edema]]
+[[Category:Epistemologists]]
+[[Category:Ancient Greek ethicists]]
+[[Category:Founders of philosophical traditions]]
+[[Category:Metaphysicians]]
+[[Category:Metaphysics]]
+[[Category:Natural philosophers]]
+[[Category:Ontologists]]
+[[Category:Ontology]]
+[[Category:Philosophers of ancient Ionia]]
+[[Category:Philosophers of mind]]
+[[Category:Philosophers of religion]]
+[[Category:Political philosophers]]
+[[Category:Presocratic philosophers]]
+[[Category:Reality]]
+0.110901
+{{short description|Pre-Socratic Greek philosopher}}
+{{Other people|Heracleitus}}
+{{Infobox philosopher
+|region = [[Western philosophy]]
+|era    = [[Pre-Socratic philosophy]]
+|image  = File:Heraklit.jpg 
+|caption =Heraclitus, depicted in engraving from 1825
+|name    = Heraclitus
+|birth_date  = {{circa|535 BC}}
+|birth_place = [[Ephesus]], [[Ionia (satrapy)|Ionia]], [[Achaemenid Empire|Persian Empire]]
+|death_date  = {{circa|475 BC|lk=no}} (age {{Circa|60|lk=no}})
+|death_place =  Ephesus, [[Ionia]], [[Delian League]]
+|main_interests = [[Metaphysics]], [[epistemology]], [[ethics]], [[politics]], [[cosmology]]
+|influences = [[Thales]], [[Anaximander]], [[Anaximenes of Miletus|Anaximenes]], [[Bias of Priene]]
+|influenced = Virtually all subsequent [[Western philosophy]], especially [[Cratylus]], [[Antisthenes (Heraclitean)|Antisthenes]], [[Parmenides]], [[Anaxagoras]], [[Empedocles]],  [[Plato]], [[Stoicism]], [[Georg Wilhelm Friedrich Hegel|Hegel]], [[Friedrich Engels|Engels]], [[Ferdinand Lassalle|Lassalle]], [[Friedrich Nietzsche|Nietzsche]], [[Oswald Spengler|Spengler]], [[Martin Heidegger|Heidegger]], [[Karl Popper|Popper]], [[J
+0.115128
+|title=Heraclitus |website=Stanford Encyclopedia of Philosophy |publisher=The editors |year=2011 |url=http://plato.stanford.edu/entries/heraclitus/ |accessdate=2013-08-25}}
+* {{cite web |last=Harris |first=William, translator |title=Heraclitus: The Complete Fragments: Translation and Commentary and The Greek Text |website=Humanities and the Liberal Arts: Greek Language and Literature: Text and Commentary |publisher=Middlebury College |year=1994 |url=http://community.middlebury.edu/~harris/Philosophy/heraclitus.pdf |accessdate=2007-10-09 |archive-url=https://web.archive.org/web/20070927033213/http://community.middlebury.edu/~harris/Philosophy/heraclitus.pdf |archive-date=2007-09-27 |url-status=dead }} Greek and English with DK numbers and commentary
+0.116752
+2 | pages = 201–202 | location = | publisher = | year = 2003 | isbn = |ref=harv| title = HERACLEITUS OF EPHESUS – Encyclopaedia Iranica }}
+
+==External links==
+{{Library resources box |by=yes |onlinebooks=yes |others=yes |about=yes |label=Heraclitus
+  |viaf= |lccn= |lcheading= |wikititle= }}
+* {{wikiquote-inline}}
+* {{wikisource-inline|Fragments of Heraclitus}}
+* {{commons category inline}}
+* {{cite web |author=Elpenor |title=Heraclitus: The Word is Common |website=The Greek Word: Three Millennia of Greek Literature |publisher=Elpenor |url=http://www.ellopos.net/elpenor/greek-texts/ancient-greece/herakleitus-word.asp |accessdate=2007-10-10}} Heraclitus bilingual anthology from DK in Greek and English, side by side, the translations being provided by the organization, Elpenor
+0.118894
+and the master of the other school Heraclitus for his tears?}}
+The motif was also adopted by [[Lucian of Samosata]] in his "Sale of Creeds", in which the duo is sold together as a complementary product in the satirical auction of philosophers.<ref name="lucian" />
+==Philosophy == 
+Heraclitus's philosophy of change is commonly called [[Becoming (philosophy)|becoming]], and can be seen in a [[Dialectic|dialectical]] relationship and contrasted with [[Parmenides]]' concept of "[[being]]".{{efn|Heraclitus typically uses the ordinary word "to become" (''gignesthai'' or ''ginesthai'', present tense or [[aorist]] tense of the verb, with the root sense of "being born").}}  For this reason, Heraclitus and Parmenides are commonly considered to be two of the founders of [[ontology]] and the issue of the One and the Many, and thus pivotal in the history of Western philosophy and [[metaphysics]]
+0.147124
+{{ISBN|978-1-78035-064-6}} All fragments, in Greek and English, with commentary and appendices
+* {{cite book |last=Davenport |first=Guy (translator) |authorlink=Guy Davenport |title=Herakleitos and Diogenes |url=https://archive.org/details/herakleitosdioge00hera |url-access=registration |location=Bolinas |publisher=Grey Fox Press |year=1979 |isbn=978-0-912516-36-3}} Complete fragments of Heraclitus in English
+* {{Cite book |last=Heraclitus |last2=Haxton (translator) |first2=Brooks |last3=Hillman (Forward) |first3=James |author3-link=James Hillman |year=2001 |title=Fragments: The Collected Wisdom of Heraclitus |place=New York |publisher=Viking (The Penguin Group, Penguin Putnam, Inc.) |isbn=978-0-670-89195-5 |url-access=registration |url=https://archive.org/details/fragmentscollect00hera }}
+0.178341
+|title=Philosophy before Socrates, An Introduction With Text and Commentary |publisher=Hackett |place=Indianapolis |year=2011 |isbn=978-1-60384-183-2}}
+* {{cite book|editor-last=Mourelatos|editor-first=Alexander|title=The Pre-Socratics : a collection of critical essays|year=1993|publisher=Princeton University Press|location=Princeton, NJ|isbn=978-0-691-02088-4|edition=Rev.}}
+* {{cite book |last1=Naddaf |first1=Gerard |title=The Greek Concept of Nature |date=2005 |publisher=SUNY Press |isbn=978-0791463734|ref=harv}}
+* Pyle, C.M
+0.183289
+(Bantam Books) |isbn=978-0-553-25161-6 |pages=Chapter 2: Shadow and Substance; Section: Plato's Sources: The Pre–SocraticPhilosophers: Heraclitus and Parmenides |nopp=true}}
+* {{Cite LotEP|chapter=Heraclitus}}
+* {{cite book |last=Luchte |first=James |title=Early Greek Thought: Before the Dawn |year=2011 |publisher=Bloomsbury Publishing |location=London |isbn=978-0567353313}} 
+* {{cite book |last=Magnus |first=Magus |author-link=Magus Magnus |title=Heraclitean Pride |publisher=Furniture Press Books |last2=Fuchs |first2=Wolfgang (introduction) |place=Towson |year=2010 |isbn=978-0-9826299-2-5}} Creative re-creation of Heraclitus' lost book, from the fragments
+* {{cite book |last=McKirahan |first=R.D
+0.183905
+Das Erwachen des europäischen Denkens.'' Band 3: ''Heraklit von Ephesus und die Entwicklung der Individualität.'' Freies Geistesleben, Stuttgart, 2004, {{ISBN|3-7725-1300-X}}
+* {{cite book |last=Dilcher |first=Roman |title=Studies in Heraclitus |year=1995 |publisher=Olms |location=Hildesheim |isbn=978-3-487-09986-6}}
+* {{cite book |last=Fairbanks |first=Arthur |title=The First Philosophers of Greece |url=https://archive.org/details/firstphilosopher00fairiala |year=1898 |publisher=Scribner |location=New York}}
+* {{cite book |last=Graham |first=D.W
+0.183905
+* {{Cite book |last=Hussey |first=Edward |title=The Presocratics |publisher=Scribner |year=1972 |location=New York |isbn=0684131188 |url-access=registration |url=https://archive.org/details/presocratics00huss }}
+*{{cite book |last2=Raven |first2=J.E
+0.19306
+* {{cite web |last=June |first=Daniel |title=The Logos: a Modern Adapted Translation of the Complete Fragments of Heraclitus |year=2012 |url=http://www.perfectidius.com/The_Logos.pdf |accessdate=2015-04-21 |archiveurl=https://web.archive.org/web/20131202235656/http://www.perfectidius.com/The_Logos.pdf |archivedate=2013-12-02}} 
+* {{cite web |last=Knierim |first=Thomas |title=Heraclitus: (Ephesus, around 500 BC) |year=2007 |publisher=thebigview.com |url=http://www.thebigview.com/greeks/heraclitus.html}} Essay on the flux and fire philosophy of Heraclitus
+0.194586
+|year=1987 |title=Heraclitus: Fragments: A Text and Translation with a Commentary |publisher=University of Toronto Press |location=Toronto |isbn=978-0-8020-6913-9}}
+* {{cite book|editor1-last=Sallis|editor1-first=John|editor2-last=Maly|editor2-first=Kenneth|title=Heraclitean fragments|year=1980|publisher=University of Alabama Press|location=University|isbn=978-0-8173-0027-2}}
+* {{cite book |last=Wheelwright |first=Philip |authorlink=Philip Wheelwright |title=Heraclitus |url=https://archive.org/details/heraclitus0000whee |url-access=registration |year=1959 |publisher=Princeton University Press |location=Princeton, NJ}}
+* {{cite book |last=Wright |first=M.R
+0.199572
+* {{cite web |last=Stamatellos |first=Giannis |title=Heraclitus of Ephesus: Life and Work |url=http://www.philosophy.gr/presocratics/heraclitus.htm |accessdate=2007-10-12}}
+* {{cite web |last=Trix |title=Heraclitus' Epistemological Views |website=sym•pos•i•a: σuμποσια: the online philosophy journal |url=http://journal.ilovephilosophy.com/Article/Heraclitus--Epistemological-Views/29 |accessdate=2007-10-10 |archiveurl=https://web.archive.org/web/20070929094137/http://journal.ilovephilosophy.com/Article/Heraclitus--Epistemological-Views/29 |archivedate=2007-09-29}}
+* {{cite web |last=Osho |title=Osho discourse on Heraclitus, The Hidden Harmony |url=http://www.oshoworld.com/e-books/search.asp?pdf_id=053_The_Hidden_Harmony.pdf&download=Yes}}
+* {{cite web | title= Heraclitus Series |url= http://canopycanopycanopy.com/4/heraclitus_series}} Heraclitus' fragments rendered into the language of deductive logic on [[Triple Canopy (online magazine)]]
+0.230034
+|year=1985 |title=The Presocratics: The main Fragments in Greek with Introduction, Commentary and Appendix Containing Text and Translation of Aristotle on the Presocratics |publisher=Bristol Classical Press |location=Bristol |isbn=978-0-86292-079-1}}
+
+===Selected bibliography===
+* {{cite book |last=Bakalis |first=Nikolaos |year=2005 |title=Handbook of Greek Philosophy: From Thales to the Stoics: Analysis and Fragments |publisher=Trafford Publishing |isbn=978-1-4120-4843-9 |pages=26–45 under Heraclitus}}
+* {{cite book |last=Barnes |first=Jonathan |authorlink=Jonathan Barnes |year=1982 |title=The Presocratic Philosophers [Revised Edition] |publisher=Routledge Taylor & Francis Group |location=London & New York |isbn=978-0-415-05079-1}}
+* {{cite book |last=Bollack |first=Jean  |authorlink=Jean Bollack |last2=Wismann |first2=Heinz |year=1972 |title=Héraclite ou la séparation |publisher=Minuit |location=Paris |isbn=9782707303851 |language=French}}
+* {{cite book |last=Burnet |first=John |authorlink=John Burnet (classicist) |year=2003 |title=Early Greek Philosophy |url=https://books.google.com/books?id=LQYrAAAAMAAJ&dq=Early+Greek+philosophy |publisher=Kessinger Publishing |isbn=978-0-7661-2826-2}} First published in 1892, this book has had dozens of editions and has been used as a textbook for decades

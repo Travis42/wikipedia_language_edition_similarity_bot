@@ -1,0 +1,71 @@
+Demography
+en edition's differences with the ja version: 
+-5.02951e-10
+* The '''[[total fertility rate]]''', the number of live births per woman completing her reproductive life, if her childbearing at each age reflected current age-specific fertility rates
+-5.02951e-10
+For example, the replacement level fertility in the US is 2.11.<ref name="Ela 2008">Introduction to environmental engineering and science by Masters and Ela, 2008, Pearson Education, chapter 3</ref>
+* The '''[[gross reproduction rate]]''', the number of daughters who would be born to a woman completing her reproductive life at current age-specific fertility rates
+-6.13909e-12
+Mathematicians, such as [[Edmond Halley]], developed the life table as the basis for life insurance mathematics
+-6.13909e-12
+* The '''expectation of life''' (or [[life expectancy]]), the number of years that an individual at a given age could expect to live at present mortality levels
+-6.13909e-12
+A life table is necessary to give a good estimate of life expectancy
+-5.64881e-12
+They include [[models of mortality]] (including the [[life table]], [[Gompertz curve|Gompertz models]], [[Proportional hazards models|hazards models]], [[Proportional hazards models|Cox proportional hazards models]], [[Decrement table|multiple decrement life tables]], [[Brass relational logits]]), [[fertility]] ([[Hernes model]], [[Ansley J
+1.59162e-12
+ Demographers most commonly study mortality using the [[Life Table]], a statistical device that provides information about the mortality conditions (most notably the life expectancy) in the population.<ref>[https://www.cdc.gov/nchs/products/pubs/pubd/lftbls/lftbls.htm N C H S - Life Tables<!-- Bot generated title -->]</ref>
+
+Migration refers to the movement of persons from a locality of origin to a destination place across some predefined, political boundary
+1.81899e-12
+A more complete picture of mortality is given by a [[life table]], which summarizes mortality separately at each age
+3.63798e-12
+Workshop on ‘Lexis in Context: German and Eastern& Northern European Contributions to Demography 1860-1910’ at the Max Planck Institute for Demographic Research, Rostock, August 28 and 29, 2000.</ref>
+
+==Methods==
+There are two types of data collection—direct and indirect—with several different methods of each type
+1.54614e-11
+Ageing and Longevity: Mortality Laws and Mortality Forecasts for Ageing Populations [In Czech: Stárnutí a dlouhověkost: Zákony a prognózy úmrtnosti pro stárnoucí populace]
+3.51292e-11
+(Jack) Moorhead, FSA, ( 1/23/10 – 2/21/04), published by the Society of Actuaries as part of the profession’s centennial celebration in 1989.</ref> followed later by [[Augustus de Morgan]], ‘On the Application of Probabilities to Life Contingencies’ (1838).<ref>The History of Insurance, Vol 3, Edited by David Jenkins and Takau Yoneyama (1 85196 527 0): 8 Volume Set: ( 2000) Availability: Japan: Kinokuniya).</ref>
+
+In 1755, [[Benjamin Franklin]] published his essay ''[[Observations Concerning the Increase of Mankind, Peopling of Countries, etc.]]'', projecting [[exponential growth]] in British colonies.<ref name=valtier>{{cite journal|title="An Extravagant Assumption": The Demographic Numbers behind Benjamin Franklin's Twenty-Five-Year Doubling Period|last=von Valtier|first=William F.|journal=[[Proceedings of the American Philosophical Society]]|volume=155|number=2|date=June 2011|pages=158–188|url=http://www.amphilsoc.org/sites/default/files/proceedings/5VonValtier1550205.pdf|access-date=19 September 2018|archive-url=https://web.archive.org/web/20160305211515/https://amphilsoc.org/sites/default/files/proceedings/5VonValtier1550205.pdf|archive-date=5 March 2016|url-status=dead}}</ref> His work influenced [[Thomas Robert Malthus]],<ref>{{cite journal |last=Zirkle |first=Conway |authorlink=Conway Zirkle |date=April 25, 1941 |title=Natural Selection before the 'Origin of Species' |journal=[[Proceedings of the American Philosophical Society]] |location=Philadelphia, PA |publisher=[[American Philosophical Society]] |volume=84 |issue=1 |pages=71–123 |jstor=984852 |issn=0003-049X}}</ref> who, writing at the end of the 18th century, feared that, if unchecked, population growth would tend to outstrip growth in food production, leading to ever-increasing famine and poverty (see [[Malthusian catastrophe]])
+1.05786e-10
+This is because developed countries have proportionally more older people, who are more likely to die in a given year, so that the overall mortality rate can be higher even if the mortality rate at any given age is lower
+0.0168002
+* [http://gsociology.icaap.org/basicguide.html Basic Guide to the World: Population changes and trends, 1960 to 2003]
+* [http://gsociology.icaap.org/report/demsum.html Brief review of world basic demographic trends]
+
+{{Social sciences}}
+{{Authority control}}
+
+[[Category:Actuarial science]]
+[[Category:Demography| ]]
+[[Category:Environmental social science]]
+[[Category:Interdisciplinary subfields of sociology]]
+[[Category:Human geography]]
+[[Category:Market segmentation]]
+[[Category:Human populations]]
+0.0289515
+
+The United Kingdom has a series of four national birth cohort studies, the first three spaced apart by 12 years: the 1946 National Survey of Health and Development, the 1958 [[National Child Development Study]],<ref>{{cite journal |author=Power C and Elliott J |title=Cohort profile: 1958 British Cohort Study |journal=International Journal of Epidemiology |volume=35 |issue=1 |pages=34–41 |year=2006 |pmid=16155052 |doi=10.1093/ije/dyi183}}</ref> the [[1970 British Cohort Study]],<ref>{{cite journal |author=Elliott J and Shepherd P|title=Cohort profile: 1970 British Birth Cohort (BCS70)|journal=International Journal of Epidemiology |volume=35 |issue=4 |pages=836–43|year=2006 |doi=10.1093/ije/dyl174 |pmid=16931528}}</ref> and the [[Millennium Cohort Study]], begun much more recently in 2000
+0.0617279
+Demographic research is conducted in universities, in research institutes as well as in statistical departments and in several international agencies
+0.072747
+In contrast to vital statistics data, which are typically collected continuously and summarized on an annual basis, censuses typically occur only every 10 years or so, and thus are not usually the best source of data on births and deaths
+0.0823038
+W.|publisher=Routledge|year=2004|isbn=|location=|pages=169}}</ref>  
+
+The period 1860-1910 can be characterised as a period of transition wherein demography emerged from statistics as a separate field of interest
+0.10122
+* The '''age-specific fertility''' rates, the annual number of live births per 1,000 women in particular age groups (usually age 15-19, 20-24 etc.)
+* The '''crude [[death rate]]''', the annual number of deaths per 1,000 people
+0.10288
+These compare the [[sex ratio]]s from the census data to those estimated from natural values and mortality data
+0.10288
+While demographers who study migration typically do so through census data on place of residence, indirect sources of data including tax forms and labour force surveys are also important.<ref>Donald T
+0.276439
+1 {{ISBN|0-340-71892-7}}</ref>
+
+==History==
+Demographic thoughts traced back to antiquity, and were present in many civilisations and cultures, like [[Ancient Greece]], [[Ancient Rome]], [[China]] and [[India]].<ref name="Srivastava2006">[https://books.google.com/books?id=oNcflpmW3BUC&pg=PA1&lpg=PA1&dq=studies+in+demography&source=bl&ots=Y1QFr3LGxP&sig=xJkW1mxVL6XS-Gij0tOpOsFZA9E&hl=es&ei=qdjRS8DjMsGC8gbj4Ii_Dw&sa=X&oi=book_result&ct=result&resnum=2&ved=0CCMQ6AEwAQ#v=onepage&q&f=false S.C.Srivastava,''Studies in Demography'', p.39-41]</ref> Demography is made up of two word Demos and Graphy 

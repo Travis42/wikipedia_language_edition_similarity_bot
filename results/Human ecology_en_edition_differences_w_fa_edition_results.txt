@@ -1,0 +1,173 @@
+Human ecology
+en edition's differences with the fa version: 
+-7.32143e-11
+[[Ian McHarg]] called for a future when all planning would be “human ecological planning” by default, always bound up in humans’ relationships with their environments
+-7.32143e-11
+| date = 1981 | title = Ecological Planning at Pennsylvania | url = | journal = Landscape Planning | volume = 8 | issue = 2| pages = 109–120 | doi=10.1016/0304-3924(81)90029-0}}</ref> Proponents of the [[new urbanism]] movement, like [[James Howard Kunstler]] and [[Andres Duany]], have embraced the term human ecology as way to describe the problem of—and prescribe the solutions for—the landscapes and lifestyles of an automobile oriented society
+-1.51203e-11
+Springer, IDRC 2012.</ref> Drawing in turn from the application of concepts such as the social-ecological model of health, human ecology has converged with the mainstream of global public health literature.<ref>{{cite book |first1=F |last1=White |first2=L |last2=Stallones |first3=JM
+6.48015e-12
+The ecological footprint and its close analog the [[water footprint]] has become a popular way of accounting for the level of impact that human society is imparting on the Earth's ecosystems.<ref name="Rees92">{{Cite journal |last = Rees |first = W
+1.9952e-11
+}}</ref>
+
+==Ecological footprint==
+{{Main|Ecological footprint}}
+
+{{quote box
+| quote =
+While we are used to thinking of cities as geographically discrete places, most of the land "occupied" by their residents lies far beyond their borders
+3.29692e-11
+| title=The "survival of the fittest" and the origins of social Darwinism | journal=Journal of the History of Ideas | volume=61 | issue=2 | pages=223–240 | date=2000 | jstor=3654026 | doi=10.1353/jhi.2000.0014}}</ref>
+
+{{quote box
+| quote =Human ecology is the discipline that inquires into the patterns and process of interaction of humans with their environments
+3.29692e-11
+
+==Niche of the Anthropocene==
+{{main|Anthropocene}}
+{{see also|Novel ecosystem}}
+
+{{quote box
+| quote = Perhaps the most important implication involves our view of human society
+3.29692e-11
+|last2 = Light |first2 = S.|last3 = Sovel|first3 = L.|title = Sustainability and resilience in boreal regions: sources and consequences of variability|journal = Conservation Ecology|volume = 2|issue = 2 |page = 16|date = 1998 |url = http://www.consecol.org/vol2/iss2/art16/ |ref = harv}}</ref>
+
+{{quote box
+| quote =
+Many human-nature interactions occur indirectly due to the production and use of human-made (manufactured and synthesized) products, such as electronic appliances, furniture, plastics, airplanes, and automobiles
+4.05294e-11
+Ultimately, every manufactured product in human environments comes from natural systems.<ref name="Liu09" /> Ecosystems are considered [[common-pool resources]] because ecosystems do not exclude beneficiaries and they can be depleted or degraded.<ref name="Becker95">{{Cite journal |last = Becker |first = C
+1.28523e-10
+These products insulate humans from the natural environment, leading them to perceive less dependence on natural systems than is the case, but all manufactured products ultimately come from natural systems.<ref name="Liu09" />{{Rp|640}}
+| width = 30%
+| align = left}}
+
+Human societies are increasingly being placed under stress as the [[Common-pool resource|ecological commons]] is diminished through an accounting system that has incorrectly assumed "..
+1.36126e-10
+For example, governments of the [[G8]] met in 2007 and set forth [[The Economics of Ecosystems and Biodiversity]] (TEEB) initiative:
+
+<blockquote>In a global study we will initiate the process of analyzing the global economic benefit of biological diversity, the costs of the loss of biodiversity and the failure to take protective measures versus the costs of effective conservation.<ref>{{cite web|url=http://ec.europa.eu/environment/nature/biodiversity/economics/|title=The Economics of Ecosystems and Biodiversity|publisher=European Union|accessdate=4 February 2010}}</ref></blockquote>
+
+The work of [[Kenneth E
+1.36424e-10
+|last3=Last |title=Global Public Health: Ecological Foundations|date=2013 |publisher=Oxford University Press |isbn=978-0-19-975190-7 }}</ref>
+
+==Connection to home economics==
+In addition to its links to other disciplines, human ecology has a strong historical linkage to the field of home economics through the work of [[Ellen Swallow Richards]], among others
+0.02932
+|title = Revisiting the Commons: Local Lessons, Global Challenges|journal = Science|volume = 284 |issue = 5412 |pages=278–282 |date = 1999|url = http://isites.harvard.edu/fs/docs/icb.topic464862.files/Revisiting_the_Commons.pdf |pmid = 10195886 |doi = 10.1126/science.284.5412.278 |ref = harv |display-authors = 1 |last2 = Burger |first2 = J |last3 = Field |first3 = CB |last4 = Norgaard |first4 = RB |last5 = Policansky |first5 = D|citeseerx = 10.1.1.510.4369|bibcode = 1999Sci...284..278.}}</ref> The [[Millennium Ecosystem Assessment]], an international UN initiative involving more than 1,360 experts worldwide, identifies four main [[ecosystem service]] types having 30 sub-categories stemming from natural capital
+0.02932
+(Proceedings of the 3rd International Conference on Environmental Future — ICEF).'' Edinburgh: University of Edinburgh Press
+0.0355557
+| title=Carolus Linnaeus (1707-1778): his life, philosophy and science and its relationship to modern biology and medicine | journal=Taxon | volume=58 | issue=1 | pages=18–31 | date=2009 | url=http://www.ingentaconnect.com/content/iapt/tax/2009/00000058/00000001/art00005| doi=10.1002/tax.581005 }}</ref> Linnaeus presented early ideas found in modern aspects to human ecology, including the [[balance of nature]] while highlighting the importance of ecological functions ([[ecosystem services]] or [[natural capital]] in modern terms): "In exchange for performing its function satisfactorily, nature provided a species with the necessaries of life"<ref name="Foster03">{{cite journal | last1=Foster | first1=J
+0.0383888
+
+==Ecological economics==
+{{main|Ecological economics}}
+{{See also|Natural capital}}
+
+[[Ecological economics]] is an [[economics|economic science]] that extends its methods of valuation onto nature in an effort to address the inequity between market growth and biodiversity loss.<ref name="de Groot02" /> Natural capital is the stock of materials or information stored in biodiversity that generates services that can enhance the welfare of communities.<ref name="Costanza97">{{Cite journal|author=Costanza, R
+0.0414647
+Herbert Spencer coined the phrase "[[survival of the fittest]]", he was an early founder of sociology where he developed the idea of society as an organism, and he created an early precedent for the socio-ecological approach that was the subsequent aim and link between sociology and human ecology.<ref name="Young74" /><ref name="Catton94">{{cite journal | last1=Catton | first1=W
+0.04398
+| title=Complexity of coupled human and natural systems | journal=Science | volume=317 | issue=5844 | pages=1513–1516 | url=http://faculty.unlv.edu/wjsmith/smithtest/LiuEtAlCoupledComplexity.pdf | doi=10.1126/science.1144004| pmid=17872436 | date=2007 | bibcode=2007Sci...317.1513L }}</ref>
+
+In 1894, an influential [[Chicago school (sociology)|sociologist at the University of Chicago]] named [[Albion W
+0.0879599
+A safer assumption holds that human enterprise almost always exacts an ecological toll - a debit taken from the ecological commons.<ref name="Sienkiewicz06">{{Cite journal |last = Sienkiewicz |first = A
+0.0879599
+|title = An Ecological Economics Perspective on Sustainability and Prospects for Ending Poverty |journal = Population & Environment |volume = 24 |issue = 1 |pages=15–46 |date = 2002 |doi = 10.1023/A:1020125725915 |ref = harv}}</ref> Multiple global ecological economic initiatives are being promoted to solve this problem
+0.130145
+{{Redirect|Human Ecology|the [[scientific journal]]|Human Ecology (journal)}}
+{{short description|Study of the relationship between humans and their natural, social, and built environments}}
+[[Image:Suburbia by David Shankbone.jpg|thumb|275px|Part of the [[built environment]]{{spaced ndash}} [[suburb]]an [[tract housing]] in [[Colorado Springs, Colorado]]]]
+
+'''Human ecology''' is an [[interdisciplinary]] and [[transdisciplinary]] study of the relationship between [[human]]s and their [[natural environment|natural]], [[Social environment|social]], and [[built environment]]s
+0.153555
+This is called a biodiversity crisis, because 50% of the worlds species are predicted to go extinct within the next 50&nbsp;years.<ref name="Koh04">{{Cite journal |last=Koh |first=LP |title = Species Coextinctions and the Biodiversity Crisis |journal = Science |volume = 305 |pages=1632–4 |date = 2004 |doi = 10.1126/science.1101101 |pmid = 15361627 |issue = 5690 |ref = harv |display-authors = 2 |last2 = Sodhi |first2 = NS |last3 = Colwell |first3 = RK |last4 = Proctor |first4 = HC |last5 = Smith |first5 = VS|bibcode = 2004Sci...305.1632K }}</ref><ref name="Western92">{{Cite journal |last = Western |first = D
+0.165859
+| date = 1958 | title = Medical ecology in relation to geography | journal = British Journal of Clinical Practice | volume = 12 | issue = 2| pages = 102–110 | pmid = 13510527 }}</ref> This was strengthened in 1971 by the publication of Epidemiology as Medical Ecology,<ref>{{cite book|last1=le Riche|first1=W
+0.165859
+|title = A typology for the classification, description and valuation of ecosystem functions, goods and services |journal = Ecological Economics |volume = 41|pages=393–408 |date = 2002 |url = http://yosemite.epa.gov/SAB/sabcvpess.nsf/e1853c0b6014d36585256dbf005c5b71/1c7c986c372fa8d485256e29004c7084/$FILE/deGroot%20et%20al.pdf |doi = 10.1016/S0921-8009(02)00089-7 |ref = harv |issue = 3}}</ref>
+{{Clear}}
+
+==Sixth mass extinction==
+{{Main|Holocene extinction}}
+
+Global assessments of biodiversity indicate that the current epoch, the Holocene (or Anthropocene)<ref name="Zalasiewicz08">{{Cite journal |author = Zalasiewicz, J
+0.165859
+|title = Green space, psychological restoration, and health inequality |journal = The Lancet |volume = 372 |issue = 9650 |pages=1614–5|date = 2008 |doi = 10.1016/S0140-6736(08)61669-4 |ref = harv}}</ref> These ecological health services are regularly depleted through urban development projects that do not factor in the common-pool value of ecosystems.<ref name="Pickett07">{{Cite journal |last = Pickett |first = S
+0.185116
+pp.225-231.</ref>
+
+==Interdisciplinary approaches==
+{{quote box
+| quote =
+Human ecology may be defined: (1) from a bio-ecological standpoint as the study of man as the ecological dominant in plant and animal communities and systems; (2) from a bio-ecological standpoint as simply another animal affecting and being affected by his physical environment; and (3) as a human being, somehow different from animal life in general, interacting with physical and modified environments in a distinctive and creative way
+0.186207
+|title = Perceptual and structural barriers to investing in natural capital: Economics from an ecological footprint perspective |journal = Ecological Economics |volume = 20 |issue = 1 |pages=3–24 |date = 1997 |doi = 10.1016/S0921-8009(96)00077-8 |ref = harv}}</ref><ref name="Pastor98">{{Cite journal |last = Pastor |first = J
+0.203487
+Harding|author1-link=William Harding le Riche|last2=Milner|first2=Jean|title=Epidemiology as medical ecology.|date=1971|publisher=Churchill Livingstone|location=Edinburgh|isbn=9780700014811}}</ref> and again in 1987 by the publication of a textbook on Public Health and Human Ecology.<ref>{{cite book|last1=Last|first1=John M.|title=Public health & human ecology|date=1998|publisher=Appleton & Lange|location=Stanford, Connecticut|isbn=9780838580806|edition=2nd}}</ref> An “ecosystem health” perspective has emerged as a thematic movement, integrating research and practice from such fields as environmental management, public health, biodiversity, and economic development.<ref>Charron SF
+0.211599
+
+==External links==
+*{{Commonscatinline}}
+
+{{Environmental social science}}
+{{Social sciences}}
+{{Ethnobiology}}
+{{Authority control}}
+
+{{DEFAULTSORT:Human Ecology}}
+[[Category:Human ecology| ]]
+[[Category:Environmental studies]]
+[[Category:Human geography|Ecology]]
+0.227111
+Richards first introduced the term as "[[oekology]]" in 1892, and subsequently developed the term "human ecology".<ref name="Merchant2"/>
+
+The term "human ecology" first appeared in [[Ellen Swallow Richards]]' 1907 ''Sanitation in Daily Life'', where it was defined as "the study of the surroundings of human beings in the effects they produce on the lives of men".<ref>{{cite book|last=Richards|first=Ellen H.|title=Sanitation in Daily Life|origyear=1907 |year=2012|publisher=Forgotten Books|asin=B008KX8KGA|pages=v|url=https://www.amazon.com/Sanitation-Daily-Life-Classic-Reprint/dp/B008KX8KGA#reader_B008KX8KGA}}</ref> Richard's use of the term recognized humans as part of rather than separate from nature.<ref name="Merchant2">{{cite book|last=Merchant|first=C.|title=American Environmental History: An Introduction|date=2007|publisher=Columbia University Press|location=New York|isbn=978-0231140355|pages=181}}</ref> The term made its first formal appearance in the field of sociology in the 1921 book "Introduction to the Science of Sociology",<ref name="Park21">{{cite book | editor1-last=Park | editor1-first=R
+0.228056
+| title=Between economics and ecology: Some historical and philosophical considerations for modelers of natural capital | journal=Environmental Monitoring and Assessment | volume=86 | issue=1–2 | pages=63–74 | date=2003 | doi=10.1023/A:1024002617932| pmid=12858999 }}</ref>{{rp|66}} The work of Linnaeus influenced [[Charles Darwin]] and other scientists of his time who used Linnaeus' terminology (i.e., the ''economy and polis of nature'') with direct implications on matters of human affairs, ecology, and [[ecological economics|economics]].<ref name="Haecek66">{{cite book | last1=Haeckel | first1=E
+0.228056
+TED Talk, http://www.ted.com/talks/ken_robinson_says_schools_kill_creativity.html</ref>
+
+==Bioregionalism and urban ecology==
+{{main|Bioregionalism}}
+{{see also|Urban ecology}}
+
+In the late 1960s, ecological concepts started to become integrated into the applied fields, namely [[architecture]], [[landscape architecture]], and [[planning]]
+0.23456
+|journal = The Quarterly Review of Biology |volume = 32 |issue = 2 |pages=138–144 |date = 1957 |url = |doi = 10.1086/401754 |ref = harv}}</ref><ref name="Kormandy78">{{Cite journal |last = Kormandy |first = E
+0.23456
+| title=The biogeography of geographers: A content visualization of journal publications | journal=Physical Geography | date=2007 | volume=28 | issue=3 | pages=261–275 | url=http://myweb.fsu.edu/jastallins/reprints/Physical%20Geography%202007.pdf | doi=10.2747/0272-3646.28.3.261 | url-status=dead | archiveurl=https://web.archive.org/web/20100611090109/http://myweb.fsu.edu/jastallins/reprints/Physical%20Geography%202007.pdf | archivedate=2010-06-11 }}</ref><ref name="Liu07">{{cite journal | last1=Liu | first1=J
+0.23456
+|title = Ecological science and tomorrow's world |date = 2010 |volume = 365 |pages=41–7 |doi = 10.1098/rstb.2009.0164 |pmid = 20008384 |issue = 1537 |pmc = 2842703 |journal = Philosophical Transactions of the Royal Society B |ref = harv}}</ref><ref name="McCallum07">{{cite journal | last=McCallum | first=M
+0.23456
+|title = Ecological footprints and appropriated carrying capacity: what urban economics leaves out |journal = Environment and Urbanization |volume = 4 |issue = 2 |pages=121–130 |date = 1992 |doi = 10.1177/095624789200400212 |ref = harv}}</ref><ref name="Hoekstra09">{{cite journal | last=Hoekstra | first=A
+0.23456
+|title = The Biodiversity Crisis: A Challenge for Biology |journal = Oikos |volume = 63 |issue = 1 |pages=29–38 |date = 1992 |doi = 10.2307/3545513 |ref = harv |jstor = 3545513}}</ref> Conventional monetary analyses are unable to detect or deal with these sorts of ecological problems.<ref name="Rees02">{{Cite journal |last = Rees |first = W
+0.243957
+|title = Linking ecological and built components of urban mosaics: an open cycle of ecological design |journal = Journal of Ecology |volume = 96 |pages = 8–12 |date = 2007 |url = http://www.ecostudies.org/pickett/2008_Ecological_Built_J_Ecol.pdf |doi = 10.1111/j.1365-2745.2007.01310.x |ref = harv |url-status = dead |archiveurl = https://web.archive.org/web/20110726013954/http://www.ecostudies.org/pickett/2008_Ecological_Built_J_Ecol.pdf |archivedate = 2011-07-26 }}</ref><ref name="Termorshuizen07">{{Cite journal |last = Termorshuizen |first = J
+0.253918
+| title=Advances in Ecological Research Volume 8 | date=1974 | chapter=Human ecology as an interdisciplinary concept: A critical inquiry | volume=8 | pages=1–105 | doi=10.1016/S0065-2504(08)60277-9| series=Advances in Ecological Research | isbn=9780120139088 }}</ref>
+
+Human ecology has a fragmented academic history with developments spread throughout a range of disciplines, including: home economics, geography, anthropology, sociology, zoology, and psychology
+0.26388
+B | date=2011 | volume=366 | issue=1556 | pages=784 | doi=10.1098/rstb.2010.0364 | pmid=21320893 | pmc=3049000 }}</ref>
+{{Clear}}
+
+==Ecosystem services==
+{{Main|Ecosystem services}}
+
+[[File:Bee pollinating Aquilegia vulgaris.JPG|left|thumb|A [[bumblebee]] [[Pollination|pollinating]] a flower, one example of an ecosystem service]]
+{{quote box
+| quote = Policy and human institutions should rarely assume that human enterprise is benign
+0.279887
+| title=There is not mother nature: There is no balance of nature: Culture, ecology and conservation | journal=Human Ecology | volume=33 | issue=2 | pages=271–288 | date=2005 | jstor=4603569 | doi=10.1007/s10745-005-2435-7}}</ref><ref name="Stallin07">{{cite journal | last1=Stallin | first1=J
+0.281914
+|title = Incorporating ecological sustainability into landscape planning |journal = Landscape and Urban Planning |volume = 79 |issue = 3–4 |pages = 374–384 |date = 2007 |url = http://www.ontwerpenmetnatuur.wur.nl/NR/rdonlyres/EBE08632-E0F4-4DA1-ACDE-5C4C0710056C/44955/termorshuizenetal.pdf |doi = 10.1016/j.landurbplan.2006.04.005 |ref = harv |url-status = dead |archiveurl = https://web.archive.org/web/20110724173457/http://www.ontwerpenmetnatuur.wur.nl/NR/rdonlyres/EBE08632-E0F4-4DA1-ACDE-5C4C0710056C/44955/termorshuizenetal.pdf |archivedate = 2011-07-24 }}</ref>
+
+The ecological commons delivers a diverse supply of community services that sustains the well-being of human society.<ref name="Diaz06">{{Cite journal |last = Díaz |first = S
+0.293256
+| title= Human appropriation of natural capital: A comparison of ecological footprint and water footprint analysis | journal=Ecological Economics | volume=68 | issue=7 | pages=1963–1974 | date=2009 |doi=10.1016/j.ecolecon.2008.06.021 | url=http://www.waterfootprint.org/Reports/Hoekstra2008-Ecological-versus-WaterFootprint.pdf | ref=harv}}</ref> All indications are that the human enterprise is unsustainable as the footprint of society is placing too much stress on the ecology of the planet.<ref name="Moran08" /> The [[World Wildlife Fund|WWF]] 2008 living planet report and other researchers report that human civilization has exceeded the bio-regenerative capacity of the planet.<ref name="Moran08">{{Cite journal |last = Moran |first = D

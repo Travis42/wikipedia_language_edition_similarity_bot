@@ -1,0 +1,120 @@
+Historiographical Institute of the University of Tokyo
+en edition's differences with the ja version: 
+-6.59384e-12
+
+=== ''Dai-Nihon komonjo'' full-text database ===
+
+This database corresponds to the ''Dai-Nihon komonjo'' described above, a supplement to the ''Dai-Nihon shiryō''
+-5.91172e-12
+* ''Shiryō hensan-jo shozō shozōga mohon'' ([[portrait]]) database
+** This is a portrait database of people from that spans from the 9th century until the 19th century
+2.55795e-13
+This collection primarily consists of [[primary sources]], but also includes [[secondary sources]], interpretative essays, and even fictional accounts when no other sources can be found
+4.54747e-12
+
+The ''Dai-Nihon komonjo'' is a still-to-be-completed, 193+ volume supplement to the ''Dai-Nihon shiryō''
+4.54747e-12
+
+The ''Dai-Nihon shiryō'' and ''Dai-Nihon komonjo'', are the two largest compilations ever produced in Japan
+6.59384e-12
+Institute members have been working on the ''Dai-Nihon shiryō'' ever since the foundation of the Shiryō hensan-jo in 1869; many of the Institute's publications (listed in the link above) are simply companions to the ''Dai-Nihon shiryō'' such as the ''Shiryō sōran'', which is a chronological list of historical events that are used to categorize material in the ''Dai-Nihon shiryō''
+1.11413e-11
+
+== Online Databases ==
+
+The online databases of the Historiographical Institute correspond to many of its publications
+1.11413e-11
+Below is a description of the two major databases, plus two important visual image databases
+1.18234e-11
+
+=== ''Dai-Nihon shiryō'' database ===
+
+Among the many specialized databases covering all periods of pre-modern Japanese history, the most important database is the ''Dai-Nihon shiryō'' database that corresponds to the mammoth, still-to-be-completed ''Dai-Nihon shiryō'' described above
+0.0171096
+Though most of the work focuses on the pre-modern period, historians of the Historiographical Institute have also done extensive work with regard to Meiji documents
+0.0256645
+
+== Library ==
+
+The library of the Historiographical Institute consists of over four hundred thousand items
+0.0423442
+It is important to note that the compilation of works was not limited to Japanese sources, but also included the compilation and translation of Western works as well—works which have had a vital role in shaping the nature of the history field in modern Japan
+0.0427741
+
+== ''Dictionary of Sources of Classical Japan (DSCJ)'' ==
+
+Though it is still in draft form, the ''[[Dictionary of Sources of Classical Japan]]'' is an excellent resource for finding definitions and terms from pre-modern Japanese history and literature
+0.0543304
+These men were:
+* [[Hanawa Hokiichi]], 1793<ref name="director">Historigraphical Institute, [http://www.hi.u-tokyo.ac.jp/english/about_hi/message-e.html  "The Historiographical Institute Marks a New Beginning"]; retrieved 2013-2-1.</ref>
+* [[Hoshino Hisashi]], April 1895-January 1899
+* [[Mikami Sanji]], January 1899-July 1919
+* [[Kuroita Katsumi]], July 1919-July 1920
+* [[Tsuji Zennosuke]], July 1920-March 1938
+* [[Ryū Susumu]], March 1938-March 1951
+* [[Sakamoto Tarō]], April 1951-March 1962
+0.0556064
+Two important databases are:
+
+* ''Koshashin'' (old pictures and photographs) database
+** This database is a collection of old pictures and photographs that span from bakumatsu (the end of the [[Edo period|Tokugawa]] era) through the Meiji period
+0.0665409
+
+In 1895, the University decided to resume the work under the name ''Shiryō hensan-kakari,'' attached to the [[Faculty (division)|Faculty]] of Letters, limiting the role of the Historiographical Institute to compilation of historical materials, rather than the creation of a [[nation]]al history—the role that the Institute has today
+0.0711804
+
+== Address ==
+
+The address of the Historiographical Institute is:
+* 3-1, Hongo 7-chōme
+* Bunkyō, Tokyo
+* 113-0033, JAPAN
+*Official website: http://www.hi.u-tokyo.ac.jp/index.html
+
+== See also ==
+* [[Philosophy of History]]
+* [[Historiography of Japan]]
+* [[International Research Center for Japanese Studies]]
+* [[List of National Treasures of Japan (ancient documents)]]
+
+== References ==
+{{reflist}}
+
+== Further reading ==
+* Brownlee, John S
+0.074087
+
+=== Visual Image Databases ===
+
+The Historiographical Institute includes a number of visual [[image]] databases
+0.0782985
+108-109.</ref>  The current director of the Institute is [[Masaharu Ebara]].<ref name="director"/>
+
+== Departments of the Institute ==
+
+The Institute is composed of five Research Departments, a [[Library]], a Conservation Laboratory, a Center for the Study of Visual Sources, and an Administrative Office
+0.0855482
+{{coord|35|42|45.74|N|139|45|47.76|E|type:edu_scale:1000_region:JP|display=title}}
+[[File:Title.jpg|thumb|300px|Tokyo daigaku shiryō hensan-jo]]
+
+The {{nihongo|'''Historiographical Institute, the [[University of Tokyo]]'''|東京大学史料編纂所|''Tōkyō daigaku shiryō hensan-jo''}} is a [[research]] institution affiliated with the University of Tokyo that is devoted to the analysis, compilation, and publication of historical source materials concerning [[Japan]]
+0.0889702
+After several reorganizations, this office was transferred to Tokyo Imperial University in 1888; but in 1893, the Minister of Education terminated the work because of conflict between the government and the institute members over the aims and goals of history (also known as [[Kume affair|the Kume Kunitake Affair]], named after the historian, [[Kume Kunitake]], who was expelled from the Historiographical Institute for writing an article that challenged the customs of [[State Shinto]], and was known for advocating a more "Western," [[scientific]] approach to history)
+0.102658
+It is divided into three subseries, 1.) ''Hennen monjo'', which includes documents from the 8th century; 2.)''Iewake monjo'', which comprises archival collections of families, temples, or [[shrines]] during the period covered by the ''Dai-Nihon shiryô''; and 3.) ''[[Bakumatsu]] gaikoku kankei monjo'', which includes documents relating to Japan's foreign relations in the Bakumatsu period from 1853 to 1868
+0.120983
+Presently, the research staff consists of sixteen professors, seventeen associate professors, and twenty-three research associates
+0.128322
+47.</ref></blockquote>
+
+An official government office of historiography known as the ''Shushi-kan'' (House of Historical Compilation) was formed in order to work on a national history, the ''Dai-Nihon hennenshi'' (Chronological History of Great Japan), which later became part of the ''[[Dai Nihon Shiryō|Dai-Nihon shiryō]]'' (described below)
+0.145432
+{{ISBN|0-7748-0644-3}} Tokyo: [[University of Tokyo Press]]
+0.171097
+
+In 1929, the present name of the Institute, ''Shiryō hensan-jo'', was adopted; and in 1950, after several decades under the Faculty of Letters at the University, it acquired an independent status within Tokyo University
+0.205672
+The Department of Old Documents and Diaries is devoted to the study of, obviously, old documents and [[diary|diaries]]
+0.293929
+
+The five research departments are: 1.) The Department of [[Ancient]] Materials, 2.) The Department of [[Medieval]] Materials, 3.) The Department of Early Modern Materials, 4.) The Department of Old Documents and Diaries, and 5.) The Department of Special Materials

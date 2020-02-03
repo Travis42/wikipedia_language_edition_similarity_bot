@@ -1,0 +1,12 @@
+Facsimile
+en edition's differences with the ar version: 
+0.162162
+
+==Facsimiles and conservation==
+Important [[illuminated manuscript]]s like [[Les Très Riches Heures du duc de Berry]] are not only on display to the public as facsimiles, but available in high quality to scholars.<ref>{{cite web|url=https://www.facsimile-editions.com/en/about/institutions.aspx|title=Facsimile Editions - Our Books in Public Institutions|website=www.facsimile-editions.com}}</ref><ref name="lewis">[https://query.nytimes.com/gst/fullpage.html?res=9B0DEEDD1E3FF936A15752C0A961948260&sec=&spon=&pagewanted=all Paul Lewis, "Preservation takes rare manuscripts from the public," ''New York Times''] - 25 January 1987 [accessed 19 April 2008].</ref> However, unlike normal book reproductions, facsimiles remain truer to the original colors—which is especially important for illuminated manuscripts—and preserve defects.<ref name="um">[http://www.unimelb.edu.au/culturalcollections/exhibitions/facsimile/essay.html Bronwyn Stocks, "The Facsimile and the Manuscript,"] - an exhibition in the Leigh Scott Gallery, [[University of Melbourne]] (on-line catalogue with additional images).</ref>
+
+Facsimiles are best suited to printed or hand-written documents, and not to items such as three-dimensional objects or oil paintings with unique surface texture.<ref>Richard Godfrey, "Reproduction reproductive prints," ''The Oxford Companion to Western Art'', ed
+0.164399
+[accessed 20 April 2008].</ref>
+[[Image:RueMorgueManuscript.jpg|thumb|right|upright|Facsimile of Edgar Allan Poe's original manuscript for ''The Murders in the Rue Morgue'']]
+In the past, techniques and devices such as the philograph (tracing an original through a transparent plane), [[photostat]], [[hectograph]], or [[lithograph]] were used to create facsimiles

@@ -1,0 +1,36 @@
+Canon of Kings
+en edition's differences with the es version: 
+0.0766965
+The first is that the dates for when monarchs began and ended their reigns are simplified to the beginning and the ending of the ancient Egyptian year, which moves one day every four years against the [[Julian calendar]].<ref name=Bickerman-107>Bickerman, ''Chronology of the Ancient World'', p.&nbsp;107</ref> The second is that this list of monarchs is oversimplified
+0.0766965
+
+==See also==
+{{Wikipedia books|Kings of the ancient world}}
+*[[List of lists of ancient kings]]
+*[[Mesopotamia in Classical literature]]
+{{clear}}
+
+==External links==
+*[http://www.livius.org/cg-cm/chronology/canon.html Explanation of Ptolemy's Canon]
+
+{{Chronology}}
+
+[[Category:Ptolemy]]
+[[Category:King lists]]
+[[Category:Astronomy timelines]]
+0.0939336
+Note that the two periods in the Babylonian section where no king is listed the first represents two pretenders whose legitimacy the compiler did not recognize, and the second extends from the year Babylon was sacked by [[Sennacherib]], King of [[Assyria]] to the restoration of [[Esarhaddon]].<ref name=Bickerman-107/><ref>Leo Depuydt, "More Valuable than All Gold": Ptolemy's Royal Canon and Babylonian Chronology,  Journal of Cuneiform Studies, vol
+0.108465
+Usually, the overlapping year is assigned to the monarch who died in that year, but not always
+0.135582
+Monarchs who reigned for less than one year are not listed, and only one monarch is listed in any year with multiple monarchs
+0.162698
+ It is one of the most important bases for our knowledge of [[Chronology of the Ancient Near East|ancient chronology]]
+0.162698
+97-117, 1995</ref>
+
+The Canon is generally considered by historians to be accurate, and forms part of the backbone of the commonly accepted chronology from 747 BC forward that all other datings are synchronized to.<ref name=Bickerman-81/> It is not, however, the ''ultimate source'' for this chronology; most of the names and lengths of reigns can be independently verified from archaeological material (coinage, annals, inscriptions in stone etc.) and extant works of history from the historical ages concerned
+0.21693
+The '''Canon of Kings''' was a dated list of kings used by ancient [[astronomer]]s as a convenient means to date astronomical phenomena, such as [[eclipse]]s
+0.271163
+The Canon was preserved by the astronomer [[Claudius Ptolemy]], and is thus known sometimes as '''Ptolemy's Canon'''

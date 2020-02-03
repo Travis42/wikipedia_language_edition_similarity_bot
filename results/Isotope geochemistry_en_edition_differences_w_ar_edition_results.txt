@@ -1,0 +1,134 @@
+Isotope geochemistry
+en edition's differences with the ar version: 
+-9.09495e-10
+| year = 1998 | title = Multiple fluid pulses in a Samoan harzburgite | url = | journal = Chemical Geology | volume = 147 | issue = 1–2| pages = 99–114 | doi=10.1016/s0009-2541(97)00175-7 | bibcode=1998ChGeo.147...99B| title-link = harzburgite }}
+*{{cite journal | author = Kirstein L., Timmerman M
+-6.8394e-10
+{{ISBN|978-0-582-06701-1}}</ref>
+
+==Radiogenic isotope geochemistry==
+{{Main|Radiometric dating}}
+Radiogenic isotopes provide powerful tracers for studying the ages and origins of Earth systems.<ref>{{cite book | author=Dickin, A.P
+-4.29281e-10
+N.]] | year = 2001 | title = The core as a possible source of mantle helium | url = | journal = Earth and Planetary Science Letters | volume = 192 | issue = | pages = 45–56 | doi=10.1016/s0012-821x(01)00418-6 | bibcode=2001E&PSL.192...45P}}
+
+===Re–Os===
+
+*{{cite journal | author = Arne D., Bierlein F
+-3.20142e-10
+| year = 2000 | title = Evidence of the proto-Iceland lume in northwestern Ireland at 42Ma from helium isotopes | url = | journal = Journal of the Geological Society, London | volume = 157 | issue = 5| pages = 923–927 | doi=10.1144/jgs.157.5.923}}
+*{{cite journal | author = Porcelli D., [[Halliday, A
+-1.74623e-10
+Department of Energy program for isotope production and production research and development
+
+{{Chronology}}
+
+{{Authority control}}
+
+[[Category:Geochemistry]]
+[[Category:Geophysics]]
+[[Category:Geochronological dating methods]]
+4.00178e-11
+ The [[continental crust]] has become enriched with those elements relative to the mantle and thus more He<sup>4</sup> is produced in the crust than in the mantle
+5.09317e-11
+
+All degassed helium is lost to space eventually, due to the average speed of helium exceeding the [[escape velocity]] for the Earth
+8.73115e-11
+Because their abundances are normally quoted as activity ratios rather than atomic ratios, they are best considered separately from the other radiogenic isotope systems
+4.30191e-10
+
+Common values for '''R/Ra''':
+* Old continental crust: less than 1
+* [[oceanic ridge|mid-ocean ridge]] [[basalt]] (MORB): 7 to 9
+* Spreading ridge rocks: 9.1 plus or minus 3.6
+* [[Hotspot (geology)|Hotspot]] rocks: 5 to 42
+* Ocean and terrestrial water: 1
+* Sedimentary formation water: less than 1
+* Thermal spring water: 3 to 11
+
+<sup>3</sup>He/<sup>4</sup>He isotope chemistry is being used to date [[groundwater]]s, estimate groundwater flow rates, track water pollution, and provide insights into [[hydrothermal]] processes, [[igneous]] [[geology]] and [[ore genesis]]
+0.0375475
+
+Radiogenic isotope tracers are most powerful when used together with other tracers: The more tracers used, the more control on mixing processes
+0.0492515
+As a result, there is a relationship between <sup>231</sup>Pa/<sup>230</sup>Th in Atlantic sediments and the rate of overturning: faster overturning produces lower sediment <sup>231</sup>Pa/<sup>230</sup>Th ratio, while slower overturning increases this ratio
+0.0507673
+
+The difference in the ratio of the sample relative to CHUR can give information on a model age of extraction from the mantle (for which an assumed evolution has been calculated relative to CHUR) and to whether this was extracted from a granitic source (depleted in radiogenic Nd), the mantle, or an enriched source
+0.058621
+ The <sup>13</sup>C/<sup>12</sup>C ratio is also an indicator of paleoclimate: a change in the ratio in the remains of plants indicates a change in the amount of photosynthetic activity, and thus in how favorable the environment was for the plants
+0.0717958
+| title = Measurements of N<sub>2</sub>O isotopologues in the stratosphere | journal = [[Journal of Geophysical Research]] | volume = 109 | year = 2004 | issue = D1 | doi = 10.1029/2003JD003731 | pages = D01305|bibcode = 2004JGRD..10901305P | url = http://pdfs.semanticscholar.org/b540/525214d341f27a9badbc2e524d3c9a95a2cb.pdf }}</ref>
+
+===Oxygen===
+[[Oxygen]] has three stable isotopes, <sup>16</sup>O, <sup>17</sup>O, and <sup>18</sup>O
+0.101535
+| year = 1953 | volume = 171 | issue = 4359 | pages = 887–888 | title = Tertiary ocean bottom temperatures | doi = 10.1038/171887c0|bibcode = 1953Natur.171..887E }}</ref>
+
+===Sulfur===
+[[Sulfur]] has four stable isotopes, with the following abundances: <sup>32</sup>S (0.9502), <sup>33</sup>S (0.0075), <sup>34</sup>S (0.0421) and <sup>36</sup>S (0.0002)
+0.105951
+| title = Isotope effects in the chemistry of atmospheric trace compounds | journal = Chemical Reviews | year = 2003 | volume = 103 | pages = 5125–5161 | doi = 10.1021/cr020644k | pmid = 14664646 | issue = 12}}</ref>  Typically, the VPDB oxygen reference is used for paleoclimate, while VSMOW is used for most other applications.<ref name="drever_2002"/>  Oxygen isotopes appear in anomalous ratios in atmospheric ozone, resulting from [[mass-independent fractionation]].<ref name="mauersberger_1987">{{cite journal | doi = 10.1029/GL014i001p00080 | author = Mauersberger, K
+0.118457
+ Oxygen ratios are measured relative to [[Vienna Standard Mean Ocean Water]] (VSMOW) or Vienna Pee Dee Belemnite (VPDB).<ref name="usgs_isotope_tracers"/>  Variations in oxygen isotope ratios are used to track both water movement, paleoclimate,<ref name="drever_2002"/> and atmospheric gases such as [[ozone]] and [[carbon dioxide]].<ref name="Brenninkmeijer_2003">{{cite journal |author1=Brenninkmeijer, C
+0.11966
+
+Due to similarities in [[helium]] and [[carbon]] in [[magma]] chemistry, outgassing of helium requires the loss of [[Volatiles#Igneous petrology|volatile components]] ([[water]], [[carbon dioxide]]) from the mantle, which happens at depths of less than 60&nbsp;km
+0.135379
+
+===Nitrogen===
+[[Nitrogen]] has two stable isotopes, <sup>14</sup>N and <sup>15</sup>N
+0.135379
+ The ratio between these is measured relative to nitrogen in [[air|ambient air]].<ref name="usgs_isotope_tracers"/>  Nitrogen ratios are frequently linked to agricultural activities
+0.141004
+During photosynthesis, organisms using the  [[C3 pathway|C<sub>3</sub> pathway]] show different enrichments compared to those using the  [[C4 pathway|C<sub>4</sub> pathway]], allowing scientists not only to distinguish organic matter from abiotic carbon, but also what type of photosynthetic pathway the organic matter was using.<ref name="drever_2002"/>  Occasional spikes in the global <sup>13</sup>C/<sup>12</sup>C ratio have also been useful as stratigraphic markers for [[chemostratigraphy]], especially during the [[Paleozoic]].<ref>{{Cite journal|url = http://u.osu.edu/saltzman.11/files/2014/05/P3_2002_SD-203uave.pdf|title = Carbon isotope (d13C) stratigraphy across the Silurian-Devonian transition in North America: evidence for a perturbation of the global carbon cycle|date = 2002|journal = Palaeogeography, Palaeoclimatology, Palaeoecology|volume = 187|issue = 1–2|pages = 83–100|doi = 10.1016/s0031-0182(02)00510-2 |pmid = |access-date = 7 Jan 2017|bibcode = 2002PPP...187...83S|last1 = Saltzman|first1 = Matthew R}}</ref>
+
+The [[radiocarbon|<sup>14</sup>C]] ratio has been used to track ocean circulation, among other things
+0.156323
+Because the lead isotopes are created by decay of different transuranic elements, the ratios of the four lead isotopes to one another can be very useful in tracking the source of melts in [[igneous rock]]s, the source of [[sediment]]s and even the origin of people via [[isotopic fingerprint]]ing of their teeth, skin and bones
+0.159301
+
+* [http://www.geotrack.com.au/uthhe/u-th-he-techinfo.htm (U-Th)/He dating of apatite as a thermal history tool]
+* [https://web.archive.org/web/20050210172919/http://lvo.wr.usgs.gov/helium.html USGS: Helium Discharge at Mammoth Mountain Fumarole (MMF)]
+
+==Isotopes in actinide decay chains==
+
+Isotopes in the [[decay chain#Actinide alpha decay chains|decay chain]]s of actinides are unique amongst radiogenic isotopes because they are both radiogenic and radioactive
+0.191456
+These abundances are compared to those found in  [[Canyon Diablo (meteorite)|Cañon Diablo troilite]].<ref name="Brenninkmeijer_2003"/> Variations in sulfur isotope ratios are used to study the origin of sulfur in an [[ore]]body and the temperature of formation of sulfur&ndash;bearing minerals.<ref name=Rollinson>Rollinson, H.R
+0.191456
+* [http://water.usgs.gov/lab/3h3he/background/ USGS Tritium/Helium-3 Dating]
+* [http://wwwrcamnl.wr.usgs.gov/isoig/period/he_iig.html Hydrologic Isotope Tracers - Helium]
+
+==See also==
+* [[Cosmogenic isotope]]s
+* [[Environmental isotopes]]
+* [[Geochemistry]]
+* [[Isotopic signature]]
+* [[Radiometric dating]]
+* [[Isotope-ratio mass spectrometry]]
+
+==Notes==
+{{reflist}}
+
+==References==
+
+===General===
+
+*[[Claude Allègre|Allègre C.J.]], 2008
+0.206511
+| title = Ozone isotope measurements in the stratosphere | year = 1987 | volume = 14 | issue = 1 | pages = 80–83 | journal = Geophysical Research Letters|bibcode = 1987GeoRL..14...80M }}</ref>  Isotope ratios in fossilized [[foraminifera]] have been used to deduce the temperature of ancient seas.<ref name="edwards_1953">{{cite journal | journal = Nature |author1=Emiliani, C
+0.244106
+| year = 2001 | title = Re-Os dating of sulfides associated with gold mineralisation in central Victoria, Australia | url = | journal = Economic Geology | volume = 96 | issue = 6| pages = 1455–1459 | doi=10.2113/96.6.1455}}
+*{{cite journal | author = Martin C | year = 1991 | title = Osmium isotopic characteristics of mantle-derived rocks | url = | journal = Geochimica et Cosmochimica Acta | volume = 55 | issue = 5| pages = 1421–1434 | doi=10.1016/0016-7037(91)90318-y| bibcode = 1991GeCoA..55.1421M}}
+
+==External links==
+*[http://isotopes.gov/ National Isotope Development Center] Reference information on isotopes, and coordination and management of isotope production, availability, and distribution
+*[http://science.energy.gov/np/research/idpra/ Isotope Development & Production for Research and Applications (IDPRA)] U.S
+0.263251
+| year=2005 | title=Radiogenic Isotope Geology | url=http://www.onafarawayday.com/Radiogenic/ | publisher=Cambridge University Press}}</ref> They are particularly useful to understand mixing processes between different components, because (heavy) radiogenic isotope ratios are not usually fractionated by chemical processes
+0.270759
+
+===Stable isotopes===
+* [http://www.science.uottawa.ca/~eih/ch1/ch1.htm Environmental Isotopes] &nbsp;(University of Ottawa)
+* [http://wwwrcamnl.wr.usgs.gov/isoig/isopubs/itchch2.html Fundamentals of Isotope Geochemistry] &nbsp;(C

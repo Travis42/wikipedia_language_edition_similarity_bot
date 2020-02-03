@@ -1,0 +1,121 @@
+Isaac Deutscher
+en edition's differences with the hu version: 
+-1.72804e-11
+He followed it up with his most ambitious work, a three-volume biography of Trotsky: ''The Prophet Armed'' (1954), ''The Prophet Unarmed'' (1959) and ''The Prophet Outcast'' (1963)
+5.82077e-11
+Around 1927, he joined the illegal [[Communist Party of Poland]] (KPP) and became the editor of the party's underground press.<ref name=TD68/> In 1931 he toured the [[Soviet Union]], seeing the economic conditions under the first [[Five-year plans for the national economy of the Soviet Union|Five Year Plan]]
+0.0399601
+A memorial prize honouring Deutscher, called the [[Deutscher Memorial Prize]], is awarded annually to a book "which exemplifies the best and most innovative new writing in or about the Marxist tradition"
+0.0489409
+136–137.</ref>
+
+Deutscher wrote the following passages in  "The Israeli Arab War, June 1967" (1967):
+<blockquote>
+“Still we must exercise our judgment and must not allow it to be clouded by emotions and memories, however deep or haunting
+0.056139
+Trevelyan lectures) (1967)
+*''Non-Jewish Jew and other essays'' (London: OUP, 1968)
+*''An Open Letter to [[Władysław Gomułka]] and the Central Committee of the Polish Workers Party'' (1968)
+*''Russia, China, and the West 1953–1966'' (Edited by [[Fred Halliday]]) (1970)
+*''Marxism in our time'', (Edited by [[Tamara Deutscher]]) (London: Cape, 1972)
+*''Marxism, Wars, and Revolutions: essays from four decades'' (Edited by Tamara Deutscher) (1984)
+
+==See also==
+
+*[[Deutscher Memorial Prize]]
+
+==References==
+{{reflist}}
+
+==Sources==
+
+* Caute David
+0.0678688
+
+==External links==
+
+{{wikiquote}}
+*[http://www.marxists.org/archive/deutscher/index.htm Isaac Deutscher Archive at marxists.org]
+*[http://www.amielandmelburn.org.uk/collections/ulr/1_russia.pdf "Russia in transition"], ''Universities & Left Review'', 1957
+*[http://socialistregister.com/index.php/srv/article/view/5945/2841 "The Failure of Khrushchevism"], ''[[Socialist Register]]'', 1965
+*[http://socialistregister.com/index.php/srv/article/view/5926/2822 "Maoism-Its Origins, Background and Outlook"], ''Socialist Register'', 1964
+*[http://www.deutscherprize.org.uk/Marxism%20in%20Our%20Time%27.htm "Marxism in Our Time"]
+*[http://socialistregister.com/index.php/srv/article/view/5478/2377 "The Tragedy of the Polish Communist Party"], ''Socialist Register'', 1982
+*[http://www.trotskyana.net/Trotskyists/Bio-Bibliographies/bio-bibliographies.html The Lubitz TrotskyanaNet]
+*[https://www.youtube.com/watch?v=YcfHCmsMHAA Isaac Deutscher Speaks
+0.0692128
+93, 235; cited in Neil Davidson, [http://pubs.socialistreviewindex.org.uk/isj104/davidson.htm "The prophet, his biographer and the watchtower"], International Socialism 104, 2004.</ref> As later revealed, [[Isaiah Berlin]], who was asked to evaluate the academic credentials of Deutscher, argued against such a promotion because of the profoundly pro-communist militancy of the candidate.<ref>David Caute, ''Isaac and Isaiah''.</ref>
+
+In the 1960s, the upsurge of [[Left-wing politics|left-wing]] sentiment that accompanied the [[Vietnam War]] made Deutscher a popular figure on university campuses in both Britain and the [[United States]]
+0.0692128
+It was a play about the fall of Trotsky, written and directed by [[Marco Leto]], starring Franco Parenti as Trotsky and [[Renzo Giovampietro]] as Stalin
+0.0692128
+In his works Deutscher [[Dialectical materialism|made the distinction]] between [[classical Marxism]] and [[Orthodox Marxism|vulgar Marxism]].<ref name="Deutscher lecture">[http://www.marxists.org/archive/deutscher/1965/marxism.htm Deutscher lecture 1965].</ref>
+
+==Relation to Judaism and Zionism==
+
+Despite being an atheist, Deutscher emphasised the importance of his [[Cultural Judaism|Jewish heritage]]
+0.102411
+{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+{{Infobox person
+| name = Isaac Deutscher
+| image = Isaac Deutscher.jpg
+| birth_date = {{Birth date|df=yes|1907|04|03}}
+| birth_place = [[Chrzanów]], [[Kingdom of Galicia and Lodomeria|Galicia]], [[Austria-Hungary]]<br>(today [[Poland]])
+| death_date = {{Death date and age|df=yes|1967|08|19|1907|04|03}}
+| death_place = [[Rome]], [[Italy]]
+| known_for = Studies in [[Soviet Union|Soviet]] history; biographies of [[Leon Trotsky]] and [[Joseph Stalin]]
+| occupation = Historian, biographer
+| nationality = [[Poles|Polish]]
+| spouse = [[Tamara Deutscher]]
+| children = 
+}}
+'''Isaac Deutscher''' ({{lang-pl|Izaak Deutscher}}; 3 April 1907 – 19 August 1967) was a [[Poland|Polish]] [[Marxism|Marxist]] writer, journalist and political activist who moved to the [[United Kingdom]] before the outbreak of [[World War II]]
+0.106609
+(English) "I still believe!": Berkeley Anti-war Teach-in, 1965] — [[YouTube]] recording
+* [[Theodor Bergmann (agronomist)|Theodor Bergmann]], [https://www.marxists.org/archive/bergmann/1999/luxemburg-deutscher.htm "Rosa Luxemburg and Isaac Deutscher: Two Jewish Communist Heretics"], 1999
+
+{{Authority control}}
+
+{{DEFAULTSORT:Deutscher, Isaac}}
+[[Category:1907 births]]
+[[Category:1967 deaths]]
+[[Category:People from Chrzanów]]
+[[Category:People from the Kingdom of Galicia and Lodomeria]]
+[[Category:Polish Jews]]
+[[Category:Jews from Galicia (Eastern Europe)]]
+[[Category:Communist Party of Poland politicians]]
+[[Category:British people of Polish-Jewish descent]]
+[[Category:British Trotskyists]]
+[[Category:British historians]]
+[[Category:Jewish historians]]
+[[Category:Marxist historians]]
+[[Category:Polish emigrants to the United Kingdom]]
+[[Category:Jewish atheists]]
+[[Category:Jewish socialists]]
+[[Category:Historians of communism]]
+0.12208
+184, Nation Books, 2004.)
+</blockquote>
+
+==Selected works==
+
+*''Stalin: a Political Biography'' (1949); a slightly expanded edition in 1961
+*''Soviet Trade Unions'' (1950)
+*''Russia After Stalin'' (1953)
+*''Russia, What Next?'' (1953)
+*''The Prophet Armed: Trotsky, 1879–1921'' (1954)
+*''Heretics and renegades: and other essays'' (1955)
+*[http://catalog.hathitrust.org/Record/001232526 ''Russia in transition, and other essays''] (1957)
+*''The Prophet Unarmed: Trotsky, 1921–1929'' (1959)
+*''Great contest: Russia and the West'' (1960)
+*''The Prophet Outcast: Trotsky, 1929–1940'' (1963)
+*''Isaac Deutscher on the Israeli-Arab War: an interview with the late Isaac Deutscher'' (1967)
+*''The Unfinished Revolution: Russia 1917–1967'' (G
+0.122352
+He was expelled from the KPP in 1932, officially for "exaggerating the danger of Nazism and spreading panic in the communist ranks."<ref name=TD68>Tamara Deutscher (1968), [http://www.deutscherprize.org.uk/Isaac%20&%20Tamara%20Deutscher.htm "Isaac Deutscher 1907 – 1967"], Preface to ''The Non-Jewish Jew & Other Essays''.</ref><ref>David Caute, ''Isaac and Isaiah'', pp
+0.15984
+Deutscher was still a committed Trotskyist, but in the book he gave Stalin what he saw as his due for building a form of socialism in the Soviet Union, even if it was, in Deutscher's view, a perversion of the vision of [[Karl Marx]], [[Vladimir Lenin]] and [[Leon Trotsky]].{{Citation needed|date=August 2009}}
+
+The Stalin biography made Deutscher a leading authority on Soviet affairs and the [[Russian Revolution]]

@@ -1,0 +1,25 @@
+Historical source
+es edition's differences with the en version: 
+-1.94632e-09
+VT Journalist's privilege Shield laws Free Flow of Information Act-<ref>[[Journalist's Privilege]] - [[Source Protection Act]] - [[Free Information Flow Act]]
+4.65661e-09
+
+There is talk of written documents, sound documents, documents [[cinematographic].] Documents have their typology (public, private, etc.)
+0.131024
+<ref>*[http://www.fordham.edu/halsall/ Internet History Sourcebooks Project] See also [[Internet History Sourcebooks Project]]
+0.209509
+Sources cited in [[:en:en:Shield laws in the United States]], [[:en:journalist's privilege]] and [[:en:free Flow of Information Act]]</ref>
+
+Sources of journalistic information
+The sources of journalistic information are primarily [[official]]s state, [[expert]]s recognized (who have generally published relevant documents on a particular subject) or [[company]]s providing professional services
+0.231621
+
+* [[Secondary Source]]: is a [[text]] based on primary sources, involving treatment: generalization, analysis, synthesis, interpretation or evaluation (see in this same article treatment of sources)
+0.262049
+They usually restrict their scope to that of [[political history]] or [military-military history]] and to [[elites], without extending to [[economic and social history]] or to the [[history of daily life]] of the majority of the population, [marginalized groups]] and "[[vision of the vanquished]"
+0.262049
+* [http://vlib.iue.it/history/index.html WWW-VL: History Central Catalogue], first history in the WWW, located at the European University Institute
+0.262049
+* [http://www.bbc.co.uk/history BBC History Section.]
+* [http://www.historypodcastnetwork.com History Podcast Network.]
+* [http://www.law.ou.edu/hist/ List of American Historical Documents.] .'Wayback',http://www.law.ou.edu/hist/'date'20131110174555'

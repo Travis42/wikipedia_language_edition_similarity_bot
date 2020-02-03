@@ -1,0 +1,576 @@
+Causality
+en edition's differences with the id version: 
+-3.40515e-08
+Likewise, a change in <math>x_j</math> is ''not necessary'' to change ''y'', because a change in ''y'' could be caused by something implicit in the error term (or by some other causative explanatory variable included in the model)
+-3.40515e-08
+The factors that are involved in the explanation of natural change turn out to be matter, form, that which produces the change, and the end of this change
+-3.26254e-08
+The best way to understand this methodological recommendation is the following: the science of nature is concerned with natural bodies insofar as they are subject to change, and the job of the student of nature is to provide the explanation of their natural change
+-1.69675e-08
+
+;Causal powers
+Whereas [[David Hume#Causation|David Hume]] argued that causes are inferred from non-causal observations, [[Immanuel Kant]] claimed that people have innate assumptions about causes
+-1.40317e-08
+
+;Causation and salience
+Our view of causation depends on what we consider to be the relevant events
+-1.38243e-08
+''The Ultimate of Reality: Reversible Causality'', in Proceedings of the 20th World Congress of Philosophy, Boston: Philosophy Documentation Centre, internet site, Paideia Project On-Line: http://www.bu.edu/wcp/MainMeta.htm
+* [[Arthur Danto]] (1965)
+-1.05574e-08
+
+===Probabilistic causation===
+{{Main|Probabilistic causation}}
+Interpreting causation as a [[Determinism|deterministic]] relation means that if ''A'' causes ''B'', then ''A'' must ''always'' be followed by ''B''
+-9.70849e-09
+
+===Questionable cause===
+{{Main|Questionable cause}}
+
+Fallacies of questionable cause, also known as causal fallacies, ''non-causa pro causa'' (Latin for "non-cause for cause"), or false cause, are [[informal fallacy|informal fallacies]] where a cause is incorrectly identified
+-8.11997e-09
+Knowing that causation is a matter of counterfactual dependence, we may reflect on the nature of counterfactual dependence to account for the nature of causation
+-7.91749e-09
+
+Some philosophers of history such as [[Arthur Danto]] have claimed that "explanations in history and elsewhere" describe "not simply an event—something that happens—but a change".<ref>Danto, Arthur (1965) ''Analytical Philosophy of History'', 233.</ref> Like many practicing historians, they treat causes as intersecting actions and sets of actions which bring about "larger changes", in Danto's words: to decide "what are the elements which persist through a change" is "rather simple" when treating an individual's "shift in attitude", but "it is considerably more complex and metaphysically challenging when we are interested in such a change as, say, the break-up of feudalism or the emergence of nationalism".<ref>Danto, Arthur (1965) ''Analytical Philosophy of History'', 249.</ref>
+
+Much of the historical debate about causes has focused on the relationship between communicative and other actions, between singular and repeated ones, and between actions, structures of action or group and institutional contexts and wider sets of conditions.<ref>Hewitson, Mark (2014) ''History and Causality'', 86–116.</ref> [[John Lewis Gaddis|John Gaddis]] has distinguished between exceptional and general causes (following [[Marc Bloch]]) and between "routine" and "distinctive links" in causal relationships: "in accounting for what happened at Hiroshima on August 6, 1945, we attach greater importance to the fact that President Truman ordered the dropping of an atomic bomb than to the decision of the Army Air Force to carry out his orders."<ref>Gaddis, John L
+-5.59308e-09
++ a_kx_{k,i} + e_i</math>
+
+is postulated, in which <math>y_i</math> is the ''i''th observation of the dependent variable (hypothesized to be the caused variable), <math>x_{j,i}</math> for ''j''=1,...,''k'' is the ''i''th observation on the ''j''th independent variable (hypothesized to be a causative variable), and <math>e_i</math> is the error term for the ''i''th observation (containing the combined effects of all other causative variables, which must be uncorrelated with the included independent variables)
+-4.26257e-09
+First, the variable <math>x_j</math> may be a non-economic variable: for example, if rainfall amount <math>x_j</math> is hypothesized to affect the futures price ''y'' of some agricultural commodity, it is impossible that in fact the futures price affects rainfall amount (provided that cloud seeding is never attempted)
+-3.28146e-09
+42 |issn=0160-5682 | url = | journal = Journal of the Operational Research Society | volume = 44 | issue = 4| pages = 333–344 | doi=10.1057/jors.1993.63| title-link = s:Cause, Effect, Efficiency & Soft Systems Models }}</ref>
+
+===Humanities===
+
+====History====
+In the discussion of history, events are sometimes considered as if in some way being agents that can then bring about other historical events
+-2.65982e-09
+Rivasseau, Birkhäuser Verlag, Basel, {{ISBN|3-7643-7435-7}}, from ''Einstein, Albert: The Collected Papers of Albert Einstein'', 1987–2005, Hebrew University and Princeton University Press; p
+-2.45927e-09
+Charles Muller Faculty of Letters, University of Tokyo [Site Established July 1995]|accessdate=30 January 2016}}</ref><ref>{{cite journal|last1=Suk-Fun|first1=Ng|title=Time and causality in Yogācāra Buddhism|journal=The HKU Scholars Hub|date=2014}}</ref><ref>{{cite book|last1=Makeham|first1=John|title=Transforming Consciousness: Yogacara Thought in Modern China|date=1 April 2014|publisher=Oxford University Pres|isbn=978-0199358137|page=253|edition=1st|url=https://books.google.com/?id=7UesAgAAQBAJ&pg=PA253&lpg=PA253&q=yogacara%20causality}}</ref>
+
+The [[Abhidharmakośakārikā#Karma|Abhidharmakośakārikā]] approach is [[Vasubandhu]]'s [[Abhidharma]] commentary text in the [[Sarvāstivāda]] school (c
+-2.38424e-09
+He denied that we can ever perceive cause and effect, except by developing a habit or custom of mind where we come to associate two types of object or event, always contiguous and occurring one after the other.<ref>{{Citation|first=David|last=Hume|title= A Treatise of Human Nature|origyear=1739|url=http://www.gutenberg.org/files/4705/4705-h/4705-h.htm|editor-last=Selby-Bigge|publisher=Clarendon Press|year=1896}}</ref> In Part III, section XV of his book ''[[A Treatise of Human Nature]]'', Hume expanded this to a list of eight ways of judging whether two things might be cause and effect
+-2.17545e-09
+Consider the following two statements:
+
+# ''If A were a triangle, then A would have three sides.''
+# ''If switch S were thrown, then bulb B would light.''
+
+In the first case, it would not be correct to say that A's being a triangle ''caused'' it to have three sides, since the relationship between triangularity and three-sidedness is that of definition
+-2.16824e-09
+VII}}</ref>
+
+More full-fledged analysis of causation in terms of counterfactual conditionals only came in the 20th century after development of the possible world semantics for the evaluation of counterfactual conditionals
+-1.98497e-09
+They are of the form, if A ''were'' the case, then B ''would'' be the case, or if A ''had been'' the case, then B ''would have been'' the case
+-1.92085e-09
+"The same cause always produces the same effect, and the same effect never arises but from the same cause
+-1.66983e-09
+1933, 1989.] (hosted at perseus.tufts.edu.)</ref>}}
+
+Aristotle further discerned two modes of causation: proper (prior) causation and accidental (chance) causation
+-1.66983e-09
+He describes two kinds of causation: nomic or generic causation and singular causation
+-1.59071e-09
+ The reason for this is that having the information that the person has emphysema increases the likelihood that the person is a smoker, thus indirectly increasing the likelihood that the person will have cancer
+-1.55296e-09
+For example, wave packets are mathematical objects that have [[group velocity]] and [[phase velocity]]
+-1.45155e-09
+A rock normally exhibits ''natural motion''—explained by the rock's material cause of being composed of the element earth—but a living thing can lift the rock, an ''enforced motion'' diverting the rock from its natural place and natural motion
+-1.38016e-09
+A system that has ''some'' dependence on input values from the future (in addition to possible past or current input values) is termed an '''acausal''' system, and a system that depends ''solely'' on future input values is an [[anticausal system]]
+-1.37516e-09
+
+==Concept==
+
+===Metaphysics===
+The nature of cause and effect is a concern of the subject known as [[metaphysics]]
+-1.11868e-09
+177–181.</ref>
+
+===Necessary and sufficient causes===<!-- This section is linked from [[Causes of schizophrenia]] -->
+{{hatnote|A similar concept occurs in logic, for this see [[Necessary and sufficient conditions]]}}
+
+Causes may sometimes be distinguished into two types: necessary and sufficient.<ref>Epp, Susanna S.: "Discrete Mathematics with Applications, Third Edition", pp
+-8.14907e-10
+For instance, our degree of confidence in the direction and nature of causality is much greater when supported by [[cross-correlation]]s, [[ARIMA]] models, or [[Cross-spectrum|cross-spectral analysis]] using vector time series data than by [[cross-sectional data]]
+-7.85576e-10
+In general, a process has many causes,<ref>
+Compare:
+{{Cite book
+ | last1 = Bunge
+ | first1 = Mario
+ | author-link1 = Mario Bunge
+ | orig-year = 1959
+ | title = Causality and Modern Science
+ | journal = Nature
+ | volume = 187
+ | issue = 4732
+ | url = https://books.google.com/books?id=YKkhLwpH09YC
+ | edition = 3, revised
+ | publication-date = 2012
+ | pages = 123–124
+ | isbn = 9780486144870
+ | access-date = 2018-03-12
+ | quote = Multiple causation has been defended, and even taken for granted, by the most diverse thinkers [...]  simple causation is suspected of artificiality on account of its very simplicity
+-6.87578e-10
+
+==Theories==
+{{Main|Causal model}}
+
+===Counterfactual theories===
+{{Main|Counterfactual conditional}}
+
+Subjunctive conditionals are familiar from ordinary language
+-5.67525e-10
+
+Given the above procedures, coincidental (as opposed to causal) correlation can be probabilistically rejected if data samples are large and if regression results pass [[Cross-validation (statistics)|cross-validation]] tests showing that the correlations hold even for data that were not used in the regression
+-3.7835e-10
+And since celestial bodies exhibit perpetual, unaccelerated motion orbiting planet Earth in unchanging relations, Aristotle inferred that the fifth element, ''aither'', that fills space and composes celestial bodies intrinsically moves in perpetual circles, the only constant motion between two points
+-3.74765e-10
+How past, present and future are accepted is a basis for various Buddhist school's causality viewpoints.<ref>{{cite book|last1=Hopkins|first1=Jeffrey|title=Meditation on Emptiness|date=15 June 1996|publisher=Wisdom Publications|isbn=978-0861711109|page=339|edition=Rep Sub}}</ref><ref>{{cite book|last1=Klien|first1=Anne Carolyn|title=Knowledge And Liberation: Tibetan Buddhist Epistemology In Support Of Transformative Religious Experience|date=1 January 1987|publisher=Snow Lion|isbn=978-1559391146|page=101|edition=2nd|url=https://books.google.com/?id=o2SutnTaXXAC&pg=PA101&lpg=PA101&q=vaibh%C4%81%E1%B9%A3ika%20simultaneous%20causality|accessdate=30 January 2016}}</ref><ref>{{cite book|last1=Bartley|first1=Christopher|title=An Introduction to Indian Philosophy: Hindu and Buddhist Ideas from Original Sources|date=30 July 2015|publisher=Bloomsbury Academic|edition=Kindle|url=https://books.google.com/?id=rn-8BwAAQBAJ&pg=PT45&lpg=PT45&q=vaibh%C4%81%E1%B9%A3ika%20simultaneous%20causality|accessdate=30 January 2016|isbn=9781472528513}}</ref>
+
+All the classic Buddhist schools teach [[karma]]
+-3.20142e-10
+And "founded on the same reason": "The difference in the effects of two resembling objects must proceed from that particular, in which they differ."
+And then two more:
+:7
+-2.60115e-10
+Within this collection, the short circuit is an insufficient (since the short circuit by itself would not have caused the fire) but non-redundant (because the fire would not have happened without it, everything else being equal) part of a condition which is itself unnecessary but sufficient for the occurrence of the effect
+-1.49157e-10
+
+====Engineering====
+A [[causal system]] is a [[system]] with output and internal states that depends only on the current and previous input values
+-1.16415e-10
+The theory underlying these derivations relies on the distinction between ''conditional probabilities'', as in <math>P(cancer|smoking)</math>, and ''interventional probabilities'', as in <math>P(cancer|do(smoking))</math>
+-1.05501e-10
+(An object traveling a straight line from point ''A'' to ''B'' and back must stop at either point before returning to the other.)
+
+Left to itself, a thing exhibits ''natural motion'', but can—according to [[Aristotelian metaphysics]]—exhibit ''enforced motion'' imparted by an efficient cause
+-5.61613e-11
+In his 1973 paper "Causation," [[David Lewis (philosopher)|David Lewis]] proposed the following definition of the notion of ''causal dependence'':<ref>{{cite journal|last1=Lewis|first1=David|title=Causation|journal=The Journal of Philosophy|date=1973|volume=70|issue=17}}</ref>
+
+:An event E ''causally depends'' on C if, and only if, (i) if C had occurred, then E would have occurred, and (ii) if C had not occurred, then E would not have occurred
+-3.27418e-11
+Counterfactual conditionals are specifically subjunctive conditionals whose antecedents are in fact false, hence the name
+4.49063e-12
+The energy of a wave packet travels at the group velocity (under normal circumstances); since energy has causal efficacy, the group velocity cannot be faster than the speed of light
+4.22915e-11
+Third, the principle that effects cannot precede causes can be invoked, by including on the right side of the regression only variables that precede in time the dependent variable; this principle is invoked, for example, in testing for [[Granger causality]] and in its multivariate analog, [[vector autoregression]], both of which control for lagged values of the dependent variable while testing for causal effects of lagged independent variables
+1.49157e-10
+| year = 1993 | title = Causation as a Secondary Quality | url = | journal = British Journal for the Philosophy of Science | volume = 44 | issue = 2| pages = 187–203 | doi=10.1093/bjps/44.2.187| citeseerx = 10.1.1.28.9736 }}</ref><ref name="vonWright">von Wright, G
+2.2942e-10
+Simon]] and philosopher [[Nicholas Rescher]]<ref name="SimRes">{{cite journal | last1 = Simon | first1 = Herbert | last2 = Rescher | first2 = Nicholas | year = 1966 | title = Cause and Counterfactual | url = | journal = Philosophy of Science | volume = 33 | issue = 4| pages = 323–340 | doi=10.1086/288105}}</ref> claim that the asymmetry of the causal relation is unrelated to the asymmetry of any mode of implication that contraposes
+2.54659e-10
+Nonetheless, their identification of the cause of an event, and their counterfactual thought about how the event could have turned out differently do not always coincide.<ref>Byrne, R.M.J
+3.44926e-10
+The former reads: "the probability of finding cancer in a person known to smoke, having started, unforced by the experimenter, to do so at an unspecified time in the past", while the latter reads: "the probability of finding cancer in a person forced by the experimenter to smoke at a specified time in the past"
+3.74712e-10
+''Natural Philosophy of Cause and Chance'', Oxford University Press, Oxford UK, p
+3.74712e-10
+Oxford: Oxford Forum
+4.00178e-10
+Because causes precede effects, which must be different entities, then subject and object are different
+4.18368e-10
+
+Monier-Williams also proposed that  Aristotle's and the Nyaya's causality are considered conditional aggregates necessary to man's productive work.<ref>{{cite book | url=https://books.google.com/books?id=co7Mkn2SUQ8C | title=Indian Wisdom or Examples of the Religious, Philosophical and Ethical Doctrines of the Hindus | publisher=Oxford | author=Williams, Monier | year=1875 | location=London | page=81 | isbn=9781108007955}}</ref>
+
+===Buddhist philosophy===
+{{See also|Pratītyasamutpāda}}
+
+The general or universal definition of pratityasamutpada (or "dependent origination" or "dependent arising" or "interdependent co-arising") is that everything arises in dependence upon multiple causes and conditions; nothing exists as a singular, independent entity
+5.47516e-10
+Informally, ''A'' ("The person is a smoker") probabilistically causes ''B'' ("The person has now or will have cancer at some time in the future"), if the information that ''A'' occurred increases the likelihood of ''B''s occurrence
+6.28006e-10
+May|title=Knowledge of Causality in Hume and Aquinas|date=April 1970|accessdate=6 April 2011|url=http://www.thomist.org/journal/1970,%20vol.%2034/April/1970%20April%20A%20May%20web.htm|volume=34|url-status=dead|archiveurl=https://web.archive.org/web/20110501095157/http://www.thomist.org/journal/1970%2C%20vol.%2034/April/1970%20April%20A%20May%20web.htm|archivedate=1 May 2011|df=dmy-all}}</ref> Aquinas sought to identify the first efficient cause—now simply ''[[first cause]]''—as everyone would agree, said Aquinas, to call it ''God''
+7.63862e-10
+That is, C causes E if and only if there exists a sequence of events C, D<sub>1</sub>, D<sub>2</sub>, ..
+8.73115e-10
+These accounts use manipulation as a sign or feature in causation without claiming that manipulation is more fundamental than causation.<ref name="Pearl" /><!-- Pearl, Judea (2000) ''Causality'', Cambridge University Press, ISBN 0-521-77362-8</ref> --><ref name="Woodward">Woodward, James (2003) ''Making Things Happen: A Theory of Causal Explanation''
+9.29958e-10
+Gifford Lectures Delivered in the University of Edinburgh During the Session 1927–1928'', Macmillan, New York, Cambridge University Press, Cambridge UK.</ref><ref name=Malament>[[David Malament|Malament, D.]]; [https://archive.is/20130112104622/http://link.aip.org/link/?JMAPAQ/18/1399/1 "The class of continuous timelike curves determines the topology of spacetime"]; ''J
+9.29958e-10
+Gifford Lectures Delivered in the University of Edinburgh During the Session 1927–1928'', Macmillan, New York; Cambridge University Press, Cambridge UK, [https://archive.org/stream/AlfredNorthWhiteheadProcessAndReality/Alfred%20North%20Whitehead%20-%20Process%20and%20Reality#page/n47/mode/2up "The sole appeal is to intuition."]</ref><ref name="Cheng1997">{{cite journal | last1 = Cheng | first1 = P.W
+9.29958e-10
+Gifford Lectures Delivered in the University of Edinburgh During the Session 1927–1928'', Macmillan, New York, Cambridge University Press, Cambridge UK.</ref> An example is 'his tripping over the step was the cause, and his breaking his ankle the effect'
+9.65429e-10
+One very practical result of this theory is the characterization of [[confounding variables]], namely, a sufficient set of variables that, if adjusted for, would yield the correct causal effect between variables of interest
+1.11322e-09
+The system of equations must have certain properties, most importantly, if some values are chosen arbitrarily, the remaining values will be determined uniquely through a path of serial discovery that is perfectly causal
+1.17871e-09
+Cambridge: Cambridge University Press.</ref> Research in the [[psychology of reasoning]] shows that people make different sorts of inferences from different sorts of causes, as found in the fields of cognitive linguistics<ref>Lakoff, G., & Johnson, M
+1.35697e-09
+"The law of karma is a special instance of the law of cause and effect, according to which all our actions of body, speech, and mind are causes and all our experiences are their effects."<ref>{{Cite book|title=Joyful path of good fortune : the complete guide to the Buddhist path to enlightenment|last=1931-|first=Kelsang Gyatso, Geshe|date=1995|publisher=Tharpa|isbn=978-0948006463|edition=2nd ed rev|location=London|oclc=34411408}}</ref>
+
+===Baha’i===
+
+The Baha'i concept of causation has been a unifying force for this young religion.{{citation needed|date=September 2019}}  The belief in a common biological and ideological ancestry has made it possible for Baha'is to recognize Buddha, Moses, Jesus and Muhammad
+1.40153e-09
+(1940) ''An Essay on Metaphysics.'' Clarendon Press.</ref><ref name="Gasking">{{cite journal | last1 = Gasking | first1 = D | year = 1955 | title = Causation and Recipes | url = | journal = Mind | volume = 64 | issue = 256| pages = 479–487 | doi=10.1093/mind/lxiv.256.479}}</ref><ref name="MenPrice">{{cite journal | last1 = Menzies | first1 = P
+1.5134e-09
+Here Aristotle insists that all four modes of explanation are called for in the study of natural phenomena, and that the job of "the student of nature is to bring the why-question back to them all in the way appropriate to the science of nature" (''Phys.'' 198 a 21–23)
+1.56979e-09
+''A World of States of Affairs'', Cambridge University Press, Cambridge UK, {{ISBN|0-521-58064-1}}, pp.&nbsp;89, 265.</ref>
+
+Another viewpoint on the question is the more classical one, that a cause and its effect can be of different kinds of entity
+1.56979e-09
+[https://archive.org/details/geometryoftimean032218mbp ''Geometry of Time and Space''], Cambridge University Press, Cambridge UK.</ref> [[Max Jammer]] writes "the Einstein postulate ..
+1.60435e-09
+An "object, which exists for any time in its full perfection without any effect, is not the sole cause of that effect, but requires to be assisted by some other principle, which may forward its influence and operation."
+
+In 1949, physicist [[Max Born]] distinguished determination from causality
+1.66733e-09
+[http://ukcatalogue.oup.com/product/9780198243151.do#.UhqWXr5-8dE ''Aristotles's Two Systems''], Oxford University Press, Oxford UK, {{ISBN|0-19-824970-5}}</ref><ref>{{Cite web | url=http://www.wisdomsupreme.com/dictionary/aristotles-four-causes.php | title=WISDOM SUPREME &#124; Aristotle's Four Causes}}</ref> In ordinary language, there are various meanings of the word cause, the commonest referring to efficient cause, the topic of the present article
+1.85173e-09
+In this view, one opinion, proposed as a metaphysical principle in [[process philosophy]], is that every cause and every effect is respectively some process, event, becoming, or happening.<ref>[[Alfred North Whitehead|Whitehead, A.N.]] (1929)
+1.86571e-09
+
+====Statistics and economics====
+[[Statistics]] and [[economics]] usually employ pre-existing data or experimental data to infer causality by regression methods
+2.01317e-09
+
+;Attribution
+[[Attribution theory]] is the [[theory]] concerning how people explain individual occurrences of causation
+2.09548e-09
+For example, in his paper "Counterfactual Dependence and Time's Arrow," Lewis sought to account for the time-directedness of counterfactual dependence in terms of the semantics of the counterfactual conditional.<ref>{{cite journal|last1=Lewis|first1=David|title=Counterfactual Dependence and Time's Arrow|journal=Nous|date=1979|volume=13|issue=4}}</ref> If correct, this theory can serve to explain a fundamental part of our experience, which is that we can only causally affect the future but not the past
+2.18427e-09
+For example, instances of the hypothesized cause must be set up to occur at a time when the hypothesized effect is relatively unlikely in the absence of the hypothesized cause; such unlikelihood is to be established by empirical evidence
+2.30739e-09
+
+In some works of Aristotle, the four causes are listed as (1) the essential cause, (2) the logical ground, (3) the moving cause, and (4) the final cause
+2.59206e-09
+The basic idea goes back to [[Sewall Wright]]'s 1921 work<ref>{{cite journal | last1 = Wright | first1 = S | year = | title = Correlation and Causation | url = | journal = Journal of Agricultural Research | volume = 20 | issue = 7| pages = 557–585 }}</ref> on [[Path analysis (statistics)|path analysis]]
+2.59621e-09
+| year = 1997 | title = From Covariation to Causation: A Causal Power Theory | url = | journal = Psychological Review | volume = 104 | issue = 2| pages = 367–405 | doi=10.1037/0033-295x.104.2.367}}</ref> Accordingly, causality is implicit in the logic and structure of ordinary language.<ref>
+{{cite book
+ |last1=Copley |first1=Bridget
+ |title=Causation in Grammatical Structures
+ |date=27 January 2015 |publisher=Oxford University Press |isbn=9780199672073
+ |url=https://global.oup.com/academic/product/causation-in-grammatical-structures-9780199672073
+ |accessdate=30 January 2016
+}}
+</ref>
+
+In the English language, as distinct from Aristotle's own language, [[Aristotelian philosophy]] uses the word "cause" to mean "explanation" or "answer to a 'why' question", including [[Aristotle]]'s material, formal, efficient, and final "causes"; then the "cause" is the [[Explanandum|explanans]] for the [[explanandum]]
+2.874e-09
+{{ISBN|0-534-35945-0}}</ref> A third type of causation, which requires neither necessity nor sufficiency in and of itself, but which contributes to the effect, is called a "contributory cause."
+
+;Necessary causes: If ''x'' is a necessary cause of ''y'', then the presence of ''y'' necessarily implies the prior occurrence of ''x''
+2.88128e-09
+
+The ordinary [[indicative conditional]] has somewhat more structure than the material conditional
+3.03226e-09
+"When any object increases or diminishes with the increase or diminution of its cause, 'tis to be regarded as a compounded effect, deriv'd from the union of the several different effects, which arise from the several different parts of the cause."
+:8
+3.16413e-09
+However, another cause ''z'' may alternatively cause ''y''
+3.16413e-09
+Mackie]] argues that usual talk of "cause" in fact refers to '''INUS''' conditions ('''i'''nsufficient but '''n'''on-redundant parts of a condition which is itself '''u'''nnecessary but '''s'''ufficient for the occurrence of the effect).<ref>{{Cite book|url=https://books.google.com/books?id=h38IAQAAIAAJ|title=The Cement of the Universe: A Study of Causation|last=Mackie|first=John Leslie|date=1974|publisher=Clarendon Press|language=en}}</ref> An example is a short circuit as a cause for a house burning down
+3.16413e-09
+An early version of Aristotle's "four cause" theory is described as recognizing "essential cause"
+3.16413e-09
+In this version of the theory, that the closed polygon has three sides is said to be the "essential cause" of its being a triangle.<ref name="Graham 1987"/> This use of the word 'cause' is of course now far obsolete
+3.16413e-09
+In this sense, war does not cause deaths, nor does [[Tobacco smoking|smoking]] cause [[cancer]] or [[emphysema]]
+3.16413e-09
+
+# Non-substantial cause: Methods putting threads into cloth, corresponding to Aristotle's formal cause
+3.16413e-09
+# Instrumental cause:  Tools to make the cloth, corresponding to Aristotle's efficient cause
+3.16413e-09
+
+Of Aristotle's four kinds or explanatory modes, only one, the 'efficient cause' is a cause as defined in the leading paragraph of this present article
+3.16413e-09
+the ratio 2:1 and number in general is the cause of the octave—and the parts of the formula [i.e., the '''formal cause''']
+3.16413e-09
+the man who plans is a cause, and the father is the cause of the child, and in general that which produces is the cause of that which is produced, and that which changes of that which is changed [i.e., the '''efficient cause''']
+3.16413e-09
+"To be healthy", we say, and by saying this we consider that we have supplied the cause [the '''final cause''']
+3.16413e-09
+|title=The dignity of being a cause |journal=Open Theology |date=2018 |volume=4 |issue=1 |pages=186–191 |doi=10.1515/opth-2018-0013}}</ref>
+
+====After the Middle Ages====
+<!--[[David Hume]] links here-->
+{{See also|Humean definition of causality}}
+For Aristotelian philosophy before Aquinas, the word cause had a broad meaning
+3.21188e-09
+Formally, P{''B''|''A''}≥ P{''B''} where P{''B''|''A''} is the conditional probability that ''B'' will occur given the information that ''A'' occurred, and P{''B''}is the probability that ''B'' will occur having no knowledge whether ''A'' did or did not occur
+3.48689e-09
+ For example, if ''A'' denotes the event "The person is a smoker," ''B'' denotes the event "The person now has or will have cancer at some time in the future" and ''C'' denotes the event "The person now has or will have emphysema some time in the future," then the following three relationships hold: P{''B''|''A''} ≥ P{''B''}, P{''C''|''A''} ≥ P{''C''} and P{''B''|''C''} ≥ P{''B''}
+4.08977e-09
+Properly speaking, the hypothesized cause and the hypothesized effect are each temporally transient processes
+4.20459e-09
+But he did not have the understanding that came with knowledge of [[Minkowski space#Causal structure|Minkowski geometry]] and the [[Special relativity|special theory of relativity]], that the notion of causality can be used as a prior foundation from which to [[Causal structure|construct notions]] of time and space.<ref name=Robb1911/><ref name=Whitehead1929/><ref name=Malament/>
+
+====Ontology====
+A general metaphysical question about cause and effect is what kind of entity can be a cause, and what kind of entity can be an effect
+4.29827e-09
+ With a threads and cloth metaphors, three causes are:
+	
+# Co-inherence cause: resulting from substantial contact, 'substantial causes', threads are substantial to cloth, corresponding to Aristotle's material cause
+5.32488e-09
+So, given a system of equations, and a set of variables appearing in these equations, we can introduce an asymmetric relation among individual equations and variables that corresponds perfectly to our commonsense notion of a causal ordering
+5.37602e-09
+Definition and meaning}}</ref> where the cause is partly responsible for the effect, and the effect is partly dependent on the cause
+7.1791e-09
+Second, the [[instrumental variables]] technique may be employed to remove any reverse causation by introducing a role for other variables (instruments) that are known to be unaffected by the dependent variable
+7.1791e-09
+
+Regression analysis controls for other relevant variables by including them as regressors (explanatory variables)
+7.26322e-09
+The presence of ''x'', however, does not imply that ''y'' will occur.<ref name="CR">{{Cite web
+ | url = http://www.istarassessment.org/srdims/causal-reasoning-2/
+ | title = Causal Reasoning
+ | website = www.istarassessment.org
+ | access-date = 2 March 2016
+}}</ref>
+;Sufficient causes: If ''x'' is a sufficient cause of ''y'', then the presence of ''x'' necessarily implies the subsequent occurrence of ''y''
+9.05857e-09
+Thus the presence of ''y'' does not imply the prior occurrence of ''x''.<ref name="CR"/>
+;Contributory causes: For some specific effect, in a singular case, a factor that is a contributory cause is one among several co-occurrent causes
+1.01354e-08
+In general, a factor that is a contributory cause is not sufficient, because it is by definition accompanied by other causes, which would not count as causes if it were sufficient
+1.16488e-08
+That is to say, it would make good sense grammatically to say either "''A'' is the cause and ''B'' the effect" or "''B'' is the cause and ''A'' the effect", though only one of those two can be actually true
+1.2089e-08
+(1971) ''Explanation and Understanding.'' [[Cornell University Press]].</ref> Under these theories, ''x'' causes ''y'' only in the case that one can change ''x'' in order to change ''y''
+1.40594e-08
+(2002), ''The Landscape of History: How Historians Map the Past'', 95.</ref> For his part, Christopher Lloyd puts forward four "general concepts of causation" used in history:  the "metaphysical idealist concept, which asserts that the phenomena of the universe are products of or emanations from an omnipotent being or such final cause"; "the empiricist (or Humean) regularity concept, which is based on the idea of causation being a matter of constant conjunctions of events"; "the functional/teleological/consequential concept", which is "goal-directed, so that goals are causes"; and the "realist, structurist and dispositional approach, which sees relational structures and internal dispositions as the causes of phenomena".<ref>Lloyd, Christopher (1993) ''Structures of History'', 159.</ref>
+
+==== Law ====
+{{Main|Causation (law)}}
+According to [[law]] and [[jurisprudence]], '''legal cause''' must be demonstrated to hold a [[defendant]] liable for a [[crime]] or a [[tort]] (i.e
+1.66219e-08
+ In contrast, simultaneous cause and effect rejectors say that if the effect already exists, then it cannot effect the same way again
+1.74668e-08
+The same language refers to the effects of causes, so that generic effects are assigned to generic causes, particular effects to particular causes, and actual effects to operating causes
+2.18745e-08
+This helps to avoid false inferences of causality due to the presence of a third, underlying, variable that influences both the potentially causative variable and the potentially caused variable: its effect on the potentially caused variable is captured by directly including it in the regression, so that effect will not be picked up as an indirect effect through the potentially causative variable of interest
+0.0780869
+The phase of a wave packet travels at the phase velocity; since phase is not causal, the phase velocity of a wave packet can be faster than light.<ref>{{cite book |last1=Griffiths |first1=David |title=Introduction to electrodynamics |date=2017 |publisher=Cambridge University Press |isbn=978-1-108-42041-9 |page=418 |edition=Fourth}}</ref>
+
+Causal notions are important in general relativity to the extent that the existence of an arrow of time demands that the universe's semi-Riemannian manifold be orientable, so that "future" and "past" are globally definable quantities
+0.0901669
+
+According to [[Monier Monier-Williams|Monier-Williams]], in the [[Nyāya]] causation theory from Sutra I.2.I,2 in the [[Vaisheshika]] philosophy, from causal non-existence is effectual non-existence; but, not effectual non-existence from causal non-existence
+0.090167
+|last=Soccio |year=2011 |title=Archetypes of Wisdom: An Introduction to Philosophy, 8th Ed.: An Introduction to Philosophy |publisher=Wadsworth |isbn=9781111837792 |url=https://books.google.com/books?id=zxVH9h-HDXYC&pg=PA167 |page=167}}</ref>
+* [[Formal cause]], whereby a thing's dynamic ''form'' or static ''shape'' determines the thing's properties and function, as a human differs from a statue of a human or as a statue differs from a lump of bronze.<ref name="sep-aristotle-causality">{{cite journal |first=Andrea |last=Falcon |editor=Edward N
+0.098773
+|last2=Sobel |title=Detecting Blickets: How Young Children Use Information about Novel Causal Powers in Categorization and Induction |journal=Child Development |date=September–October 2000 |volume=71 |issue=5 |pages=1205–1222 |doi=10.1111/1467-8624.00224 |pmid=11108092}}</ref>
+
+;Perception of launching events
+Some researchers such as Anjan Chatterjee at the University of Pennsylvania and Jonathan Fugelsang at the University of Waterloo are using neuroscience techniques to investigate the neural and psychological underpinnings of causal launching events in which one object causes another object to move
+0.110432
+
+Psychological research shows that people's thoughts about the causal relationships between events influences their judgments of the plausibility of counterfactual alternatives, and conversely, their [[counterfactual thinking]] about how a situation could have turned out differently changes their judgments of the causal role of events and agents
+0.110432
+On the other hand, if the null hypothesis that <math>a_j=0</math> cannot be rejected, then equivalently the hypothesis of no causal effect of <math>x_j</math> on ''y'' cannot be rejected
+0.125442
+
+==External links==
+{{Commons category|Causality}}
+* {{PhilPapers|category|causation-laws-etc}}
+* {{InPho|taxonomy|2351}}
+* [http://bayes.cs.ucla.edu/LECTURE/lecture_sec1.htm The Art and Science of Cause and Effect] – A slide show and tutorial lecture by Judea Pearl
+* [http://www.iep.utm.edu/met-scie/ Metaphysics of Science] – The Internet Encyclopedia of Philosophy
+* [http://www.utm.edu/research/iep/d/davidson.htm#H3 Donald Davidson: Causal Explanation of Action] – The Internet Encyclopedia of Philosophy
+* [http://ftp.cs.ucla.edu/pub/stat_ser/r350.pdf Causal inference in statistics: An overview] – By Judea Pearl (September 2009)
+* [https://cran.r-project.org/package=causaleffect An R implementation of causal calculus] 
+* [http://timesleuth-rule.sourceforge.net/ TimeSleuth] - A tool for discovering causality
+* [[Wikiversity:Theory of causality|Theory of causality]] – A first-order theory of causality in Wikiversity
+* Stanford Encyclopedia of Philosophy
+** [http://plato.stanford.edu/entries/causation-backwards/ Backwards Causation]
+** [http://plato.stanford.edu/entries/causation-process/ Causal Processes]
+** [http://plato.stanford.edu/entries/causation-mani/ Causation and Manipulability]
+** [http://plato.stanford.edu/entries/causation-law/ Causation in the Law]
+** [http://plato.stanford.edu/entries/causation-counterfactual/ Counterfactual Theories of Causation]
+** [http://plato.stanford.edu/entries/causation-medieval/ Medieval Theories of Causation]
+** [http://plato.stanford.edu/entries/causation-probabilistic/ Probabilistic Causation]
+** [http://plato.stanford.edu/entries/causation-metaphysics/ The Metaphysics of Causation]
+
+;General
+* [http://xtf.lib.virginia.edu/xtf/view?docId=DicHist/uvaBook/tei/DicHist1.xml;chunk.id=dv1-37 ''Dictionary of the History of Ideas'':] Causation
+* [http://xtf.lib.virginia.edu/xtf/view?docId=DicHist/uvaBook/tei/DicHist1.xml;chunk.id=dv1-38 ''Dictionary of the History of Ideas'':] Causation in History
+* [http://xtf.lib.virginia.edu/xtf/view?docId=DicHist/uvaBook/tei/DicHist1.xml;chunk.id=dv1-40 ''Dictionary of the History of Ideas'':] Causation in Law
+* [https://web.archive.org/web/20180405101243/http://www.epidemiology.ch/history/PeopleEpidemiologyLibrary.html People's Epidemiology Library]
+
+{{Navboxes
+|list=
+{{Time Topics}}
+{{Time in philosophy}}
+{{Philosophy topics}}
+{{metaphysics}}
+{{epistemology}}
+{{philosophy of science}}
+}}
+
+{{Authority control}}
+
+[[Category:Causality| ]]
+[[Category:Causal inference|*]]
+[[Category:Conditionals]]
+[[Category:Philosophy of science]]
+[[Category:Concepts in physics]]
+[[Category:Concepts in epistemology]]
+[[Category:Concepts in metaphysics]]
+0.127515
+It is hard to quantify this last requirement and thus different authors prefer somewhat different definitions.{{citation needed|date=April 2016}}
+
+===Causal calculus===
+When experimental interventions are infeasible or illegal, the derivation of cause effect relationship from observational studies must rest on some qualitative theoretical assumptions, for example, that symptoms do not cause diseases, usually expressed in the form of missing arrows in [[causal graphs]] such as [[Bayesian network]]s or [[path analysis (statistics)|path diagrams]]
+0.127515
+''Causality: Models, Reasoning, and Inference'', Cambridge University Press.</ref> (also known as do-calculus, Pearl's Causal Calculus, Calculus of
+Actions) permits one to infer interventional probabilities from conditional probabilities in causal [[Bayesian network]]s with unmeasured variables
+0.145239
+Here the notion of causality is one of contributory causality as discussed [[Causality#Necessary and sufficient causes|above]]: If the true value <math>a_j \ne 0</math>, then a change in <math>x_j</math> will result in a change in ''y'' ''unless'' some other causative variable(s), either included in the regression or implicit in the error term, change in such a way as to exactly offset its effect; thus a change in <math>x_j</math> is ''not sufficient'' to change ''y''
+0.156174
+
+===Structure learning===
+While derivations in causal calculus rely on the structure of the causal graph, parts of the causal structure can, under certain assumptions, be learned from statistical data
+0.156174
+If the null hypothesis that <math>a_j=0</math> is rejected, then the alternative hypothesis that <math>a_{j} \ne 0 </math> and equivalently that <math>x_j</math> causes ''y'' cannot be rejected
+0.156174
+Attempting to reduce causal claims to manipulation requires that manipulation is more basic than causal interaction
+0.160702
+{{Other uses}}
+{{distinguish|Casualty (disambiguation){{!}}Casualty}}
+{{short description|Efficacy that connects a causing process with a resulting process or state, where the first process is partly accountable for the second and the second is dependent on the first}}
+{{redirect-multi|2|Cause|Cause and effect}}
+{{Use dmy dates|date=May 2016}}
+
+'''Causality''' (also referred to as '''causation''',<ref>'The action of causing; the relation of cause and effect' [[OED]]</ref> or '''cause and effect''') is [[wikt:efficacy|efficacy]], by which one process or state, a ''cause'', contributes to the production of another process or state, an ''effect'',<ref>{{Cite web | url=http://www.businessdictionary.com/definition/causality.html |title = What is causality
+0.183769
+In contrast with Bayesian Networks, [[path analysis (statistics)|path analysis]] (and its generalization, [[structural equation model]]ing), serve better to estimate a known causal effect or to test a causal model than to generate causal hypotheses
+0.220005
+9.</ref>
+
+==See also==
+{{col-begin}}
+{{col-break}}
+;General
+* [[Catch-22 (logic)]]
+* [[Causal research]]
+* [[Causal inference]]
+* [[Causality (book)]]
+* [[Cosmological argument]]
+* [[Domino effect]]
+* [[Sequence of events]]
+
+;Mathematics
+* [[Causal filter]]
+* [[Causal system]]
+* [[Causality conditions]]
+* [[Chaos theory]]
+
+;Physics
+* [[Anthropic principle]]
+* [[Arrow of time]]
+* [[Butterfly effect]]
+* [[Chain reaction]]
+* [[Delayed choice quantum eraser]]
+* [[Feedback]]
+* [[Grandfather paradox]]
+* [[Quantum Zeno effect]]
+* [[Retrocausality]]
+* [[Schrödinger's cat]]
+* [[Wheeler–Feynman absorber theory]]
+
+{{col-break}}
+
+;Philosophy
+* [[Aetiology]]
+* [[Arche]] (ἀρχή)<!--, a [[attic|Greek word]] with multiple meanings used primarily in philosophy-->
+* [[Causa sui]]
+* [[Chance (philosophy)]]
+* [[Chicken or the egg]]
+* [[Condition of possibility]]
+* [[Determinism]]
+* [[Mill's Methods]]
+* [[Newcomb's paradox]]
+* [[Non sequitur (logic)]]
+* [[Ontological paradox]]
+* [[Post hoc ergo propter hoc]]
+* [[Predestination paradox]]
+* [[Principle of sufficient reason#Proposed proofs of universal validity|Proposed proofs of universal validity]] (principle of causality)
+* [[Proximate and ultimate causation]]
+* [[Quidditism]]
+* [[Supervenience]]
+
+;Philosophy of mind
+* [[Synchronicity]]
+{{col-break}}
+;Statistics
+* [[Causal loop diagram]]
+* [[Causal Markov condition]]
+* [[Correlation does not imply causation]]
+* [[Experimental design]]
+* [[Granger causality]]
+* [[Linear regression]]
+* [[Randomness]]
+* [[Rubin causal model]]
+* [[Validity (statistics)]]
+
+;Psychology and medicine
+* [[Adverse effect (medicine)|Adverse effect]]
+* [[Clinical trial]]
+* [[Force dynamics]]
+* [[Iatrogenesis]]
+* [[Nocebo]]
+* [[Placebo]]
+* [[Scientific control]]
+* [[Suggestibility]]
+* [[Suggestion]]
+
+;Pathology and epidemiology
+* [[Causal inference]]
+* [[Epidemiology]]
+* [[Etiology]]
+* [[Molecular pathology]]
+* [[Molecular pathological epidemiology]]
+* [[Pathogenesis]]
+* [[Pathology]]
+
+;Sociology and economics
+* [[Instrumental variable]]
+* [[Root cause analysis]]
+* [[Self-fulfilling prophecy]]
+* [[Supply and demand]] <!-- extreme positions are colloquially called "chicken and egg" -->
+* [[Unintended consequence]]
+* [[Virtuous circle and vicious circle]]
+
+;Environmental issues
+* [[Causes of global warming]]
+* [[Causes of deforestation]]
+* [[Causes of land degradation]]
+* [[Causes of soil contamination]]
+* [[Causes of habitat fragmentation]]
+{{col-end}}
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+{{Refbegin|40em}}
+* [[Azamat Abdoullaev]] (2000)
+0.220863
+
+These theorists claim that the important concept for understanding causality is not causal relationships or causal interactions, but rather identifying causal processes
+0.220863
+it is part of the business of philosophy to determine what causal relationships in general are, what it is for one thing to cause another, or what it is for nature to obey causal laws
+0.220863
+
+Note that the analysis does not purport to explain how we make causal judgements or how we reason about causation, but rather to give a metaphysical account of what it is for there to be a causal relation between some pair of events
+0.220863
+183: "All natural science is based upon the hypothesis of the complete causal connection of all events."</ref> Causal efficacy cannot 'propagate' faster than light
+0.220863
+[[Attribution (psychology)|Attribution]] can be external (assigning causality to an outside agent or force—claiming that some outside thing motivated the event) or internal (assigning causality to factors within the person—taking personal [[Moral responsibility|responsibility]] or [[accountability]] for one's actions and claiming that the person was directly responsible for the event)
+0.255031
+
+Another sort of conditional, the [[counterfactual conditional]], has a stronger connection with causality, yet even counterfactual statements are not all examples of causality

@@ -1,0 +1,46 @@
+Ian Kershaw
+fa edition's differences with the en version: 
+0.120012
+title = Ian_Kershaw & oldid = 762391697 | title = Ian Kershaw | language = English | recovery = 30 January 2017}}
+{{-}}
+
+= = Link out = =
+{{Warehouse-category}}
+{{Library data}}
+
+{{Negar-shattered}}
+
+{{Default order: Kershaw, Ian}}
+
+[[Category: Member of the British Academy]]
+[[Category: Live people]]
+[[Category: Olham residents]]
+[[Category: German historians]]
+[[Category: 21st century journalists]]
+[[Category: The Historians of Nazism]]
+[[Category: Holocaust historians]]
+[[Category: Knights title]]
+[[Category: Liverpool University alumni]]
+[[Category: Zadegan 1943 (Gregorian)]]
+[[Category: Collectivism to the Catholic Church of the United Kingdom]]
+[[Category: 20-century English historians]]
+[[Category: British writers 21 Century (Gregorian)]
+[[Category: 20 century writers from the United Kingdom]]
+0.277884
+jpg
+| Image_size = 225px
+| Caption = 
+| Birth_date = {{Birth date and age | df = yes | 1943 | 04 | 29}}
+| Birth_place = [[Oldham]]
+| Death_date =
+| Death_place =
+| Children = 2
+| Residence = [[Manchester]]
+| Other_names =
+| Spouse = [[Betty Kershaw]]
+| Known_for = studies and investigations on the social history of Germany in the twentieth century
+| Occupation = [[Date]] and [[author]]
+| Nationality = [[UK]]
+| Alma_mater = [[University of Liverpool]] {{sench}} [[Merton College, Oxford]]
+}}
+' ' Ian Kershaw ' ' ({{lang-en | Ian Kershaw}}, born {{Birth date | df = yes | 1943 | 04 | 29}}) is a [[author]] and [[Date]] [[]]

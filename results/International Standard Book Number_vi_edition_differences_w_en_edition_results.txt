@@ -1,0 +1,78 @@
+International Standard Book Number
+vi edition's differences with the en version: 
+0.0128626
+This means that it will allow booksellers to use a single-digit system for both books and non-book products without damaging the compatibility with the old ISBN-based information, with a minimal cost to their information technology systems
+0.0171502
+A detailed description of the EAN-13 format has [http://www.barcodeisland.com/ean13.phtml here] or view [[EAN-13]]
+0.0181905
+
+= = Use EAN format in barcodes and plan upgrades = =
+At present, the barcodes found on the back cover of the book (or Inside on the first cover of other publications) are [[EAN-13]]; They can also be "Bookland" — that is, with a separate barcode, it is coded 5 numbers for the type of currency and the recommended retail price
+0.0257253
+It can have 10 numbers of self (older) or 13 numbers (the new type, which applies with [[barcode]]), including four or five sections
+0.0385879
+This shift also makes the ISBN system suitable for the barcode system [UPC]
+0.0424445
+This is currently happening rapidly outside the country [[United States | United States]
+0.0514505
+
+The different sections are of different lengths and are usually interconnected by strikethrough
+0.0514505
+However, they are insufficient because different authorities are responsible for providing and performing different ISBN numbers
+0.0686007
+
+The country code (or language code) 0 and 1 is used in English languages; 2 for French-language countries; 3 for German, etc
+0.0686007
+Note that the code that identifies the publisher is uncertain would be the same as the code in the ISBN 978 and 979
+0.106111
+
+Hence the test number is 2, and the complete banana number is <nowiki> ISBN 0-306-40615-2 </nowiki>
+0.150064
+
+The publisher's number is set according to the country's ISBN authority and the number of order chosen by the book publisher
+0.158157
+
+The second method to find the test number is done as follows, taking each number in the first 9 digits with its position number (from 1 to 9)
+0.174488
+This means that each of the first nine numbers of the ISBN series with 10 digits – except the test number – is multiply by the numbers in order from 10 to 2 and obtain the sum of these, plus the test number, which must be split by 11
+0.183279
+com | Amazon]])
+* [[ISMN]] (International digital music Standard)
+* [[ISAN]] (International audiovisual standard)
+* [[ISSN]] (International journal number Standard)
+* [[LCCN]] (control number of the Library of Congress)
+
+{{ISO standards}}
+
+= = Reference = =
+{{Reference | 2}}
+
+[[Category: ISO]
+[[Category: Test-number algorithm]]
+[[Category: Code number]]
+[[Category: Info School]]
+[[Category: Publishing]]
+[[Category: Science Library]]
+[[Category: identifier]]
+0.218286
+The ISBN system was created in the UK for years [[1966]] by book distributors and [[Stationery]] [[W H Smith]] with friends, originally referred to as ' Standard Book Numbering ' ' (Standard code for books) or SBN
+0.226259
+
+For example, calculating the test number for the number sequence ISBN 10 number that the first 9 digits is 0-306-40615 is executed as follows:
+
+10 × 0 + 9 × 3 + 8 × 0 + 7 × 6 + 6 × 4 + 5 × 0 + 4 × 6 + 3 × 1 + 2 × 5
+ = 0 + 27 + 0 + 42 + 24 + 0 + 24 + 3 + 10
+ = 130
+
+The smallest number to add to can be split by 11 is 2, due to 132/11 = 12 and no residual
+0.236477
+A similar format, ' ' International Standard Serial Number ' ' (International Standard Code for magazines) or ISSN, is used for periodic publications such as [[Magazine]]
+0.282933
+For example, to find the test number for the 10 ISBN number the first 9 digits are 0-306-40615:
+
+1 × 0 + 2 × 3 + 3 × 0 + 4 × 6 + 5 × 4 + 6 × 0 + 7 × 6 + 8 × 1 + 9 × 5
+ = 0 + 6 + 0 + 24 + 20 + 0 + 42 + 8 + 45
+ = 145
+ = 13 × 11 + 2
+
+Thus the number of checks equals 2, and the complete number sequence is <nowiki> ISBN 0-306-40615-2 </nowiki>

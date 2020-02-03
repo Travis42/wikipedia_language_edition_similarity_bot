@@ -1,0 +1,10 @@
+Intercalation (timekeeping)
+vi edition's differences with the en version: 
+0.0734025
+Any year that has 53 days [[Thursday]] is considered to have 53 weeks; This week can also be seen as the ' Leap Week '
+0.103807
+Usually there are 12 months in each lunar calendar year, but sometimes there are 13 months
+0.207614
+Month added is called ' ' Leap Month ' '
+0.228375
+The Vietnamese leap means, see [[Leap (disambiguation) | ] '

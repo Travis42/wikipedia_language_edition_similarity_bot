@@ -1,0 +1,13 @@
+Circa
+en edition's differences with the uk version: 
+0.118262
+{{Redirect2|Ca.|Cca.|other uses of "Ca"|CA (disambiguation){{!}}CA|other uses of "Cca"|CCA (disambiguation){{!}}CCA|other uses of "Circa"|Circa (disambiguation)}}
+
+'''Circa''' ({{ety|la||around, about, roughly, approximately}}) – frequently abbreviated '''ca.''' or '''c.''' and less frequently '''circ.''' or '''cca.''' – signifies "approximately" in several European languages and as a [[loanword]] in English, usually in reference to a date.<ref>{{cite web |url = http://dictionary.reference.com/browse/circa |title=circa |publisher=[[Dictionary.com]] |access-date=16 July 2010}}</ref> ''Circa'' is widely used in historical writing when the dates of events are not accurately known
+0.236525
+1732 – 1799: The beginning year is approximate; the end year is known precisely
+0.236525
+1799: The beginning year is known precisely; the end year is approximate
+0.292685
+
+When used in date ranges, ''circa'' is applied before each approximate date, while dates without ''circa'' immediately preceding them are generally assumed to be known with certainty

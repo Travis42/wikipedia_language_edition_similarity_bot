@@ -1,6 +1,0 @@
-Arrow of time
-Language edition's article farthest from the English version: ar
-0.015945
-<ref>{{{|Last Book Reference=Blum|I=Harold F.| Author link=Harold F
-0.0620115
-Physical processes at the [microscopic|microscopy] can be conceived either on the basis that they are [analog-t|temporally symmetrical] in whole or in part, which means that the physical expressions describing these processes must remain correct if time is reversed

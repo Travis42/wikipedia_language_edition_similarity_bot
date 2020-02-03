@@ -1,0 +1,46 @@
+Kaal
+en edition's differences with the ko version: 
+0.0443062
+
+According to Monier-Williams, ''{{IAST|kāla}}'' 2 is from the verbal root ''{{IAST|kal}}''  "to calculate", while the root of ''{{IAST|kāla}}'' 1 is uncertain, though possibly the same.<ref>[http://webapps.uni-koeln.de/tamil/ Sanskrit and Tamil Dictionaries]</ref>
+
+==As a deity==
+[[File:Kala head, Candi Jabung, Paiton, Probolinggo, East Java, 2017-09-14 01.jpg|thumb|right|250px|Head of Kala carved on top of [[Jabung]] temple niche, East Java, Indonesia.]]
+
+As applied to gods and goddesses in works such as the ''{{IAST|Devī}}'' ''{{IAST|Māhātmya}}'' and the ''Skanda'' ''{{IAST|Purāṇa}}'', ''{{IAST|kāla}}'' 1 and ''{{IAST|kāla}}'' 2 are not readily distinguishable
+0.116891
+
+In the [[Chaitanya Bhagavata]], a [[Gaudiya Vaishnavism|Gaudiya Vaishnavist]] text and biography of [[Chaitanya Mahaprabhu]], it is said that the fire that emerges from the mouth of [[Balarama|Sankarshana]] at the End of Time is the ''Kālānala'', or "fire of Time".<ref>{{Cite book|title=Chaitanya-Bhagavata|last=Thakura|first=Vrndavana Dasa|publisher=|others=Translated by Sarvabhavana Dasa|year=|isbn=|location=|pages=203|quote=|via=}}</ref> One of the names of Sankarshana is ''k''ā''l''ā''gni'', also "fire of Time".<ref>{{Cite web|url=http://www.stephen-knapp.com/thousand_names_of_lord_balarama.htm|title=A Thousand Names of Lord Balarama|last=|first=|date=|website=|publisher=|access-date=|note=}}</ref>
+
+The [[Vishnu Purana]] also states that Time (kala) is one of the four primary forms of Vishnu, the others being matter ([[Pradhana]]), visible substance (vyakta), and Spirit ([[Purusha]]).<ref>{{Cite book|title=The Vishńu Puráńa: A System of Hindu Mythology and Tradition|last=Wilson|first=Horace H.|publisher=|year=1840|isbn=|location=|pages=ix|chapter=Preface|quote=|via=}}</ref><ref>{{Cite book|title=Theory of Avatāra and Divinity of Chaitanya|last=Roy|first=Janmajit|publisher=Atlantic Publishers & Distributors|year=2002|isbn=|location=New Dehli|pages=66|chapter=Signs and Symptoms of Avatārahood|quote=|via=}}</ref>
+
+===In the Bhagavad Gita===
+At [[Bhagavad Gita]] 11.32, [[Krishna]] takes on the form of ''kāla'', the destroyer, announcing to Arjuna that all the warriors on both sides will be killed, apart from the Pandavas:
+
+<blockquote>
+'''कालो ऽस्मि''' लोकक्षयकृत् प्रवृद्धो लोकान् समाहर्तुम् इह प्रवृत्तः ।
+</blockquote>
+This verse means: "'''Time (kāla) I am''', the great destroyer of the worlds, and I have come here to destroy all people."<ref>See [https://www.bhagavad-gita.us/bhagavad-gita-11-32/ text and translation]</ref> This phrase is famous for being quoted by [[J
+0.202379
+
+==See also==
+*[[Kalachakra]]
+*{{IAST|[[Kālī]]}}
+*[[Mahakala]]
+*[[Father Time]]
+
+==References==
+{{reflist}}
+
+{{HinduMythology}}
+{{Time Topics}}
+{{Time in religion and mythology}}
+
+{{DEFAULTSORT:Kala (Time)}}
+[[Category:Sanskrit words and phrases]]
+[[Category:Time and fate gods]]
+[[Category:Hindu philosophical concepts]]
+[[Category:Asura]]
+0.202379
+
+* ''{{IAST|kālá}}'' 2 means "a fixed or right point of time, a space of time, time ..

@@ -1,0 +1,12 @@
+Archaeological site
+en edition's differences with the ar version: 
+-6.98492e-10
+ It can also involve digging, according to the Archaeological Institute of America,<ref>{{Cite web|url = https://www.archaeological.org/education/askexpertsfaq|title = Ask the Experts: AIA Archaeology FAQ - Archaeological Institute of America|website = www.archaeological.org|access-date = 10 March 2016}}</ref> “archaeologists actively search areas that were likely to support human populations, or in places where old documents and records indicate people once lived.” This helps archaeologists in the future
+8.14907e-10
+
+According to Jess Beck in "How Do Archaeologists find sites?"<ref>{{Cite web|url = https://bonebrokeblog.wordpress.com/2015/02/27/how-do-archaeologists-find-sites/|title = How do archaeologists find sites?|last = JB|website = Bone Broke|access-date = 10 March 2016}}</ref> the areas with numerous artifacts are good targets for future excavation, while areas with small number of artifacts are thought to reflect a lack of past human activity
+7.45058e-09
+Note the difference between archaeological sites and archaeological discoveries
+0.246183
+This site has been interpreted as a [[Sarmatian]] [[Kurgan]].]]
+An '''archaeological site''' is a place (or group of physical sites) in which evidence of past activity is preserved (either [[prehistoric]] or [[recorded history|historic]] or contemporary), and which has been, or may be, investigated using the discipline of [[archaeology]] and represents a part of the [[archaeological record]]

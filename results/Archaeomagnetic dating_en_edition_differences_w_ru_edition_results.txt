@@ -1,0 +1,18 @@
+Archaeomagnetic dating
+en edition's differences with the ru version: 
+0.142857
+ In general, many cultures used long-term fire hearths made of clay bricks, or a space lined with clay, that were baked into place by use
+0.206197
+  A compass does not point to the true [[North Pole]] but to a direction that is a function of the [[North Magnetic Pole]] and the local secular variation to yield a [[magnetic declination]]
+0.252538
+National Geophysical Data Center (NGDC) data of paleopole positions and paleomagnetic directions.]
+* [https://web.archive.org/web/20150217040548/http://www.yale.edu/archaeology/research.html Yale University Archaeomagnetism Laboratory]
+
+==Further reading==
+* [http://www.pnas.org/content/early/2017/02/07/1615797114 Six centuries of geomagnetic intensity variations recorded by royal Judean stamped jar handles.]
+
+{{Chronology}}
+
+{{DEFAULTSORT:Archaeomagnetic Dating}}
+[[Category:Incremental dating]]
+[[Category:Paleomagnetism]]
