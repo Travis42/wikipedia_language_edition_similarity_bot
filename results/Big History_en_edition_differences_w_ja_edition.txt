@@ -1,0 +1,137 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Big History
+
+en edition's differences with the ja version: 
+
+
+1. 
+And, in particular, it suggests that optimal ranges of energy rate density grant opportunities for the evolution of complexity; those systems able to adjust, adapt, or otherwise take advantage of such energy flows survive and prosper, while other systems adversely affected by too much or too little energy are non-randomly eliminated.<ref>Chaisson, E.J., [https://www.cfa.harvard.edu/~ejchaisson/reprints/ASUessay_revised_for_CUP.pdf "Using Complexity Science to Search for Unity in the Natural Sciences,"] in ''Complexity and the Arrow of Time: What is Complexity?'', Lineweaver, Davies and Ruse (eds.), Cambridge Univ. 
+
+2. 
+
+Notable among quantitative efforts to describe cosmic evolution are [[Eric Chaisson]]'s research efforts to describe the concept of energy flow through open, [[thermodynamic]] systems, including galaxies, stars, planets, life, and society.<ref>Chaisson, E.J.,[http://www.hup.harvard.edu/catalog.php?isbn=9780674009875&content=reviews ''Cosmic Evolution: Rise of Complexity in Nature''], Harvard Univ. 
+
+3. 
+Its uniform, consistent philosophy of approach toward all complex systems demonstrates that the basic differences, both within and among many varied systems, are of degree, not of kind. 
+
+4. 
+For example, the Sun emits a vast luminosity, 4x10<sup>33</sup> erg/s (equivalent to nearly a billion billion billion watt light bulb), but it also has a huge mass, 2x10<sup>33</sup> g; thus each second an amount of energy equaling only 2 ergs passes through each gram of this star. 
+
+5. 
+For example, life began not in solids (molecules are stuck together, preventing the right kinds of associations) or gases (molecules move too fast to enable favorable associations) but in liquids such as water which permitted the right kinds of interactions at the right speeds.<ref name=tws2M28/>
+
+Somewhat in contrast, [[Eric Chaisson|Chaisson]] has maintained for well more than a decade that "organizational complexity is mostly governed by the ''optimum'' use of energy—not too little as to starve a system, yet not too much as to destroy it" (italics in the original published paper<ref>Chaisson, E.J., [https://www.cfa.harvard.edu/~ejchaisson/reprints/complexity_santafe_j.pdf "Complexity: An Energetics Agenda,"] ''Complexity'', v. 
+
+6. 
+One account suggested that the notable ''[[Earthrise]]'' photo, taken by [[William Anders]] during a lunar orbit by the [[Apollo 8]], which showed Earth as a small blue and white ball behind a stark and desolate lunar landscape, not only stimulated the [[environmental movement]] but also caused an upsurge of interdisciplinary interest.<ref name=tws2M41/> The [[France|French]] historian [[Fernand Braudel]] examined daily life with investigations of "large-scale historical forces like geology and climate".<ref name=tws2M14/> Physiologist [[Jared Diamond]] in his book ''[[Guns, Germs, and Steel]]'' examined the interplay between geography and human evolution;<ref name=tws2M14/> for example, he argued that the horizontal shape of the [[Eurasia]]n continent enabled human civilizations to advance more quickly than the vertical north-south shape of the American continent, because it enabled greater competition and information-sharing among peoples of the relatively same climate. 
+
+7. 
+In the first half of the 20th century, secular biologist [[Julian Huxley]] originated the term "evolutionary humanism",<ref name=tws2M27/> while around the same time the French Jesuit paleontologist [[Pierre Teilhard de Chardin]] examined links between [[cosmic evolution]] and a tendency towards complexification (including human consciousness), while envisaging compatibility between cosmology, evolution, and theology. 
+
+8. 
+[[Carl Sagan]],<ref>Sagan, C., ''[[Cosmos (Carl Sagan book)|Cosmos]]'', Random House, 1980, {{ISBN|0-394-50294-9}}</ref> [[Eric Chaisson]],<ref>Chaisson, E., ''Cosmic Dawn: The Origins of Matter and Life'', [[Atlantic Monthly]]/[[Little, Brown]], 1981, {{ISBN|0-316-13590-9}}</ref> [[Hubert Reeves]],<ref>Reeves, H., ''Patience dans l'azur: L'evolution cosmique'', [[Éditions du Seuil]], 1981</ref> [[Erich Jantsch]],<ref>Jantsch, E., ''The Self-Organizing Universe'', [[Pergamon Press|Pergamon]], 1980</ref> and [[Preston Cloud]],<ref>Cloud, P., ''Cosmos, Earth, and Man'', [[Yale Univ. 
+
+9. 
+Early modern speculation about cosmic evolution began more than a century ago, including the broad insights of [[Robert Chambers (publisher born 1802)|Robert Chambers]], [[Herbert Spencer]], and [[Lawrence Henderson]]. 
+
+10. 
+
+===Time scales and questions===
+Big History makes comparisons based on different time scales and notes similarities and differences between the human, geological, and cosmological scales. 
+
+11. 
+{{ISBN|0-674-00987-8}}</ref><ref>Chaisson, E.J.,[https://www.cfa.harvard.edu/~ejchaisson/reprints/EnergyRateDensity_I_FINAL_2011.pdf "Energy Rate Density as a Complexity Metric and Evolutionary Driver,"] ''Complexity'', Vol. 
+
+12. 
+Probing Further a New Complexity Metric,"] ''Complexity'', Vol. 
+
+13. 
+Siegfried Kutter at [[Evergreen State College]] in Washington state, and [[Harvard University]] astrophysicists [[George B. 
+
+14. 
+[[Harlow Shapley]] widely articulated the idea of cosmic evolution (often calling it "[[cosmography]]") in public venues at mid-century,<ref>Palmeri, J., "Bringing Cosmos to Culture: Harlow Shapley and the Uses of Cosmic Evolution," in ''Cosmos & Culture: Cultural Evolution in a Cosmic Context'', Dick, S.J and Lupsella, M.L. 
+
+15. 
+One can compare and contrast these different emphases by watching two short movies portraying the Big-Bang-to-humankind narrative, one animating time linearly, and the other  capturing time (actually look-back time) logarithmically; in the former, humans enter this 14-minute movie in the last second, while in the latter we appear much earlier—yet both are correct.<ref>{{cite web|url=https://www.cfa.harvard.edu/~ejchaisson/cosmic_evolution/docs/fr_1/fr_1_intro_movies.html|title=Cosmic Evolution – Intro to Movies|author=|date=|website=www.cfa.harvard.edu}}</ref>
+
+These different treatments of time over ~14 billion years, each with different emphases on historical content, are further clarified by noting that some cosmic evolutionists divide the whole narrative into three phases and seven epochs:
+::'''Phases''': physical evolution → biological evolution → cultural evolution
+::'''Epochs''': particulate → galactic → stellar → planetary → chemical → biological → cultural
+This contrasts with the approach used by some big historians who divide the narrative into many more thresholds, as noted in the discussion at the end of this section below. 
+
+16. 
+Although the ''absolute'' energy in astronomical systems greatly exceeds that of humans, and although the mass densities of stars, planets, bodies, and brains are all comparable, the energy rate ''density'' for humans and modern human society are approximately a million times greater than for stars and galaxies. 
+
+17. 
+His first university-level course was offered in 1989.<ref name=tws2M41/> He developed a college course beginning with the [[Big Bang]] to the [[present day|present]]<ref name=tws2M16/> in which he collaborated with numerous colleagues from diverse fields in science and the humanities and the social sciences. 
+
+18. 
+In the mid-19th century, [[Alexander von Humboldt]]'s book ''[[Cosmos (Humboldt)|Cosmos]]'', and [[Robert Chambers (publisher born 1802)|Robert Chambers']] 1844 book ''[[Vestiges of the Natural History of Creation]]''<ref name=tws2M41/> were seen as early precursors to the field.<ref name=tws2M41/> In a sense, Darwin's [[theory of evolution]] was, in itself, an attempt to explain a biological phenomenon by examining longer term cause-and-effect processes. 
+
+19. 
+Later, [[Eric Chaisson]] explored the subject of [[Cosmic Evolution (book)|cosmic evolution]] quantitatively in terms of [[energy rate density]], and the astronomer [[Carl Sagan]] wrote ''[[Cosmos (Carl Sagan book)|Cosmos]]''.<ref name=tws2M27/> [[Thomas Berry]], a cultural historian, and the academic [[Brian Swimme]] explored meaning behind myths and encouraged academics to explore themes beyond [[organized religion]].<ref name=tws2M27/>
+[[File:NASA-Apollo8-Dec24-Earthrise.jpg|thumb|right|The famous 1968 ''[[Earthrise]]'' photo, taken by astronaut [[William Anders]], may have stimulated, among other things, an interest in interdisciplinary studies.]]
+The field continued to evolve from interdisciplinary studies during the mid-20th century, stimulated in part by the [[Cold War]] and the [[Space Race]]. 
+
+20. 
+In 1994 at the [[University of Amsterdam]] and the [[Eindhoven University of Technology]], college courses were offered.<ref name=tws2M41/> In 1996, Fred Spier wrote ''The Structure of Big History''.<ref name=tws2M41/> Spier looked at structured processes which he termed "regimes":
+
+{{Quote|I defined a regime in its most general sense as 'a more or less regular but ultimately unstable pattern that has a certain temporal permanence', a definition which can be applied to human cultures, human and non-human physiology, non-human nature, as well as to organic and inorganic phenomena at all levels of complexity. 
+
+21. 
+Explore the inevitable question of what it means to be human and our momentous role in shaping possible futures for our planet.|course description 2012<ref name=tws2M36>{{cite news
+ |title       = Expanding Minds in an Expanding Universe
+ |work        = Dominican University of California
+ |quote       = Welcome to First Year Experience "Big History" at Dominican University of California. 
+
+22. 
+ |date= 27 October 2012
+ |url= https://www.theguardian.com/education/2012/oct/28/big-history-bill-gates-david-christian
+ |accessdate= 2012-12-13
+}}</ref><ref name=tws2M42>{{cite news
+ |author= Craig Benjamin
+ |authorlink= Craig Benjamin
+ |title= Recent Developments in Big History
+ |work= [[History of Science Society]]
+ |volume= 41|issue= 3
+ |date= July 2012
+ |url= http://www.hssonline.org/publications/Newsletter2012/July-big-history.html
+ |accessdate= 2012-12-13
+ |url-status= dead
+ |archiveurl= https://web.archive.org/web/20130109012654/http://www.hssonline.org/publications/Newsletter2012/July-big-history.html
+ |archivedate= 2013-01-09
+ }}</ref><ref name=tws2M32>{{cite news
+ |author= Connie Barlow and Michael Dowd
+ |title= Failing Our Youth: A Call to Religious Liberals
+ |work= [[Huffington Post]]
+ |quote= Historian David Christian ... 
+
+23. 
+By defining 'regime' in this way, human cultural regimes thus became a subcategory of regimes in general, and the approach allowed me to look systematically at interactions among different regimes which together produce big history.|Fred Spier, 2008<ref name=tws2M41/>}}
+
+Christian's course caught the attention of philanthropist [[Bill Gates]], who discussed with him how to turn Big History into a high school-level course. 
+
+24. 
+It began when we finally overcame our savage legacy, and culture surpassed biology.|Anthony Doerr reviewing ''On Deep History and the Brain'' by Daniel Lord Smail, 2007<ref name=tws2M23>{{cite news
+ |author= Anthony Doerr
+ |title= Why the past isn't really past
+ |work= [[Boston Globe]]
+ |quote= reviews of these books: On Deep History and the Brain – By Daniel Lord Smail... 
+
+25. 
+It examines long [[time frame]]s using a [[multidisciplinary approach]] based on combining numerous disciplines from science and the humanities,<ref name=tws2M27/><ref name=tws2M13>{{cite news
+ |author= Patricia Cohen
+ |title= History That's Written in Beads as Well as in Words
+ |work= [[The New York Times]]
+ |date= September 26, 2011
+ |url= https://www.nytimes.com/2011/09/27/arts/deep-history-takes-humanity-back-to-its-origins.html?pagewanted=all&_r=0
+ |accessdate= 2012-12-13
+}}</ref><ref name=tws2M12>{{cite news
+ |author= Ursula Goodenough
+ |title= It's Time for a New Narrative; It's Time for 'Big History'
+ |work= [[NPR]]
+ |date= February 10, 2011
+ |url= https://www.npr.org/blogs/13.7/2011/02/10/133652898/its-time-for-a-new-narrative-its-time-for-big-history
+ |accessdate= 2012-12-13
+}}</ref><ref name=tws2M31/><ref>{{cite book |first=David |last=Christian |title=Maps of Time: An Introduction to Big History|url=https://archive.org/details/mapsoftimeintrod00chri |url-access=registration |publisher=University of California Press |year=2004 }}</ref> and explores human existence in the context of this bigger picture.<ref name="PeterStearns">{{cite book |first=Peter N. 

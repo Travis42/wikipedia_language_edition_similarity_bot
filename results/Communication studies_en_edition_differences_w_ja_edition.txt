@@ -1,0 +1,24 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Communication studies
+
+en edition's differences with the ja version: 
+
+
+1. 
+
+=== In Canada ===
+{{unreferenced section|date=May 2019}}
+With the early influence of federal institutional inquiries, notably the 1951 [[Massey Commission]], which "investigated the overall state of culture in Canada,"<ref>{{Cite web|url=https://www.thecanadianencyclopedia.ca/en/article/massey-commission-emc|title=Massey Commission {{!}} The Canadian Encyclopedia|website=www.thecanadianencyclopedia.ca|language=en|access-date=2018-10-25}}</ref> the study of communication in Canada has frequently focused on the development of a cohesive national culture, and on infrastructural empires of social and material circulation. 
+
+2. 
+
+{{Communication studies |expanded}}
+{{Social sciences |collapsed}}
+
+{{DEFAULTSORT:Communication studies}}
+[[Category:Communication studies| ]]
+[[Category:Academic disciplines]]. 
+
+3. 
+higher education and research has often been traced to [[Columbia University]], the [[University of Chicago]], and the [[University of Illinois Urbana-Champaign]], where early pioneers of the field worked.<ref name=":3" /><ref name=":4">William F. 

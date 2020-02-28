@@ -1,0 +1,797 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Augustine of Hippo
+
+en edition's differences with the ko version: 
+
+
+1. 
+(...)  }}
+* {{cite book|last=O'Daly|first=Gerard|title=Augustine's Philosophy of the Mind|year=1987|publisher=University of California Press|location=Berkeley}}
+* {{cite book | last = O'Donnell | first = James | authorlink = James J. 
+
+2. 
+|year=1984| publisher=Harper| isbn=978-0061855887| place=San Francisco}}</ref>
+
+====Free will====
+Included in Augustine's earlier [[theodicy]] is the claim that God created humans and angels as rational beings possessing [[free will]]. 
+
+3. 
+* {{cite book|last=Conybeare|first=Catherine|authorlink=Catherine Conybeare|title=The Irrational Augustine| year=2006|publisher=Oxford University Press|isbn=978-0-199-26208-3}}
+* {{cite book|last=Clark|first=Mary T.|authorlink=Mary T. 
+
+4. 
+Vladimirs Seminary Press|url=https://books.google.rs/books?id=sGxG8wTFymEC|isbn=978-0881413274}}
+* {{cite book|last=de Paulo|first=Craig J.N.|title=Augustinian Just War Theory and the Wars in Afghanistan and Iraq: Confessions, Contentions and the Lust for Power|year=2011|publisher=Peter Lang|isbn=978-1-4331-1232-4}}
+* {{cite journal | last=Doull | first=James A. 
+
+5. 
+* {{cite book|last=Nash|first=Ronald H|title=The Light of the Mind: St Augustine's Theory of Knowledge|year=1969|publisher=University Press of Kentucky|location=Lexington}}
+* {{cite book | editor-last = Wiener | editor-first = Philip | title = Dictionary of the History of Ideas | publisher = Scribner | location = New York | year = 1973 | isbn = 978-0-684-13293-8|volume=3 | chapter = Platonism in the Renaissance | chapterurl=http://xtf.lib.virginia.edu/xtf/view?docId=DicHist/uvaBook/tei/DicHist3.xml;chunk.id=dv3-64 | last = Nelson | first = John Charles | pages = 510–515 (vol. 
+
+6. 
+
+In ''On Rebuke and Grace'' (''De correptione et gratia''), Augustine wrote: "And what is written, that He wills all men to be saved, while yet all men are not saved, may be understood in many ways, some of which I have mentioned in other writings of mine; but here I will say one thing: He wills all men to be saved, is so said that all the predestinated may be understood by it, because every kind of men is among them."<ref name="St. 
+
+7. 
+He argued that the six-day structure of creation presented in the Book of Genesis represents a [[framework interpretation (Genesis)|logical framework]], rather than the passage of time in a physical way – it would bear a spiritual, rather than physical, meaning, which is no less literal. 
+
+8. 
+Augustine believed that dialectic is the best means for learning and that this method should serve as a model for learning encounters between teachers and students. 
+
+9. 
+
+If a student has been well educated in a wide variety of subjects, the teacher must be careful not to repeat what they have already learned, but to challenge the student with material which they do not yet know thoroughly. 
+
+10. 
+With the student who has had no education, the teacher must be patient, willing to repeat things until the student understands, and sympathetic. 
+
+11. 
+Augustine stressed the importance of showing this type of student the difference between "having words and having understanding" and of helping the student to remain humble with his acquisition of knowledge. 
+
+12. 
+VI, 19.58; <abbr title="Patrologia Latina">[[Patrologia Latina|PL]]</abbr> 44, 857; ibid., II, 10.33; <abbr title="Patrologia Latina">[[Patrologia Latina|PL]]</abbr> 44, 697; ''Contra Secundinum Manichaeum'', 15; <abbr title="Patrologia Latina">[[Patrologia Latina|PL]]</abbr> 42, 590.</ref>
+
+Augustine's understanding of the consequences of original sin and the necessity of redeeming grace was developed in the struggle against [[Pelagius]] and his [[Pelagianism|Pelagian]] disciples, [[Caelestius]] and [[Julian of Eclanum]],<ref name="Gonzalez"/> who had been inspired by [[Rufinus of Syria]], a disciple of [[Theodore of Mopsuestia]].<ref>[[Marius Mercator]] ''Lib. 
+
+13. 
+It lay along a continuum which included infanticide as an instance of ‘lustful cruelty’ or ‘cruel lust.’ Augustine called the use of means to avoid the birth of a child an ‘evil work:’ a reference to either abortion or contraception or both."<ref name="Vasa">{{Cite web|url=https://www.ewtn.com/library/bishops/vasapelosi.htm|title=Modern Look at Abortion Not Same as St. 
+
+14. 
+Nevertheless, the validity of the sacraments do not depend upon the holiness of the priests who perform them (''[[ex opere operato]]''); therefore, irregular sacraments are still accepted as valid provided they are done in the name of Christ and in the manner prescribed by the Church. 
+
+15. 
+
+Although Augustine spent ten years as a Manichaean, he was never an initiate or "elect", but an "auditor", the lowest level in this religion's hierarchy.<ref name = "celife" /><ref>{{cite book |last1=Chadwick |first1=Henry |title=Augustine: A Very Short Introduction |date=2001 |publisher=Oxford University Press |isbn=978-0191606632 |page=14}}</ref> While still at Carthage a disappointing meeting with the Manichaean Bishop, [[Faustus of Mileve]], a key exponent of Manichaean theology, started Augustine's scepticism of Manichaeanism.<ref name="celife" /> In Rome, he reportedly turned away from Manichaeanism, embracing the [[Philosophical scepticism|scepticism]] of the [[New Academy]] movement. 
+
+16. 
+Retrieved 30 September 2011.</ref>
+
+Augustine was [[canonization|canonized]] by popular acclaim, and later recognized as a Doctor of the Church in 1298 by [[Pope Boniface VIII]].<ref>{{cite web| url=http://www.newadvent.org/cathen/02662a.htm| title=New Advent – Pope Boniface VIII| accessdate=26 February 2012}}</ref> His [[feast day]] is 28 August, the day on which he died. 
+
+17. 
+Talk given to the [[Robert Hugh Benson]] Graduate Society at [[Cambridge University Catholic Chaplaincy|Fisher House, Cambridge]], on 22 November 1994. 
+
+18. 
+Although he later abandoned Some Neoplatonist Concepts, some ideas are still visible in his early writings.<ref>[[#Russel|Russell]], Book II, Chapter IV</ref> His early and influential writing on the [[Will (philosophy)|human will]], a central topic in [[ethics]], would become a focus for later philosophers such as [[Arthur Schopenhauer|Schopenhauer]], [[Søren Kierkegaard|Kierkegaard]], and [[Friedrich Nietzsche|Nietzsche]]. 
+
+19. 
+It sufficed for him to admit that they are metaphysically distinct: to be a human is to be a composite of soul and body, and the soul is superior to the body. 
+
+20. 
+Thus he wrote that righteous men in primitive times were made shepherds of cattle, not kings over men. 
+
+21. 
+33–35, {{ISBN|0752417703}}.</ref> The sentiment sometimes attributed to Augustine that Christians should let the Jews "survive but not thrive" (it is repeated by author [[James Carroll (author)|James Carroll]] in his book ''Constantine's Sword'', for example)<ref>Carroll, James (2002) ''Constantine's Sword''. 
+
+22. 
+The former is the institutional body established by Christ on earth which proclaims salvation and administers the [[sacrament]]s, while the latter is the invisible body of the elect, made up of genuine believers from all ages, and who are known only to God. 
+
+23. 
+While each passage of Scripture has a literal sense, this "literal sense" does not always mean that the Scriptures are mere history; at times they are rather an extended [[metaphor]].<ref>Augustine of Hippo, ''De Genesi ad literam 1:19–20'', Chapt. 
+
+24. 
+352–353.</ref> Catholic theologians generally subscribe to Augustine's belief that God exists [[eternity|outside of time]] in the "eternal present"; that time only exists within the created universe because only in space is time discernible through motion and change. 
+
+25. 
+He was also influenced by the works of [[Virgil]] (known for his teaching on language), and [[Cicero]] (known for his teaching on argument).<ref name=encyclopedia/>
+
+===In philosophy===
+[[Philosopher]] [[Bertrand Russell]] was impressed by Augustine's meditation on the nature of time in the ''Confessions'', comparing it favourably to [[Immanuel Kant|Kant]]'s version of the view that time is subjective.<ref>[[#Russel|Russell]], pp. 
+
+26. 
+Regular sacraments are performed by clergy of the Catholic Church, while sacraments performed by schismatics are considered irregular. 
+
+27. 
+Le motivazioni protologiche della continenza e della verginità nel christianesimo del primi secoli e nello gnosticismo |last=Sfameni Gasparro |first=G. 
+
+28. 
+Quod ideo dictum est, quoniam "libido non est bonus et rectus usus libidinis". 
+
+29. 
+Praef.'',2,3; <abbr title="Patrologia Latina">[[Patrologia Latina|PL]]</abbr> 48,111 /v.5-13/; {{cite book |last= Bonner |first= Gerald |chapter= Rufinus of Syria and African Pelagianism |title= God's Decree and Man's Destiny |location= London |year= 1987 |pages= 31–47 |isbn= 978-0-86078-203-2 |publisher=  Variorum Reprints}}</ref>{{rp|35}} They refused to agree that original sin wounded human will and mind, insisting that human nature was given the power to act, to speak, and to think when God created it. 
+
+30. 
+I suppose, in order that, it may consider itself, and live according to its own nature; that is, seek to be regulated according to its own nature, viz., under Him to whom it ought to be subject, and above those things to which it is to be preferred; under Him by whom it ought to be ruled, above those things which it ought to rule. 
+
+31. 
+Because of his education, Augustine had great rhetorical prowess and was very knowledgeable of the philosophies behind many faiths.<ref>{{cite book| last1=Kishlansky| first1=Mark| last2=Geary| first2=Patrick| last3=O'Brien| first3=Patricia| title=Civilization in the West| date=2010| publisher=Pearson Education Inc.| location=New Jersey| pages=142–143| volume=Vol. 
+
+32. 
+For it sees some things intrinsically excellent, in that more excellent nature which is God: and whereas it ought to remain steadfast that it may enjoy them, it is turned away from Him, by wishing to appropriate those things to itself, and not to be like to Him by His gift, but to be what He is by its own, and it begins to move and slip gradually down into less and less, which it thinks to be more and more." ("[http://www.newadvent.org/fathers/130105.htm On the Trinity]" (''De Trinitate''), 5:7; [[Corpus Christianorum|CCL]] 50, 320 [1–12])</ref>
+
+They would not have fallen into pride and lack of wisdom, if [[Satan]] hadn't sown into their senses "the root of evil" (''radix Mali'').<ref>Augustine of Hippo, ''Nisi radicem mali humanus tunc reciperet sensus''  ("Contra Julianum", I, 9.42; <abbr title="Patrologia Latina">[[Patrologia Latina|PL]]</abbr> 44, 670)</ref> Their nature was wounded by [[concupiscence]] or [[libido]], which affected human intelligence and will, as well as affections and desires, including sexual desire.<ref group=lower-alpha>In one of Augustine's late works, ''[[Retractationes]]'', he made a significant remark indicating the way he understood difference between spiritual, moral libido and the sexual desire: "Libido is not good and righteous use of the libido" ("libido non est bonus et rectus usus libidinis"). 
+
+33. 
+He wrote that God "did not intend that this rational creature, who was made in his image, should have dominion over anything but the irrational creation – not man over man, but man over the beasts". 
+
+34. 
+Augustine read from [[Epistle to the Romans|Paul's Epistle to the Romans]] – the "''[[Epistle to the Romans#Transformation of believers (12–15:13)|Transformation of Believers]]''" section, consisting of chapters 12 to 15 – wherein Paul outlines how the Gospel transforms believers, and describes the believers' resulting behaviour. 
+
+35. 
+Flügel in ''Mani: Seine Lehre und seine Schriften'' (Leipzig, 1862; reprinted, [[Osnabrück]]: Biblio Verlag, 1969) 58.11–61.13.</ref> But his struggle to understand the cause of evil in the world started before that, at the age of nineteen.<ref>Augustine of Hippo, ''De libero arbitrio'' 1,9,1.</ref> By ''malum'' (evil) he understood most of all [[concupiscence]], which he interpreted as a vice dominating people and causing in men and women moral disorder. 
+
+36. 
+|location= Rome|publisher=  Città Nuova |year=1990 | series = Collana di Studi Agostiniani 4 | volume = I – Natura e Grazia | page = 422 | isbn= 978-88-311-3402-6}}
+* {{cite book | last = von Heyking | first = John | title = Augustine and Politics as Longing in the World | publisher = University of Missouri Press | location = Columbia | year = 2001 | isbn = 978-0-8262-1349-5 }}
+* {{cite journal | last=Woo | first=B. 
+
+37. 
+Already in his pre-Pelagian writings, Augustine taught that Original Sin is transmitted to his descendants by [[concupiscence]],<ref>Augustine of Hippo, ''Imperfectum Opus contra Iulianum'', II, 218</ref> which he regarded as the passion of both, soul and body,<ref group=lower-alpha>In 393 or 394 he commented: ''Moreover, if unbelief is fornication, and [[idolatry]] unbelief, and [[covetousness]] idolatry, it is not to be doubted that covetousness also is fornication. 
+
+38. 
+Who, then, in that case can rightly separate any unlawful lust whatever from the category of fornication, if covetousness is fornication. 
+
+39. 
+[[Time (magazine)|''Time'' magazine]], December 7, 2008.</ref>
+
+====Sexuality====
+For Augustine, the evil of sexual immorality was not in the sexual act itself, but rather in the emotions that typically accompany it. 
+
+40. 
+Retrieved on 2013-04-28.</ref> [[Thomas Aquinas]], centuries later, used the authority of Augustine's arguments in an attempt to define the conditions under which a war could be just.<ref>[http://www.catholiceducation.org/articles/politics/pg0029.html "The Just War"]. 
+
+41. 
+The segment of the Church that adhered to the concept of the [[Trinity]] as defined by the [[First Council of Nicaea|Council of Nicaea]] and the [[First Council of Constantinople|Council of Constantinople]]<ref>{{cite book |last=Wilken |first=Robert L. 
+
+42. 
+|pages=344–345}}</ref><ref>{{cite book |last1=Wilson |first1=Kenneth |title=Augustine's Conversion from Traditional Free Choice to "Non-free' Free Will": A Comprehensive Methodology |date=2018 |publisher=Mohr Siebeck; Studien und Texte zu Antike und Christentum 111 |location=Tübingen |isbn=978-3161557538 |pages=286–293}}</ref><ref>{{cite journal |last1=van Oort |first1=Johannes |title=Manichaean Christians in Augustine's Life and Work |journal=History and Religious Culture |date=2010 |volume=90 |page=520}}</ref>  Some Protestant theologians, such as [[Justo L. 
+
+43. 
+The latter statement is grounded in his hierarchical classification of things into those that merely exist, those that exist and live, and those that exist, live, and have intelligence or reason.<ref>Augustine of Hippo, ''On the free will'' (''De libero arbitrio'') 2.3.7–6.13.</ref><ref>{{Cite book | first = WE | last = Mann | contribution = Inner-Life Ethics | title=The Augustinian Tradition | publisher=University of California Press | year=1999 | pages=141–142 | isbn=978-0-520-20999-2 | editor-first = GB | editor-last = Matthews}}</ref>
+
+Like other Church Fathers such as [[Athenagoras of Athens|Athenagoras]],<ref>{{cite web | title = A Plea for the Christians |first = Athenagoras | last = the Athenian | url = http://www.newadvent.org/fathers/0205.htm | publisher = New advent}}</ref> [[Tertullian]],<ref>Flinn, Frank K. 
+
+44. 
+Andrea Palent<ref>{{Cite book|title=La conversione Di Sant' Agostino|last=Hasse|first=Johann Adolf|publisher=Capriccio Digital|year=1993|isbn=|location=CD Booklet: Marcus Creed's recording of La conversion di Sant' Agostino with the RIAS Kammerchor; 10 389/90.|page=13}}</ref> says: {{Quote|text=Maria Antonia Walpurgis revised the five-part Jesuit drama into a two-part oratorio liberty in which she limits the subject to the conversion of Augustine and his submission to the will of God. 
+
+45. 
+Augustine is the [[patron saint]] of brewers, printers, theologians, and a number of cities and dioceses.<ref name="KnoYrSaint">[http://www.catholicapologetics.info/library/saints/index.htm Know Your Patron Saint]. 
+
+46. 
+Jayapalan|title=Comprehensive History of Political Thought|url=https://books.google.com/books?id=n77z4tabLXcC&pg=PA51|year=2001|publisher=Atlantic Publishers & Dist|isbn=978-81-269-0073-2|page=51}}</ref> His mother, [[Saint Monica|Monica]] or [[Saint Monica|Monnica]],<ref>"[T]he names Monnica and Nonnica are found on tombstones in the Libyan language—as such Monnica is the only Berber name commonly used in English."  Brett, Michael and Fentress, Elizabeth (1996), ''The Berbers'', Cambridge, Massachusetts:  Blackwell, p. 
+
+47. 
+Augustine of Hippo|url=http://www.newadvent.org/cathen/02084a.htm|website=[[New Advent]]|accessdate=22 January 2018|archiveurl=https://web.archive.org/web/20171020030610/http://www.newadvent.org/cathen/02084a.htm|archivedate=20 October 2017}}</ref><ref>{{cite web|title=Augustine of Hippo, Bishop and Theologian|url=http://justus.anglican.org/resources/bio/50.html|website=justus.anglican.org|publisher=Society of Archbishop Justus|accessdate=22 January 2018|archiveurl=https://web.archive.org/web/20170824001306/http://justus.anglican.org/resources/bio/50.html|archivedate=24 August 2017}}</ref>
+}}
+[[File:Fra angelico - conversion de saint augustin.jpg|thumb|upright=1.2|''The Conversion of St. 
+
+48. 
+Contemporary linguists have argued that Augustine has significantly influenced the thought of [[Ferdinand de Saussure]], who did not 'invent' the modern discipline of [[semiotics]], but rather built upon [[Aristotelianism|Aristotelian]] and Neoplatonist knowledge from the Middle Ages, via an Augustinian connection: "as for the constitution of Saussurian semiotic theory, the importance of the Augustinian thought contribution (correlated to the Stoic one) has also been recognized. 
+
+49. 
+
+== Notes ==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Cited sources==
+* {{cite book|ref=Brown| last=Brown| first=Peter| title=Augustine of Hippo: A Biography|url=https://archive.org/details/augustineofhippo00brow_0|url-access=registration| year=2000| publisher=University of California Press| location=Berkeley|isbn=978-0520227576}}
+* {{cite book|ref=Russel|author-link=Bertrand Russell|author=Russell, Bertrand|year=1945|title=A History of Western Philosophy|publisher=Simon & Schuster|title-link=A History of Western Philosophy}}
+
+==Further reading==
+{{columns-list|colwidth=30em|1=
+* {{cite book|title=Ancient Christian Writers: The Works of the Fathers in Translation|year=1978|publisher=Newman Press|location=New York}}
+* {{cite book|last=Augustine|first=Saint|title=The Essential Augustine|year=1974|publisher=Hackett|location=Indianapolis|edition= 2nd|editor=Vernon Joseph Bourke}}
+* {{cite book | title = Augustine and the Trinity | authorlink = Lewis Ayres | author = Ayres, Lewis | publisher = Cambridge University Press | location = Cambridge | year = 2010 | isbn = 978-0-521-83886-3 }}
+* {{cite book|last=Bourke|first=Vernon Joseph|title=Augustine's Quest of Wisdom|year=1945|publisher=Bruce|location=Milwaukee}}
+* {{cite book|last=Bourke|first=Vernon Joseph|title=Wisdom From St. 
+
+50. 
+See the whole passage: ''Dixi etiam quodam loco: «Quod enim est cibus ad salutem hominis, hoc est concubitus ad salutem generis, et utrumque non est sine delectatione carnali, quae tamen modificata et temperantia refrenante in usum naturalem redacta, libido esse non potest». 
+
+51. 
+
+Augustine arrived in Milan and visited Ambrose in order to see if Ambrose was one of the greatest speakers and rhetoricians in the world. 
+
+52. 
+As Augustine later told it, his conversion was prompted by a childlike voice he heard telling him to "take up and read" ({{lang-la|tolle, lege}}), which he took as a divine command to open the Bible and read the first thing he saw. 
+
+53. 
+Aug.'' 3.1</ref> Soon after, Adeodatus, too, died.<ref>{{cite web| last=A'Becket| first=John| title=Catholic Encyclopedia: Adeodatus| url=http://www.newadvent.org/cathen/01141e.htm| accessdate=20 April 2012}}</ref> Augustine then sold his patrimony and gave the money to the poor. 
+
+54. 
+Augustin/On Care to Be Had for the Dead/Section 5|On Care to Be Had for the Dead, section 5]]'' (420 AD) he exhorted to respect the body on the grounds that it belonged to the very nature of the human [[person]].<ref>Augustine of Hippo, ''De cura pro mortuis gerenda'' [[Corpus Scriptorum Ecclesiasticorum Latinorum|CSEL]] 41, 627 [13–22]; <abbr title="Patrologia Latina">[[Patrologia Latina|PL]]</abbr> 40, 595: ''Nullo modo ipsa spernenda sunt corpora. 
+
+55. 
+For instance he stated that "He [Jesus] walked here in the same flesh, and gave us the same flesh to be eaten unto salvation. 
+
+56. 
+The Saint Augustine Taken to School by Saint Monica. 
+
+57. 
+He left a ''[[Monastic rule|regula]]'' for his monastery that led to his designation as the "[[patron saint]] of [[regular clergy]]".<ref>[http://saints.sqpn.com/saint-augustine-of-hippo/ Saint Augustine of Hippo] at ''saints.sqpn.com''. 
+
+58. 
+Lang|isbn=978-0-8204-2291-6|page=165}}</ref> It now rests in the [[Saint Augustin Basilica]] within a glass tube inserted into the arm of a life-size marble statue of the saint. 
+
+59. 
+Mackey | title = Faith Order Understanding: Natural Theology in the Augustinian Tradition | publisher = PIMS | location = Totonto | year = 2011 | isbn = 978-0-88844-421-9 }}
+* {{cite book|title=Augustine: A Collection of Critical Essays|url=https://archive.org/details/augustinecollect00mark|url-access=registration|year=1972|publisher=Anchor|location=Garden City, NY|editor=Markus, R.A.}}
+* {{cite book | title = Augustine | author = Matthews, Gareth B. 
+
+60. 
+from [http://www.hypotyposeis.org/synoptic-problem/2004/10/external-evidence-augustine.html hypothesis.com]</ref>
+*[[Augustinian theodicy]]
+*[[Augustinian values]]<ref name="www.merrimack.edu">{{cite news |publisher=www.merrimack.edu |title=Augustinian Values |author=Alberto Esmeralda |url=http://www.merrimack.edu/uploads/Dean_of_the_College/files/esmeralda.pdf |accessdate=2006-11-23 |archive-url=https://web.archive.org/web/20060901144844/http://www.merrimack.edu/uploads/Dean_of_the_College/files/esmeralda.pdf |archive-date=2006-09-01}}</ref>
+*[[Divine command theory]]<ref name=IEP-2>{{cite web | url=http://www.iep.utm.edu/divine-c/#H2 | title=Divine Command Theory | publisher=Internet Encyclopedia of Philosophy | date=21 August 2006 | accessdate=15 August 2012 | author=Austin, Michael W.}}</ref>
+*[[Amillennialism]]
+*''[[You are Christ]]''<ref>[http://www.catholic.org/clife/prayers/prayer.php?s=5 Catholic online prayers]</ref>
+*[[Deity]]<ref>{{cite web|url=http://www.etymonline.com/index.php?term=deity |title=Online Etymology Dictionary – Deity |publisher=Etymonline.com |date= |accessdate=6 June 2017}}</ref>
+*''[[Solvitur ambulando]]''<ref>http://articles.baltimoresun.com/2013-09-03/news/bal-solution-to-many-a-problem-take-a-walk-20130830_1_benefits-thoughts-zeno</ref>
+*[[Heroic virtue]]<ref>Wilhelm, J. 
+
+61. 
+The following year he moved to Carthage to conduct a school of rhetoric and would remain there for the next nine years.<ref name=EA/> Disturbed by unruly students in Carthage, he moved to establish a school in Rome, where he believed the best and brightest rhetoricians practiced, in 383. 
+
+62. 
+* [http://www.intratext.com/Catalogo/Autori/AUT31.HTM Aurelius Augustinus] at "IntraText Digital Library" – texts in several languages, with concordance and frequency list
+* [http://www.augustinus.it/ Augustinus.it] – Latin, Spanish and Italian texts
+* [http://www.documentacatholicaomnia.eu/20_40_0354-0430-_Augustinus,_Sanctus.html Sanctus Augustinus] at Documenta Catholica Omnia – Latin
+* [http://www.doxologypress.org/theaudio/index.html City of God, Confessions, Enchiridion, Doctrine] audio books
+* {{cite book|author=Saint Augustine|title=The Happy Life; Answer to Sceptics; Divine Providence and the Problem of Evil; Soliloquies|url=https://books.google.com/books?id=u4EJZWrmqgkC|publisher=CUA Press|location=US|year=2008|isbn=978-0-8132-1551-8}}
+* [http://roderic.uv.es/uv_ms_0580 Digitized manuscript] created in France between 1275 and 1325 with extract of Augustine of Hippo works at [http://roderic.uv.es/handle/10550/43 SOMNI]
+* [http://roderic.uv.es/uv_ms_0895 Expositio Psalmorum beati Augustini] – digitized codex created between 1150 and 1175, also known as "Enarrationes in Psalmos. 
+
+63. 
+Seen from a historical perspective, there are three main perspectives on the political thought of Augustine: first, political Augustinianism; second, Augustinian [[political theology]]; and third, Augustinian political theory.<ref>{{cite journal| author=Woo, B. 
+
+64. 
+Hoon | title= Pilgrim's Progress in Society – Augustine's Political Thought in ''The City of God'' | journal= Political Theology | year=2015 | volume=16 | issue=5 | url=https://www.academia.edu/16870779 |pages=421–441 | doi=10.1179/1462317x14z.000000000113}}
+* {{cite book | last = Zumkeller O.S.A. 
+
+65. 
+Human nature cannot lose its moral capacity for doing good, but a person is free to act or not to act in a righteous way. 
+
+66. 
+His work ''The City of God'' was written to console his fellow Christians shortly after the [[Visigoths]] had [[Sack of Rome (410)|sacked Rome in 410]]. 
+
+67. 
+
+Apart from those, Augustine is probably best known for his ''[[Confessions (Augustine)|Confessions]]'', which is a personal account of his earlier life, and for ''De civitate Dei'' (''[[The City of God]]'', consisting of 22 books), which he wrote to restore the confidence of his fellow Christians, which was badly shaken by the [[Sack of Rome (410)|sack of Rome]] by the [[Visigoths]] in 410. 
+
+68. 
+II, ''Nicene & Post-Nicene Fathers'', Eerdman's, Grand Rapids, Michigan, Reprinted 1986</ref> In ''The City of God'', Augustine wrote he felt that the existence of slavery was a punishment for the existence of sin, even if an individual enslaved person committed no sin meriting punishment. 
+
+69. 
+O'Donnell | title = Augustine: A New Biography | publisher = ECCO | location = New York | year = 2005 | isbn = 978-0-06-053537-7 | url = https://archive.org/details/augustine00jame_qqt }}
+* {{cite book|last=Pagels|first=Elaine|authorlink=Elaine Pagels|title=Adam, Eve, and the Serpent: Sex and Politics in Early Christianity|publisher=Vintage Books|year=1989|isbn=978-0-679-72232-8|url=https://archive.org/details/adameveserpent00elai}}
+* {{Citation | last =Park | first =Jae-Eun | url =https://www.academia.edu/4811679 | title = Lacking Love or Conveying Love. 
+
+70. 
+Augustine|year=1984|publisher=Center for Thomistic Studies|location=Houston}}
+* {{cite journal |author= Brachtendorf J | issue=1997 |title= Cicero and Augustine on the Passions|journal= Revue des Études Augustiniennes |volume= 43|pages= 289–308 |hdl= 2042/23075 | doi=10.1484/J.REA.5.104767 | year=1997 }}
+* {{cite journal | last=Burke | first=Cormac | title=St. 
+
+71. 
+8.</ref>
+Scholars generally agree that Augustine and his family were [[Berbers]], an ethnic group indigenous to North Africa,<ref name="Hollingworth2013" /><ref>{{Cite book|url=https://books.google.com/books?id=DCxNjeuYpJwC|title=From Generation to Generation: The Renewal of the Church According to Its Own Theology and Practice|last=Leith|first=John H.|publisher=Westminster John Knox Press|year=1990|isbn=978-0664251222|page=24}}</ref><ref>{{Cite book|url=https://books.google.com/books?id=HAAXAQAAIAAJ|title=Catholic World, Volumes 175–176|publisher=Paulist Fathers|year=1952|isbn=|page=376|quote=The whole of North Africa was a glory of Christendom with St. 
+
+72. 
+His ''[[On the Trinity]]'', in which he developed what has become known as the 'psychological analogy' of the [[Trinity]], is also considered to be among his masterpieces, and arguably of more doctrinal importance that the ''Confessions'' or the ''City of God''.<ref>{{Cite journal |jstor = 43705747|title = St Augustine on the Trinity—I|journal = Life of the Spirit |volume = 15|issue = 180|pages = 540–548|last1 = Hill|first1 = Edmund|year = 1961}}</ref> He also wrote ''On Free Choice of the Will'' (''[[De libero arbitrio (Augustine)|De libero arbitrio]]''), addressing why God gives humans free will that can be used for evil. 
+
+73. 
+Only a will that was once free can be subjected to sin's corruption.<ref>{{cite book| editor-first=Chad |editor-last=Meister| editor2-first=Paul| editor2-last=Copan| title=The Routledge Companion to Philosophy of Religion| date=2012| series=Routledge Philosophy Companions| location=London| isbn=978-0415782944| edition= 2nd}}</ref> After 412 CE, Augustine changed his theology, teaching that humanity had no free will to believe in Christ but only a free will to sin: "I in fact strove on behalf of the free choice of the human ‘will,’ but God's grace conquered" (''Retract''. 
+
+74. 
+''De bono coniugali'', 16.18; <abbr title="Patrologia Latina">[[Patrologia Latina|PL]]</abbr> 40, 385; ''De nuptiis et concupiscentia'', II, 21.36; <abbr title="Patrologia Latina">[[Patrologia Latina|PL]]</abbr> 44, 443; ''Contra Iulianum'', III, 7.16; <abbr title="Patrologia Latina">[[Patrologia Latina|PL]]</abbr> 44, 710; ibid., V, 16.60; <abbr title="Patrologia Latina">[[Patrologia Latina|PL]]</abbr> 44, 817. 
+
+75. 
+The doctrine of illumination claims that God plays an active and regular part in human perception (as opposed to God designing the human mind to be reliable consistently, as in, for example, Descartes' idea of clear and distinct perceptions) and understanding by illuminating the mind so that human beings can recognize intelligible realities that God presents. 
+
+76. 
+208, {{ISBN|0-8153-3069-3}}.</ref>
+
+===Christian conversion and priesthood===
+{{Ordination
+| date of priestly ordination = 391
+| place of priestly ordination = [[Hippo Regius]], [[Africa (Roman province)|Africa]], [[Roman Empire]]
+| date of consecration = 396
+| consecrated by = Megalius
+| sources = <ref>{{cite web|title=Catholic Encyclopedia: St. 
+
+77. 
+Augustine'' by [[Fra Angelico]]]]
+In late August of 386,<ref>The historian Peter Brown places Augustine's garden conversion at the end of August, 386. 
+
+78. 
+In the matter which concerns us here, the agreement with Neoplatonism (and with the Platonic tradition in general) centers on two related notions: immutability as primary characteristic of divinity, and likeness to divinity as the primary vocation of the soul. 
+
+79. 
+* {{cite book |author=Plumer, Eric Antone |title=Augustine's Commentary on Galatians |publisher=Oxford University Press |year=2003 |  isbn = 978-0-19-924439-3}}
+* {{cite book | title = Saint Augustine the Algerian | author = Pollman, Karla | publisher = Edition Ruprecht | location = Göttingen | year = 2007|isbn=978-3-89744-209-2 }}
+* {{cite book|last=Pottier|first=René|title=Saint Augustin le Berbère |publisher=Fernand Lanore|year=2006|isbn=978-2-85157-282-0|language=French}}
+* ''Règle de St. 
+
+80. 
+The virtue of continence is achieved thanks to the grace of the sacrament of Christian marriage, which becomes therefore a ''remedium concupiscentiae'' – remedy of concupiscence.<ref>Augustine of Hippo, ''De continentia'', 12.27; <abbr title="Patrologia Latina">[[Patrologia Latina|PL]]</abbr> 40, 368; Ibid., 13.28; <abbr title="Patrologia Latina">[[Patrologia Latina|PL]]</abbr> 40, 369; ''Contra Julianum'', III, 15.29, <abbr title="Patrologia Latina">[[Patrologia Latina|PL]]</abbr> 44, 717; Ibid., III, 21.42, <abbr title="Patrologia Latina">[[Patrologia Latina|PL]]</abbr> 44, 724.</ref><ref>{{cite journal| title=A Postscript to the Remedium Concupiscentiae| journal=The Thomist| volume= 70 | issue=4|year=2006| pages= 481–536 |url=http://www.cormacburke.or.ke/node/932| doi=10.1353/tho.2006.0000| last1=Burke| first1=Cormac}}</ref> The redemption of human sexuality will be, however, fully accomplished only in the resurrection of the body.<ref>''[http://www.newadvent.org/fathers/1501.htm Merits and Remission of Sin, and Infant Baptism]'' (''De peccatorum meritis et remissione et de baptismo parvulorum''), I, 6.6; <abbr title="Patrologia Latina">[[Patrologia Latina|PL]]</abbr> 44, 112–113; cf. 
+
+81. 
+
+In the [[Eastern Christianity|East]], his teachings are more disputed, and were notably attacked by [[John Romanides]].<ref>{{Cite web| title = Some Underlying Positions of This Website| url = http://www.romanity.org/htm/rom.00.en.some_underlying_positions_of_this_website.htm| website = www.romanity.org| accessdate = 2015-09-30}}</ref> But other theologians and figures of the [[Eastern Orthodox Church]] have shown significant approbation of his writings, chiefly [[Georges Florovsky]].<ref>{{Cite web| title = Limits of Church| url = http://www.fatheralexander.org/booklets/english/limits_church.htm| website = www.fatheralexander.org| accessdate = 2015-09-30}}</ref> The most controversial doctrine associated with him, the [[filioque]],<ref name="Rev. 
+
+82. 
+1: to 1715| ref=Augustine of Hippo|isbn=978-0205664726}}</ref> At Milan, his mother's religiosity, Augustine's own studies in [[Neoplatonism]], and his friend [[Simplician]]us all urged him towards Christianity.<ref name="EA" /> Not coincidentally, this was shortly after the Roman emperor Theodosius I had issued a decree of death for all Manichaean monks in 382 and shortly before he declared Christianity to be the only legitimate religion for the Roman Empire in 391.<ref> Wendy Doniger (1999). 
+
+83. 
+Hoon | title=Augustine's Hermeneutics and Homiletics in ''De doctrina christiana'' | journal= Journal of Christian Philosophy | year=2013 | volume=17 | url=https://www.academia.edu/5228314 |pages=97–117}}
+* {{cite journal | last=Woo | first=B. 
+
+84. 
+(...)Haec enim non ad ornamentum vel adiutorium, quod adhibetur extrinsecus, sed ad ipsam naturam hominis pertinent''.</ref> Augustine's favourite figure to describe ''body-soul'' unity is marriage: ''caro tua, coniunx tua – your body is your wife''.<ref>Augustine of Hippo, ''Enarrationes in psalmos'', 143, 6.</ref><ref>[[Corpus Christianorum|CCL]] 40, 2077 [46] – 2078 [74]; 46, 234–35.</ref><ref>Augustine of Hippo, ''De utilitate ieiunii'', 4, 4–5.</ref>
+
+Initially, the two elements were in perfect harmony. 
+
+85. 
+2.1).<ref>{{cite book |last1=Wilson |first1=Kenneth |title=Augustine's Conversion from Traditional Free Choice to "Non-free Free Will": A Comprehensive Methodology |date=2018 |publisher=Mohr Siebeck |location=Tübingen |isbn=978-3161557538 |page=285 }}</ref>
+
+The early Christians opposed the deterministic views (e.g., fate) of Stoics, Gnostics, and Manichaeans that were prevalent in those first four centuries.<ref>{{cite book |author1=McIntire, C.T. 
+
+86. 
+| title=A History of Christian Thought: Volume 2 (From Augustine to the eve of the Reformation)
+| publisher=Abingdon Press
+| isbn=978-0687171835
+| date=1970–1975}}</ref>{{rp|28}}
+
+Augustine's ecclesiology was more fully developed in ''[[The City of God (book)|City of God]]''. 
+
+87. 
+But no one eats that flesh unless first he adores it; and thus it is discovered how such a footstool of the Lord's feet is adored; and not only do we not sin by adoring, we do sin by not adoring."<ref>{{cite book |last1=Jurgens |first1=William |title=The Faith of the Early Fathers Vol 3 |date=June 1979 |publisher=Liturgical Press |isbn=978-0814610213 |page=20 |url=https://books.google.co.uk/books?id=rkvLsueY_DwC |accessdate=25 December 2019 |chapter=Ch. 
+
+88. 
+76–77; <abbr title="Patrologia Latina">[[Patrologia Latina|PL]]</abbr> 34, 397.</ref>
+
+Some authors perceive Augustine's doctrine as directed against [[human sexuality]] and attribute his insistence on continence and devotion to God as coming from Augustine's need to reject his own highly sensual nature as described in the ''Confessions''.{{refn|group=lower-alpha|"It is, of course, always easier to oppose and denounce than to understand."<ref name=Bonner/>{{rp|312}}}} Augustine taught that human sexuality has been wounded, together with the whole of human nature, and requires [[Redemption (theology)|redemption]] of Christ. 
+
+89. 
+And from this we perceive, that because of unlawful lusts, not only those of which one is guilty in acts of uncleanness with another's husband or wife, but any unlawful lusts whatever, which cause the soul making a bad use of the body to wander from the law of God, and to be ruinously and basely corrupted, a man may, without crime, put away his wife, and a wife her husband, because the Lord makes the cause of fornication an exception; which fornication, in accordance with the above considerations, we are compelled to understand as being general and universal.'' ("[http://www.newadvent.org/fathers/16011.htm On the Sermon on the Mount]", ''De sermone Domini in monte'', 1:16:46; [[Corpus Christianorum|CCL]] 35, 52)</ref> making humanity a ''massa damnata'' (mass of perdition, condemned crowd) and much enfeebling, though not destroying, the freedom of the will.<ref name=Cross/>{{rp|1200–1204}} Although earlier Christian authors taught the elements of physical death, moral weakness, and a sin propensity within original sin, Augustine was the first to add the concept of inherited guilt (''reatus'') from Adam whereby an infant was eternally damned at birth.<ref name=wilson>{{cite book |last1=Wilson |first1=Kenneth |title=Augustine's Conversion from Traditional Free Choice to "Non-free Free Will": A Comprehensive Methodology |date=2018 |publisher=Mohr Siebeck |location=Tübingen |isbn=978-3161557538 |pages=93, 127, 140, 146, 231–233, 279–280}}</ref>
+
+Although Augustine's anti-Pelagian defense of original sin was confirmed at numerous councils, ''i.e.'' [[Council of Carthage (418)|Carthage (418)]], [[First Council of Ephesus|Ephesus]] (431), [[Council of Orange (529)|Orange]] (529), [[Council of Trent|Trent]] (1546) and by popes, ''i.e.'' [[Pope Innocent I]] (401–417) and [[Pope Zosimus]] (417–418), his inherited guilt eternally damning infants was omitted by these councils and popes.<ref>{{cite book |last1=Wilson |first1=Kenneth |title=Augustine's Conversion from Traditional Free Choice to "Non-free Free Will": A Comprehensive Methodology |date=2018 |publisher=Mohr Siebeck |location=Tübingen |isbn=978-3161557538 |pages=221, 231, 267, 296}}</ref> [[Anselm of Canterbury]] established in his ''[[Cur Deus Homo]]'' the definition that was followed by the great 13th-century Schoolmen, namely that Original Sin is the "privation of the righteousness which every man ought to possess", thus separating it from ''concupiscence'', with which some of Augustine's disciples had defined it<ref name=Bonner/>{{rp|371}}<ref>{{cite book |title=The Making of the Middle Ages |url=https://archive.org/details/makingofmiddleag00sout |url-access=registration |last=Southern |first=R.W. 
+
+90. 
+Wells |title=Longman Pronunciation Dictionary |publisher=[[Longman]] |location=New York |year=2000 |isbn=978-0-582-36467-7 |edition=2 |url=https://archive.org/details/longmanpronuncia00jcwe }}</ref> was a [[Roman Africans|Roman African]], early [[Christian theologian]] and [[Neoplatonism|Neoplatonic]] [[philosopher]] from [[Numidia (Roman province)|Numidia]] whose writings influenced the development of the [[Western Church]] and [[Western philosophy]], and indirectly all of [[Western Christianity]]. 
+
+91. 
+Augustine's Writings Against The Manichaeans And Against The Donatists: eBook Edition|year= 2012|publisher=Jazzybee Verlag|isbn=9783849621094}}</ref>
+
+Augustine upheld the early Christian understanding of the [[real presence of Christ in the Eucharist]], saying that Christ's statement, "This is my body" referred to the bread he carried in his hands,<ref>Augustine of Hippo, ''Explanations of the Psalms'' 33:1:10 [405]</ref><ref>Augustine of Hippo, ''Sermons'' 227 [411]</ref> and that Christians must have faith that the bread and wine are in fact the body and blood of Christ, despite what they see with their eyes.<ref>Augustine of Hippo, ''Sermons'' 272</ref>. 
+
+92. 
+In his ''Tractates on the Gospel of John'', Augustine, commenting on the [[Samaritan]] woman from John 4:1–42, uses the woman as a figure of the Church in agreement with the New Testament teaching that the Church is the bride of Christ. 
+
+93. 
+When the [[Western Roman Empire]] began to disintegrate, Augustine imagined the Church as a spiritual [[New Jerusalem#Christianity|City of God]], distinct from the material Earthly City.<ref name="CC">{{cite book |last=Durant |first=Will |title=Caesar and Christ: a History of Roman Civilization and of Christianity from Their Beginnings to A.D. 
+
+94. 
+Retrieved 25 May 2011.</ref> {{lang-la|Aurelius Augustinus Hipponensis}};<ref group=lower-alpha>The ''[[Roman naming conventions|nomen]]'' Aurelius is virtually meaningless, signifying little more than Roman citizenship (see: {{cite journal |title=What's in a Name. 
+
+95. 
+This concept countered the Donatist claim that only those in a [[state (theology)|state of grace]] were the "true" or "pure" church on earth, and that priests and bishops who were not in a state of grace had no authority or ability to confect the sacraments.<ref name="Gonzalez">{{cite book
+| author=Gonzalez, Justo L. 
+
+96. 
+However, he also stated that baptism, while it does not confer any grace when done outside the Church, does confer grace as soon as one is received into the Catholic Church.<ref>{{cite book|last=of Hippo|first=St. 
+
+97. 
+Even before the [[Council of Ephesus]], he defended the [[perpetual virginity of Mary|Ever-Virgin Mary]] as the [[theotokos|Mother of God]], believing her to be "full of grace" (following earlier Latin writers such as [[Jerome]]) on account of her sexual integrity and innocence.<ref>Augustine of Hippo, ''De Sancta Virginitate'', 6,6, 191.</ref> Likewise, he affirmed that the Virgin Mary "conceived as virgin, gave birth as virgin and stayed virgin forever".<ref>Augustine of Hippo, ''De Sancta Virginitate'', 18</ref>
+
+====Natural knowledge and biblical interpretation====
+Augustine took the view that, if a literal interpretation contradicts science and our God-given reason, the Biblical text should be interpreted metaphorically. 
+
+98. 
+
+==Views and thought==
+{{Christianity|state=collapsed}}
+{{Catholic philosophy}}
+Augustine's large contribution of writings covered diverse fields including theology, philosophy and sociology. 
+
+99. 
+Dr."/> Nevertheless, though considered to be mistaken on some points, he is still considered a saint, and has even had influence on some Eastern [[Church Fathers]], most notably [[Saint Gregory Palamas]].<ref>{{Cite journal| title = Gregory Palamas' Use of Augustine's De Trinitate for Original Sin and its Application to the Theotokos & Scholarius' Palamitico-Augustinianism of the Immaculate Conception (Stockholm 28.VI.15)| journal = Stolcholm University Press| url = https://www.academia.edu/11941514| date = 2015-09-30| last1 = Kappes| first1 = Christiaan}}</ref> In the Orthodox Church his feast day is celebrated on 15 June.<ref name="Rev. 
+
+100. 
+* {{cite book|last=Starnes|first=Colin| authorlink=Colin Starnes|title=Augustine's Conversion: A Guide to the Arguments of Confessions I–IX|year=1990|publisher=Wilfrid Laurier University Press|location=Waterloo, Ontario}}
+* {{cite book | last = Tanquerey | first = Adolphe | title = The Spiritual Life: A Treatise on Ascetical and Mystical Theology | publisher = Tan Books & Publishers | location =  Rockford, Illinois | year = 2001 | isbn = 978-0-89555-659-2|page=37)| title-link = Ascetical theology }}
+* {{cite book |title= S. 
+
+101. 
+Augustin pour les religieuses de son ordre; et Constitutions de la Congrégation des Religieuses du Verbe-Incarné et du Saint-Sacrament'' (Lyon: Chez Pierre Guillimin, 1662), pp.&nbsp;28–29. 
+
+102. 
+Hoon| journal= Political Theology |volume= 16 |issue= 5 |year=2015 |title= Pilgrim's Progress in Society{{snd}}Augustine's Political Thought in ''The City of God'' |pages= 421–441 |url= https://www.academia.edu/16870779 |doi= 10.1179/1462317X14Z.000000000113}}</ref>
+
+===In theology===
+{{Scholastic Philosophy}}
+[[Thomas Aquinas]] was influenced heavily by Augustine. 
+
+103. 
+<br />
+== Media ==
+
+*''[[Augustine of Hippo (miniseries)|Augustine of Hippo]]'' miniseries of 1972, directed by [[Roberto Rossellini]]. 
+
+104. 
+However, his emotional wound was not healed, even began to fester.<ref>Augustine of Hippo, ''Confessions'', 6:15</ref> It was during this period that he uttered his famous prayer, "Grant me [[chastity]] and [[sexual abstinence|continence]], but not yet."<ref name="FLNZ2">Augustine of Hippo, ''Confessions'', 8:7.17</ref>
+
+There is evidence that Augustine may have considered this former relationship to be equivalent to marriage.<ref>{{cite journal| last = Burrus | first=Virginia| year=2011| title="Fleeing the Uxorious Kingdom": Augustine's Queer Theology of Marriage | journal =Journal of Early Christian Studies|volume=19| issue=1| pages = 1–20| doi=10.1353/earl.2011.0002}}</ref> In his ''Confessions'', he admitted that the experience eventually produced a decreased sensitivity to pain. 
+
+105. 
+56 ff.</ref> They include [[apologetics|apologetic]] works against the heresies of the [[Arianism|Arians]], [[Donatists]], [[Manichaeans]] and [[Pelagians]]; texts on Christian [[doctrine]], notably ''[[De Doctrina Christiana]]'' (''On Christian Doctrine''); [[exegesis|exegetical]] works such as commentaries on [[Book of Genesis|Genesis]], the [[Psalms]] and [[Paul of Tarsus|Paul's]] [[Letter to the Romans]]; many [[sermon]]s and [[Letter (message)|letters]]; and the ''Retractationes'', a review of his earlier works which he wrote near the end of his life. 
+
+106. 
+2.</ref>}}
+| influenced= Virtually all of subsequent [[Western philosophy]] and [[Catholic theology]], as well as a significant amount of [[Protestant theology]]. 
+
+107. 
+He was the [[bishop]] of [[Hippo Regius]] in [[North Africa]] and is viewed as one of the most important [[Latin Church Fathers|Church Fathers]] of the [[Latin Church]] for his writings in the [[Patristics|Patristic Period]]. 
+
+108. 
+The body is a three-dimensional object composed of the four elements, whereas the soul has no spatial dimensions.<ref>Augustine of Hippo, ''De quantitate animae'' 1.2; 5.9.</ref> Soul is a kind of substance, participating in reason, fit for ruling the body.<ref>Augustine of Hippo, ''De quantitate animae'' 13.12: ''Substantia quaedam rationis particeps, regendo corpori accomodata''.</ref>
+
+Augustine was not preoccupied, as [[Plato]] and [[Descartes]] were, with going too much into details in efforts to explain the [[metaphysics]] of the soul-body union. 
+
+109. 
+
+Augustine is recognized as a saint in the Catholic Churches, the Eastern Orthodox Church, and the [[Anglican Communion]] and as a preeminent [[Doctor of the Church]]. 
+
+110. 
+Augustine followed [[Cyprian]] in teaching that the bishops and priests of the Church are the [[apostolic succession|successors of the Apostles]],<ref name="Gonzalez"/> and that their authority in the Church is God-given. 
+
+111. 
+|editor2-last=Livingstone |editor2-first=Elizabeth |title=The Oxford Dictionary of the Christian Church |publisher=Oxford University Press |location=Oxford |year=2005 |isbn=978-0-19-280290-3 |ref=Cross}}</ref><ref>Augustine of Hippo, ''Enchiridion'', 110</ref> and that [[purgatory|purgatorial]] fires of the [[intermediate state]] purify only those that died in communion with the Church. 
+
+112. 
+He taught that there is one Church, but that within this Church there are two realities, namely, the visible aspect (the institutional [[hierarchy of the Catholic Church|hierarchy]], the [[Sacraments of the Catholic Church|Catholic sacraments]], and the [[laity]]) and the invisible (the souls of those in the Church, who are either dead, sinful members or elect predestined for Heaven). 
+
+113. 
+* [[v:Augustine of Hippo/Augustine's Theory of Knowledge|Augustine's Theory of Knowledge]]
+* [http://www.christianiconography.info/augustine.html "Saint Augustine of Hippo"] at the [http://www.christianiconography.info Christian Iconography] website
+* [http://www.christianiconography.info/goldenLegend/augustine.htm "The Life of St. 
+
+114. 
+(April 2008) [http://www.merrimack.edu/academics/augustinian_pedagogy/documents/encountering_0408.pdf Encounters of Learning: Saint Augustine on Education], Saint Augustine Institute for Learning and Teaching, [[Merrimack College]].</ref>
+
+He recommended adapting educational practices to fit the students' educational backgrounds:
+* the student who has been well-educated by knowledgeable teachers;
+* the student who has had no education; and
+* the student who has had a poor education, but believes himself to be well-educated. 
+
+115. 
+Augustine's Bones: A Microhistory'' (Studies in Print Culture and the History of the Book) Amherst: [[University of Massachusetts Press]], {{ISBN|1558493883}}.</ref>
+
+In 1842, a portion of Augustine's right arm (cubitus) was secured from Pavia and returned to [[Annaba]].<ref name="SchnaubeltFleteren1999">{{cite book|author1=Schnaubelt, Joseph C. 
+
+116. 
+(2012), {{ISBN|978-0227680056}}
+* {{cite book | last = Kolbet | first = Paul R.| title = Augustine and the Cure of Souls: Revising a Classical Ideal | publisher = University of Notre Dame Press | location = Notre Dame, Indiana | year = 2010 | isbn = 978-0268033217 }}
+* {{cite book|last=Lawless|first=George P.|title=Augustine of Hippo and His Monastic Rule|year=1987|publisher=Clarendon Press|location=Oxford}}
+* {{cite book|editor1-last=LeMoine|editor1-first=Fannie|editor2-first=Christopher|editor2-last=Kleinhenz|series=Garland Medieval Casebooks|volume=9|title=Saint Augustine the Bishop: A Book of Essays|location=New York|publisher=Garland|year=1994 }}
+* {{cite book|last=Lubin |first=Augustino |title=Orbis Augustinianus sive conventuum ordinis eremitarum Sancti Augustini – chorographica et topographica descriptio |location=Paris |year=1659 |url=http://www.cassiciaco.it/ita/001ago/Agostiniani/lubin_conventi/lubin_600.htm |url-status=bot: unknown |archiveurl=https://web.archive.org/web/20050321185503/http://www.cassiciaco.it/ita/001ago/Agostiniani/lubin_conventi/lubin_600.htm |archivedate=21 March 2005 }}
+* {{cite book | last = Mackey | first = Louis|authorlink=Louis H. 
+
+117. 
+Retrieved 30 September 2011</ref> However, after 412 CE, Augustine exchanged the traditional Christian defense of divine foreknowledge of human free will choices to explain predestination for a more Stoic and Gnostic/Manichaean view of deterministic predestination wherein the will was not free except to sin.<ref>{{cite book |last1=Wilson |first1=Kenneth |title=Augustine's Conversion from Traditional Free Choice to "Non-free Free Will": A Comprehensive Methodology ''in the series Studien und Texte zu Antike und Christentum 111''|date=2018 |publisher=Mohr Siebeck |location=Tübingen, Germany |isbn=978-3161557538 |pages=286–298}}</ref><ref>{{cite book |last=Wilson |first=Ken |title=The Foundation of Augustinian–Calvinism |date=2019 |publisher=Regula Fidei Press |pages=5–18, 55–80, 120 |isbn=9781082800351 |}}</ref>
+
+===Sociology, morals and ethics===
+
+====Slavery====
+Augustine led many clergy under his authority at Hippo to free their slaves "as an act of piety".<ref>Augustine, "Of the Work of Monks", p. 
+
+118. 
+|editor1-last=Jones |editor1-first=Lindsay |title=The Encyclopedia of Religion |volume=5 |date=2005 |publisher=Macmillan Reference |location=Farmington Hills, MI |pages=3206–3209 |edition=2nd |article=Free Will and Predestination: Christian Concepts}}</ref> Christians championed the concept of a relational God who interacts with humans rather than a Stoic or Gnostic God who unilaterally foreordained every event (yet Stoics still claimed to teach free will).<ref>{{cite book |last1=Dihle |first1=Albrecht |title=The Theory of Will in Classical Antiquity |date=1982 |publisher=University of California Press |location=Berkeley, CA |page=152}}</ref> Every early Christian author with extant writings who wrote on the topic prior to Augustine of Hippo (412) advanced human free choice rather than a deterministic God.<ref>{{cite book |last1=Wilson |first1=Kenneth |title=Augustine's Conversion from Traditional Free Choice to "Non-free Free Will": A Comprehensive Methodology |date=2018 |publisher=Mohr Siebeck |location=Tübingen |pages=93–94, 273–274}}</ref> Augustine taught traditional free choice until 412, when he reverted to his earlier Manichaean and Stoic deterministic training when battling the Pelagians.<ref>{{cite book |last1=Wilson |first1=Kenneth |title=Augustine's Conversion from Traditional Free Choice to "Non-free Free Will": A Comprehensive Methodology |date=2018 |publisher=Mohr Siebeck |location=Tübingen |pages=281–294}}</ref> Only a few Christians accepted Augustine's alteration of Christian free choice until the Protestant Reformation when both Luther and Calvin embraced Augustine's deterministic teachings wholeheartedly.<ref>{{cite book |last1=Martin |first1=Luther |translator1-last=Krodel |translator1-first=Gottfried |editor1-last=Lehman |editor1-first=Helmut |title=Luther's Works |volume=48 |date=1963 |publisher=Fortress Press |page=24}}</ref><ref>{{cite book |last1=Calvin |first1=John |translator1-last=Cole |translator1-first=Henry |title=Calvin's Calvinism |article=A Treatise on the Eternal Predestination of God |date=1927 |publisher=Sovereign Grace Union |location=London |page=38}}</ref>
+
+The [[Catholic Church]] considers Augustine's teaching to be consistent with free will.<ref name="ceteach"/> He often said that anyone can be saved if they wish.<ref name="ceteach"/> While God knows who will and won't be saved, with no possibility for the latter to be saved in their lives, this knowledge represents God's perfect knowledge of how humans will freely choose their destinies.<ref name="ceteach">Portalié, Eugène. 
+
+119. 
+|year=1953 |location=London |pages=[https://archive.org/details/makingofmiddleag00sout/page/234 234–237]}}</ref> as later did Luther and Calvin.<ref name=Cross/>{{rp|1200–1204}} In 1567, [[Pope Pius V]] condemned the identification of Original Sin with concupiscence.<ref name=Cross/>{{rp|1200–1204}}
+
+====Predestination====
+{{see also|Predestination}}
+Augustine taught that God orders all things while preserving human freedom.<ref name="Levering">{{cite book |last=Levering |first=Matthew |title=Predestination: Biblical and Theological Paths |location=New York |publisher=Oxford University Press |year=2011 |isbn=978-0-19-960452-4 |url=https://books.google.com/books?id=cLBS6Dl1OYgC}}</ref>{{rp|44}} Prior to 396, he believed that predestination was based on God's foreknowledge of whether individuals would believe in Christ, that God's grace was "a reward for human assent".<ref name="Levering"/>{{rp|48–49}} Later, in response to [[Pelagius]], Augustine said that the sin of [[pride]] consists in assuming that "we are the ones who choose God or that God chooses us (in his foreknowledge) because of something worthy in us", and argued that God's grace causes individual act of faith.<ref name="Levering"/>{{rp|47–48}}
+
+Scholars are divided over whether Augustine's teaching implies [[double predestination]], or the belief that God chooses some people for damnation as well as some for salvation. 
+
+120. 
+26–31; 1–36];  ''De natura boni'' 34–35; CSEL 25, 872; <abbr title="Patrologia Latina">[[Patrologia Latina|PL]]</abbr> 42, 551–572</ref> The tree was a symbol of the order of creation.<ref>Augustine of Hippo, ''On the Literal Meaning of Genesis'' (''De Genesi ad litteram''), VIII, 4.8; [[Bibliothèque Augustinniene|BA]] 49, 20</ref> Self-centeredness made Adam and Eve eat of it, thus failing to acknowledge and respect the world as it was created by God, with its hierarchy of beings and values.<ref group=lower-alpha>Augustine explained it in this way: "Why therefore is it enjoined upon mind, that it should know itself. 
+
+121. 
+Pelagius gave an example of eyes: they have capacity for seeing, but a person can make either good or bad use of it.<ref name=Bonner/>{{rp|355–356}}<ref>Augustine of Hippo, ''[http://www.augustinus.it/latino/grazia_cristo/grazia_cristo_1_libro.htm De gratia Christi et de peccato originali]'', I, 15.16; CSEL 42, 138 [v. 
+
+122. 
+Schmitt's chapter 2: ''L'idéologie hellénique et la conception augustinienne de réalités charnelles'' in: {{cite book |title= Le mariage chrétien dans l'oeuvre de Saint Augustin. 
+
+123. 
+De Dialectica and de Magistro"], p. 
+
+124. 
+Retrieved 30 September 2011</ref>
+
+In 395, he was made [[coadjutor Bishop]] of Hippo, and became full Bishop shortly thereafter,<ref>[[#Brown|Brown]]</ref> hence the name "Augustine of Hippo"; and he gave his property to the church of Thagaste.<ref>Augustine, ''ep.''126.1</ref> He remained in that position until his death in 430. 
+
+125. 
+
+==See also==
+{{Div col|colwidth=12em|rules=yes|gap=2em|small=yes}}
+* [[Alexander of San Elpidio]]
+* [[Mar Ammo]]
+* [[Augustinian hypothesis]]
+* [[Villanova University|Augustinian Institute]]
+* ''[[Augustinian Studies]]''
+* [[Augustinian theodicy]]
+* [[Augustinians]]
+* [[Domingo Bañez]]
+* [[Thomas Bradwardine]]
+* [[Confessions (Augustine)|''Confessions'' (Augustine)]]
+* [[Constantinian shift]]
+* [[Council of Orange (529)]]
+* [[Ecclesiology]]
+* [[Jonathan Edwards (theologian)|Jonathan Edwards]]
+* [[Filioque]]
+* [[Free will]]
+* [[Gregory of Rimini]]
+* [[Michael Horton (theologian)|Michael Horton]]
+* [[Incurvatus in se]]
+* [[Cornelius Jansen]]
+* [[Jansenism]]
+* [[Just war theory]]
+* [[Johannes Klenkok]]
+* [[Abraham Kuijper]]
+* [[John Gresham Machen]] 
+* [[Neo-Calvinism]]
+* [[Order of Saint Augustine]]
+* [[Original sin]]
+* [[Otium]]
+* [[Blaise Pascal]]
+* [[Portal:Catholicism/Patron Archive/August 28|Patron saint archive]]
+* [[Francis Landey Patton]]
+* [[Pelagianism]]
+* [[Philosophy of history]]
+* [[Philosophy of religion]]
+* [[Predestination]]
+* [[Johannes von Goch|Johann Pupper]]
+* [[Problem of evil]]
+* [[Reformed]]
+* [[Scholasticism]]
+* [[Semipelagianism]]
+* [[Theology of John Calvin]]
+* [[Truth]]
+* [[Bennet Tyler]]
+* [[B. 
+
+126. 
+12</ref> Augustine "vigorously condemned the practice of induced [[abortion]]", and although he disapproved of an abortion during any stage of pregnancy, he made a distinction between early abortions and later ones.<ref name="Fitzgerald, 1">{{Cite encyclopedia| publisher = Wm B Eerdmans | isbn = 978-0-8028-3843-8| page = 1| editor-first = Allan D | editor-last = Fitzgerald | last = Bauerschmidt | first = John C |url=https://books.google.com/books?id=GcVhAGpvTQ0C&pg=PA1 |title=Abortion |encyclopedia = Augustine Through the Ages: An Encyclopedia| year = 1999}}</ref> He acknowledged the distinction between "formed" and "unformed" fetuses mentioned in the [[Septuagint]] translation of {{bibleverse||Exodus|21:22–23}}, which incorrectly translates the word "harm" (from the original Hebrew text) as "form" in the [[Koine Greek]] of the Septuagint. 
+
+127. 
+
+===Oratorio===
+[[File:Jaume Huguet - Consecration of Saint Augustine - Google Art Project.jpg|thumb|''[[The Consecration of Saint Augustine]]'' by [[Jaume Huguet]]]]
+
+Much of Augustine's conversion is dramatized in the oratorio ''La conversione di Sant'Agostino'' (1750) composed by [[Johann Adolph Hasse]]. 
+
+128. 
+In ''On Christian Doctrine'' Augustine contrasts love, which is enjoyment on account of God, and lust, which is not on account of God.<ref>Augustine of Hippo, ''On Christian Doctrine'', 3.37</ref> Augustine claims that, following the Fall, sexual passion has become necessary for copulation (as required to stimulate male erection), sexual passion is an evil result of the Fall, and therefore, evil must inevitably accompany sexual intercourse (''On marriage and concupiscence'' 1.19). 
+
+129. 
+1–83", at [http://roderic.uv.es/handle/10550/43 SOMNI]
+* [http://roderic.uv.es/uv_ms_0892 Aurelii Agustini Hipponae episcopi super loannem librum] – digitized codex created in 1481; his sermons about John's Gospel at [http://roderic.uv.es/handle/10550/43 SOMNI]
+* [http://real-r.mtak.hu/104/ ''Sententiae ex omnibus operibus Divi Augustini decerptae''] – digitized codex created in 1539; at [http://konyvtar.mta.hu/index_en.php Library of the Hungarian Academy of Sciences]
+* [http://openn.library.upenn.edu/Data/0023/html/lewis_e_019.html Lewis E 19 In epistolam Johannis ad Parthos (Sermons on the first epistle of Saint John) at OPenn]
+* [http://openn.library.upenn.edu/Data/0023/html/lewis_e_021.html Lewis E 21 De sermone domini in monte habito (On the sermon on the mount) and other treatises; De superbia (On pride) and other treatises; Expositio dominice orationis (Exposition on the lord's prayer) at OPenn]
+* [http://openn.library.upenn.edu/Data/0023/html/lewis_e_022.html Lewis E 22 Enarrationes in psalmos (Expositions on the psalms); Initials (ABC); Prayer at OPenn]
+* [http://openn.library.upenn.edu/Data/0023/html/lewis_e_023.html Lewis E 23 Sermons at OPenn]
+* [http://openn.library.upenn.edu/Data/0023/html/lewis_e_213.html Lewis E 213 Rule of Saint Augustine; Sermon on Matthew 25:6 at OPenn]
+* [http://openn.library.upenn.edu/Data/0007/html/lehigh_003.html Lehigh Codex 3 Bifolium from De civitate Dei, Book 22 at OPenn]
+
+===Biography and criticism===
+* [https://web.archive.org/web/20060610111127/http://augnet.org/ Order of St Augustine]
+* [http://www.orthodoxinfo.com/inquirers/bless_aug.aspx Blessed Augustine of Hippo: His Place in the Orthodox Church]
+* [https://web.archive.org/web/20100528110934/http://www.villanova.edu/mission/spirituality/about/ Augustine's World: An Introduction to His Speculative Philosophy] by [[Donald Burt]], OSA, member of the [[Augustinians|Augustinian Order]], [[Villanova University]]
+* [http://roderic.uv.es/uv_ms_0049 Tabula in librum Sancti Augustini De civitate Dei] by [[Robert Kilwardby]], digitized manuscript of 1464 at [http://roderic.uv.es/handle/10550/43 SOMNI]
+
+{{Catholic saints}}
+{{Navboxes
+|list=
+{{Philosophy topics}}
+{{Medieval Philosophy}}
+{{Epistemology}}
+{{Philosophy of religion}}
+{{Platonists}}
+{{Social and political philosophy}}
+{{Catholic virtue ethics}}
+{{Catholic philosophy footer}}
+{{Ethics}}
+{{Latin Church footer}}
+{{Catholicism}}
+}}
+
+{{Authority control}}
+{{DEFAULTSORT:Augustine Of Hippo}}
+[[Category:Augustine of Hippo| ]]
+[[Category:354 births]]
+[[Category:430 deaths]]
+[[Category:4th-century Berber people]]
+[[Category:4th-century Christian mystics]]
+[[Category:4th-century Christian theologians]]
+[[Category:4th-century philosophers]]
+[[Category:4th-century Romans]]
+[[Category:4th-century Latin writers]]
+[[Category:5th-century Berber people]]
+[[Category:5th-century Christian mystics]]
+[[Category:5th-century Christian saints]]
+[[Category:5th-century Christian theologians]]
+[[Category:5th-century philosophers]]
+[[Category:5th-century Romans]]
+[[Category:5th-century Latin writers]]
+[[Category:African philosophers]]
+[[Category:Amillennialism]]
+[[Category:Ancient Roman rhetoricians]]
+[[Category:Ancient Roman saints]]
+[[Category:Christian anti-Gnosticism]]
+[[Category:Aurelii|Augustinus]]
+[[Category:Augustinian Order| ]]
+[[Category:Augustinian philosophers]]
+[[Category:Autobiographers]]
+[[Category:Berber Christians]]
+[[Category:Berber Christian mystics]]
+[[Category:Burials at San Pietro in Ciel d'Oro]]
+[[Category:Chaoui people]]
+[[Category:Christian apologists]]
+[[Category:Christian ethicists]]
+[[Category:Christian existentialists]]
+[[Category:Christianity in Algeria]]
+[[Category:Christian philosophers]]
+[[Category:Church Fathers]]
+[[Category:Critical thinking]]
+[[Category:Converts to Christianity from atheism or agnosticism]]
+[[Category:Converts to Roman Catholicism from atheism or agnosticism]]
+[[Category:Doctors of the Church]]
+[[Category:Epistemologists]]
+[[Category:Existentialist theologians]]
+[[Category:Founders of philosophical traditions]]
+[[Category:Idealists]]
+[[Category:Latin letter writers]]
+[[Category:Mariology]]
+[[Category:Music theorists]]
+[[Category:Neoplatonists]]
+[[Category:Numidian saints]]
+[[Category:People from Souk Ahras]]
+[[Category:Philosophers of ethics and morality]]
+[[Category:Rationalists]]
+[[Category:Roman Catholic bishops in Africa]]
+[[Category:Roman Catholic theologians]]
+[[Category:Roman Catholic writers]]
+[[Category:Saints from Roman Africa (province)]]
+[[Category:Sermon writers]]
+[[Category:Systematic theologians]]
+[[Category:Catholic philosophers]]
+[[Category:Roman-era philosophers]]
+[[Category:Ancient Roman Christian mystics]]
+[[Category:Western Christianity]]. 
+
+130. 
+171.</ref> [[Hannah Arendt]] began her philosophical writing with a dissertation on Augustine's concept of love, ''Der Liebesbegriff bei Augustin'' (1929): "The young Arendt attempted to show that the philosophical basis for ''vita socialis'' in Augustine can be understood as residing in neighbourly love, grounded in his understanding of the common origin of humanity."<ref>{{cite journal| author=Chiba, Shin| title= Hannah Arendt on Love and the Political: Love, Friendship, and Citizenship| journal=The Review of Politics| volume= 57| issue= 3 | year=1995| pages= 505–535 [507]| jstor=1408599| doi=10.1017/S0034670500019720}}</ref>
+
+Jean Bethke Elshtain in ''Augustine and the Limits of Politics'' tried to associate Augustine with Arendt in their concept of evil: "Augustine did not see evil as glamorously demonic but rather as absence of good, something which paradoxically is really nothing. 
+
+131. 
+Augustine Timeline – Church History Timelines]
+* Giovanni Domenico Giulio: ''Nachtgedanken des heiligen Augustinus.'' Trier 1843 {{ULBDD|urn:nbn:de:hbz:061:1-481434}}
+
+===Bibliography===
+* [http://www.earlychurch.org.uk/augustine.php Augustine of Hippo] at EarlyChurch.org.uk – extensive bibliography and on-line articles
+* [http://www.findingaugustine.org/ Bibliography on St. 
+
+132. 
+to A.D.&nbsp;700 |last=Salway |first=Benet |journal=The Journal of Roman Studies |volume=84 |pages=124–145 |jstor=300873 |issn=0075-4358 |year=1994 |doi=10.2307/300873|url=http://discovery.ucl.ac.uk/114213/1/SalwayJRS1994.pdf }}).</ref> 13 November 354 – 28 August 430 AD), also known as ''Saint Augustine'', ''Saint Austin'',<ref>{{cite book |title=The American Heritage College Dictionary |publisher=[[Houghton Mifflin Harcourt|Houghton Mifflin Company]] |location=Boston|year=1997 |isbn=978-0-395-66917-4 |page=91}}</ref> is known by various cognomens throughout the Christian world across its many denominations including ''Blessed Augustine'', and the ''Doctor of Grace''<ref>{{Cite Catholic Encyclopedia|id=02084a|title=St. 
+
+133. 
+
+According to his contemporary, [[Jerome]], Augustine "established anew the ancient Faith".<ref group=lower-alpha>[[Jerome]] wrote to Augustine in 418: "You are known throughout the world; Catholics honour and esteem you as the one who has established anew the ancient Faith" (''conditor antiquae rursum fidei''). 
+
+134. 
+Augustine's|website=www.ewtn.com|access-date=2016-12-04}}</ref>
+
+====Creation====
+{{See also|Allegorical interpretations of Genesis}}
+In ''City of God'', Augustine rejected both the contemporary ideas of ages (such as those of certain Greeks and Egyptians) that differed from the Church's sacred writings.<ref>{{cite book |author=Augustine of Hippo |chapter-url=http://www.ccel.org/fathers2/NPNF1-02/npnf1-02-18.htm#P2017_1154484 |chapter=Of the Falseness of the History Which Allots Many Thousand Years to the World's Past |title=The City of God |at=Book&nbsp;12: Chapt.&nbsp;10 [419]}}</ref> In ''The Literal Interpretation of Genesis'' Augustine took the view that God had created everything in the universe simultaneously, and not over a period of six days as a literal interpretation of [[Book of Genesis|Genesis]] would require. 
+
+135. 
+|title=Genesi ad litteram liber imperfectus, De |encyclopedia=Augustine through the Ages: An Encyclopedia |year=1999}}</ref> As an additional support for describing the six days of creation as a [[heuristic]] device, Augustine thought that the actual event of creation would be incomprehensible by humans and therefore needed to be translated.<ref>{{cite book |last=Franklin-Brown |first=Mary |title=Reading the world: Encyclopedic writing in the scholastic age |publisher=The University of Chicago Press |location=Chicago & London |year=2012 |isbn=978-0226260709 |p=280}}</ref>
+
+Augustine also does not envision original sin as causing structural changes in the universe, and even suggests that the bodies of [[Adam and Eve]] were already created mortal before [[Fall of man|the Fall]].<ref>{{cite book |author=Augustine of Hippo |title=On the Merits |at=1.2}}</ref><ref>{{cite book |author=Augustine of Hippo |title=City of God |at=13:1}}</ref><ref>{{cite book |author=Augustine of Hippo |title=Enchiridion |at=104}}</ref>
+
+====Ecclesiology====
+{{See also|Ecclesiology}}
+[[File:Carlo Crivelli - St. 
+
+136. 
+The specific part to which Augustine opened his Bible was Romans chapter 13, verses 13 and 14, to wit:
+{{Quote |Not in rioting and drunkenness, not in chambering and wantonness, not in strife and envying, but put on the Lord Jesus Christ, and make no provision for the flesh to fulfill the lusts thereof.<ref>{{cite book| author = Augustine of Hippo | title = Confessions |year= 2008| publisher= Oxford University Press| place = New York | pages =152–153 | others = Chadwick, Henry transl}}</ref>}}
+
+He later wrote an account of his conversion – his very transformation, as Paul described – in his ''[[Confessions (Augustine)|Confessions]]'' ({{lang-la|Confessiones}}), which has since become a classic of Christian theology and a key text in the history of [[autobiography]]. 
+
+137. 
+Catholic scholars tend to deny that he held such a view while some Protestants and secular scholars have held that Augustine did believe in double predestination.<ref>{{cite book |last=James |first=Frank A., III |year=1998 |title=Peter Martyr Vermigli and Predestination: The Augustinian Inheritance of an Italian Reformer |publisher=Clarendon |location=Oxford |url=https://www.questia.com/library/1833170/peter-martyr-vermigli-and-predestination-the-augustinian |url-access=subscription  |via=[[Questia]] |p=102}}</ref> About 412 AD, Augustine became the first Christian to understand predestination as a divine unilateral pre-determination of individuals' eternal destinies independently of human choice, although his prior Manichaean sect did teach this concept.<ref>{{cite book |last1=Widengren |first1=Geo |title=Der Manichäismus |date=1977 |publisher=Wissenschaftliche Buchgesellschaft |location=Darmstadt |pages=63–65, 90}}</ref><ref>{{cite journal |last1=Stroumsa |first1=Gediliahu |title=Titus of Bostra and Alexander of Lycopolis: A Christian and a Platonic Refutation of Manichaean Dualism |journal=Neoplatonism and Gnosticism |date=1992 |volume=New York: University of New York Press. 
+
+138. 
+Augustine)|website=www.newadvent.org|access-date=2018-07-31}}</ref> Augustine believed that slavery did more harm to the slave owner than the enslaved person himself: "the lowly position does as much good to the servant as the proud position does harm to the master."<ref name=":0" /> Augustine proposes as a solution to sin a type of cognitive reimagining of one's situation, where slaves "may themselves make their slavery in some sort free, by serving not in crafty fear, but in faithful love," until the end of the world eradicated slavery for good: "until all unrighteousness pass away, and all principality and every human power be brought to nothing, and God be all in all."<ref name=":0" />
+
+====Jews====
+Against certain Christian movements, some of which rejected the use of [[Hebrew Scripture]], Augustine countered that God had chosen the [[Jews]] as a special people,<ref>[[Diarmaid MacCulloch]]. 
+
+139. 
+According to Possidius, one of the few miracles attributed to Augustine, the healing of an ill man, took place during the siege.<ref name=Weiskotten/>{{rp|43}} According to Possidius, Augustine spent his final days in prayer and repentance, requesting that the penitential [[Psalms|Psalms of David]] be hung on his walls so that he could read them. 
+
+140. 
+On this point Augustine departs from the earlier teaching of [[Cyprian]], who taught that converts from schismatic movements must be re-baptised.<ref name="Gonzalez"/> Augustine taught that sacraments administered outside the Catholic Church, though true sacraments, avail nothing. 
+
+141. 
+Augustine of Hippo|isbn=9781630877514}}</ref>
+|main_interests   = 
+{{plainlist|
+* [[Anthropology]]
+* [[Biblical criticism]]
+* [[Epistemology]]
+* [[Ethics]]
+* [[Metaphysics]]
+* [[Pedagogy]]
+* [[Philosophy of religion]]
+* [[Theodicy]]
+* [[Theology]]
+}}
+| influences= {{hlist|[[Ambrose]]|[[Aristotle]]|[[Cicero]]|[[Cyprian]]|[[Saint Monica|Monica]]|[[Homer]]|[[Origen]]|[[Paul the Apostle|Paul of Tarsus]]|[[Plato]]|[[Plotinus]]|[[Virgil]]<ref>[https://www.123helpme.com/love-and-duty-in-virgils-aeneid-and-augustines-confessions-preview.asp?id=208353 Love and Duty in Virgil’s Aeneid and Augustine’s Confessions Essay]</ref>|[[Mani (prophet)|Mani]]|[[Socrates]]<ref>"But, among the disciples of Socrates, Plato was the one who shone with a glory which far excelled that of the others, and who not unjustly eclipsed them all. 
+
+142. 
+[http://www.jamesclarke.co/product_info.php/products_id/1675?osCsid=1673ba77f80a4a6cf663eb311d2556b6 ''Colin Gunton and the Failure of Augustine: The Theology of Colin Gunton in the Light of Augustine''], James Clarke and Co. 
+
+143. 
+| first = Adolar | title = Augustine's Rule | publisher = Augustinian Press | location = Villanova | year = 1987 | isbn = 978-0-941491-06-8 }}
+}}
+
+==External links==
+{{Wikisource author}}
+{{Wikiquote}}
+{{Commons}}
+{{Library resources box |by=yes |onlinebooks=yes |others=yes |about=yes |label=Augustine of Hippo
+  |viaf= |lccn= |lcheading= |wikititle= }}
+
+===General===
+* [http://www.augustinus.it/links/inglese/opere.htm "Complete Works of Saint Augustine (in English)"] from Augustinus.it
+* [https://web.archive.org/web/20180316095930/http://www.abbaye-saint-benoit.ch/saints/augustin/ "Complete Works of Saint Augustine (in French)"] from Abbey Saint Benoît de Port-Valais
+* [http://www.mercaba.org/Filosofia/Medieval/agustin_de_hipona_00.htm "Complete Works of Saint Augustine (in Spanish)"] from Mercaba, Catholic leaders' website
+* [http://www.ccel.org/ccel/augustine?show=worksBy "Works by Saint Augustine"] from CCEL.org
+* [http://www.perseus.tufts.edu/hopper/searchresults?q=Augustine&redirect=true Works by Augustine at Perseus Digital Library]
+* {{cite SEP |url-id=augustine|title=Saint Augustine|last=Mendelson|first=Michael}}
+* {{cite IEP|augustin|Augustine}}
+* {{cite IEP|aug-poso|Augustine's Political and Social Philosophy}}
+* [http://www.bartleby.com/210/8/281.html "St. 
+
+144. 
+19 [408], ''De Genesi ad literam'', 2:9</ref>
+
+====Original sin====
+{{see also|Original sin}}
+
+[[File:Saint Augustine by Philippe de Champaigne.jpg|thumb|Portrait by [[Philippe de Champaigne]], 17th century]]
+Augustine taught that the sin of Adam and Eve was either an act of foolishness (''insipientia'') followed by pride and disobedience to God or that pride came first.<ref group=lower-alpha>He explained to Julian of Eclanum that it was a most subtle job to discern what came first: ''Sed si disputatione subtilissima et elimatissima opus est, ut sciamus utrum primos homines insipientia superbos, an insipientes superbia fecerit''. 

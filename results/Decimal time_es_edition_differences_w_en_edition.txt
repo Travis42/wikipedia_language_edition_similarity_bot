@@ -1,0 +1,72 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Decimal time
+
+es edition's differences with the en version: 
+
+
+1. 
+et pour l'instant du passage, sept.29,04587; ce qui qui diff're peu des résultats fondés sur cinq observations. 
+
+2. 
+For example, at 12 h 0 m 0 s Greenwich Mean Time, or 0 d•500000... 
+
+3. 
+et la distance périhélie, égale s 1,053095 ; ce qui a donné pour l'instant du passage au périhélie, sept.29,10239, temps moyen compté de minuit' Paris. 
+
+4. 
+So midnight is 0.0 days, noon is 0.5 d, etc., which can be composed with any type of date, such as:
+* [[Gregorian calendar]]: 2000 January 1.5
+* [[ISO 8601'ordinal dates]]: 00001.5
+* [[Julian Day]]: 2451545.0
+* [[Microsoft Excel' Excel]] serial dates: 36526.5
+
+It is possible to use as many decimal places as necessary according to the required precision, so that 0.5 d x 0.500000 d. 
+
+5. 
+The day that stretched from midnight to midnight the next was divided into 12 double hours (Traditional Chinese: ; Simplified Chinese: s; [[pinyin]]: shíchen) and 100 ''[Ke (unit)''' (Hanzi: ; Pinyin: ko). 
+
+6. 
+The day, from midnight to the next midnight, is divided into ten parts, each part in turn consists of ten parts, and so on up to the smallest time duration that can be measured. 
+
+7. 
+<ref>Joseph Needham, Ling Wang, and Derek John by Solla Price [http://books.google.com/books?id=bCA9AAAAIAAJ&pg=PA199#v=onepage&q&f=false ''Heavenly clockwork: the great astronomical clocks of medieval China''] (Cambridge: [[Cambridge University Press],1986) 199-202, ISBN 0-521-32276-6.]</ref> For three short periods, a different number of ''kes'' per day, 120 ''ke'' were used for 5–3 A.D.C., 96 ''ke'' for 507–544, and 108 ''ke'' for 544–565. 
+
+8. 
+<ref>Jean-Claude Martzloff, "Chinese mathematical astronomy", in Helaine Selin, ed., ''Mathematics across cultures'' (Dordrecht: Kluwer, 2000) 373–407, p.393, ISBN 0-7923-6481-3.</ref> Chinese decimal time ceased to be used in 1645 when the ''Shixian'' (Constanty) calendar, based on European astronomy brought to China by [[Jesuit]s, adopted 96 ''ke'' per day along with 12 double hours, which each ''ke'' corresponds exactly to a quarter of an hour. 
+
+9. 
+Several of the nearly 50 Chinese calendars also divided each ''ke'' into 100 ''fen'', although in others each ''ke'' was divided into 60 ''fen''. 
+
+10. 
+In 1280, the 'Shoushi' (Season Granting) calendar subdivided each ''fen'' into 100 ''miao'', creating a complete decimal system of 100 ''ke'', 100 ''fen'' and 100 ''miao''. 
+
+11. 
+</blockquote>
+
+In general, the fractional seconds system is more widely used than fractional days. 
+
+12. 
+The commission proposed a commitment, keeping the day 24 hours, but dividing each hour into 100 decimal minutes, and every minute in 100 seconds. 
+
+13. 
+The primary divisions were called hours, and added:
+
+:'La centi'me partie de l'heure est appelée ''minute décimale''; the centi-me partie de la minute est appelée ''seconde décimale''. 
+
+14. 
+Le jour, de minuit é minuit, est divisé en dix parties, chaque partie en dix autres, ainsi de suite jusqu'é la plus petite portion commensurable de la durée. 
+
+15. 
+Indeed, this is the representation in a single unit used by numerous programming languages, including [[C- C]], and part of the UNIX/POSIX standards used by Mac OS X, [[Linux]], etc.; to convert fractional days into fractional seconds, multiply the number by 86400. 
+
+16. 
+Using fractional days reduces the number of units used in time calculations from four (days, hours, minutes, seconds) to a single (day). 
+
+17. 
+The expression of the [[day] extent is called the expression of the [[day]] extension using units that are related by a system [[decimal numbering system]]. 
+
+18. 
+
+"Other decimal times"
+Different people have proposed a range of variations to decimal time, dividing the day into different number of units and subunits with different names. 

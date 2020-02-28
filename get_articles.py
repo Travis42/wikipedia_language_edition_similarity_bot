@@ -5,7 +5,7 @@ Gets articles from Wikipedia.
 see https://github.com/wikimedia/pywikibot/blob/eec2ff54b16cbe92700fb63ea8349c4a80272236/pywikibot/pagegenerators.py
 """
 from translate import translate
-from utils import write_string_to_txt_file
+from utils import write_string_to_txt_file, microsoft_char_counter
 
 from pywikibot import Page, pagegenerators, Site
 
@@ -65,6 +65,7 @@ def get_topic_articles(page):
                                     'orig_content': page.text,
                                     'translated_content': translate(page.text)
                                     }
+            microsoft_char_counter(len(page.text))
     if topic['language'] == {}:
         return
     return topic

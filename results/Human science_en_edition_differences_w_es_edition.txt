@@ -1,0 +1,78 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Human science
+
+en edition's differences with the es version: 
+
+
+1. 
+It has been a degree subject at [[University of Oxford|Oxford]] since 1969, and at [[University College London|UCL]] was proposed in 1973 by Professor [[John Zachary Young|J. 
+
+2. 
+The term subjective is used in this context to refer to inner [[psychological]] experience rather than outer [[sensory perception|sensory]] experience. 
+
+3. 
+He characterized the scientific nature of a study as depending upon:<ref name="Dilthey"/>{{rp|Chapter XI}}
+* The conviction that perception gives access to reality
+* The self-evident nature of logical reasoning
+* The [[principle of sufficient reason]]
+But the specific nature of the ''Geisteswissenschaften'' is based on the "inner" experience (''Erleben''), the "comprehension" (''[[Verstehen]]'') of the meaning of expressions and "understanding" in terms of the relations of the part and the whole – in contrast to the ''Naturwissenschaften'', the "[[explanation]]" of phenomena by [[Hypothesis|hypothetical]] laws in the "[[natural science]]s".<ref name=Dilthey7>Wilhelm Dilthey, ''Gesammelte Schriften'', vol. 
+
+4. 
+However, even with regard to the [[natural sciences]], significant difference exist among scientists and philosophers of science with regard to what constitutes valid scientific method<ref>Popper, Karl, ''Logic of Scientific Discovery'', Routledge, 2002.</ref>{{page needed|date=October 2012}}—for example, [[evolutionary biology]], [[geology]] and [[astronomy]], studying events that cannot be repeated, can use a method of historical narratives.<ref>[http://www.biologie.uni-hamburg.de/b-online/e36_2/darwin_influence.htm Mayr, Ernst. 
+
+5. 
+Committee on Education|title=Proposed department of education: Hearing&#91;s&#93; before the Committee on education, House of Representatives, Seventieth Congress, first session on H. 
+
+6. 
+Young's ''Economics As a Moral Science: The Political Economy of Adam Smith''</ref>
+
+===Later development===
+Partly in reaction to the establishment of [[positivism|positivist philosophy]] and the latter's [[Auguste Comte|Comtean]] intrusions into traditionally humanistic areas such as sociology, non-postivistic researchers in the humanistic sciences began to carefully but emphatically distinguish the methodological approach appropriate to these areas of study, for which the unique and distinguishing characteristics of phenomena are in the forefront (e.g. 
+
+7. 
+Empirical science is knowledge based on the [[scientific method]], a systematic approach to verification of knowledge first developed for dealing with natural physical phenomena and emphasizing the importance of experience based on sensory observation. 
+
+8. 
+ The term is also used to distinguish not only the content of a field of study from those of the natural sciences, but also its methodology.<ref name="Wright">Georg Henrik von Wright, ''Explanation and Understanding'', {{ISBN|0-8014-0644-7}}, pp. 
+
+9. 
+
+However, according to [[positivism|positivists]], the only authentic knowledge is scientific knowledge which comes from positive affirmation of theories through strict scientific method, the application of knowledge or mathematics. 
+
+10. 
+Ambiguity with respect to the meaning of the term ''science'' is aggravated by the widespread use of the term [[formal science]] with reference to any one of several sciences that is predominantly concerned with abstract form that cannot be validated by physical experience through the senses, such as logic, mathematics, and the theoretical branches of computer science, information theory, and statistics. 
+
+11. 
+As a result of the positivist influence, the term ''science'' is frequently employed as a synonym for ''empirical science''. 
+
+12. 
+Hall|pages=3–}}</ref> to draw a distinction between supernatural knowledge (divine science) and study by humans (human science). 
+
+13. 
+Human science is the science of qualities rather than of quantities and closes the subject-object split in science. 
+
+14. 
+By being interpretive, reflective, and appreciative, human science re-opens the conversation among science, art, and philosophy."<ref>{{cite web|url=http://www.saybrook.edu/phs/academicprograms/hs |title=Saybrook Graduate School |publisher=Saybrook.edu |date= |accessdate=2019-03-19}}</ref>
+
+==Objective vs. 
+
+15. 
+subjective experiences==
+
+Since [[Auguste Comte]], the positivistic [[social science]]s have sought to imitate the approach of the natural sciences by emphasizing the importance of objective external observations and searching for universal laws whose operation is predicated on external initial conditions that do not take into account differences in subjective human [[perception]] and attitude. 
+
+16. 
+<ref>{{cite web | url= http://humansciencelab.org.uk| title=Introduction |publisher=Human Science Lab | access-date=26 February 2017}}</ref> Its current research focus are human [[cognition]], [[motivation]], [[intelligence]], [[leadership]], [[critical thinking]], [[learning]], [[ergonomics]] and human [[well-being]].<ref>{{cite web | url= http://humansciencelab.org.uk/research/| title=Research at Human Science Lab |publisher=Human Science Lab | access-date=26 February 2017}}</ref>
+
+It adopts a multi-disciplinary approach for most of its research incorporating [[neuroscience]], [[anthropology]], [[psychology]], [[evolutionary biology]], [[genetics]], and [[physiology]].<ref>{{cite web | url= http://humansciencelab.org.uk/about| title=About Human Science Lab |publisher=Human Science Lab | access-date=26 February 2017}}</ref>
+
+==See also==
+* [[History of the Human Sciences|History of the Human Sciences (journal)]]
+* [[Social science]]
+
+==References==
+{{reflist}}
+
+==Bibliography==
+* Flew, A. 

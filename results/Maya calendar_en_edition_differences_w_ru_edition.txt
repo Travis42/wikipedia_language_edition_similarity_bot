@@ -1,0 +1,406 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Maya calendar
+
+en edition's differences with the ru version: 
+
+
+1. 
+ |date=February 1982  |title= The Origin of the Maya Solar Calendar |journal= [[Current Anthropology]] |volume= 23 |issue= 1 |pages= 101–103 |location= Chicago, IL |publisher= [[University of Chicago Press]], sponsored by [[Axel Wenner-Gren|Wenner-Gren Foundation for Anthropological Research]] |doi= 10.1086/202782 |issn= 0011-3204 |oclc= 62217742}}
+: {{cite journal |author= Coe, Michael D. 
+
+2. 
+'TIKAL a handbook of the ancient Maya Ruins' The University Museum of the University of Pennsylvalia, Philadelphia, Pa. 
+
+3. 
+Halperin (trans.)|date= 1971 |title= Mayan Enigma: The Search for a Lost Civilization |edition= translation of ''Découvertes chez les Mayas'', English |location= New York |publisher= Delacorte Press |isbn= 0-440-05528-8 |oclc= 150172}}
+: {{cite book |author= Jones, Christopher  |date= 1984 |title= Deciphering Maya Hieroglyphs |others= Carl P. 
+
+4. 
+
+====Count of Lunations====
+The Maya counted the lunations. 
+
+5. 
+Maya Hieroglyphic Writing, 1950 Page 236</ref> The age of the moon was depicted by a set of glyphs that mayanists coined glyphs D and E:
+
+* A new moon glyph was used for day zero in the lunar cycle. 
+
+6. 
+Chicago: University of Chicago Press, 1952.</ref>
+
+The essentials of the Maya calendar are based upon a system which had been in common use throughout the region, dating back to at least the 5th century BCE. 
+
+7. 
+Coe |date= 1987 |title= The Maya |publisher= [[Thames & Hudson]] |location= London and New York |edition= 4th revised |isbn= 0-500-27455-X |oclc= 15895415}}
+: {{cite book |author= Coe, Michael D. 
+
+8. 
+This cycle appears in the lunar series as two glyphs that modern scholars call the 'C' and 'X' glyphs. 
+
+9. 
+The [[Maya numerals|Maya numeral system]] was essentially [[vigesimal]] (i.e., [[numeral system|base]]-20) and each unit of a given position represented 20 times the unit of the position which preceded it. 
+
+10. 
+Powell |title= Sixteenth Annual Report of the Bureau of American Ethnology to the Secretary of the Smithsonian Institution, 1894–1895 |location= Washington DC |publisher= [[Bureau of American Ethnology]], [[Smithsonian Institution]]; [[United States Government Publishing Office|U.S. 
+
+11. 
+5.</ref> The Tzolkin was combined with a 365-day vague solar year known as the [[Haabʼ]] to form a synchronized cycle lasting for 52 [[Haabʼ]], called the ''[[Calendar Round]]''. 
+
+12. 
+|date=1988 |title=The Book of the Year MIDDLE AMERICAN CALENDRICAL SYSTEMS |location=Salt Lake City |publisher=University of Utah Press |page=20 |isbn=0-87480-288-1 }}</ref>
+
+==Haabʼ==
+{|class="wikitable"  style="float:right; float:right; margin-left:1em; margin-right:0; border:none; background:none;"
+|+ '''Haabʼ months''': names and [[Maya script|glyphs]]<ref>Kettunen and Helmke (2005), pp.&nbsp;47–48</ref> in sequence
+. 
+
+13. 
+They used two systems for the zero date of the lunar cycle: either the first night they could see the thin crescent moon or the first morning when they could not see the waning moon.<ref>Thompson, J. 
+
+14. 
+14
+|'''Ix''' ||[[File:MAYA-g-log-cal-D14-Ix.png|50px]] ||Ix ||Hix (?)
+|-
+. 
+
+15. 
+01
+|'''Imix''' ||[[File:MAYA-g-log-cal-D01-Imix.png|50px]] ||Imix ||Imix (?) / Haʼ (?)
+. 
+
+16. 
+The Maya wrote whether the lunar month was 29 or 30 days as two glyphs: a glyph for lunation length followed by either a glyph made up of a moon glyph over a bundle with a suffix of 9 for a 29-day lunation or a moon glyph with a suffix of 10 for a 30-day lunation. 
+
+17. 
+Anderson The Mayan 819-day Count and the "Y" Glyph: A Probable association with Jupiter |publisher=Traditional High Cultures Home Page |accessdate=March 30, 2015 |url-status=dead }}</ref> provides a detailed description of the 819-day count. 
+
+18. 
+
+==Short count==
+During the late Classic period the Maya began to use an abbreviated short count instead of the Long Count. 
+
+19. 
+
+Arithmetically, the duration of the Calendar Round is the [[least common multiple]] of 260 and 365; 18,980 is 73 × 260 Tzolkʼin days and 52 × 365 Haabʼ days.<ref>For further details, see Thompson 1966: 123–124</ref>
+
+Not every possible combination of Tzolkʼin and Haabʼ can occur. 
+
+20. 
+For one, the four years headed by the Year Bearers are named after them and share their characteristics; therefore, they also have their own prognostications and patron deities.<ref>For a thorough treatment of the Year Bearers, see Tedlock 1992: 89–90; 99–104 and Thompson 1966</ref> Moreover, since the Year Bearers are geographically identified with boundary markers or mountains, they help define the local community.<ref>See Coe 1965</ref>
+
+The classic system of Year Bearers described above is found at Tikal and in the [[Dresden Codex]]. 
+
+21. 
+This is the ''[[Mesoamerican Long Count calendar|Long Count]]''. 
+
+22. 
+The Long Count 0.0.1.0.0 represents 360 days, rather than the 400 in a purely base-20 ([[vigesimal]]) count. 
+
+23. 
+The monumental inscriptions would not only include the 5 digits of the Long Count, but would also include the two tzolkʼin characters followed by the two haabʼ characters. 
+
+24. 
+This nine-day cycle was usually written as two glyphs: a glyph that referred to the Nine Lords as a group, followed by a glyph for the lord that would rule the next night. 
+
+25. 
+114</ref> In the kingdoms of Postclassic Yucatán, the Short Count was used instead of the Long Count. 
+
+26. 
+The cyclical Short Count is a count of 13&nbsp;kʼatuns (or 260&nbsp;tuns), in which each kʼatun was named after its concluding day, Ahau ('Lord'). 
+
+27. 
+
+===Lunar Series===
+A lunar series generally is written as five glyphs that provide information about the current [[New moon|lunation]], the number of the lunation in a series of six, the current ruling lunar deity and the length of the current lunation. 
+
+28. 
+Beetz (illus.) |edition= prepared for Weekend Workshop April 7 and 8, 1984, 2nd |publisher= [[University of Pennsylvania Museum of Archaeology and Anthropology|University Museum, University of Pennsylvania]] |location= Philadelphia |isbn= |oclc= 11641566}}
+: {{cite book |author= Kettunen, Harri  |author2=Christophe Helmke |date= 2005 |title= Introduction to Maya Hieroglyphs: 10th European Maya Conference Workshop Handbook |url= http://www.mesoweb.com/resources/handbook/ |format= PDF |accessdate= 2006-06-08 |location= Leiden, Netherlands |publisher= Wayeb and [[Leiden University]]}}
+: {{cite book |author= Linden, John H. 
+
+29. 
+15
+|'''Men''' ||[[File:MAYA-g-log-cal-D15-Men.png|50px]] ||Men ||(unknown)
+|-
+. 
+
+30. 
+08
+|'''Lamat''' ||[[File:MAYA-g-log-cal-D08-Lamat.png|50px]] ||Lamat ||Ekʼ (?)
+. 
+
+31. 
+In this system the Year Bearers are the same as in the 1 Pop – Campeche system. 
+
+32. 
+As the winal unit resets after only counting to 18, the Long Count consistently uses base-20 only if the tun is considered the primary unit of measurement, not the kʼin; with the kʼin and winal units being the number of days in the tun. 
+
+33. 
+<!--Because of the unknown elements of "819-day Count" and its assumed intervals, this needs citations.-->
+
+==Tzolkʼin==
+{{Main|Tzolkʼin}}
+
+The ''[[tzolkʼin]]'' (in modern Maya [[orthography]]; also commonly written ''tzolkin'') is the name commonly employed by Mayanist researchers for the Maya Sacred Round or 260-day calendar. 
+
+34. 
+Coe |date= 1965 |title= A Model of Ancient Maya Community Structure in the Maya Lowlands |journal= Southwestern Journal of Anthropology |volume= 21}}
+: {{cite book |author= Coe, Michael D. 
+
+35. 
+|url= https://www.usatoday.com/tech/science/2007-03-27-maya-2012_N.htm |archiveurl= https://web.archive.org/web/20080316220726/http://www.usatoday.com/tech/science/2007-03-27-maya-2012_N.htm |archivedate= 2008-03-16 |newspaper= [[USA Today]] |publisher= [[Gannett Company]] |location= McLean, VA |issn= 0734-7456 |accessdate= 2009-05-28}}
+: {{cite book |author=Milbrath, Susan  |date=1999 |title=Star Gods of the Maya: Astronomy in Art, Folklore, and Calendars |series=The Linda Schele series in Maya and pre-Columbian studies |location=Austin |publisher=[[University of Texas Press]] |isbn=0-292-75225-3 |oclc=40848420}}
+: {{cite book |author= Miller, Mary |authorlink= Mary Miller (art historian) |author2= [[Karl Taube]] |date= 1993 |title= The Gods and Symbols of Ancient Mexico and the Maya: An Illustrated Dictionary of Mesoamerican Religion |publisher= Thames and Hudson |location= London |isbn= 0-500-05068-6 |oclc= 27667317 |url= https://archive.org/details/godssymbolsofa00mill }}
+
+: Rice, Prudence M., ''Maya Calendar Origins: Monuments, Mythistory, and the Materialization of Time'' (Austin, TX: University of Texas Press, 2007) . 
+
+36. 
+Goodman|Joseph Goodman]] in 1905 (August 11), Juan Martínez Hernández in 1926 (August 12) and Thompson himself in 1927 (August 13).<ref>Voss (2006, p.&nbsp;138)</ref> By its linear nature, the Long Count was capable of being extended to refer to any date far into the past or future. 
+
+37. 
+These can also be found in the [[Dresden Codex|Dresden codex]].<ref>Grofe, Michael John 2007 The Serpent Series: Precession in the Maya Dresden Codex page 55 p.&nbsp;206</ref> This is described in Thompson.<ref>Maya Hieroglyphic Writing 1961 pp.&nbsp;212–217</ref> More examples of this can be found in Kelley.<ref>Decipherment of Maya Script , David Kelley 1973 pp.&nbsp;56–57</ref> Each group of 819 days was associated with one of four colors and the cardinal direction with which it was associated{{snd}} black corresponded to west, red to east, white to north and yellow to south. 
+
+38. 
+
+Many Maya Long Count inscriptions contain a [[Maya calendar#Supplementary Series|supplementary series]], which provides information on the [[lunar phase]], number of the current [[New moon|lunation]] in a series of six and which of the nine [[Lords of the Night]] rules. 
+
+39. 
+ |authorlink= Anthony Aveni |date= 2001 |title= Skywatchers |edition= originally published as: ''Skywatchers of Ancient Mexico'' [1980], revised and updated |location= Austin |publisher= [[University of Texas Press]] |isbn= 0-292-70504-2 |oclc= 45195586}}
+: {{cite book |author= Boot, Erik  |date= 2002 |title= A Preliminary Classic Maya-English/English-Classic Maya Vocabulary of Hieroglyphic Readings |format= PDF |publisher= Mesoweb |url= http://www.mesoweb.com/resources/vocabulary/Vocabulary.pdf |accessdate= 2006-11-10}}
+: {{cite journal |author= Bricker, Victoria R. 
+
+40. 
+The word ''tzolkʼin'' is a [[neologism]] coined in [[Yucatec Maya language|Yucatec Maya]], to mean "count of days" (Coe 1992). 
+
+41. 
+The versions given here (in [[Classic Maya language|Classic Maya]], the main language of the inscriptions) are reconstructed on the basis of phonological evidence, if available; a '?' symbol indicates the reconstruction is tentative.<ref>Classic-era reconstructions are as per Kettunen and Helmke (2005), pp.&nbsp;45–46.</ref>
+|}
+
+Some systems started the count with 1&nbsp;Imix, followed by 2&nbsp;Ikʼ, 3&nbsp;Akʼbʼal, etc. 
+
+42. 
+
+Misinterpretation of the [[Mesoamerican Long Count calendar]] was the basis for a popular belief that a [[2012 phenomenon|cataclysm would take place on December 21, 2012]]. 
+
+43. 
+ |date= 1967 |title= The Book of Chilam Balam of Chumayel |location= Norman |publisher= [[University of Oklahoma Press]]}}
+: {{cite book |author= Schele, Linda |authorlink= Linda Schele |author2= [[David Freidel]] |date= 1992 |title= A Forest of Kings: The Untold Story of the Ancient Maya |edition= originally published New York: Morrow © 1990, pbk reprint |publisher= [[Harper Perennial]] |location= New York |isbn= 0-688-11204-8 |oclc= 145324300 |url-access= registration |url= https://archive.org/details/forestofkingsunt0034sche }}
+: {{Cite journal|issue =  29|last = Schele|first = Linda|author2=Nickolai Grube |author3=Federico Fahsen |title = The Lunar Series in Classic Maya Inscriptions: New Observation and Interpretations|journal = Texas Notes on Precolumbian Art, Writing, and Culture|date = October 1992}}
+: {{cite book |author= Tedlock, Barbara  |date= 1992 |edition=rev. 
+
+44. 
+{{short description|calendar used in pre-Columbian Mesoamerica}}
+{{Use American English|date=June 2018}}<!-- Use [[American English]] -->
+{{Maya civilization}}
+The '''Maya calendar''' is a system of [[calendar]]s used in [[Pre-Columbian era|pre-Columbian]] [[Mesoamerica]] and in many modern communities in the [[Guatemala]]n highlands,<ref>Tedlock, Barbara, Time and the Highland Maya Revised edition (1992 Page 1) "Scores of indigenous Guatemalan communities, principally those speaking the Mayan languages known as Ixil, Mam, Pokomchí and Quiché, keep the 260-day cycle and (in many cases) the ancient solar cycle as well (chapter 4)."</ref> [[Veracruz]], [[Oaxaca]] and [[Chiapas]], Mexico.<ref>Miles, Susanna W, "An Analysis of the Modern Middle American Calendars: A Study in Conservation." In Acculturation in the Americas. 
+
+45. 
+1566], with notes, commentary, and appendices incorporating translated excerpts of works by [[Gaspar Antonio Chi]], Tomás López Medel, [[Francisco Cervantes de Salazar]], and [[Antonio de Herrera y Tordesillas]]. 
+
+46. 
+Meaning of glyph<br/><ref>These names come from de Landa's description of the calendar and they are commonly used by Mayanists, but the Classic Maya did not use these actual names for the day signs. 
+
+47. 
+Bricker (1982) estimates that the Haabʼ was first used around 550&nbsp;BCE with a starting point of the [[winter solstice]].<ref>Zero Pop actually fell on the same day as the solstice on 12/27/−575, 12/27/−574, 12/27/−573 and 12/26/−572 ([[astronomical year numbering]], [[Universal Time]]), if you don't account for the fact that the Maya region is in roughly time zone UT−6. 
+
+48. 
+ |date= 1985 |title= Popol Vuh: The Definitive Edition of the Mayan Book of the Dawn of Life and the Glories of Gods and Kings |others= with commentary based on the ancient knowledge of the modern Quiché Maya |location= New York |publisher= [[Simon & Schuster]] |isbn= 0-671-45241-X |oclc= 11467786}}
+: {{cite book |author= Thomas, Cyrus  |authorlink= Cyrus Thomas |date= 1897 |chapter= Day Symbols of the Maya Year |chapterurl= http://www.gutenberg.org:80/etext/18973 |archiveurl=https://web.archive.org/web/20070122051930/http://www.gutenberg.org:80/etext/18973 |archivedate=January 22, 2007 |via= [[Project Gutenberg]] |type=EBook online reproduction |editor= J. 
+
+49. 
+{{webarchive |url=https://web.archive.org/web/20120823124027/http://www.imcce.fr/en/grandpublic/temps/saisons.php |date=August 23, 2012 }}</ref>
+
+The Haabʼ month names are known today by their corresponding names in colonial-era [[Yucatec Maya language|Yukatek Maya]], as transcribed by 16th-century sources (in particular, [[Diego de Landa]] and books such as the ''[[Chilam Balam]]'' of Chumayel). 
+
+50. 
+The 260-day count is known to scholars as the ''[[Tzolkʼin|Tzolkin]]'', or ''Tzolkʼin''.<ref name="Academia">{{cite book |author=Academia de las Lenguas Mayas de Guatemala |date=1988 |title=Lenguas Mayas de Guatemala: Documento de referencia para la pronunciación de los nuevos alfabetos oficiales |publisher=Instituto Indigenista Nacional |location=Guatemala City}} For details and notes on adoption among the [[Mayanist]] community, see Kettunen & Hemke (2005), p. 
+
+51. 
+Since there are twenty [[Tzolkʼin]] day names and the [[Haabʼ]] year has 365 days (20*18 + 5), the [[Tzolkʼin]] name for each succeeding [[Haabʼ]] zero day will be incremented by 5 in the cycle of day names like this:
+
+{|
+|-
+|1 Ikʼ||0 Pop
+|-
+|2 Manikʼ||0 Pop
+|-
+|3 Ebʼ||0 Pop
+|-
+|4 Kabʼan||0 Pop
+|-
+|5 Ikʼ||0 Pop... 
+
+52. 
+Roys (additional trans.) |edition= translation of [[Diego de Landa]]'s ''Relación de las cosas de Yucatán'' [original c. 
+
+53. 
+ |date= 1941 |title= Landa's Relación de las cosas de Yucatán: a translation |others= Charles P. 
+
+54. 
+It is a count of days since a mythological starting-point.<ref>"Mythological" in the sense that when the Long Count was first devised sometime in the Mid- to Late Preclassic, long after this date; see e.g. 
+
+55. 
+
+Since the Long Count dates are unambiguous, the Long Count was particularly well suited to use on monuments. 
+
+56. 
+Day numbers began with a glyph translated as the "seating of" a named month, which is usually regarded as day 0 of that month, although a minority treat it as day 20 of the month preceding the named month. 
+
+57. 
+For Tzolkʼin days Imix, Kimi, Chwen and Kibʼ, the Haabʼ day can only be 4, 9, 14 or 19; for Ikʼ, Manikʼ, Ebʼ and Kabʼan, the Haabʼ day can only be 0, 5, 10 or 15; for Akbʼalʼ, Lamat, Bʼen and Etzʼnabʼ, the Haabʼ day can only be 1, 6, 11 or 16; for Kʼan, Muluk, Ix and Kawak, the Haabʼ day can only be 2, 7, 12 or 17; and for Chikchan, Ok, Men and Ajaw, the Haabʼ day can only be 3, 8, 13 or 18.<ref>{{cite web |url=http://www.wayeb.org/download/resources/wh2014english.pdf |title=Introduction to Maya Hieroglyphs |last1=Kettunen |first1=Harri |last2=Helmke |first2=Christophe |date=2014 |publisher=Wayeb, Comenius University in Bratislava, The Slovak Archaeological and Historical Institute |page=51}}</ref>
+
+===Year Bearer===
+A "Year Bearer" is a [[Tzolkʼin]] day name that occurs on the first day of the [[Haabʼ]]. 
+
+58. 
+20
+|'''Ajaw''' ||[[File:MAYA-g-log-cal-D20-Ajaw.png|50px]] ||Ahau ||Ajaw
+|-
+|colspan="11" |'''''NOTES:'''''
+# The sequence number of the named day in the Tzolkʼin calendar
+# Day name, in the standardized and revised orthography of the Guatemalan Academia de Lenguas Mayas<ref name="Academia"/>
+# An example glyph ([[logogram]]) for the named day. 
+
+59. 
+In characteristic Mesoamerican fashion, these books project the cycle onto the landscape, with 13 ''Ahauob'' 'Lordships' dividing the land of Yucatán into 13 'kingdoms'.<ref>Roys 1967: 132, 184–185</ref>
+
+==See also==
+* [[2012 phenomenon]]
+* [[Maya religion]]
+* [[Mayanism]]
+* [[Tres Zapotes#Stela C]]
+* [[Maya astronomy|Maya Astronomy]]
+* [[Aztec calendar]]
+
+==Notes==
+{{Reflist|30em}}
+
+==References==
+{{Refbegin|indent=yes}}<!--BEGIN biblio format. 
+
+60. 
+Phonemic analyses of Haabʼ glyph names in pre-Columbian [[Maya script|Maya inscriptions]] have demonstrated that the names for these twenty-day periods varied considerably from region to region and from period to period, reflecting differences in the base language(s) and usage in the Classic and Postclassic eras predating their recording by Spanish sources.<ref>Boot (2002), pp.&nbsp;111–114.</ref>
+
+Each day in the Haabʼ calendar was identified by a day number in the month followed by the name of the month. 
+
+61. 
+Note that for most of these several different forms are recorded; the ones shown here are typical of carved monumental inscriptions (these are "[[cartouche]]" versions)
+# Day name, as recorded from 16th-century [[Yucatec Maya language|Yukatek Maya]] accounts, principally [[Diego de Landa]]; this orthography has (until recently) been widely used
+# In most cases, the actual day name as spoken in the time of the Classic Period (c. 
+
+62. 
+*[http://www.teoria.com/jra/maya/index.html Interactive Maya Calendars]
+*[http://www.manana.cz/index_en.html Maya Calendar, Date conversions, contemporary year version, Tzolkin and Haab day in Calendar Rounds]
+{{calendars}}
+{{Time in religion and mythology}}
+{{Maya}}
+
+[[Category:Maya calendars| ]]<!--leave the empty space as standard-->
+[[Category:Ancient astronomy]]
+[[Category:Astrology by tradition]]
+[[Category:Obsolete calendars]]. 
+
+63. 
+* For lunar ages 20 to 30, an E glyph was used, with the number of days from 20. 
+
+64. 
+
+The tzolkʼin calendar combines twenty day names with the thirteen day numbers to produce 260 unique days. 
+
+65. 
+Separately from this, every day is given a name in sequence from a list of 20 day names:
+
+{|class="wikitable" style="margin:0 auto; border:none; background:none;"
+|+ Tzolkʼin calendar: named days and associated [[glyph]]s
+. 
+
+66. 
+1&nbsp;Imix was selected as the recurrent 'first day' of the cycle, corresponding to 1 [[Cipactli]] in the Aztec day count. 
+
+67. 
+The concluding day 13&nbsp;Ahau was followed by the re-entering first day 1&nbsp;Imix. 
+
+68. 
+18 |publisher= [[Peabody Museum of Archaeology and Ethnology]] |location= Cambridge, MA |oclc= 625693}}
+: {{cite book |author= Voss, Alexander  |date= 2006 |chapter= Astronomy and Mathematics |editor= [[Nikolai Grube]] |others= Eva Eggebrecht and Matthias Seidel (assistant eds.) |title= Maya: Divine Kings of the Rain Forest |location= Cologne, Germany |publisher= Könemann |pages= 130–143 |isbn= 978-3-8331-1957-6 |oclc= 71165439}}
+
+{{Refend}}<!-- END biblio format style -->
+
+==External links==
+{{Commons|Maya calendar|Maya calendar}}
+{{Gutenberg|no=18973|name=Day Symbols of the Maya Year}} 1897 text by Cyrus Thomas
+*[http://research.famsi.org/date_mayaLC.php date converter at FAMSI] This converter uses the Julian/Gregorian calendar and includes the 819 day cycle and lunar age. 
+
+69. 
+It shares many aspects with calendars employed by other earlier Mesoamerican civilizations, such as the [[Zapotec civilization|Zapotec]] and [[Olmec]] and contemporary or later ones such as the [[Mixtec]] and [[Aztec calendar]]s.<ref>{{cite web|url=https://www.questia.com/read/119342989|title=Maya Calendar Origins: Monuments, Mythistory, and the Materialization of Time|publisher=}}</ref>
+
+By the [[Maya mythology|Maya mythological]] tradition, as documented in Colonial Yucatec accounts and reconstructed from Late Classic and Postclassic inscriptions, the deity [[Itzamna]] is frequently credited with bringing the knowledge of the calendar system to the ancestral Maya, along with [[writing system|writing]] in general and other foundational aspects of Maya culture.<ref>See entry on ''Itzamna'', in Miller and Taube (1993), pp.99–100.</ref>
+
+==Overview==
+{{Further|Maya astronomy}}
+The Maya calendar consists of several  cycles or ''counts'' of different lengths. 
+
+70. 
+Each successive day is numbered from 1 up to 13 and then starting again at 1. 
+
+71. 
+Chicago: University of Chicago Press, 1952.</ref>
+
+==Long Count==<!-- This section is linked from [[Chiapas]] -->
+[[File:East side of stela C, Quirigua.PNG|thumb|200px|right|East side of stela C, Quirigua with the mythical creation date of 13&nbsp;baktuns, 0&nbsp;katuns, 0&nbsp;tuns, 0&nbsp;uinals, 0&nbsp;kins, 4&nbsp;Ahau 8&nbsp;Cumku – August 11, 3114&nbsp;BCE in the [[proleptic Gregorian calendar]] ]]
+
+{{Main|Mesoamerican Long Count calendar}}
+Since Calendar Round dates repeat every 18,980 days, approximately 52 solar years, the cycle repeats roughly once each lifetime, so a more refined method of dating was needed if history was to be recorded accurately. 
+
+72. 
+Accompanying the C glyph was the 'X' glyph that showed a similar pattern of 18 lunations.<ref>Linden 1996:343–356.</ref><ref>Schele, Grube, Fahsen 1992</ref>
+
+====Lunation length====
+The present era lunar synodic period is about 29.5305877 [[Mean solar time|mean solar days]] or about 29 days 12 hours 44 minutes and 2+<sup>7</sup>/<sub>9</sub> seconds. 
+
+73. 
+Approximate <br/> [[Tropical year|Solar Years]]
+|-
+|1 Kʼin        ||&nbsp;         ||style="text-align:right;"|         1 ||style="text-align:right;"|&nbsp;
+|-
+|1 Winal       ||20 Kʼin        ||style="text-align:right;"|        20 ||style="text-align:right;"|&nbsp;
+|-
+|1 Tun         ||18 Winal       ||style="text-align:right;"|       360 ||style="text-align:right;"|{{val|fmt=commas|{{Rnd|360/365.2422|0}}}}
+|-
+|1 Kʼatun      ||20 Tun         ||style="text-align:right;"|     7,200 ||style="text-align:right;"|{{val|fmt=commas|{{Rnd|7200/365.2422|0}}}}
+|-
+|1 Bʼakʼtun    ||20 Kʼatun      ||style="text-align:right;"|   144,000 ||style="text-align:right;"|{{val|fmt=commas|{{Rnd|144000/365.2422|0}}}}
+|-
+|1 Piktun      ||20 Bʼakʼtun    ||style="text-align:right;"| 2,880,000 ||style="text-align:right;"|{{val|fmt=commas|{{Rnd|2880000/365.2422|0}}}}
+|-
+|1 Kalabtun    ||20 Piktun      ||style="text-align:right;"|57,600,000 ||style="text-align:right;"|{{val|fmt=commas|{{Rnd|57600000/365.2422|0}}}}
+|-
+|1 Kʼinchiltun ||20 Kalabtun    ||style="text-align:right;"|1,152,000,000 ||style="text-align:right;"|{{val|fmt=commas|{{Rnd|1152000000/365.2422|0}}}}
+|-
+|1 Alautun     ||20 Kʼinchiltun ||style="text-align:right;"|23,040,000,000 ||style="text-align:right;"|{{val|fmt=commas|{{Rnd|23040000000/365.2422|0}}}}
+|}
+
+==Supplementary Series==
+Many Classic period inscriptions include a series of glyphs known as the Supplementary Series. 
+
+74. 
+Since the Maya didn't use fractions, lunations were approximated by using the formula that there were 149 lunations completed in 4400 days, which yielded a rather short mean month of exactly <sup>4400</sup>/<sub>149</sub> = 29+<sup>79</sup>/<sub>149</sub> days = 29 days 12 hours 43 minutes and 29+<sup>59</sup>/<sub>149</sub> seconds, or about 29.5302 days.<ref>Teeple 1931:67</ref>
+
+==819-day count==
+Some Mayan monuments include glyphs that record an 819-day count in their Initial Series. 
+
+75. 
+
+Because the Haabʼ had 365 days and the [[tropical year]] is 365.2422 days, the days of the Haabʼ did not coincide with the tropical year. 
+
+76. 
+
+==Calendar Round==
+A Calendar Round date is a date that gives both the Tzolkʼin and Haabʼ. 
+
+77. 
+As a whole number, the number of days per lunation will be either 29 or 30 days, with the 30-day intervals necessarily occurring slightly more frequently than the 29-day intervals. 
+
+78. 
+The cycle was counted from katun 11&nbsp;Ahau to katun 13&nbsp;Ahau, with the coefficients of the katuns' concluding days running in the order 11&nbsp;– 9&nbsp;– 7&nbsp;– 5&nbsp;– 3&nbsp;– 1&nbsp;– 12&nbsp;– 10&nbsp;– 8&nbsp;– 6&nbsp;– 4&nbsp;– 2&nbsp;– 13&nbsp;Ahau (since a division of 20 × 360 days by 13 falls 2 days short). 

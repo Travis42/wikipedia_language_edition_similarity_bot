@@ -1,0 +1,49 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Atomic clock
+
+id edition's differences with the en version: 
+
+
+1. 
+When electrons return to near the nucleus, due to different charge-pulling forces, the electrons vibrate before silence in the new place. 
+
+2. 
+Adjustments try to remove side effects, such as frequencies from other electron transitions, distortion in the quantum field and temperature effects in those mechanisms. 
+
+3. 
+The hours [[Rubidium]] are highly liked because of their low price, and its small size (commercial standard is as small as 400 &nbsp; cm <sup> 3 </sup>), and a short-term stability. 
+
+4. 
+
+The content of the atomic clock is a microwave cavity (resonance hole) containing ionized gas, a tunable microwave oscillator, and a feedback loop used to set the oscillator to the most precise frequency of the absorption characteristic of absorption, which is determined by the behavior of each atom. 
+
+5. 
+
+= = How it works = =
+The maser for frequency reference uses a twinkle-filled room (or chamber) containing the ionized gas, generally [caesium]], as caesium is a [[element]] used in the international [second] official definition. 
+
+6. 
+The system has short-term accuracy, with long-term accuracy equivalent to the national standard Time [[United States]]. 
+
+7. 
+'s first accurate [[] National Bureau of Standards] atomic clock, based on the transition from atom [caesium]]-133, created by [Louis Essen]] in [[1955]] in [[The National Physical Laboratory]] in Britain. 
+
+8. 
+When radio frequencies coincide with the hyperfine transition of caesium, the caesium atom absorbs radio waves and then emits light. 
+
+9. 
+
+[[National Institute of Standards and Technology]]-NIST (National Institutes of Standards and technology of the United States) maintains the accuracy of 10 <sup> − 9 </sup> [seconds]] per day, and the same precision as radio frequencies of pumped transmitters. 
+
+10. 
+This definition makes the [oscillator]] caesium (which is often called atomic clock) as the main standard for [time]] and frequency measurements (see [[Standard caesium]]). 
+
+11. 
+When the light is dimmed because the frequency of stimulation has shifted from the resonance frequency, the electronic equipment between the photocell and the radio transmitter adjust the frequency of the radio transmitter. 
+
+12. 
+For community use, another time scale is used, [UTC | Coordinated Universal Time]] (UTC). 
+
+13. 
+Thus, the ultra-accurate properties of the quantum mechanics of the caesium atomic transition frequency can be used to tune the microwave oscillator to the same frequency (except for minor experimentation errors). 

@@ -1,6 +1,0 @@
-Library of Congress Control Number
-en edition's differences with the vi version: 
--1.52795e-10
- It helps them reach the correct cataloging data (known as a cataloging record), which the Library of Congress and third parties make available on the Web and through other media
-0.0667409
- The year has two digits for 1898 to 2000, and four digits beginning in 2001

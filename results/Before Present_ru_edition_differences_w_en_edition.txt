@@ -1,0 +1,49 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Before Present
+
+ru edition's differences with the en version: 
+
+
+1. 
+Carbon-<sup> </sup> The sample was considered to be higher (by 5%) than in nature, and therefore the calibration standard was defined as 0.95 concentrations of <sup>14</sup>C in the sample; this is considered a "modern carbon level" as of 1950<ref>
+Article
+link http://nvl.nist.gov/pub/nistpubs/jres/109/2/j92cur.pdf
+The Remarkable Metrological History of Radiocarbon Dating #91;II #93;
+"Edition" Journal of Research of the National Institute of Standards and Technology Journal of Research of the National Institute of Standards Technology Journal of Research of the National Institute of Standards and Technology
+"Volume" 109
+Pages 185-217
+"!--None--"
+"deadlink"yes
+https://web.archive.org/web/20101206195414/http://nvl.nist.gov/pub/nistpubs/jres/109/2/j92cur.pdf
+archivedate 2010-12-06
+2010-12-04
+"Language"
+"Type"journal
+Currie Lloyd A. 
+
+2. 
+
+Examples
+12,000 years to date, 10,050 (12,000 to 1950) years before our era. 
+
+3. 
+500 years to the present day- 1450 (1950- 500) AD
+
+Notes
+"Notes"
+
+Time-stub
+
+Category: Calendar Eras
+Category: Dating Methods
+Category: Radioisotope dating
+"Category:Past". 
+
+4. 
+Other meanings of the term BP (up to now) (also "up to the present day" or "BP", "b. 
+
+5. 
+This system uses modernity as the beginning of the chronology and thus avoids the dating of the species of "Before our era."
+
+As the concept of "present time" changes, the standard definition uses the "1950" as the initial year of reference, which is due to the fact that this year's "radiocarbon dating" has become practically applicable. 

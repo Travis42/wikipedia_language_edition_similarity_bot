@@ -1,0 +1,28 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Law of superposition
+
+en edition's differences with the es version: 
+
+
+1. 
+Superposition in [[archaeology]] requires a degree of interpretation to correctly identify chronological [[Sequence (archaeological)|sequences]] and in this sense superposition in archaeology is more dynamic and multi-dimensional. 
+
+2. 
+
+==Archaeological considerations==
+Superposition in archaeology and especially in [[Stratification (archaeology)|stratification]] use during [[Excavation (archaeology)|excavation]] is slightly different as the processes involved in laying down archaeological strata are somewhat different from geological processes. 
+
+3. 
+An example would be that the silt back-fill of an underground drain would form some time after the ground immediately above it. 
+
+4. 
+Some archaeological strata (often termed as [[Archaeological context|contexts]] or layers) are created by undercutting previous strata. 
+
+5. 
+Since there is no overturning, the rock at the bottom is older than the rock on the top by the Law of Superposition.]]
+
+The '''law of superposition''' is an axiom that forms one of the bases of the sciences of [[geology]], [[archaeology]], and other fields dealing with geological [[stratigraphy]]. 
+
+6. 
+153, Cengage Learning, 2005 {{ISBN|0155058991}}.</ref>  In the English-language literature, the law was popularized by [[William 'Strata' Smith|William "Strata" Smith]], who used it to produce the first geologic map of Britain.<ref>Patrick Wyse Jackson, ''The Chronologers' Quest: The Search for the Age of the Earth'', Cambridge University Press, 2006 {{ISBN|1139457578}}, pp.127-8.</ref>  It is the first of [[Smith's laws]]. 

@@ -1,0 +1,12 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Library of Congress Control Number
+
+en edition's differences with the vi version: 
+
+
+1. 
+ It helps them reach the correct cataloging data (known as a cataloging record), which the Library of Congress and third parties make available on the Web and through other media. 
+
+2. 
+ The year has two digits for 1898 to 2000, and four digits beginning in 2001. 

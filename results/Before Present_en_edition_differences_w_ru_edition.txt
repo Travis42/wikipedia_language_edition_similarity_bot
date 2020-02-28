@@ -1,0 +1,96 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Before Present
+
+en edition's differences with the ru version: 
+
+
+1. 
+
+==Other dating conventions==
+*[[Ab urbe condita]] ''(AUC)''
+*[[Anno Domini]] ''(AD)''
+*[[After the Development of Agriculture]] (ADA)
+*[[Hijri year|Anno Hegiri]] ''(AH)''
+*[[Anno Mundi]] ''(AM)''
+*[[Before Christ]] ''(BC)''
+*[[Before Common Era]] or Before Current Era ''(BCE)''
+*[[Common Era]] or Current Era ''(CE)''
+*[[Cosmic time]]
+*[[Holocene calendar]] ''(HE)''
+*[[Year#Abbreviations yr and ya|years ago]] ''(ya)''
+
+==See also==
+*[[Anthropocene]]
+
+== Footnotes ==
+{{notelist}}
+
+== Citations ==
+{{reflist}}
+
+{{Chronology}}
+
+[[Category:Calendar eras]]
+[[Category:Geochronology]]. 
+
+2. 
+|url=http://www.sciencecourseware.org/VirtualDating/files/RC_3.html |publisher=Virtual Courseware Project |page=6 |access-date=30 October 2019}}</ref>
+
+== Radiocarbon calibration ==
+{{main|Radiocarbon dating#Calibration}}
+Dates determined using radiocarbon dating come in two kinds: ''uncalibrated'' (also called ''Libby'' or ''raw'') and ''calibrated'' (also called ''Cambridge'') dates.<ref name="Archaeology">{{Cite book | last=Greene | first=Kevin | authorlink=Kevin Greene (archaeologist)| title=Archaeology: An Introduction | year=2002 | publisher=University of Pennsylvania Press | location=Philadelphia | isbn=0-8122-1828-0 | pages=165–167}}</ref> 
+''Uncalibrated'' radiocarbon dates should be clearly noted as such by "uncalibrated years BP", because they are not identical to calendar dates. 
+
+3. 
+It also marked<ref name="Taylor" /> the publication of the first radiocarbon dates in December 1949,<ref name="Arnold">
+{{Cite journal
+ |author=Arnold JR, Libby WF
+ |title=Age determinations by radiocarbon content: Checks with samples of known age
+ |journal=Science
+ |volume=109
+ |issue=2827
+ |date=1949-03-04
+ |pages=227–228
+ |doi=10.1126/science.109.2827.227
+ |pmid=17818054
+ |bibcode = 1949Sci...109..227L }}</ref> and 1950 also antedates large scale [[nuclear testing|atmospheric testing of nuclear weapons]], which altered the global ratio of [[carbon-14]] to [[carbon-12]].<ref>{{Cite web |title=What about AD, BC, BCE and BP Ages. 
+
+4. 
+Such calibrated dates are expressed as cal BP, where "cal" indicates "calibrated years", or "calendar years", before 1950. 
+
+5. 
+
+==Usage==
+The BP scale is sometimes used for dates established by means other than radiocarbon dating, such as [[stratigraphy]].<ref name="AGUStyle">{{cite web
+ |url=http://www.agu.org/pubs/style_guide_intro.html
+ |publisher=American Geophysical Union
+ |title=AGU Editorial Style Guide for Authors
+ |date=21 September 2007
+ |accessdate=2009-01-09
+|archiveurl = https://web.archive.org/web/20080714134306/http://www.agu.org/pubs/style_guide_intro.html <!-- Bot retrieved archive --> |archivedate = 2008-07-14}}</ref><ref name="Strat">
+{{cite journal
+ |author=North American Commission on Stratigraphic Nomenclature
+ |url=http://ngmdb.usgs.gov/Info/NACSN/Code2/code2.html#Article13
+ |title=North American Stratigraphic Code: Article 13 (c)
+ |journal=The American Association of Petroleum Geologists Bulletin
+ |volume=89
+ |issue=11
+ |date=November 2005
+ |pages=1547–1591
+ |doi=10.1306/07050504129
+}}</ref>  This usage differs with the recommendation by van der Plicht & Hogg,<ref>
+{{cite journal
+ |title=A note on reporting radiocarbon
+ |author=J. 
+
+6. 
+Huth|title=Scientific Style and Format: The CBE Manual for Authors, Editors, and Publishers|url=https://books.google.com/books?id=PoFJ-OhE63UC&pg=PA495|accessdate=4 October 2012|date=25 November 1994|publisher=Cambridge University Press|isbn=978-0-521-47154-1|pages=495–}}</ref>
+
+The Centre for Ice and Climate at the [[University of Copenhagen]] has proposed '''"b2k"''' as "years before AD 2000", based on the [[Greenland]] [[Ice Core]] Chronology 2005 (GICC05) time scale.<ref>{{cite web| url=http://www.iceandclimate.nbi.ku.dk/research/strat_dating/annual_layer_count/gicc05_time_scale/ |title=The GICC05 time scale |publisher=Centre for Ice and Climate - University of Copenhagen |access-date=September 17, 2018}}</ref>
+
+== Radiocarbon dating ==
+Radiocarbon dating was first used in 1940. 
+
+7. 
+Because the "present" time changes, standard practice is to use 1 January 1950 as the commencement date ([[epoch]]) of the age scale,{{efn|Unlike other [[era]]s, the sense "After Present" (AP) is never used.}} reflecting the origin of practical [[radiocarbon dating]] in the 1950s. 

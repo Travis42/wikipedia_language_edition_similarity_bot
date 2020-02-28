@@ -1,0 +1,923 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Han dynasty
+
+en edition's differences with the vi version: 
+
+
+1. 
+When the plot was uncovered, the eunuchs arrested [[Empress Dou Miao|Empress Dowager Dou]] (d.&nbsp;172&nbsp;AD) and Chen Fan. 
+
+2. 
+On September 25 both palaces were breached and approximately two thousand eunuchs were killed.<ref>{{harvp|Beck|1986|pp=344–345}}; {{harvp|Morton|Lewis|2005|p=62}}.</ref> Zhang Rang had previously fled with [[Liu Bian|Emperor Shao]] (r.&nbsp;189 AD) and his brother Liu Xie—the future [[Emperor Xian of Han]] (r. 
+
+3. 
+  }}
+* {{citation
+  | surname = Needham | given = Joseph | title = Science and Civilization in China: Volume 5, Chemistry and Chemical Technology, Part 9, Textile Technology: Spinning and Reeling
+  | location = Cambridge | publisher = Cambridge University Press
+  | year = 1988
+  | isbn =
+  | postscript = . 
+
+4. 
+  }}
+* {{citation
+  | surname = Loewe | given = Michael | author-link = Michael Loewe
+  | year = 1968
+  | title = Everyday Life in Early Imperial China during the Han Period 202 BC–AD 220
+  | location = London | publisher = B.T. 
+
+5. 
+  | url = https://archive.org/details/isbn_9780415060424
+  }}
+* {{citation
+  | surname = de Crespigny | given = Rafe | author-link = Rafe de Crespigny
+  | title = A Biographical Dictionary of Later Han to the Three Kingdoms (23–220 AD)
+  | location = Leiden | publisher = Koninklijke Brill
+  | year = 2007
+  | isbn = 978-90-04-15605-0
+  | postscript = . 
+
+6. 
+  }}
+* {{citation
+  | surname = Hsu | given = Cho-Yun | author-link = Cho-yun Hsu
+  | title = The changing relationship between local society and the central political power in Former Han: 206 B.C. 
+
+7. 
+  }}
+* {{citation
+  | surname = Bielenstein | given = Hans | author-link = Hans Bielenstein
+  | title = The Bureaucracy of Han Times
+  | location = Cambridge | publisher = Cambridge University Press
+  | year = 1980
+  | isbn = 978-0-521-22510-6
+  | postscript = . 
+
+8. 
+Knechtges
+  | chapter = From the Eastern Han through the Western Jin (AD 25–317)
+  | pages = 116–198
+  | title = The Cambridge History of Chinese Literature, volume 1
+  | editor-given = Stephen | editor-surname = Owen | editor-link = Stephen Owen (academic)
+  | publisher = Cambridge University Press
+  | year = 2010
+  | isbn = 978-0-521-85558-7
+  | postscript = . 
+
+9. 
+  }}
+* {{citation
+  | surname = Norman | given = Jerry | author-link = Jerry Norman (sinologist)
+  | title = Chinese
+  | location = Cambridge and New York | publisher = Cambridge University Press
+  | year = 1988
+  | isbn = 978-0-521-29653-3
+  | postscript = . 
+
+10. 
+  }}
+* {{citation
+  | surname = Ronan | given = Colin A | author-link = Colin Ronan
+  | year = 1994
+  | title = The Shorter Science and Civilization in China: 4
+  | location = Cambridge | publisher = Cambridge University Press
+  | isbn = 978-0-521-32995-8
+  | postscript = . 
+
+11. 
+  }}
+* {{citation
+  | surname = Hsu | given = Elisabeth
+  | chapter = Pulse diagnostics in the Western Han: how mai and qi determine bing
+  | pages = 51–92
+  | title = Innovations in Chinese Medicine
+  | editor-given = Elisabeth | editor-surname = Hsu
+  | location = Cambridge, New York, Oakleigh, Madrid, and Cape Town
+  | publisher = Cambridge University Press
+  | year = 2001
+  | isbn = 978-0-521-80068-6
+  | postscript = . 
+
+12. 
+220
+  | pages = 317–376
+  | editor-given1 = Denis | editor-surname1 = Twitchett | editor-link1 = Denis Twitchett
+  | editor-given2 = Michael | editor-surname2 = Loewe | editor-link2 = Michael Loewe
+  | location = Cambridge | publisher = Cambridge University Press
+  | year = 1986
+  | isbn = 978-0-521-24327-8
+  | postscript = . 
+
+13. 
+  }}
+* {{citation
+  | surname = Steinhardt | given = Nancy Shatzman
+  | title = The Tang architectural icon and the politics of Chinese architectural history
+  | journal = The Art Bulletin | volume = 86 | number = 2 | pages = 228–254
+  | year = 2004
+  | jstor = 3177416 | doi = 10.2307/3177416
+  | postscript = . 
+
+14. 
+220
+  | editor-given1 = Denis | editor-surname1 = Twitchett
+  | editor-given2 = Michael | editor-surname2 = Loewe
+  | location = Cambridge | publisher = Cambridge University Press
+  | year = 1986
+  | isbn = 978-0-521-24327-8
+  | postscript = . 
+
+15. 
+220
+  | editor-given1 = Denis | editor-surname1 = Twitchett
+  | editor-given2 = Michael | editor-surname2 = Loewe
+  | location = Cambridge | publisher = Cambridge University Press
+  | year = 1986
+  | isbn = 978-0-521-24327-8
+  | postscript = . 
+
+16. 
+  }}
+* {{citation
+  | surname = Cullen | given = Christoper
+  | title = Astronomy and Mathematics in Ancient China: The Zhou Bi Suan Jing
+  | location = Cambridge | publisher = Cambridge University Press
+  | year = 2006
+  | isbn = 978-0-521-03537-8
+  | postscript = . 
+
+17. 
+220
+  | editor-given1 = Denis | editor-surname1 = Twitchett
+  | editor-given2 = Michael | editor-surname2 = Loewe
+  | location = Cambridge | publisher = Cambridge University Press
+  | year = 1986
+  | isbn = 978-0-521-24327-8
+  | postscript = . 
+
+18. 
+220
+  | editor-given1 = Denis | editor-surname1 = Twitchett
+  | editor-given2 = Michael | editor-surname2 = Loewe
+  | location = Cambridge | publisher = Cambridge University Press
+  | year = 1986
+  | isbn = 978-0-521-24327-8
+  | postscript = . 
+
+19. 
+220
+  | editor-given1 = Denis | editor-surname1 = Twitchett
+  | editor-given2 = Michael | editor-surname2 = Loewe
+  | location = Cambridge | publisher = Cambridge University Press
+  | year = 1986
+  | isbn = 978-0-521-24327-8
+  | postscript = . 
+
+20. 
+220
+  | editor-given1 = Denis | editor-surname1 = Twitchett
+  | editor-given2 = Michael | editor-surname2 = Loewe
+  | location = Cambridge | publisher = Cambridge University Press
+  | year = 1986
+  | isbn = 978-0-521-24327-8
+  | postscript = . 
+
+21. 
+Lloyd
+  | title = Adversaries and Authorities: Investigations into Ancient Greek and Chinese Science
+  | location = Cambridge | publisher = Cambridge University Press
+  | year = 1996
+  | isbn = 978-0-521-55695-8
+  | postscript = . 
+
+22. 
+  }}
+* {{citation
+  | surname = Lo | given = Vivienne
+  | chapter = The influence of nurturing life culture on the development of Western Han acumoxa therapy
+  | title = Innovation in Chinese Medicine
+  | pages = 19–50
+  | editor-given = Elisabeth | editor-surname = Hsu
+  | location = Cambridge, New York, Oakleigh, Madrid and Cape Town
+  | publisher = Cambridge University Press
+  | year = 2001
+  | isbn = 978-0-521-80068-6
+  | postscript = . 
+
+23. 
+220
+  | editor-given1 = Denis | editor-surname1 = Twitchett
+  | editor-given2 = Michael | editor-surname2 = Loewe
+  | location = Cambridge | publisher = Cambridge University Press
+  | year = 1986
+  | isbn = 978-0-521-24327-8
+  | postscript = . 
+
+24. 
+  }}
+* {{citation
+  | surname = Loewe | given = Michael | author-mask = 3
+  | title = Divination, Mythology and Monarchy in Han China
+  | location = Cambridge, New York and Melbourne
+  | publisher = Cambridge University Press
+  | year = 1994
+  | isbn = 978-0-521-45466-7
+  | postscript = . 
+
+25. 
+220
+  | editor-given1 = Denis | editor-surname1 = Twitchett
+  | editor-given2 = Michael | editor-surname2 = Loewe
+  | location = Cambridge | publisher = Cambridge University Press
+  | year = 1986
+  | isbn = 978-0-521-24327-8
+  | postscript = . 
+
+26. 
+220
+  | pages = 377–462
+  | editor-given1 = Denis | editor-surname1 = Twitchett
+  | editor-given2 = Michael | editor-surname2 = Loewe
+  | location = Cambridge | publisher = Cambridge University Press
+  | year = 1986
+  | isbn = 978-0-521-24327-8
+  | postscript = . 
+
+27. 
+  }}
+* {{citation
+  | surname = Ebrey
+  | given = Patricia Buckley
+  | author-mask = 3
+  | title = The Cambridge Illustrated History of China
+  | location = Cambridge
+  | publisher = Cambridge University Press
+  | year = 1999
+  | isbn = 978-0-521-66991-7
+  | postscript = . 
+
+28. 
+However, it is known from contemporary sources that there were many deviations to this rule, especially in regard to mothers over their sons, and empresses who ordered around and openly humiliated their fathers and brothers.{{sfnp|Ch'ü|1972|pp=49–59}} Women were exempt from the annual [[corvée]] labor duties, but often engaged in a range of income-earning occupations aside from their domestic chores of cooking and cleaning.{{sfnp|Hinsch|2002|pp=74–75}}
+
+The most common occupation for women was weaving clothes for the family, sale at market or for large textile enterprises that employed hundreds of women. 
+
+29. 
+  }}
+* {{citation
+  | surname1 = Wang | given1 = Xudang
+  | surname2 = Li | given2 = Zuixiong |authorlink2=Li Zuixiong
+  | surname3 = Zhang | given3 = Lu
+  | editor = Neville Agnew
+  | title = Conservation of Ancient Sites on the Silk Road: Proceedings of the Second International Conference on the Conservation of Grotto Sites, Mogao Grottoes, Dunhuang, People's Republic of China, June 28 – July 3, 2004
+  | chapter = Condition, Conservation, and Reinforcement of the Yumen Pass and Hecang Earthen Ruins Near Dunhuang
+  | pages = 351–352 [351–357]
+  | year = 2010
+  | isbn = 978-1-60606-013-1
+  | postscript = . 
+
+30. 
+  }}
+* {{citation
+  | surname1 = Jin | given1 = Guantao
+  | surname2 = Fan | given2 = Hongye
+  | surname3 = Liu | given3 = Qingfeng
+  | chapter = Historical Changes in the Structure of Science and Technology (Part Two, a Commentary)
+  | pages = 165–184
+  | title = Chinese Studies in the History and Philosophy of Science and Technology
+  | editor-given1 = Fan | editor-surname1 = Dainian
+  | editor-given2 = Robert S. 
+
+31. 
+However, he was overwhelmed by the Red Eyebrow rebels who deposed, assassinated, and replaced him with the puppet monarch [[Liu Penzi]].<ref>{{harvp|de Crespigny|2007|pp=197, 560}}; {{harvp|Bielenstein|1986|pp=249–250}}.</ref> Gengshi's distant cousin Liu Xiu, known posthumously as [[Emperor Guangwu of Han|Emperor Guangwu]] (r.&nbsp;25–57 AD), after distinguishing himself at the [[Battle of Kunyang]] in 23 AD, was urged to succeed Gengshi as emperor.<ref>{{harvp|de Crespigny|2007|pp=558–560}}; {{harvp|Bielenstein|1986|pp=251–254}}.</ref>
+
+Under Guangwu's rule the Han Empire was restored. 
+
+32. 
+107 AD), [[Emperor He of Han|Emperor He]] (r.&nbsp;88–105 AD) had [[Empress Dou (Zhang)|Empress Dowager Dou]] (d.&nbsp;97 AD) put under [[house arrest]] and her clan stripped of power. 
+
+33. 
+3 AD and 11 AD. 
+
+34. 
+However, palace eunuch [[Sun Cheng]] (d.&nbsp;132 AD) masterminded a successful overthrow of her regime to enthrone [[Emperor Shun of Han]] (r.&nbsp;125–144 AD). 
+
+35. 
+189 AD), plotted with [[Yuan Shao]] (d.&nbsp;202 AD) to overthrow the eunuchs by having several generals march to the outskirts of the capital. 
+
+36. 
+Thus, Han-era physicians prescribed medicine that was believed to counteract this imbalance.<ref>{{harvp|Csikszentmihalyi|2006|pp=181–182}}; {{harvp|Sun|Kistemaker|1997|pp=3–4}}; {{harvp|Hsu|2001|p=75}}.</ref> For example, since the wood phase was believed to promote the fire phase, medicinal ingredients associated with the wood phase could be used to heal an organ associated with the fire phase.{{sfnp|Csikszentmihalyi|2006|pp=181–182}} Besides dieting, Han physicians also prescribed [[moxibustion]], [[acupuncture]], and [[calisthenics]] as methods of maintaining one's health.<ref>{{harvp|de Crespigny|2007|p=332}}; {{harvp|Omura|2003|pp=15, 19–22}}; {{harvp|Loewe|1994|p=65}}; {{harvp|Lo|2001|p=23}}.</ref> When [[surgery]] was performed by the Chinese physician [[Hua Tuo]] (d. 
+
+37. 
+  | url = https://archive.org/details/toharnesswindsho00bloc
+  }}
+* {{citation
+  | surname = Bower | given = Virginia
+  | chapter = Standing man and woman
+  | title = Recarving China's Past: Art, Archaeology and Architecture of the 'Wu Family Shrines'
+  | pages = 242–245
+  | editor-given = Naomi Noble | editor-surname = Richard
+  | location = New Haven and London
+  | publisher = [[Yale University Press]] and [[Princeton University Art Museum]]
+  | year = 2005
+  | isbn = 978-0-300-10797-5
+  | postscript = . 
+
+38. 
+  }}
+* {{citation
+  | surname = Loewe | given = Michael | author-mask = 3
+  | chapter = Funerary Practice in Han Times
+  | pages = 23–74
+  | title = Recarving China's Past: Art, Archaeology, and Architecture of the 'Wu Family Shrines'
+  | editor-given = Naomi Noble | editor-surname = Richard
+  | location = New Haven and London
+  | publisher = Yale University Press and Princeton University Art Museum
+  | year = 2005
+  | isbn = 978-0-300-10797-5
+  | postscript = . 
+
+39. 
+| author-mask = 3
+  | chapter = Pleasure tower model
+  | pages = 275–281
+  | title = Recarving China's Past: Art, Archaeology, and Architecture of the 'Wu Family Shrines'
+  | editor-given = Naomi Noble | editor-surname = Richard
+  | location = New Haven and London
+  | publisher = Yale University Press and Princeton University Art Museum
+  | year = 2005a
+  | isbn = 978-0-300-10797-5
+  | postscript = . 
+
+40. 
+| author-mask = 3
+  | chapter = Tower model
+  | title = Recarving China's Past: Art, Archaeology, and Architecture of the 'Wu Family Shrines'
+  | pages = 283–285
+  | editor-given = Naomi Noble | editor-surname = Richard
+  | location = New Haven and London
+  | publisher = Yale University Press and Princeton University Art Museum
+  | year = 2005b
+  | isbn = 978-0-300-10797-5
+  | postscript = . 
+
+41. 
+  }}
+* {{citation
+  | surname = Huang
+  | given = Ray
+  | author-link = Ray Huang
+  | title = China: A Macro History
+  | location = Armonk & London
+  | publisher = M.E. 
+
+42. 
+The three-legged iron [[seed drill]], invented by the 2nd century BC, enabled farmers to carefully plant crops in rows instead of [[Sowing|casting seeds out by hand]].<ref>{{harvp|Greenberger|2006|p=12}}; {{harvp|Cotterell|2004|p=24}}; {{harvp|Wang|1982|pp=54–55}}.</ref> The heavy moldboard iron [[plow]], also invented during the Han dynasty, required only one man to control it, two oxen to pull it. 
+
+43. 
+These were the [[Chancellor of China|Chancellor]] or [[Minister over the Masses]] (''Chengxiang'' 丞相 or ''Da situ'' 大司徒), the Imperial Counselor or Excellency of Works (''Yushi dafu'' 御史大夫 or ''Da sikong'' 大司空), and Grand Commandant or Grand Marshal (''Taiwei'' 太尉 or ''Da sima'' 大司馬).<ref>{{harvp|de Crespigny|2007|p=1221}}; {{harvp|Bielenstein|1980|pp=7–17}}.</ref>
+
+The Chancellor, whose title was changed to 'Minister over the Masses' in 8 BC, was chiefly responsible for drafting the [[government budget]]. 
+
+44. 
+  }}
+* {{citation
+  | surname = Lewis
+  | given = Mark Edward
+  | author-link = Mark Edward Lewis
+  | title = The Early Chinese Empires: Qin and Han
+  | location = Cambridge
+  | publisher = Harvard University Press
+  | year = 2007
+  | isbn = 978-0-674-02477-9
+  | postscript = . 
+
+45. 
+This includes stone pillar-gates, brick tomb chambers, rammed-earth [[Chinese city wall|city walls]], rammed-earth and brick [[beacon]] towers, rammed-earth sections of the [[Great Wall of China|Great Wall]], rammed-earth platforms where elevated halls once stood, and two rammed-earth [[castle]]s in [[Gansu]].<ref>{{harvp|Wang|1982|pp=1, 30, 39–40, 148–149}}; {{harvp|Chang|2007|pp=91–92}}; {{harvp|Morton|Lewis|2005|p=56}}; see also {{harvp|Ebrey|1999|p=76}}; see {{harvp|Needham|1972|loc=Plate V, Fig. 
+
+46. 
+These reforms included [[History of slavery|outlawing slavery]], [[nationalization|nationalizing]] land to [[Well-field system|equally distribute]] between households, and introducing new currencies, a change which debased the value of coinage.<ref>{{harvp|Hansen|2000|p=134}}; {{harvp|Bielenstein|1986|pp=232–234}}; {{harvp|Morton|Lewis|2005|p=58}}; {{harvp|Lewis|2007|p=23}}.</ref> Although these reforms provoked considerable opposition, Wang's regime met its ultimate downfall with the massive floods of c. 
+
+47. 
+The consequent loss of government revenue was compensated for by increasing property taxes.{{sfnp|Nishijima|1986|pp=596–598}}
+
+The labor tax took the form of [[Conscription|conscripted labor]] for one month per year, which was imposed upon male commoners aged fifteen to fifty-six. 
+
+48. 
+  | title = Admiral Zheng He & Southeast Asia
+  | location = Singapore | publisher = Institute of Southeast Asian Studies
+  | year = 2005
+  | isbn = 978-981-230-329-5
+  | postscript = . 
+
+49. 
+Order in the cities was maintained by government officers in the marketplaces and [[constable]]s in the neighborhoods.<ref>{{harvp|Nishijima|1986|pp=552–553, 576}}; {{harvp|Loewe|1968|pp=146–147}}.</ref>
+
+===Food===
+The most common staple crops consumed during Han were [[wheat]], [[barley]], [[foxtail millet]], [[proso millet]], rice, and [[bean]]s.{{sfnp|Wang|1982|p=52}} Commonly eaten fruits and vegetables included chestnuts, pears, plums, peaches, melons, apricots, strawberries, [[red bayberry|red bayberries]], [[jujube]]s, [[calabash]], [[bamboo shoot]]s, [[mustard plant]] and [[taro]].{{sfnp|Wang|1982|pp=53, 206}} Domesticated animals that were also eaten included chickens, [[Mandarin duck]]s, geese, cows, sheep, pigs, camels and dogs (various types were bred specifically for food, while most were used as pets). 
+
+50. 
+  }}
+* {{citation
+  | surname = Watson | given = William | author-link = William Watson (sinologist)
+  | title = The Arts of China to AD 900
+  | location = New Haven | publisher = Yale University Press
+  | year = 2000
+  | isbn = 978-0-300-08284-5
+  | postscript = . 
+
+51. 
+The Yellow River split into two new branches: one emptying to the north and the other to the south of the [[Shandong Peninsula]], though Han engineers managed to dam the southern branch by 70 AD.<ref name="hansen 2000 135 de Crespigny 2007 196 bielenstein 1986 241 244">{{harvp|Hansen|2000|p=135}}; {{harvp|de Crespigny|2007|p=196}}; {{harvp|Bielenstein|1986|pp=241–244}}.</ref>
+
+The flood dislodged thousands of peasant farmers, many of whom joined roving bandit and rebel groups such as the [[Red Eyebrows Rebellions|Red Eyebrows]] to survive.<ref name="hansen 2000 135 de Crespigny 2007 196 bielenstein 1986 241 244"/> Wang Mang's armies were incapable of quelling these enlarged rebel groups. 
+
+52. 
+[[Wuwei, Gansu|Wuwei]], [[Gansu]], China, AD 25–220]]
+[[Emperor Zhang of Han|Emperor Zhang's]] (r.&nbsp;75–88 AD) reign came to be viewed by later Eastern Han scholars as the high point of the dynastic house.{{sfnp|de Crespigny|2007|pp=497, 500, 592}} Subsequent reigns were increasingly marked by [[eunuch]] intervention in court politics and their involvement in the violent power struggles of the imperial [[consort clan]]s.<ref>{{harvp|Hinsch|2002|p=25}}; {{harvp|Hansen|2000|p=136}}.</ref> In 92 AD, with the aid of the eunuch [[Zheng Zhong]] (d. 
+
+53. 
+Han-era mathematical achievements include solving problems with [[Triangle#Types of triangle|right-angle triangles]], [[square root]]s, [[cube root]]s, and [[Matrix (mathematics)|matrix methods]],<ref>{{harvp|Dauben|2007|p=212}}; {{harvp|Liu|Feng|Jiang|Zheng|2003|pp=9–10}}.</ref> finding more accurate [[Chronology of computation of π|approximations for pi]],<ref>{{harvp|Needham|1986a|pp=99–100}}; {{harvp|Berggren|Borwein|Borwein|2004|p=27}}.</ref> providing [[mathematical proof]] of the [[Pythagorean theorem]],<ref>{{harvp|Dauben|2007|pp=219–222}}; {{harvp|Needham|1986a|p=22}}.</ref> use of the [[Fraction (mathematics)|decimal fraction]],<ref>{{harvp|Needham|1986a|pp=84–86}}</ref> [[Gaussian elimination]] to solve [[System of linear equations|linear equations]],<ref>{{harvp|Shen|Crossley|Lun|1999|p=388}}; {{harvp|Straffin|1998|p=166}}; {{harvp|Needham|1986a|p=24–25, 121}}.</ref> and continued fractions to find the [[root of a function|roots of equations]].<ref>{{harvp|Needham|1986a|pp=65–66}}</ref>
+
+One of the Han's greatest mathematical advancements was the world's first use of [[negative number]]s. 
+
+54. 
+Philosophical works written by [[Yang Xiong (author)|Yang Xiong]] (53 BC–18 AD), [[Huan Tan]] (43 BC–28 AD), [[Wang Chong]] (27–100 AD), and [[Wang Fu (philosopher)|Wang Fu]] (78–163 AD) questioned whether human nature was innately good or evil and posed challenges to Dong's universal order.{{sfnp|Ch'en|1986|pp=773–794}} The ''[[Shiji|Records of the Grand Historian]]'' by [[Sima Tan]] (d. 
+
+55. 
+Dong Zhuo later poisoned Emperor Shao.{{sfnp|Beck|1986|pp=346–349}}
+
+Dong was killed by his adopted son [[Lü Bu]] (d.&nbsp;198 AD) in a plot hatched by [[Wang Yun (Han dynasty)|Wang Yun]] (d. 
+
+56. 
+A small professional (paid) standing army was stationed near the capital.<ref name="Nishijima 1986"/>
+
+During the Eastern Han, conscription could be avoided if one paid a commutable tax. 
+
+57. 
+Holders of the rank immediately below, that of ordinary marquess, received a pension, but had no territorial rule.<ref>{{harvp|Nishijima|1986|pp=552–553}}; {{harvp|Ch'ü|1972|p=16}}.</ref> [[Scholar-bureaucrat|Officials]] who served in government belonged to the wider commoner social class and were ranked just below nobles in social prestige. 
+
+58. 
+  }}
+* {{citation
+  | surname = Ebrey | given = Patricia Buckley
+  | title = Estate and family management in the Later Han as seen in the ''Monthly Instructions for the Four Classes of People''
+  | journal = Journal of the Economic and Social History of the Orient
+  | volume = 17 | number = 2 | pages = 173–205
+  | year = 1974
+  | jstor = 3596331
+  | postscript = . 
+
+59. 
+He could appoint officials below the salary-rank of 600 bushels.<ref>{{harvp|Wang|1949|pp=143–144, 145–146, 177}}; {{harvp|Bielenstein|1980|pp=7–8, 14}}.</ref>
+
+The Imperial Counselor's chief duty was to conduct disciplinary procedures for officials. 
+
+60. 
+During this time, a succession of her male relatives held the title of regent.<ref>{{harvp|Bielenstein|1986|pp=225–226}}; {{harvp|Huang|1988|pp=46–48}}.</ref> Following the death of Ai, Wang Zhengjun's nephew [[Wang Mang]] (45 BC–23 AD) was appointed regent as Marshall of State on 16 August under [[Emperor Ping of Han|Emperor Ping]] (r. 
+
+61. 
+  | doi = 10.2307/2718206
+ }}
+* {{citation
+  | surname = Wang | given = Zhongshu | author-link = Wang Zhongshu
+  | year = 1982
+  | title = Han Civilization
+  | translator = K.C. 
+
+62. 
+A lack of either was considered dishonorable and the woman would have been seen not as a wife, but as a [[Concubinage|concubine]].{{sfnp|Wiesner-Hanks|2011|p=30}} [[Arranged marriage]]s were normal, with the father's input on his offspring's spouse being considered more important than the mother's.<ref>{{harvp|Hinsch|2002|p=35}}; {{harvp|Ch'ü|1972|p=34}}.</ref> [[Monogamy|Monogamous marriages]] were also normal, although nobles and high officials were wealthy enough to afford and support concubines as additional lovers.<ref>{{harvp|Ch'ü|1972|pp=44–47}}; {{harvp|Hinsch|2002|pp=38–39}}.</ref> Under certain conditions dictated by custom, not law, both men and women were able to [[divorce]] their spouses and remarry.<ref>{{harvp|Hinsch|2002|pp=40–45}}; {{harvp|Ch'ü|1972|pp=37–43}}.</ref> However, a woman who had been widowed continued to belong to her husband's family after his death. 
+
+63. 
+Yuan Shao then besieged Luoyang's Northern Palace while his brother [[Yuan Shu]] (d.&nbsp;199 AD) besieged the Southern Palace. 
+
+64. 
+  | url-access = registration
+  | url = https://archive.org/details/ancientchinesein0000deng
+  }}
+* {{citation
+  | surname = Di Cosmo | given = Nicola | author-link = Nicola Di Cosmo
+  | title = Ancient China and Its Enemies: The Rise of Nomadic Power in East Asian History
+  | location = Cambridge | publisher = Cambridge University Press
+  | year = 2002
+  | isbn = 978-0-521-77064-4
+  | postscript = . 
+
+65. 
+Imperial authority was also seriously challenged by large [[Daoist]] religious societies which instigated the [[Yellow Turban Rebellion]] and the [[Way of the Five Pecks of Rice|Five Pecks of Rice Rebellion]]. 
+
+66. 
+These reforms included reducing taxes, temporary remissions of taxes, granting loans and providing landless peasants temporary lodging and work in [[Tuntian|agricultural colonies]] until they could recover from their debts.<ref>{{harvp|Ebrey|1999|p=75}}; {{harvp|Ebrey|1986|pp=619–621}}.</ref>
+
+In 168 BC, the land tax rate was reduced from one-fifteenth of a farming household's crop yield to one-thirtieth,<ref>{{harvp|Loewe|1986|pp=149–150}}; {{harvp|Nishijima|1986|pp=596–598}}.</ref> and later to a one-hundredth of a crop yield for the last decades of the dynasty. 
+
+67. 
+Gansu Provincial Museum.jpg|left|thumb|upright=0.9|The [[Gansu Flying Horse]], depicted in full gallop, [[bronze sculpture]], h 34.5 cm. 
+
+68. 
+Eventually, an insurgent mob forced their way into the [[Weiyang Palace]] and killed Wang Mang.<ref>{{harvp|de Crespigny|2007|p=568}}; {{harvp|Bielenstein|1986|p=248}}.</ref>
+
+[[File:S-148 Wang Mang huo bu.JPG|thumb|left|upright|A spade-shaped bronze coin issued during [[Wang Mang]]'s (r. 
+
+69. 
+  }}
+* {{citation
+  | surname = Wang | given = Yu-ch'uan
+  | title = An outline of The central government of the Former Han dynasty
+  | journal = Harvard Journal of Asiatic Studies
+  | volume = 12 | number = 1/2 | pages = 134–187
+  | year = 1949
+  | jstor = 2718206
+  | postscript = . 
+
+70. 
+However, Tanshihuai's confederation disintegrated after his death.{{sfnp|Yü|1986|pp=444–446}}
+
+[[Ban Chao]] (d.&nbsp;AD 102) enlisted the aid of the [[Kushan Empire]], occupying the area of modern [[India]], [[Pakistan]], [[Afghanistan]], and [[Tajikistan]], to subdue [[Kashgar]] and its ally Sogdiana.<ref name="torday 1997 393 de Crespigny 2007 5 6"/> When a request by Kushan ruler [[Vima Kadphises]] (r.&nbsp;c.&nbsp;90–c.&nbsp;100 AD) for a marriage alliance with the Han was rejected in AD 90, he sent his forces to [[Wakhan]] (Afghanistan) to attack Ban Chao. 
+
+71. 
+Merchants were required to pay a higher rate of 240 coins.{{sfnp|Nishijima|1986|p=598}} The poll tax stimulated a money economy that necessitated the minting of over 28,000,000,000 coins from 118 BC to 5 AD, an average of 220,000,000 coins a year.{{sfnp|Nishijima|1986|p=588}}
+
+{{multiple image| align = left | direction = horizontal | header = | header_align = left/right/center | footer = '''Left image''': Eastern-Han tomb models of towers with ''[[dougong]]'' brackets supporting balconies, 1st–2nd century AD. 
+
+72. 
+141–87 BC), 25.5&nbsp;mm in diameter]]
+
+The Han dynasty inherited the ''[[Ancient Chinese coinage#Ban Liang coins|ban liang]]'' coin type from the Qin. 
+
+73. 
+
+==Etymology==
+According to the ''[[Records of the Grand Historian]]'', after the collapse of the [[Qin dynasty]] the [[hegemon]] [[Xiang Yu]] appointed [[Liu Bang]] as prince of the small fief of [[Hanzhong]], named after its location on the [[Han River (Shaanxi and Hubei)|Han River]] (in modern southwest [[Shaanxi]]). 
+
+74. 
+As mentioned by Huan Tan about AD 20, they were used to turn gears that lifted iron [[trip hammer]]s, and were used in pounding, [[threshing]] and polishing grain.{{sfnp|Needham|1986c|pp=183–184, 390–392}} However, there is no sufficient evidence for the [[watermill]] in China until about the 5th century.{{sfnp|Needham|1986c|pp=396–400}} The Nanyang Commandery Administrator and mechanical engineer [[Du Shi]] (d.&nbsp;38 AD) created a waterwheel-powered [[Reciprocating motion|reciprocator]] that worked the [[bellows]] for the smelting of iron.<ref>{{harvp|de Crespigny|2007|p=184}}; {{harvp|Needham|1986c|pp=370}}.</ref> Waterwheels were also used to power [[chain pump]]s that lifted water to raised [[irrigation]] ditches. 
+
+75. 
+In these circumstances, a General (''Jiangjun'' 將軍) led a [[Division (military)|division]], which was divided into [[regiment]]s led by Colonels and sometimes Majors (''Sima'' 司馬). 
+
+76. 
+Unlike slaves, retainers could come and go from their master's home as they pleased.{{sfnp|Ch'ü|1972|pp=127–128}} [[Traditional Chinese medicine|Medical physicians]], pig breeders, and [[butcher]]s had a fairly high social status, while [[Divination|occultist diviners]], runners, and messengers had low status.<ref>{{harvp|Csikszentmihalyi|2006|pp=172–173, 179–180}}; {{harvp|Ch'ü|1972|pp=106, 122–127}}.</ref>
+
+===Marriage, gender, and kinship===
+{{See also|Women in ancient and imperial China#Han dynasty|label 1=Women in Han China}}
+The Han-era family was [[Patrilineality|patrilineal]] and typically had four to five [[nuclear family]] members living in one household. 
+
+77. 
+1 at [[Mawangdui]], [[Changsha]], [[Hunan]] province, China, 2nd century BC| footer_align = left | image1 = Silk from Mawangdui 2.jpg | width1 = 200 | caption1  = | image2 = Silk from Mawangdui.jpg | width2 = 200 | caption2  = }}
+
+The types of clothing worn and the materials used during the Han period depended upon social class. 
+
+78. 
+Multiple generations of [[extended family]] members did not occupy the same house, unlike families of later dynasties.<ref>{{harvp|Hinsch|2002|pp=46–47}}; {{harvp|Ch'ü|1972|pp=3–9}}.</ref> According to [[Confucianism|Confucian family norms]], various family members were treated with different levels of respect and intimacy. 
+
+79. 
+Wealthy folk could afford [[silk]] robes, skirts, socks, and mittens, coats made of [[Fur clothing|badger or fox fur]], duck plumes, and [[slippers]] with inlaid leather, [[pearl]]s, and silk lining. 
+
+80. 
+  }}
+* {{citation
+  | surname = Needham | given = Joseph | author-mask = 3
+  | title = Science and Civilization in China: Volume 3; Mathematics and the Sciences of the Heavens and the Earth
+  | location = Taipei | publisher = Caves Books
+  | year = 1986a
+  | isbn = 978-0-521-05801-8
+  | postscript = . 
+
+81. 
+  }}
+* {{citation
+  | surname = Needham | given = Joseph | author-mask = 3
+  | title = Science and Civilization in China: Volume 4, Physics and Physical Technology, Part 3, Civil Engineering and Nautics
+  | location = Taipei | publisher = Caves Books
+  | year = 1986d
+  | isbn = 978-0-521-07060-7
+  | postscript = . 
+
+82. 
+Other agricultural cultivators were of a lower status, such as [[Leasehold estate|tenants]], [[Day labor|wage laborers]], and in rare cases slaves.<ref>{{harvp|Ch'ü|1972|pp=104–111}}; {{harvp|Nishijima|1986|pp=556–557}}; {{harvp|Ebrey|1986|pp=621–622}}; {{harvp|Ebrey|1974|pp=173–174}}.</ref> [[Artisan]]s, [[technician]]s, [[tradespeople]] and craftsmen had a legal and [[socioeconomic status]] between that of owner-cultivator farmers and common [[merchant]]s.{{sfnp|Ch'ü|1972|p=112}} State-registered merchants, who were forced by law to wear white-colored clothes and pay high commercial taxes, were considered by the gentry as social parasites with a contemptible status.<ref>{{harvp|Ch'ü|1972|pp=104–105, 119–120}}; {{harvp|Nishijima|1986|pp=576–577}}.</ref> These were often petty shopkeepers of urban marketplaces; merchants such as industrialists and itinerant traders working between a network of cities could avoid registering as merchants and were often wealthier and more powerful than the vast majority of government officials.<ref>{{harvp|Nishijima|1986|pp=576–577}}; {{harvp|Ch'ü|1972|pp=114–117}}.</ref> Wealthy landowners, such as nobles and officials, often provided lodging for retainers who provided valuable work or duties, sometimes including fighting bandits or riding into battle. 
+
+83. 
+The Qin united the Chinese [[Warring States period|Warring States]] by conquest, but their regime became unstable after the death of the first emperor [[Qin Shi Huang]]. 
+
+84. 
+This Central government issuance of coinage was overseen by the [[Government of the Han dynasty#Superintendent of Waterways and Parks|Superintendent of Waterways and Parks]], this duty being transferred to the Minister of Finance during Eastern Han.<ref>{{harvp|Nishijima|1986|pp=587–588}}; {{harvp|Bielenstein|1980|pp=47, 83}}.</ref>
+
+===Taxation and property===
+Aside from the landowner's [[Land value tax#History|land tax]] paid in a portion of their [[crop yield]], the [[Tax per head|poll tax]] and [[property tax]]es were paid in coin cash.{{sfnp|Nishijima|1986|pp=600–601}} The annual poll tax rate for adult men and women was 120 coins and 20 coins for minors. 
+
+85. 
+Dong was a scholar and minor official who aggregated the ethical Confucian ideas of [[Li (Confucian)|ritual]], [[filial piety]], and [[Ren (Confucianism)|harmonious relationships]] with [[Wu Xing|five phases]] and [[Yin and yang|yin-yang]] cosmologies.<ref>{{harvp|Kramers|1986|pp=753–755}}; {{harvp|Loewe|1994|pp=134–140}}.</ref> Much to the interest of the ruler, Dong's synthesis justified the imperial system of government within the natural order of the universe.{{sfnp|Kramers|1986|p=754}} The Imperial University grew in importance as the student body grew to over 30,000 by the 2nd century AD.<ref>{{harvp|Ebrey|1999|pp=77–78}}; {{harvp|Kramers|1986|p=757}}.</ref> A Confucian-based education was also made available at commandery-level schools and [[private school]]s opened in small towns, where teachers earned respectable incomes from [[tuition]] payments.{{sfnp|Ch'ü|1972|p=103}}
+
+[[File:CMOC Treasures of Ancient China exhibit - fragment of Xiping stone classics.jpg|thumb|upright|A fragment of the 'Stone Classics' (熹平石經); these stone-carved [[Five Classics]] installed during [[Emperor Ling of Han|Emperor Ling's]] reign along the roadside of the [[Taixue|Imperial University]] (right outside [[Luoyang]]) were made at the instigation of [[Cai Yong]] (132–192 AD), who feared the Classics housed in the imperial library were being [[Interpolation (manuscripts)|interpolated]] by University Academicians.<ref>{{harvp|de Crespigny|2007|p=513}}; {{harvp|Barbieri-Low|2007|p=207}}; {{harvp|Huang|1988|p=57}}.</ref>]]
+
+Some important texts were created and studied by scholars. 
+
+86. 
+He presided over the [[Government of the Han dynasty|Han government]] but shared power with both [[Chinese nobility|the nobility]] and appointed ministers who came largely from the scholarly [[Gentry (China)|gentry class]]. 
+
+87. 
+The issuing of coinage remained a central government monopoly throughout the rest of the Han dynasty.<ref>{{harvp|Wagner|2001|pp=1–17}}; {{harvp|Loewe|1986|pp=160–161}}; {{harvp|Nishijima|1986|pp=581–588}}; {{harvp|Ebrey|1999|p=75}}; {{harvp|Morton|Lewis|2005|p=57}}; see also {{harvp|Hinsch|2002|pp=21–22}}.</ref> The government monopolies were eventually repealed when a political faction known as the Reformists gained greater influence in the court. 
+
+88. 
+  }}
+* {{citation
+  | surname = Yule | given = Henry |authorlink= Henry Yule
+  | year = 1915
+  | editor = Henri Cordier
+  | volume = 1
+  | title = Cathay and the Way Thither: Being a Collection of Medieval Notices of China, Vol I: Preliminary Essay on the Intercourse Between China and the Western Nations Previous to the Discovery of the Cape Route
+  | location = London | publisher = Hakluyt Society
+  | postscript = . 
+
+89. 
+After Yuan died, Cao killed Yuan Shao's son [[Yuan Tan]] (173–205 AD), who had fought with his brothers over the family inheritance.<ref name="beck 1986 351 352 crespigny 2007 36 37">{{harvp|Beck|1986|pp=351–352}}; {{harvp|de Crespigny|2007|pp=36–37}}.</ref> His brothers [[Yuan Shang]] and [[Yuan Xi]] were killed in 207 AD by [[Gongsun Kang]] (d.&nbsp;221 AD), who sent their heads to Cao Cao.<ref name="beck 1986 351 352 crespigny 2007 36 37"/>
+
+After Cao's defeat at the naval [[Battle of Red Cliffs]] in 208 AD, China was divided into three spheres of influence, with Cao Cao dominating the north, [[Sun Quan]] (182–252 AD) dominating the south, and [[Liu Bei]] (161–223 AD) dominating the west.<ref>{{harvp|Beck|1986|p=352}}; {{harvp|de Crespigny|2007|p=37}}.</ref> Cao Cao died in March 220 AD. 
+
+90. 
+  }}
+* {{citation
+  | surname = An | given = Jiayao
+  | chapter = When glass was treasured in China
+  | pages = 79–94
+  | title = Silk Road Studies VII: Nomads, Traders, and Holy Men Along China's Silk Road
+  | editor-given1 = Annette L. 
+
+91. 
+  }}
+* {{citation
+  | surname = Zhang | given = Guangda
+  | chapter = The role of the Sogdians as translators of Buddhist texts
+  | pages = 75–78
+  | title = Silk Road Studies VII: Nomads, Traders, and Holy Men Along China's Silk Road
+  | editor-given1 = Annette L. 
+
+92. 
+When [[Cao Pi]], King of [[Cao Wei|Wei]], usurped the throne from [[Emperor Xian of Han|Emperor Xian]], the Han dynasty ceased to exist. 
+
+93. 
+  }}
+* {{citation
+  | surname = Barnes | given = Ian
+  | title = Mapping History: World History
+  | location = London | publisher = Cartographica
+  | year = 2007
+  | isbn = 978-1-84573-323-0
+  | postscript = . 
+
+94. 
+This decision was reversed in 186 BC by his widow [[Empress Lü Zhi|Grand Empress Dowager Lü Zhi]] (d. 
+
+95. 
+Yan was placed under house arrest, her relatives were either killed or exiled, and her eunuch allies were slaughtered.<ref>{{harvp|Bielenstein|1986|pp=284–285}}; {{harvp|de Crespigny|2007|pp=473–474, 582–583}}.</ref> The regent [[Liang Ji]] (d.&nbsp;159 AD), brother of [[Empress Liang Na]] (d.&nbsp;150 AD), had the brother-in-law of [[Empress Deng Mengnü|Consort Deng Mengnü]] (later empress) (d.&nbsp;165 AD) killed after Deng Mengnü resisted Liang Ji's attempts to control her. 
+
+96. 
+Xian was persuaded by [[Cao Cao]] (155–220 AD), then Governor of Yan Province in modern western [[Shandong]] and eastern [[Henan]], to move the capital to [[Xuchang]] in 196 AD.<ref>{{harvp|Beck|1986|pp=349–351}}; {{harvp|de Crespigny|2007|p=36}}.</ref>
+
+Yuan Shao challenged Cao Cao for control over the emperor. 
+
+97. 
+The year of training was served in one of three branches of the armed forces: [[infantry]], [[cavalry]] or [[navy]].<ref name="Nishijima 1986">{{harvp|Nishijima|1986|p=599}}; {{harvp|Bielenstein|1980|p=114}}.</ref> The year of active service was served either on the frontier, in a king's court or under the Minister of the Guards in the capital. 
+
+98. 
+  | doi = 10.2307/3249129
+ }}
+* {{citation
+  | surname = Chang | given = Chun-shu
+  | title = The Rise of the Chinese Empire: Volume II; Frontier, Immigration, & Empire in Han China, 130 B.C. 
+
+99. 
+The Eastern Han court favored the recruitment of a [[volunteer military|volunteer army]].{{sfnp|de Crespigny|2007|pp=564–565, 1234}} The volunteer army comprised the Southern Army (''Nanjun'' 南軍), while the [[standing army]] stationed in and near the capital was the Northern Army (''Beijun'' 北軍).{{sfnp|Bielenstein|1980|pp=114–115}} Led by Colonels (''Xiaowei'' 校尉), the Northern Army consisted of five regiments, each composed of several thousand soldiers.<ref>{{harvp|de Crespigny|2007|p=1234}}; {{harvp|Bielenstein|1980|pp=117–118}}.</ref> When central authority collapsed after 189 AD, wealthy landowners, members of the aristocracy/nobility, and regional military-governors relied upon their retainers to act as their own personal troops (''buqu'' 部曲).{{sfnp|Ch'ü|1972|pp=132–133}}
+
+During times of war, the volunteer army was increased, and a much larger [[militia]] was raised across the country to supplement the Northern Army. 
+
+100. 
+From the reign of [[Emperor Wu of Han|Emperor Wu]] (r.&nbsp;141–87 BC) onward, the Chinese court officially sponsored [[Confucianism]] in education and court politics, synthesized with the [[cosmology]] of later scholars such as [[Dong Zhongshu]]. 
+
+101. 
+In that year, the Han court established four new frontier commanderies in this region: [[Jiuquan]], [[Zhangyi]], [[Dunhuang]], and [[Wuwei, Gansu|Wuwei]].<ref>{{harvp|Chang|2007|pp=5–8}}; {{harvp|Di Cosmo|2002|pp=241–242}}; {{harvp|Yü|1986|p=391}}.</ref> The majority of people on the frontier were soldiers.{{sfnp|Chang|2007|pp=34–35}} On occasion, the court forcibly moved peasant farmers to new frontier settlements, along with government-owned slaves and convicts who performed hard labor.{{sfnp|Chang|2007|pp=6, 15–16, 44–45}} The court also encouraged [[commoner]]s, such as farmers, merchants, landowners, and hired laborers, to voluntarily migrate to the frontier.{{sfnp|Chang|2007|pp=15–16, 33–35, 42–43}}
+
+Even before Han's expansion into Central Asia, diplomat [[Zhang Qian]]'s travels from 139 to 125 BC had established Chinese contacts with many surrounding civilizations. 
+
+102. 
+The minimum age for the military draft was reduced to twenty after [[Emperor Zhao of Han|Emperor Zhao's]] (r.&nbsp;87–74 BC) reign.{{sfnp|Chang|2007|pp=70–71}} Conscripted soldiers underwent one year of training and one year of service as non-professional soldiers. 
+
+103. 
+This created two rival Xiongnu states: the Southern Xiongnu led by Bi, an ally of Han, and the Northern Xiongnu led by Punu, an enemy of Han.<ref>{{harvp|Bielenstein|1986|pp=237–238}}; {{harvp|Yü|1986|pp=399–400}}.</ref>
+
+During the turbulent reign of Wang Mang, China lost control over the Tarim Basin, which was conquered by the Northern Xiongnu in AD 63 and used as a base to invade the Hexi Corridor in [[Gansu]].{{sfnp|Yü|1986|pp=413–414}} [[Dou Gu]] (d.&nbsp;88 AD) defeated the Northern Xiongnu at the [[Battle of Yiwulu]] in AD 73, evicting them from [[Turpan]] and chasing them as far as [[Barkol Kazakh Autonomous County|Lake Barkol]] before establishing a garrison [[Hami Prefecture|at Hami]].{{sfnp|Yü|1986|pp=414–415}} After the new Protector General of the Western Regions [[Chen Mu]] (d.&nbsp;AD 75) was killed by allies of the Xiongnu in [[Karasahr]] and [[Kucha]], the garrison at Hami was withdrawn.<ref>{{harvp|Yü|1986|pp=414–415}}; {{harvp|de Crespigny|2007|p=73}}.</ref> At the [[Battle of Ikh Bayan]] in AD 89, [[Dou Xian]] (d.&nbsp;AD 92) defeated the [[Northern Chanyu (1st century)|Northern Xiongnu chanyu]] who then retreated into the [[Altai Mountains]].<ref>{{harvp|Yü|1986|pp=414–415}}; {{harvp|de Crespigny|2007|p=171}}.</ref> After the Northern Xiongnu fled into the [[Ili River]] valley in AD 91, the nomadic [[Xianbei]] occupied the area from the borders of the [[Buyeo Kingdom]] in Manchuria to the Ili River of the [[Wusun]] people.{{sfnp|Yü|1986|pp=405, 443–444}} The Xianbei reached their apogee under Tanshihuai (檀石槐) (d.&nbsp;AD 180), who consistently defeated Chinese armies. 
+
+104. 
+After 92 AD, the palace [[eunuch (court official)|eunuchs]] increasingly involved themselves in court politics, engaging in violent power struggles between the various [[consort clan]]s of the empresses and [[empress dowager|empresses dowager]], causing the Han's ultimate downfall. 
+
+105. 
+There, in a written petition to Empress He, they demanded the eunuchs' execution.{{sfnp|Beck|1986|pp=339–344}} After a period of hesitation, Empress He consented. 
+
+106. 
+3<sup>53</sup>/2<sup>84</sup>).<ref>{{harvp|McClain|Ming|1979|p=212}}; {{harvp|Needham|1986b|pp=218–219}}.</ref>
+
+===Astronomy===
+Mathematics were essential in drafting the [[Chinese calendar|astronomical calendar]], a [[lunisolar calendar]] that used the Sun and Moon as time-markers throughout the year.<ref>{{harvp|Cullen|2006|p=7}}; {{harvp|Lloyd|1996|p=168}}.</ref> During the spring and autumn periods of the 5th century BCE, the Chinese established the Sifen calendar (古四分历), which measured the [[tropical year]] at 365<sup>1</sup>⁄<sub>4</sub> days. 
+
+107. 
+25 AD) was chosen as the heir and Wang Mang was appointed to serve as acting emperor for the child.{{sfnp|Bielenstein|1986|pp=227–230}} Wang promised to relinquish his control to Liu Ying once he came of age.{{sfnp|Bielenstein|1986|pp=227–230}} Despite this promise, and against protest and revolts from the nobility, Wang Mang claimed on 10 January that the divine [[Mandate of Heaven]] called for the end of the Han dynasty and the beginning of his own: the [[Xin dynasty]] (9–23 AD).<ref>{{harvp|Hinsch|2002|pp=23–24}}; {{harvp|Bielenstein|1986|pp=230–231}}; {{harvp|Ebrey|1999|p=66}}.</ref>
+
+Wang Mang initiated a series of major reforms that were ultimately unsuccessful. 
+
+108. 
+  }}
+* {{citation
+  | surname = Cutter | given = Robert Joe
+  | title = The Brush and the Spur: Chinese Culture and the Cockfight
+  | location = Hong Kong | publisher = The Chinese University of Hong Kong
+  | year = 1989
+  | isbn = 978-962-201-417-6
+  | postscript = . 
+
+109. 
+Within four years, the dynasty's authority had collapsed in the face of rebellion.{{sfnp|Ebrey|1999|pp=60–61}} Two former rebel leaders, [[Xiang Yu]] (d.&nbsp;202 BC) of [[Kingdom of Chu|Chu]] and [[Liu Bang]] (d.&nbsp;195 BC) of [[Hanzhong|Han]], engaged [[Chu-Han contention|in a war]] to decide who would become [[wikt:hegemony|hegemon]] of China, which had fissured into [[Eighteen Kingdoms|18 kingdoms]], each claiming allegiance to either Xiang Yu or Liu Bang.{{sfnp|Loewe|1986|pp=116–122}} Although Xiang Yu proved to be an effective commander, Liu Bang defeated him at [[Battle of Gaixia]] (202 BC), in modern-day [[Anhui]]. 
+
+110. 
+In 167 AD, the Grand Commandant [[Dou Wu]] (d.&nbsp;168 AD) convinced his son-in-law, Emperor Huan, to release them.{{sfnp|de Crespigny|2007|p=602}} However the emperor permanently barred Li Ying and his associates from serving in office, marking the beginning of the [[Disasters of Partisan Prohibitions|Partisan Prohibitions]].{{sfnp|de Crespigny|2007|p=602}}
+
+Following Huan's death, Dou Wu and the Grand Tutor Chen Fan ({{lang|zh-hant|陳蕃}}) (d.&nbsp;168 AD) attempted a [[coup d'état]] against the eunuchs [[Hou Lan]] (d.&nbsp;172 AD), [[Cao Jie (eunuch)|Cao Jie]] (d.&nbsp;181 AD), and Wang Fu ({{lang|zh|王甫}}). 
+
+111. 
+This kept many peasants away from their farms and denied the government a significant portion of its land tax revenue.<ref>{{harvp|Needham|1986c|p=22}}; {{harvp|Nishijima|1986|pp=583–584}}.</ref> To eliminate the influence of such private entrepreneurs, Emperor Wu nationalized the salt and iron industries in 117 BC and allowed many of the former industrialists to become officials administering the state monopolies.<ref>{{harvp|Nishijima|1986|p=584}}; {{harvp|Wagner|2001|pp=1–2}}; {{harvp|Hinsch|2002|pp=21–22}}.</ref> By Eastern Han times, the central government monopolies were repealed in favor of production by commandery and county administrations, as well as private businessmen.<ref>{{harvp|Nishijima|1986|p=584}}; {{harvp|Wagner|2001|pp=15–17}}.</ref>
+
+[[Liquor]] was another profitable private industry nationalized by the central government in 98 BC. 
+
+112. 
+However, when his title was changed to Minister of Works in 8 BC, his chief duty became oversight of public works projects.<ref>{{harvp|Wang|1949|pp=147–148}}; {{harvp|Bielenstein|1980|pp=8–9, 15–16}}.</ref>
+
+[[File:Basket from Lo-lang.jpg|thumb|left|A scene of historic paragons of filial piety conversing with one another, Chinese painted artwork on a [[Lacquerware|lacquered]] basketwork box, excavated from an Eastern-Han tomb of what was the Chinese [[Lelang Commandery]] in modern [[North Korea]]]]
+
+The Grand Commandant, whose title was changed to Grand Marshal in 119 BC before reverting to Grand Commandant in 51 AD, was the irregularly posted commander of the military and then [[regent]] during the Western Han period. 
+
+113. 
+Cambridge University Press: 38.</ref> The standard papermaking process was invented by [[Cai Lun]] (AD 50–121) in 105.<ref>{{harvp|Needham|Tsien|1986|pp=1–2, 40–41, 122–123, 228}}; {{harvp|Day|McNeil|1996|p=122}}.</ref> The oldest known surviving piece of paper with writing on it was found in the ruins of a Han [[watchtower]] that had been abandoned in AD 110, in [[Inner Mongolia]].{{sfnp|Cotterell|2004|p=11}}
+
+===Metallurgy and agriculture===
+Evidence suggests that [[blast furnace]]s, that convert raw [[iron ore]] into [[pig iron]], which can be remelted in a [[cupola furnace]] to produce [[cast iron]] by means of a [[cold blast]] and [[hot blast]], were operational in China by the late [[Spring and Autumn period]] (722–481 BC).<ref>{{harvp|Wagner|2001|pp=7, 36–37, 64–68, 75–76}}; {{harvp|Pigott|1999|pp=183–184}}.</ref> The [[bloomery]] was nonexistent in ancient China; however, the Han-era Chinese produced [[wrought iron]] by injecting excess [[oxygen]] into a furnace and causing [[decarburization]].{{sfnp|Pigott|1999|pp=177, 191}} Cast iron and pig iron could be converted into wrought iron and [[steel]] using a [[finery forge|fining]] process.<ref>{{harvp|Wang|1982|p=125}}; {{harvp|Pigott|1999|p=186}}.</ref>
+
+[[File:Iron scissors, E Han.JPG|thumb|upright|left|A pair of Eastern-Han iron [[scissors]]]]
+
+The Han dynasty Chinese used bronze and iron to make a range of weapons, culinary tools, carpenters' tools and domestic wares.<ref>{{harvp|Wagner|1993|p=336}}; {{harvp|Wang|1982|pp=103–105, 122–124}}.</ref> A significant product of these improved iron-smelting techniques was the manufacture of new agricultural tools. 
+
+114. 
+The administration of each kingdom was very similar to that of the central government.<ref>{{harvp|Hsu|1965|p=360}}; {{harvp|Bielenstein|1980|pp=105–106}}; {{harvp|Loewe|1986|p=126}}.</ref> Although the emperor appointed the Chancellor of each kingdom, kings appointed all the remaining civil officials in their fiefs.<ref>{{harvp|Hsu|1965|p=360}}; {{harvp|Bielenstein|1980|pp=105–106}}.</ref>
+
+However, in 145 BC, after several insurrections by the kings, Emperor Jing removed the kings' rights to appoint officials whose [[Government of the Han dynasty#Salaries|salaries were higher than 400 bushels]].{{sfnp|Bielenstein|1980|pp=105–106}} The Imperial Counselors and Nine Ministers (excluding the Minister Coachman) of every kingdom were abolished, although the Chancellor was still appointed by the central government.{{sfnp|Bielenstein|1980|pp=105–106}}
+
+With these reforms, kings were reduced to being nominal heads of their fiefs, gaining a personal income from only a portion of the taxes collected in their kingdom.{{sfnp|Ch'ü|1972|p=76}} Similarly, the officials in the administrative staff of a full marquess's fief were appointed by the central government. 
+
+115. 
+The chain pump was first mentioned in China by the philosopher Wang Chong in his 1st-century ''[[Lunheng|Balanced Discourse]]''.{{sfnp|Needham|1986c|pp=89, 110, 342–344}}
+
+The [[armillary sphere]], a three-dimensional representation of the movements in the [[celestial sphere]], was invented in Han China by the 1st century BC.{{sfnp|Needham|1986a|p=343}} Using a [[water clock]], waterwheel and a series of gears, the Court Astronomer [[Zhang Heng]] (AD 78–139) was able to mechanically rotate his metal-ringed armillary sphere.<ref>{{harvp|de Crespigny|2007|p=1050}}; {{harvp|Needham|1986c|pp=30, 479 footnote e}}; {{harvp|Morton|Lewis|2005|p=70}}; {{harvp|Bowman|2000|p=595}}.</ref> To address the problem of slowed [[timekeeping]] in the [[pressure head]] of the inflow water clock, Zhang was the first in China to install an additional tank between the reservoir and inflow vessel.<ref>{{harvp|de Crespigny|2007|p=1050}}; {{harvp|Needham|1986c|p=479 footnote e}}.</ref> Zhang also invented a device he termed an "earthquake weathervane" (''houfeng didong yi'' 候風地動儀), which the British biochemist, sinologist, and historian [[Joseph Needham]] described as "the ancestor of all [[seismographs]]".<ref>Cited in {{harvp|Fraser|2014|p=375}}.</ref> This device was able to detect the exact [[Cardinal direction|cardinal]] or ordinal direction of [[earthquake]]s from hundreds of kilometers away.<ref>{{harvp|de Crespigny|2007|p=1050}}; {{harvp|Fraser|2014|p=375}}; {{harvp|Morton|Lewis|2005|p=70}}.</ref> It employed an [[inverted pendulum]] that, when disturbed by ground tremors, would trigger a set of gears that dropped a metal ball from one of eight dragon mouths (representing all eight directions) into a metal toad's mouth.{{sfnp|Needham|1986a|pp=626–631}}  The account of this device in the ''[[Book of the Later Han]]'' describes how, on one occasion, one of the metal balls was triggered without any of the observers feeling a disturbance. 
+
+116. 
+His rival claimant to the throne, [[Zhizhi Chanyu]] (r.&nbsp;56–36 BC), was killed by [[Chen Tang]] and Gan Yanshou (甘延壽/甘延寿) at the [[Battle of Zhizhi]], in modern [[Taraz]], [[Kazakhstan]].<ref>{{harvp|Loewe|1986|pp=196–197, 211–213}}; {{harvp|Yü|1986|pp=395–398}}.</ref>
+
+In 121 BC, Han forces expelled the Xiongnu from a vast territory spanning the [[Hexi Corridor]] to [[Lop Nur]]. 
+
+117. 
+These monopolies included salt, [[History of ferrous metallurgy|iron]], and [[Chinese alcoholic beverages|liquor]] production, as well as [[Ancient Chinese coinage|bronze-coin currency]]. 
+
+118. 
+Commonly hunted game, such as owl, pheasant, magpie, [[sika deer]], and [[Chinese bamboo partridge]] were consumed.{{sfnp|Wang|1982|pp=57–58}} Seasonings included sugar, honey, salt and [[soy sauce]].{{sfnp|Hansen|2000|pp=119–121}} [[Chinese alcoholic beverages|Beer and wine]] were regularly consumed.<ref>{{harvp|Wang|1982|p=206}}; {{harvp|Hansen|2000|p=119}}.</ref>
+
+===Clothing===
+{{further|Hanfu}}
+
+{{multiple image| align = right | direction = horizontal | header = | header_align = left/right/center | footer = Woven [[silk]] textiles from Tomb No. 
+
+119. 
+The distillation furnaces were heated by [[natural gas]] funneled to the surface through [[Pipeline transport|bamboo pipelines]].<ref>{{harvp|Loewe|1968|pp=191–194}}; {{harvp|Tom|1989|p=103}}; {{harvp|Ronan|1994|p=91}}.</ref> These boreholes perhaps reached a depth of 600&nbsp;m (2000&nbsp;ft).<ref>{{harvp|Loewe|1968|pp=193–194}}</ref>
+
+===Mechanical and hydraulic engineering===
+[[File:Winnowing machine and tilt hammer.JPG|thumb|A Han-dynasty pottery model of two men operating a [[Fengshanche|winnowing machine]] with a [[Crank (mechanism)|crank handle]] and a [[Trip hammer|tilt hammer]] used to pound grain.]]
+
+Han-era mechanical engineering comes largely from the choice observational writings of sometimes-disinterested Confucian scholars who generally considered scientific and engineering endeavors to be far beneath them.{{sfnp|Fraser|2014|p=370}} Professional artisan-engineers (''jiang'' 匠) did not leave behind detailed records of their work.<ref>{{harvp|Needham|1986c|pp=2, 9}}; see also {{harvp|Barbieri-Low|2007|p=36}}.</ref> Han scholars, who often had little or no expertise in mechanical engineering, sometimes provided insufficient information on the various technologies they described.{{sfnp|Needham|1986c|p=2}} Nevertheless, some Han literary sources provide crucial information. 
+
+120. 
+This was in revenge for Dou's purging of the clan of his natural mother—[[Consort Liang]]—and then concealing her identity from him.<ref>{{harvp|Bielenstein|1986|pp=280–283}}; {{harvp|de Crespigny|2007|pp=499, 588–589}}.</ref> After Emperor He's death, his wife [[Empress Deng Sui]] (d.&nbsp;121 AD) managed state affairs as the regent empress dowager during a turbulent financial crisis and widespread Qiang rebellion that lasted from 107 to 118 AD.<ref>{{harvp|Bielenstein|1986|pp=283–284}}; {{harvp|de Crespigny|2007|pp=123–127}}.</ref>
+
+When Empress Dowager Deng died, [[Emperor An of Han|Emperor An]] (r.&nbsp;106–125 AD) was convinced by the accusations of the eunuchs Li Run ({{lang|zh-hant|李閏}}) and Jiang Jing ({{lang|zh|江京}}) that Deng and her family had planned to depose him. 
+
+121. 
+He escorted them safely back to the capital and was made [[Government of the Han dynasty#Excellency of Works|Minister of Works]], taking control of Luoyang and forcing Yuan Shao to flee.{{sfnp|Beck|1986|pp=345–346}} After Dong Zhuo demoted Emperor Shao and promoted his brother Liu Xie as Emperor Xian, Yuan Shao led a coalition of former officials and officers against Dong, who burned Luoyang to the ground and resettled the court at Chang'an in May 191 AD. 
+
+122. 
+Afterward, Emperor Huan employed eunuchs to depose Liang Ji, who was then forced to commit suicide.<ref>{{harvp|Bielenstein|1986|pp=285–286}}; {{harvp|de Crespigny|2007|pp=597–598}}.</ref>
+
+[[File:Han Dynasty Granary west of Dunhuang.jpg|thumb|These [[rammed earth]] ruins of a [[granary]] in Hecang Fortress ({{zh|t=河仓城 |p=Hécāng chéng}}), located ~11 km (7 miles) northeast of the Western-Han-era [[Yumen Pass]], were built during the [[Western Han]] (202 BC–9 AD) and significantly rebuilt during the [[Western Jin]] (280–316 AD).{{sfnp|Wang|Li|Zhang|2010|pp=351–352}}]]
+Students from the [[Taixue|Imperial University]] organized a widespread [[student protest]] against the eunuchs of Emperor Huan's court.{{sfnp|Hansen|2000|p=141}} Huan further alienated the bureaucracy when he initiated grandiose construction projects and hosted thousands of [[concubine]]s in his [[harem]] at a time of economic crisis.<ref>{{harvp|de Crespigny|2007|pp=597, 599, 601–602}}; {{harvp|Hansen|2000|pp=141–142}}.</ref> Palace eunuchs imprisoned the official Li Ying ({{lang|zh-hant|李膺}}) and his associates from the Imperial University on a dubious charge of treason. 
+
+123. 
+110 BC) and his son [[Sima Qian]] (145–86 BC) [[Chinese historiography|established the standard model]] for all of imperial China's [[Twenty-Four Histories|Standard Histories]], such as the ''[[Book of Han]]'' written by [[Ban Biao]] (3–54 AD), his son [[Ban Gu]] (32–92 AD), and his daughter [[Ban Zhao]] (45–116 AD).<ref>{{harvp|Hardy|1999|pp=14–15}}; {{harvp|Hansen|2000|pp=137–138}}.</ref> There were [[Chinese dictionaries|dictionaries]] such as the ''[[Shuowen Jiezi]]'' by [[Xu Shen]] (c. 
+
+124. 
+However, state organs with competing interests and institutions such as the court conference (''tingyi'' 廷議)—where ministers were convened to reach [[Consensus decision-making|majority consensus]] on an issue—pressured the emperor to accept the advice of his ministers on policy decisions.<ref>{{harvp|Bielenstein|1980|p=144}}; {{harvp|Wang|1949|pp=173–177}}.</ref> If the emperor rejected a court conference decision, he risked alienating his high ministers. 
+
+125. 
+Negative numbers first appeared in the ''Nine Chapters on the Mathematical Art'' as black [[counting rods]], where positive numbers were represented by red counting rods.{{sfnp|Liu|Feng|Jiang|Zheng|2003|pp=9–10}} Negative numbers were also used by the [[Greece|Greek]] mathematician [[Diophantus]] around AD 275, and in the 7th-century [[Bakhshali manuscript]] of [[Gandhara]], South Asia,{{sfnp|Teresi|2002|pp=65–66}} but were not widely accepted in Europe until the 16th century.{{sfnp|Liu|Feng|Jiang|Zheng|2003|pp=9–10}}
+[[File:Mold for bronze gear Han dynasty.jpg|thumb|left|A Han-dynasty era [[Molding (process)|mold]] for making bronze [[gear]] wheels ([[Shanghai Museum]])]]
+
+The Han applied mathematics to various diverse disciplines. 
+
+126. 
+However the emperor was often a minor, ruled over by a [[regent]] such as the [[empress dowager]] or one of her male relatives.{{sfnp|Ch'ü|1972|pp=66–72}} Ranked immediately below the emperor were [[Kings of the Han dynasty|the kings]] who were of the same [[Liu]] family clan.<ref>{{harvp|Ch'ü|1972|p=76}}; {{harvp|Bielenstein|1980|pp=105–107}}.</ref> The rest of society, including [[Chinese nobility|nobles]] lower than kings and all commoners excluding [[slave]]s belonged to one of twenty ranks (''ershi gongcheng'' {{lang|zh|二十公乘}}). 
+
+127. 
+The Xiongnu leader Huhanye Chanyu (呼韓邪) (r.&nbsp;58–31 BC) finally submitted to Han as a tributary vassal in 51 BC. 
+
+128. 
+He abolished all academic chairs or erudites (''bóshì'' 博士) not dealing with the Confucian [[Five Classics]] in 136 BC and encouraged nominees for office to receive a Confucian-based education at the [[Taixue|Imperial University]] that he established in 124 BC.<ref>{{harvp|Kramers|1986|pp=754–756}}; {{harvp|Csikszentmihalyi|2006|pp=7–8}}; {{harvp|Loewe|1994|pp=121–125}}; {{harvp|Ch'en|1986|p=769}}.</ref> Unlike the original ideology espoused by [[Confucius]], or Kongzi (551–479 BC), Han Confucianism in Emperor Wu's reign was the creation of [[Dong Zhongshu]] (179–104 BC). 
+
+129. 
+180 BC), who abolished private minting.{{sfnp|Nishijima|1986|p=586}} In 182 BC, Lü Zhi issued a bronze coin that was much lighter in weight than previous coins. 
+
+130. 
+For example, in 15 BC the philosopher and writer [[Yang Xiong (author)|Yang Xiong]] described the invention of the [[Belt (mechanical)|belt drive]] for a [[quilling]] machine, which was of great importance to early textile manufacturing.{{sfnp|Needham|1988|pp=207–208}} The inventions of mechanical engineer and craftsman [[Ding Huan]] (丁緩) are mentioned in the ''Miscellaneous Notes on the Western Capital''.{{sfnp|Barbieri-Low|2007|p=197}} Around AD 180, Ding created a manually operated rotary fan used for [[air conditioning]] within palace buildings.{{sfnp|Needham|1986c|pp=99, 134, 151, 233}} Ding also used [[gimbal]]s as pivotal supports for one of his incense burners and invented the world's first known [[zoetrope]] lamp.{{sfnp|Needham|1986b|pp=123, 233–234}}
+
+Modern archaeology has led to the discovery of Han artwork portraying inventions which were otherwise absent in Han literary sources. 
+
+131. 
+The highest government officials could be [[Enfeoffment|enfeoffed]] as marquesses.{{sfnp|Ch'ü|1972|p=84}} By the Eastern Han period, local elites of unattached scholars, teachers, students, and government officials began to identify themselves as members of a larger, nationwide [[Gentry (China)|gentry class]] with shared values and a commitment to mainstream scholarship.<ref>{{harvp|Ebrey|1986|pp=631, 643–644}}; {{harvp|Ebrey|1999|p=80}}.</ref> When the government became noticeably corrupt in mid-to-late Eastern Han, many gentrymen even considered the cultivation of morally grounded personal relationships more important than serving in public office.<ref>{{harvp|Hansen|2000|pp=141–142}}; {{harvp|de Crespigny|2007|pp=601–602}}.</ref>
+
+The [[farmer]], or specifically the small landowner-cultivator, was ranked just below scholars and officials in the social hierarchy. 
+
+132. 
+14, 2004)
+
+{{s-start}}
+{{s-bef|before=[[Qin dynasty]]}}
+{{s-ttl|title=[[Dynasties in Chinese history]]|years=206 BC – AD 220}}
+{{s-aft|after=[[Three Kingdoms]]}}
+{{s-end}}
+{{Han dynasty topics}}
+{{Empires}}
+{{Portal bar|China|History}}
+{{Authority control}}
+
+[[Category:Han dynasty| ]]
+[[Category:States and territories established in the 3rd century BC]]
+[[Category:States and territories disestablished in the 3rd century]]
+[[Category:1st century BC in China|.]]
+[[Category:1st century in China|.]]
+[[Category:2nd century BC in China|.]]
+[[Category:2nd century in China|.]]
+[[Category:200s BC establishments]]
+[[Category:206 BC]]
+[[Category:220 disestablishments]]
+[[Category:3rd-century BC establishments in China]]
+[[Category:3rd-century disestablishments in China]]
+[[Category:3rd century BC in China|.]]
+[[Category:Dynasties in Chinese history]]
+[[Category:Former countries in Chinese history]]. 
+
+133. 
+9–23 AD) reign]]
+
+The [[Gengshi Emperor]] (r.&nbsp;23–25 AD), a descendant of [[Emperor Jing of Han|Emperor Jing]] (r.&nbsp;157–141 BC), attempted to restore the Han dynasty and occupied Chang'an as his capital. 
+
+134. 
+Emperor Wu accepted this, despite continuing Xiongnu raids.<ref>{{harvp|Torday|1997|pp=83–84}}; {{harvp|Yü|1986|pp=389–390}}.</ref> However, a court conference the following year convinced the majority that a [[Battle of Mayi|limited engagement at Mayi]] involving the assassination of the Chanyu would throw the Xiongnu realm into chaos and benefit the Han.<ref>{{harvp|Yü|1986|pp=389–391}}; {{harvp|Di Cosmo|2002|pp=211–214}}.</ref> When this plot failed in 133 BC,{{sfnp|Torday|1997|pp=91–92}} Emperor Wu launched a series of [[Han–Xiongnu War|massive military invasions]] into Xiongnu territory. 
+
+135. 
+They believed that these items could be utilized by those in the spiritual realm.{{sfnp|Ch'ü|1972|pp=30–31}} It was thought that each person had a [[Hun and po|two-part soul]]: the spirit-soul (''hun'' 魂) which journeyed to the afterlife paradise of immortals (''[[Xian (Taoism)|xian]]''), and the body-soul (''po'' 魄) which remained in its grave or tomb on earth and was only reunited with the spirit-soul through a ritual ceremony.<ref>{{harvp|Hansen|2000|p=119}}; {{harvp|Csikszentmihalyi|2006|pp=140–141}}.</ref>
+
+In addition to his many other roles, the emperor acted as the highest priest in the land who made sacrifices to [[Tian|Heaven]], the main deities known as the [[Three Sovereigns and Five Emperors|Five Powers]], and the [[Shen (Chinese religion)|spirits]] (''shen'' 神) of mountains and rivers.{{sfnp|Ch'ü|1972|p=71}} It was believed that the three realms of Heaven, Earth, and Mankind were linked by natural cycles of [[yin and yang]] and the [[Wu Xing|five phases]].<ref>{{harvp|Loewe|1994|p=55}}; {{harvp|Csikszentmihalyi|2006|p=167}}; {{harvp|Sun|Kistemaker|1997|pp=2–3}}; {{harvp|Ebrey|1999|pp=78 79}}.</ref> If the emperor did not behave according to proper ritual, ethics, and morals, he could disrupt the fine balance of these cosmological cycles and cause calamities such as earthquakes, floods, droughts, epidemics, and swarms of locusts.<ref>{{harvp|Ebrey|1999|pp=78–79}}; {{harvp|Loewe|1986|p=201}}; {{harvp|de Crespigny|2007|pp=496, 592}}.</ref>
+
+[[File:Rubbing of a Han Citang.JPG|thumb|left|A rubbing of a Han pictorial stone showing an [[Ancestor worship|ancestral worship hall]] (''citang'' 祠堂)]]
+It was believed that [[immortality]] could be achieved if one reached the lands of the [[Queen Mother of the West]] or [[Mount Penglai]].<ref>{{harvp|Loewe|2005|pp=101–102}}; {{harvp|Csikszentmihalyi|2006|pp=116–117}}.</ref> Han-era [[Daoism|Daoists]] assembled into small groups of hermits who attempted to achieve immortality through breathing exercises, sexual techniques and use of [[Elixir of life|medical elixirs]].{{sfnp|Hansen|2000|p=144}} By the 2nd century AD, Daoists formed large hierarchical religious societies such as the [[Way of the Five Pecks of Rice]]. 
+
+136. 
+Other women helped on their brothers' farms or became singers, dancers, [[Witchcraft|sorceresses]], respected medical physicians, and successful merchants who could afford their own silk clothes.<ref>{{harvp|Ch'ü|1972|pp=54–56}}; {{harvp|Hinsch|2002|pp=29, 51, 54, 59–60, 65–68, 70–74, 77–78}}.</ref> Some women formed spinning collectives, aggregating the resources of several different families.{{sfnp|Hinsch|2002|p=29}}
+
+===Education, literature, and philosophy===
+{{multiple image
+| align = left
+| image1 = Holding Shield and Holding Broom tomb doors, 1 of 2, China, unearthed from Lanjia Yard, Pixian County, Sichuan, Eastern Han dynasty, 25-220 AD, stone - Sichuan Provincial Museum - Chengdu, China - DSC04745.jpg
+| width1 = 150
+| alt1 = 
+| caption1 = 
+| image2 = Holding Shield and Holding Broom tomb doors, 2 of 2, China, unearthed from Lanjia Yard, Pixian County, Sichuan, Eastern Han dynasty, 25-220 AD, stone - Sichuan Provincial Museum - Chengdu, China - DSC04747.jpg
+| width2 = 150
+| alt2 = 
+| caption2 = 
+| footer = Carved [[relief]]s on stone tomb doors showing men dressed in ''[[Hanfu]]'', with one holding a shield, the other a broom, [[Eastern Han Dynasty]] (25–220 AD), from Lanjia Yard, [[Pi County]], [[Sichuan province]], [[Sichuan Provincial Museum]] of [[Chengdu]]
+}}
+
+The early Western Han court simultaneously accepted the philosophical teachings of [[Legalism (Chinese philosophy)|Legalism]], [[Huang-Lao|Huang-Lao Daoism]], and [[Confucianism]] in making state decisions and shaping government policy.<ref>{{harvp|Csikszentmihalyi|2006|pp=24–25}}; {{harvp|Loewe|1994|pp=128–130}}.</ref> However, the Han court under [[Emperor Wu of Han|Emperor Wu]] gave Confucianism exclusive patronage. 
+
+137. 
+Her children would not be allowed to go with her.{{sfnp|Wiesner-Hanks|2011|p=30}}
+
+{{multiple image| align = left | direction = horizontal | header = | header_align = left/right/center | footer = '''Left image''': A [[Chinese ceramics|Han pottery]] female servant in [[Han Chinese clothing|silk robes]]<br /> '''Right image''': A Han pottery female dancer in silk robes| footer_align = left | image1 = Cernuschi Museum 20060812 069.jpg | width1 = 175 | caption1  = | image2 = Nswag, dinastia han, figurina dipinta di danzatrice.jpg| width2 = 125| caption2  = }}
+
+Apart from the passing of noble titles or ranks, [[inheritance]] practices did not involve [[primogeniture]]; each son received an equal share of the family property.{{sfnp|Ch'ü|1972|pp=16–17}} Unlike the practice in later dynasties, the father usually sent his adult married sons away with their portions of the family fortune.{{sfnp|Ch'ü|1972|pp=6–9}} Daughters received a portion of the family fortune through their [[dowry|marriage dowries]], though this was usually much less than the shares of sons.{{sfnp|Ch'ü|1972|pp=17–18}} A different distribution of the remainder could be specified in a [[last will and testament|will]], but it is unclear how common this was.{{sfnp|Ch'ü|1972|p=17}}
+
+Women were expected to obey the will of their father, then their husband, and then their adult son in old age. 

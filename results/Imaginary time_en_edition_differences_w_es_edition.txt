@@ -1,0 +1,93 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Imaginary time
+
+en edition's differences with the es version: 
+
+
+1. 
+* [http://theory.uchicago.edu/~sethi/Teaching/P221-F2008/DiracandGreenNotes%2808%29.pdf] - Lecture of the relationship twixt Green's function and the Dirac delta function
+* [http://www.wiese.itp.unibe.ch/lectures/fieldtheory.pdf] - Lecture on quantum field theory
+[[Category:Quantum mechanics]]. 
+
+2. 
+If we compare this with the partition function <math>\scriptstyle Z\ =\ \operatorname{Tr}\ e^{-\beta H}</math>  we see that to get the [[partition function (quantum field theory)|partition function]] from the transition amplitudes we can replace <math>\scriptstyle t\,=\,\beta/i</math>, set ''F''&nbsp;=&nbsp;''I''&nbsp;=&nbsp;''n'' and sum over ''n''. 
+
+3. 
+Hawking
+|title=A Brief History of Time
+|url=https://books.google.com/books?id=E7mEnx3zE4AC
+|edition=Tenth Anniversary Commemorative
+|year=1998|publisher=Bantam Books
+|language=English|isbn=978-0-553-10953-5
+|page=157}}
+*{{cite book
+  | last = Hawking
+  | first = Stephen
+  | authorlink = 
+  | coauthors = 
+  | title = The Universe in a Nutshell
+  | publisher = Bantam Books
+  | date = 2001
+  | location = United States & Canada
+  | pages = 58–61, 63, 82–85, 90–94, 99, 196
+  | url = 
+  | doi = 
+  | id = 
+  | isbn = 0-553-80202-X }}
+
+== Further reading ==
+* [https://www.amazon.com/dp/0306463385/ Gerald D. 
+
+4. 
+Since the Fourier transform of a function typically shows up as its inverse, the point particles of statistical mechanics become, under a Fourier transform, the infinitely extended harmonic oscillators of quantum field theory.<ref>Uwe-Jens Wiese, [http://www.wiese.itp.unibe.ch/lectures/fieldtheory.pdf "Quantum Field Theory"], Institute for Theoretical Physics, University of Bern, 21 August 2007, page 63.</ref> The [[Green's function]] of an inhomogeneous linear differential operator, defined on a domain with specified initial conditions or boundary conditions, is its impulse response, and mathematically we define the point particles of statistical mechanics as Dirac delta functions, which is to say impulses. 
+
+5. 
+It finds uses in connecting quantum mechanics with [[statistical mechanics]] and in certain [[cosmology|cosmological]] theories. 
+
+6. 
+185-203.</ref>
+
+== In quantum statistical mechanics ==
+The equations of the quantum field can be obtained by taking the Fourier transform of the equations of statistical mechanics. 
+
+7. 
+With all such singularities removed from the Universe it thus can have no boundary and Stephen Hawking has speculated that "the [[boundary condition]] to the Universe may be that it has no boundary". 
+
+8. 
+
+
+The connection between statistical mechanics and quantum field theory is also seen in the transition amplitude <math>\scriptstyle\langle F\mid e^{-itH}\mid I\rangle </math> between an initial state ''I'' and a final state&nbsp;''F'', where ''H''&nbsp;is the [[Hamiltonian (quantum mechanics)|Hamiltonian]] of that system. 
+
+9. 
+
+Finally by using a Wick rotation one can show that the Euclidean [[quantum field theory]] in (''D''&nbsp;+&nbsp;1)-dimensional spacetime is nothing but [[quantum statistical mechanics]] in ''D''-dimensional space. 
+
+10. 
+210 (footnote).</ref>}}
+
+== In cosmology ==
+In the [[Minkowski spacetime]] model adopted by the [[theory of relativity]], spacetime is represented as a four-dimensional surface or manifold. 
+
+11. 
+Any boundary to spacetime is a form of singularity, where the smooth nature of spacetime breaks down. 
+
+12. 
+
+Mathematically this is equivalent to writing 
+
+:<math>d^2 = x^2 + y^2 + z^2 + (it)^2</math>
+
+In this context, <math>i</math> may be either accepted as a feature of the relationship between space and real time, as above, or it may alternatively be incorporated into time itself, such that the value of <math>t</math> is itself an [[imaginary number]], and the equation rewritten in normalised form:
+
+:<math>d^2 = x^2 + y^2 + z^2 + t^2</math>
+
+Similarly its [[four vector]] may then be written as
+:<math>( x_0, x_1, x_2, x_3 )</math>
+where distances are represented as <math>x_n</math>, <math>c</math> is the [[velocity of light]] and <math>x_0 = ict</math>. 
+
+13. 
+Is the distinction just in our minds?|||[[Stephen Hawking]]<ref>Hawking (2001), p.59.</ref>}}
+
+In fact, the names "real" and "imaginary" for numbers are just a historical accident, much like the names "[[rational number|rational]]" and "[[irrational number|irrational]]":
+{{quote|...the words ''real'' and ''imaginary'' are picturesque relics of an age when the nature of [[complex number]]s was not properly understood.|||[[Harold Scott MacDonald Coxeter|H.S.M. 

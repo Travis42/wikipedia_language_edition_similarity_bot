@@ -1,0 +1,154 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Homo erectus
+
+en edition's differences with the ru version: 
+
+
+1. 
+ergaster'' controlled fire there between 790,000 and 690,000 years ago;<ref name="Rincon">{{cite news|first=Paul|last=Rincon|url=http://news.bbc.co.uk/2/hi/science/nature/3670017.stm | title=Early human fire skills revealed|work=[[BBC News]]|date=29 April 2004|accessdate=2007-11-12}}</ref> to date this claim has been widely accepted. 
+
+2. 
+erectus'' fossils show a [[Human cranium|cranial]] capacity greater than that of ''[[Homo habilis]]'' (although the Dmanisi specimens have distinctively small crania): the earliest fossils show a cranial capacity of 850&nbsp;cm³, while later Javan specimens measure up to 1100&nbsp;cm³,<ref name="Java Man">Swisher, Carl Celso III; Curtis, Garniss H. 
+
+3. 
+ergaster/erectus'' possibly deriving from a later dispersal.<ref name="Guimares">{{cite journal | vauthors = Giumares SW, Merino CL | title = Dmanisi hominin fossils and the problem of multiple species in the early Homo genus | journal = Nexus: The Canadian Student Journal of Anthropology | volume = 23 | date = September 2015 |url = https://pdfs.semanticscholar.org/0f43/cf9c1c394c7af01cf10160f164cdec6dd77b.pdf?_ga=2.180176804.168639711.1569914680-185920268.1569914680 }}</ref> ''H. 
+
+4. 
+erectus'' were probably the first human ancestor to live in small, familiar [[band societies|band-societies]] similar to modern hunter-gatherers,<ref>{{cite book |last=Boehm| first=Christopher |title=Hierarchy in the forest: the evolution of egalitarian behavior |publisher=Harvard University Press |location=Cambridge |year=1999|isbn=978-0-674-39031-7|url=https://books.google.com/books?id=ljxS8gUlgqgC&pg=PA198 |page=198}}</ref> and are thought to be the first to hunt in coordinated groups, to use complex tools, and to care for infirm or weak companions.{{Citation needed|date=January 2010}}
+
+==Fossils==
+The lower cave of the Zhoukoudian cave, China, is one of the most important archaeological sites worldwide.<ref name=":2">Zanolli, Clément, et al. 
+
+5. 
+It likely communicated in a [[Origin of language#Early Homo|proto-language]], lacking the fully developed structure of modern human language, but more developed than the non-verbal communication used by [[Common chimpanzee|chimpanzees]].<ref>{{cite book |last=Ruhlen |first=Merritt |title=The origin of language: tracing the evolution of the mother tongue |publisher=Wiley |location=New York |year=1994 |isbn=978-0-471-58426-1 |url=https://archive.org/details/originoflanguage00merr }}</ref> This inference is challenged by the find in [[Homo erectus#Homo erectus georgicus|Dmanisi]], Georgia, of a vertebra (at least 150,000 years earlier than the Turkana Boy) that reflects vocal capabilities within the range of ''H. 
+
+6. 
+The significance of this occurrence immediately suggested itself to him and turning to his companions, he exclaimed dramatically "Here is primitive man, now all we have to do is find him!"}}</ref> When describing the teeth, [[Davidson Black]] named it a new species ''Sinanthropus pekinensis'' from [[Ancient Greek]] Σίνα ''sino-'' "China" and [[Latin]] ''pekinensis'' "of Peking". 
+
+7. 
+erectus'' having larger teeth is because of the requirements for eating raw meat instead of cooked meat like ''H. 
+
+8. 
+|journal=US National Library of Medicine National Institutes of Health |volume=559 |issue=7715 |pages=608–612 |date=11 July 2018 |pmid=29995848 |doi=10.1038/s41586-018-0299-4 }}</ref><ref>Hao L, Chao Rong L, Kuman K. 
+
+9. 
+erectus'' were cooking their food as early as 500,000 years ago.<ref name="pollard">{{Cite book|title = Worlds Together, Worlds Apart|last = Pollard|first = Elizabeth|publisher = Norton|year = 2015|isbn = 978-0-393-92207-3|location = New York|pages = 13}}</ref> Re-analysis of burnt bone fragments and plant ashes from the [[Wonderwerk Cave]], South Africa, could be considered evidence of cooking as early as 1 mya.<ref name=Pringle2012>{{citation|date=2 April 2012 |author=Pringle, Heather |title=Quest for Fire Began Earlier Than Thought |journal=ScienceNOW |url=http://news.sciencemag.org/sciencenow/2012/04/quest-for-fire-began-earlier-tha.html?ref=em |archive-url=https://archive.is/20130415203914/http://news.sciencemag.org/sciencenow/2012/04/quest-for-fire-began-earlier-tha.html?ref=em |url-status=dead |archive-date=15 April 2013 |accessdate=2012-04-04 }}</ref>
+
+Several East African sites show some evidence of early fire usage. 
+
+10. 
+erectus'' are found in both Africa and East Asia (in China as early as 2.1 mya<ref>{{Cite journal|author1=Zhu Zhaoyu ({{lang|zh-Hans|朱照宇}})|last2=Dennell|first2=Robin|author3=Huang Weiwen ({{lang|zh-Hans|黄慰文}})|author4=Wu Yi ({{lang|zh-Hans|吴翼}})|author5=Qiu Shifan ({{lang|zh-Hans|邱世藩}})|author6=Yang Shixia ({{lang|zh-Hans|杨石霞}})|author7=Rao Zhiguo ({{lang|zh-Hans|饶志国}})|author8=Hou Yamei ({{lang|zh-Hans|侯亚梅}})|author9=Xie Jiubing ({{lang|zh-Hans|谢久兵}})|author10=Han Jiangwei ({{lang|zh-Hans|韩江伟}})|author11=Ouyang Tingping ({{lang|zh-Hans|欧阳婷萍}})|year=2018|title=Hominin occupation of the Chinese Loess Plateau since about 2.1 million years ago|journal=Nature|volume=559|issue=7715|pages=608–612|doi=10.1038/s41586-018-0299-4|pmid=29995848|issn=0028-0836|bibcode=2018Natur.559..608Z}}</ref><ref>{{Cite journal|last=Barras|first=Colin|year=2018|title=Tools from China are oldest hint of human lineage outside Africa|url=https://www.nature.com/articles/d41586-018-05696-8|journal=Nature|doi=10.1038/d41586-018-05696-8|issn=0028-0836}}</ref><ref>{{cite journal |last1=Denell |first1=R. 
+
+11. 
+sapiens''.<ref name=":02">{{Cite journal|last=Lao|first=Oscar|last2=Bertranpetit|first2=Jaume|last3=Mondal|first3=Mayukh|date=2019-01-16|title=Approximate Bayesian computation with deep learning supports a third archaic introgression in Asia and Oceania|journal=Nature Communications|language=en|volume=10|issue=1|pages=246|bibcode=2019NatCo..10..246M|doi=10.1038/s41467-018-08089-7|issn=2041-1723|pmc=6335398|pmid=30651539}}</ref> However, it is conventional to label European archaic humans as ''H. 
+
+12. 
+File:Calvaria Sangiran II (A).jpg|[[Calvaria (skull)|Calvaria]] "[[Sangiran]] II" original, collection [[Gustav Heinrich Ralph von Koenigswald|Koenigswald]], [[Senckenberg Museum]]. 
+
+13. 
+erectus'', or some hybrid between the two, was the immediate ancestor of other archaic humans and modern humans. 
+
+14. 
+Now in the [[Naturalis Biodiversity Center]], [[Netherlands]].<ref name="Nature Article">{{cite journal |last1=Callaway |first1=Ewen |title=Homo erectus made world's oldest doodle 500,000 years ago |journal=Nature News |doi=10.1038/nature.2014.16477 |url=https://www.nature.com/news/homo-erectus-made-world-s-oldest-doodle-500-000-years-ago-1.16477 |language=en|year=2014 }}</ref><ref name="NS">{{cite journal |url=https://www.newscientist.com/article/mg22429983.200-shell-art-made-300000-years-before-humans-evolved.html |title=Shell 'art' made 300,000 years before humans evolved |journal=[[New Scientist]] |first=Catherine |last=Brahic |date=3 December 2014 |access-date=29 September 2018}}</ref>]]
+An engraved shell with geometric markings could possibly be evidence of the earliest art-making, dating back to 546–436 kya. 
+
+15. 
+However, few scientists recognized it as a "missing link", and, consequently, Dubois' discovery had been largely disregarded.{{Sfn|Swisher|Curtis|Lewin|2000|p=70}}
+
+[[File:Homo erectus adult female - head model - Smithsonian Museum of Natural History - 2012-05-17.jpg|thumb|upright=0.9|right|Forensic reconstruction of an adult female ''Homo erectus''.<ref>Reconstruction by [[John Gurche]] (2010), [[Smithsonian Museum of Natural History]], based on [[KNM ER 3733]] and [[KNM ER 992|992]]. 
+
+16. 
+These depressions may have been burnt tree stumps, and the fire was made far from the habitation site.<ref name="James"/> Burnt stones are found in the Awash Valley, but naturally burnt (volcanic) welded tuff is also found in the area. 
+
+17. 
+erectus, with a mean stature of 170 cm, would be in the tallest 17 percent of modern populations, even if we make comparisons only with males |accessdate=30 March 2013 }}</ref> Males were about 25% larger than females, a difference slightly greater than that seen in modern humans, but less than that of ''Australopithecus''. 
+
+18. 
+erectus'' is estimated to have had an average height of {{cvt|1.8|m|ft}},<ref name = Bryson>{{cite book |author=Bryson, Bill |title=A Short History of Nearly Everything: Special Illustrated Edition |publisher=Doubleday Canada |location=Toronto |year= 2005|isbn=978-0-385-66198-0}}</ref> similar to modern humans.<ref name = Khanna>{{cite book |author=Khanna, Dev Raj |title=Human Evolution |publisher=Discovery Publishing House |year= 2004|page=195 |isbn=978-8171417759|url=https://books.google.com/books?id=aTxkAcdYgu0C&pg=PA195 |quote=African H. 
+
+19. 
+| doi = 10.1073/pnas.1106638108 | title = Earliest human occupations at Dmanisi (Georgian Caucasus) dated to 1.85-1.78 Ma | journal = Proceedings of the National Academy of Sciences | volume = 108 | issue = 26 | pages = 10432–10436 | year = 2011 | pmid =  21646521| pmc = 3127884| bibcode = 2011PNAS..10810432F }}</ref><ref>{{cite journal |doi=10.1016/j.quascirev.2010.04.012|date=June 2011 |last1=Augusti |first1=Jordi |last2=Lordkipanidze |first2=David |title=How "African" was the early human dispersal out of Africa?|volume=30|issue=11–12 |pages=1338–1342 |journal=Quaternary Science Reviews|bibcode=2011QSRv...30.1338A }}</ref> Others have suggested that ''H. 
+
+20. 
+{{Human Evolution}}
+{{Prehistoric technology}}
+{{Taxonbar|from=Q101362}}
+{{Authority control}}
+{{portal bar|Evolutionary biology|Science}}
+
+{{DEFAULTSORT:Homo Erectus}}
+[[Category:Homo erectus| ]]
+[[Category:Fossil taxa described in 1892]]
+[[Category:Mammals described in 1892]]
+[[Category:Pliocene primates]]
+[[Category:Pleistocene primates]]
+[[Category:Pleistocene mammals of Africa]]
+[[Category:Prehistoric Indonesia]]
+[[Category:Prehistoric China]]
+[[Category:Prehistoric India]]
+[[Category:Prehistoric Kenya]]
+[[Category:Prehistoric Tanzania]]
+[[Category:Prehistoric Hungary]]
+[[Category:Prehistoric Vietnam]]
+[[Category:Prehistoric Georgia (country)]]
+[[Category:Prehistoric Ethiopia]]
+[[Category:Prehistoric Eritrea]]
+[[Category:Prehistoric Anatolia]]
+[[Category:Prehistoric Spain]]
+[[Category:Pleistocene mammals of Asia]]
+[[Category:Pleistocene mammals of Europe]]
+[[Category:Taxa named by Eugène Dubois]]
+[[Category:Tool-using mammals]]
+[[Category:Early species of Homo]]
+[[Category:Lost fossils]]. 
+
+21. 
+''The Human Career: Human Biological and Cultural Origins''. 
+
+22. 
+Subsequent excavations uncovered about 200 human fossils from more than 40 individuals including five nearly complete [[Calvaria (skull)|skullcaps]].<ref name="historyMus5">{{cite news | title = Review of the History | url = | format = | work = | publisher = Peking Man Site Museum | pages = | page = | date = | accessdate =  | quote = During 1927–1937, abundant human and animal fossils as well as artefact were found at Peking Man Site, it made the site to be the most productive one of the Homo erectus sites of the same age all over the world. 
+
+23. 
+
+==Taxonomy==
+===Naming===
+{{see|Trinil 2}}
+[[File:Pithecanthropus erectus-PeterMaas Naturalis.jpg|thumb|left|[[Java Man]]]]
+The first remains, [[Java Man]], were described by Dutch anatomist [[Eugène Dubois]] in 1893, who set out to look for the "[[missing link (human evolution)|missing link]]" between apes and humans in Southeast Asia, because he believed [[gibbon]]s to be the closest living relatives to humans in accordance with the "[[Out of Asia]]" hypothesis. 
+
+24. 
+erectus'' would then have dispersed from West Asia to East Asia ([[Peking Man]]), Southeast Asia ([[Java Man]]), back to Africa (''[[Homo ergaster]]''), and to Europe ([[Tautavel Man]]), eventually evolving into modern humans in Africa.<ref>{{Cite journal | last1 = Ferring | first1 = R. 
+
+25. 
+Philip Rightmire |title= Human Evolution in the Middle Pleistocene: The Role of ''Homo heidelbergensis'' |year=1998 |journal=Evolutionary Anthropology|doi=10.1002/(sici)1520-6505(1998)6:6<218::aid-evan4>3.0.co;2-6 |volume=6 |issue=6 |pages=218–227}}</ref><ref name="Asfawpmid11907576">{{cite journal | vauthors = Asfaw B, Gilbert WH, Beyene Y, Hart WK, Renne PR, WoldeGabriel G, Vrba ES, White TD | title = Remains of Homo erectus from Bouri, Middle Awash, Ethiopia. 
+
+26. 
+http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0021562 PLoS ONE 6(6): e21562.] {{doi|10.1371/journal.pone.0021562}}</ref>
+[[File:Homo Georgicus IMG 2921.JPG|thumb|upright|[[Dmanisi skull 3]] (fossils skull D2700 and jaw D2735, two of several found in [[Dmanisi]] in the [[Georgia (country)|Georgian]] [[Transcaucasus]])]]
+
+===Descendents and synonyms===
+''Homo erectus'' is the most long-lived species of ''Homo'', having survived for over a million years. 
+
+27. 
+|date= 21 April 2017 |title= The affinities of Homo floresiensis based on phylogenetic analyses of cranial, dental, and postcranial characters |journal= Journal of Human Evolution |volume= 107 |pages= 107–133 |doi= 10.1016/j.jhevol.2017.02.006 |pmid= 28438318 }}</ref>
+* ''[[Homo sapiens]]'' candidates
+** ''[[Neanderthal|Homo neanderthalensis]]'' (or ''H. 
+
+28. 
+erectus'' may have been the first humans to use rafts to travel over bodies of water, including oceans.<ref>{{cite journal | title = Paleoanthropology: Ancient Island Tools Suggest Homo erectus Was a Seafarer | journal = Science | volume = 279 | issue = 5357 | pages = 1635–1637 | date = 13 March 1998 | author = Gibbons, Ann | doi = 10.1126/science.279.5357.1635}}</ref> The oldest stone tool found in [[Turkey]] reveals that hominins passed through the [[Anatolia]]n gateway from western Asia to Europe approximately 1.2 million years ago—much earlier than previously thought.<ref name=Gediz>[https://www.sciencedaily.com/releases/2014/12/141223084139.htm Oldest stone tool ever found in Turkey discovered] by the University of Royal Holloway London and published in ScienceDaily on December 23, 2014</ref>
+
+It is unknown if they wore clothes and had tools such as bowls and utensils.{{cn|date=December 2019}}
+
+===Use of fire===
+A site at [[Bnot Ya'akov Bridge]], [[Israel]] is reported to show evidence that ''H. 
+
+29. 
+
+Similarities between ''Java Man'' and ''[[Peking Man]]''  led [[Ernst Mayr]] to rename both as ''Homo erectus'' in 1950. 
+
+30. 
+rhodesiensis]]'').<ref name=Kaifu2005/> It is sometimes considered as a wide-ranging, polymorphous species.<ref>[http://www.nature.com/news/skull-suggests-three-early-human-species-were-one-1.13972 Skull suggests three early human species were one : Nature News & Comment]</ref>
+
+[[File:MEH Homo georgicus 29-04-2012 11-35-22 2372x3863.JPG|thumb|upright|left|Reconstruction of ''Homo georgicus'' based on [[Dmanisi skull 3|D2700]], by [[Élisabeth Daynès]], [[Museo de la Evolución Humana]], Spain.]]
+Due to such a wide range of variation, it has been suggested that the ancient ''[[Homo rudolfensis|H. 

@@ -1,0 +1,88 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Metonic cycle
+
+en edition's differences with the ru version: 
+
+
+1. 
+71r)]]
+[[File:Christmas_full_moons_1711-2300.gif|thumb|For example, by the 19-year metonic cycle, the full moon repeats on or near [[Christmas day]] between 1711 and 2300.<ref>[https://www.nasa.gov/feature/goddard/rare-full-moon-on-christmas-day Rare Full Moon on Christmas Day, NASA]</ref><ref>[http://www.chicagotribune.com/news/weather/ct-wea-1221-asktom-20151220-column.html Ask Tom: How unusual is a full moon on Christmas Day?]</ref> A small horizontal [[libration]] is visible comparing their appearances. 
+
+2. 
+The [[Greeks|Greek]] [[astronomer]] [[Meton of Athens]] (fifth century BC) observed that a period of 19 years is almost exactly equal to 235 [[synodic]] months and, rounded to full days, counts 6,940 days. 
+
+3. 
+For example, simple arithmetic shows that:
+
+* 687 tropical years = 250,921.39 days;
+* 8,497 lunations = 250,921.41 days. 
+
+4. 
+
+[[Meton of Athens]] approximated the cycle to a whole number (6,940) of days, obtained by 125 long months of 30 days and 110 short months of 29 days. 
+
+5. 
+
+==Application in traditional calendars==
+Traditionally, for the [[Babylonian calendar|Babylonian]] and [[Hebrew calendar|Hebrew]] [[lunisolar calendar]]s, the years 3, 6, 8, 11, 14, 17, and 19 are the long (13-month) years of the Metonic cycle. 
+
+6. 
+:20.021 [[eclipse year]]s (40 eclipse seasons)
+
+Note that the 19-year cycle is also close (to somewhat more than half a day) to 255 draconic months, so it is also an [[eclipse cycle]], which lasts only for about 4 or 5 recurrences of eclipses. 
+
+7. 
+
+According to [[Livy]], the king of Rome [[Numa Pompilius]] (753-673 BC) inserted intercalary months in such a way that "in the twentieth year the days should fall in with the same position of the sun from which they had started."<ref>Livy, [[Ab Urbe Condita]], I, XIX, 6.</ref> As "the twentieth year" takes place nineteen years after "the first year", this seems to indicate that the Metonic cycle was applied to Numa's calendar. 
+
+8. 
+
+A [[lunar year]] of 12 [[Synodic month#Synodic month|synodic months]] is about 354 days, approximately 11 days short of the "365-day" [[solar year]]. 
+
+9. 
+When Meton introduced the cycle around 432&nbsp;BC, it was already known by Babylonian astronomers.<!--how did he introduce it, if it was already known?-->  A mechanical computation of the cycle is built into the [[Antikythera mechanism]]. 
+
+10. 
+
+==Mathematical basis==
+At the time of Meton, [[axial precession]] had not yet been discovered, and he could not distinguish between [[sidereal year]]s (currently: 365.256363 days) and [[tropical year]]s (currently: 365.242190 days). 
+
+11. 
+
+In China, the traditional [[Chinese calendar]] used the Metonic cycle ever since the first known ancient China calendar. 
+
+12. 
+
+:19 [[tropical year]]s = 6,939.602 days (12 × 354-day years + 7 × 384-day years + 3.6 days). 
+
+13. 
+To keep a 12-month lunar year in pace with the solar year, an [[Intercalation (timekeeping)|intercalary]] 13th month would have to be added on seven occasions during the nineteen-year period (235 = 19 × 12 + 7). 
+
+14. 
+As they measured the moon's motion against the stars, the 235:19 relationship may originally have referred to [[sidereal year]]s, instead of [[tropical year]]s as it has been used for various calendars. 
+
+15. 
+an error of one day in 5 years; and
+* 11 years = 136 lunations within 1.5 days, i.e. 
+
+16. 
+
+This gives an error of only about half an hour in 687 years (2.5 seconds a year), although this is subject to secular variation in the length of the tropical year and the lunation. 
+
+17. 
+A red color shows full moons that are also [[lunar eclipse]]s.]]
+
+For [[astronomy]] and [[calendar]] studies, the '''Metonic cycle''' or '''Enneadecaeteris''' (from {{lang-grc|ἐννεακαιδεκαετηρίς}} 
+(enneakaidekateris), "nineteen years") is a period of almost exactly 19 years that is nearly a [[Least common multiple|common multiple]] of the solar [[year]] and the [[Month#Synodic month|synodic (lunar) month]]. 
+
+18. 
+The start of the Metonic cycle depends on which of these systems is being used; for Easter, the first year of the current Metonic cycle is 2014. 
+
+19. 
+The cycle was continually used until the [[5th century]] when it was replaced by a more accurate cycle.<ref>{{cite book |title= [[:zh:開元占經|開元占經]]|author= [[:zh:瞿曇悉達|瞿曇悉達]]|volume= 第105卷|chapter= 《古今历积年及章率》|lang= Chinese}}</ref>
+
+==Further details==
+The Metonic cycle is related to two less accurate subcycles:
+
+* 8 years = 99 lunations (an [[Octaeteris]]) to within 1.5 days, i.e. 

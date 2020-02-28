@@ -1,0 +1,54 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Late Bronze Age collapse
+
+fa edition's differences with the en version: 
+
+
+1. 
+< Ref name = "Cultural" > {{cite book | author1 = Russ Crawford | editor1-last = Stanton | editor1-first = Andrea | editor2-last = Ramsay | editor2-first = Edward | editor3-last = Seybolt | Editor3 – First = Peter J | editor4-last = Elliott | editor4-first = Carolyn | title = Cultural Sociology of the Middle East, Asia, and Africa: An Encyclopedia | date = 2006 | publisher = Sage | isbn = 978-1-4129-8176-7 | page = XXIX | url = https://books.google.co.uk/books. 
+
+2. 
+
+Among the civilizations of the Bronze Age, Civilization [[Ilam (Civilization] | Ilam]] was not affected by this fall and the civilization of the Assyrians saw less harm. 
+
+3. 
+Finally, in the next centuries, the effect of the new immigration, Genesis [[Fe]] and the formation of new governments, civilizations [[Neo] Assyrian [new]], [[] [[], [[Phoenician]], [[] Ancient Greek] emerged, and [[] classic [] began. 
+
+4. 
+Color: Age
+  From:-2900 till:-2350 text: [[Cities of the ancient Near East | Sumerian city-states]]
+  From:-2350 till:-2193 text: [[Akkadian Empire | Akkadia]]
+  From:-2119 till:-2000 text: [[Third Dynasty of Ur | UR]]
+  From:-2050 till:-1700 shift:(0, 5) text: [[Assyria]]
+  From:-1900 till:-1800 text: [[Babylonia]]
+  From:-1600 till:-1200 text: [[Kassites]]
+  Bar: Egyptian Color: Era
+  From:-3200 till:-1070 Shift:(0, 5) text: [[Ancient Egypt]]
+  From:-3200 till:-3000 text: [[Naqada III] Protodynastic]]
+  From:-3000 till:-2700 text: [[Early Dynastic Period of Egypt] Archaic]]
+  From:-2700 till:-2180 text: [[Old Kingdom of Egypt] Old Kingdom]]
+  From:-2050 till:-1700 text: [[Middle Kingdom of Egypt] Middle Kingdom]]
+  From:-1550 till:-1070 text: [[New Kingdom of Egypt] New Kingdom]]
+</timeline>
+
+; [The Hittite | Hittite civilization]]
+; [[Sunni civilization]]
+; [[Mhtani | Myani civilization]]
+
+= = Resources = =
+{{Footnote | left align = yes}}
+* {{Cite-wiki | link =//en.wikipedia.org/w/index.php. 
+
+5. 
+In the course of this period, the groups called [[] the people of the Sea] were called to be attacked by civilizations around the sea [the Mediterranean], but the origin of such aghvami is not clear. 
+
+6. 
+title = Late_Bronze_Age_collapse & oldid = 789492233 | title = Late BronZe Age collapse | language = English | recovery = 9 July 2017}}
+
+[[Category: Asia Prehistory]]
+[[Category: History of Indo]]
+[[Category: The Near East of Ancient]]
+[[Category: 12th century BC]]
+[[Category: Iron Age]]
+[[Category: Bronze Age]]. 

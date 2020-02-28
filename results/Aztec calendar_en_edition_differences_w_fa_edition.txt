@@ -1,0 +1,290 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Aztec calendar
+
+en edition's differences with the fa version: 
+
+
+1. 
+Coe |year=1994 |origyear=1962 |title=Mexico: from the Olmecs to the Aztecs |publisher=[[Thames & Hudson]] |location=London and New York |edition=4th, Revised and Enlarged |isbn=0-500-27722-2 |oclc=29708907 |url-access=registration |url=https://archive.org/details/mexicofromolmecs00coem }}
+: {{cite book |author=Hassig, Ross  |authorlink=Ross Hassig |year=2001 |title=Time, History, and Belief in Aztec and Colonial Mexico |location=Austin |publisher=[[University of Texas Press]] |isbn=0-292-73139-6 |oclc=44167649}}
+: {{cite journal|author=Hernández de León-Portilla, Ascención |year=2004 |title=Lenguas y escrituras mesoamericanas |url=http://arqueomex.com/S2N3nLENGUA70.html |journal=[[Arqueología Mexicana]] |location=México, D.F. 
+
+2. 
+|pages=149–199 |isbn=0-88402-239-0 |oclc=34354931 |url-status=dead |archiveurl=https://web.archive.org/web/20070927000719/http://www.doaks.org/Native/trad07.pdf |archivedate=2007-09-27 }}
+: {{cite book |author=Boone, Elizabeth Hill  |authorlink=Elizabeth Hill Boone |year=2000 |title=Stories in Red and Black: Pictorial Histories of the Aztec and Mixtec |location=Austin |publisher=[[University of Texas Press]] |isbn=0-292-70876-9 |oclc=40939882}}
+: {{cite book |author=Boone, Elizabeth Hill  |authorlink=Elizabeth Hill Boone |year=2007 |title=Cycles of Time and Meaning in the Mexican Books of Fate |series=Joe R. 
+
+3. 
+Smith|year=2003 |title=The Aztecs |edition=2nd |publisher=[[Blackwell Publishing]] |location=Malden, MA |isbn=0-631-23015-7 |oclc=48579073}}
+: {{cite book |author=Tena, Rafael |year=2008 |title=El calendario mexica y la cronografía | location=Mexico |publisher=[[INAH]] | isbn=978-968-03-0293-2}}
+: {{cite book |author=Townsend, Richard F. 
+
+4. 
+Malmström |date=1973-09-17 |title=Origin of the Mesoamerican 260-Day Calendar |journal=[[Science (journal)|Science]] |location=Lancaster, PA |publisher=[[American Association for the Advancement of Science]]|volume=181 |issue=4103 |pages=939–941 |url=http://www.dartmouth.edu/~izapa/M-1.pdf |format=[[PDF]] Reprinted |doi=10.1126/science.181.4103.939|accessdate=2008-05-14 |pmid=17835843|bibcode = 1973Sci...181..939M | archiveurl= https://web.archive.org/web/20080528152046/http://www.dartmouth.edu/~izapa/M-1.pdf| archivedate= 28 May 2008 | url-status= live}}
+: {{cite book |author=Miller, Mary |authorlink=Mary Miller (art historian) |author2=Karl Taube |author2-link=Karl Taube |year=1993 |title=The Gods and Symbols of Ancient Mexico and the Maya: An Illustrated Dictionary of Mesoamerican Religion |publisher=[[Thames & Hudson]] |location=London |isbn=0-500-05068-6 |oclc=27667317 |url-access=registration |url=https://archive.org/details/godssymbolsofa00mill }}
+: {{cite book |author=Prem, Hanns J. 
+
+5. 
+in 12 |edition=translation of ''Historia General de las Cosas de la Nueva España'' |others=[[Charles E. 
+
+6. 
+ |authorlink=Anthony Aveni |year=2000 |title=Empires of Time: Calendars, Clocks, and Cultures |edition=reprint of 1990 original|location=London |publisher=[[Tauris Parke]] |isbn=1-86064-602-6 |oclc=45144264}}
+: {{cite book |author=Boone, Elizabeth Hill |authorlink=Elizabeth Hill Boone |year=1998 |title=Native Traditions in the Postconquest World, A Symposium at Dumbarton Oaks 2nd through 4th October 1992 |chapter=Pictorial Documents and Visual Thinking in Postconquest Mexico |chapterurl=http://www.doaks.org/Native/trad07.pdf |chapter-format=[[PDF]] Reprint |editor=Elizabeth Hill Boone |editor2=Tom Cubbins |publisher=[[Dumbarton Oaks Research Library and Collection]] |location=Washington D.C. 
+
+7. 
+Prem | year=2008 | title= Manual de la antigua cronología Mexicana | publisher=[[Centro de Investigaciones y Estudios Superiores en Antropología Social]] | location=Mexico | isbn=978-968-496-694-9}}
+: {{cite book |author=Read, Kay Almere  |year=1998 |title=Time and Sacrifice in the Aztec Cosmos |location=Bloomington |publisher=[[Indiana University Press]] |isbn=0-253-33400-4 |oclc=37909790}}
+: {{cite book |author=Sahagún, Bernardino de  |authorlink=Bernardino de Sahagún |year=1950–82 |origyear=ca. 
+
+8. 
+
+Each {{lang|es|trecena}} is named according to the calendar date of the first day of the 13 days in that {{lang|es|trecena}}. 
+
+9. 
+It is one of the [[Mesoamerican calendars]], sharing the basic structure of calendars from throughout ancient [[Mesoamerica]]. 
+
+10. 
+Each of the day signs also bears an association with one of the four cardinal directions.<ref>{{Cite book |title=Ciclos de tiempo y significado en los libros mexicanos del destino |trans-title=Cycles of time and meaning in the Mexican books of destiny |last=Hill Boone |first=Elizabeth |publisher=Fondo de Cultura Económica |year=2016 |isbn=9786071635020 |location=[[Mexico City]] }}</ref><ref>{{Cite book |title=Manual de arqueología americana |trans-title=Manual of American Archeology |last=Beuchat |first=Henri |publisher=Daniel Jorro |year=1918 |location=[[Madrid]] |pages=349–352}}</ref>
+
+There is some variation in the way the day signs were drawn or carved. 
+
+11. 
+This cycle of number and day signs would continue similarly until the 20th week, which would start on 1 Rabbit, and end on 13 Flower. 
+
+12. 
+Each world was called a sun, and each sun had its own species of inhabitants. 
+
+13. 
+Every 52 years was marked out because they believed that 52 years was a life cycle and at the end of any given life cycle the gods could take away all that they have and destroy the world. 
+
+14. 
+{{lang|es|Trecena}} || Deity || {{lang|es|Trecena}} || Deity
+|-
+| 1 Crocodile || {{lang|nci|[[Ōmeteōtl]]|italic=no}} || 1 Monkey || {{lang|nci|[[Patecatl]]|italic=no}}
+|-
+| 1 Jaguar || {{lang|nci|[[Quetzalcoatl]]|italic=no}} || 1 Lizard || {{lang|nci|[[Itztlacoliuhqui]]|italic=no}}
+|-
+| 1 Deer || {{lang|nci|[[Tepēyōllōtl]]|italic=no}} || 1 Quake || {{lang|nci|[[Tlazōlteōtl]]|italic=no}}
+|-
+| 1 Flower || {{lang|nci|[[Huēhuecoyōtl]]|italic=no}} || 1 Dog || {{lang|nci|[[Xipe Totec|Xīpe Totēuc]]|italic=no}}
+|-
+| 1 Reed || {{lang|nci|[[Chalchiuhtlicue]]|italic=no}} || 1 House || {{lang|nci|[[Itzpapalotl]]|italic=no}}
+|-
+| 1 Death || {{lang|nci|[[Tōnatiuh]]|italic=no}} || 1 Vulture || {{lang|nci|[[Xolotl]]|italic=no}}
+|-
+| 1 Rain || {{lang|nci|[[Tlāloc]]|italic=no}} || 1 Water || {{lang|nci|[[Chalchiuhtotolin]]|italic=no}}
+|-
+| 1 Grass || {{lang|nci|[[Mayahuel]]|italic=no}} || 1 Wind || {{lang|nci|[[Chantico]]|italic=no}}
+|-
+| 1 Snake || {{lang|nci|[[Xiuhtecuhtli]]|italic=no}} || 1 Eagle || {{lang|nci|[[Xōchiquetzal]]|italic=no}}
+|-
+| 1 Flint || {{lang|nci|[[Mictlāntēcutli]]|italic=no}} || 1 Rabbit || {{lang|nci|[[Xiuhtecuhtli]]|italic=no}}
+|}
+
+=={{lang|nci|Xiuhpōhualli}}==
+
+{{quote |text=In ancient times the year was composed of eighteen months, and thus it was observed by the native people. 
+
+15. 
+
+===Day signs===
+The set of day signs used in central Mexico is identical to that used by [[Mixtec]]s, and to a lesser degree similar to those of other [[Mesoamerican calendars]]. 
+
+16. 
+
+==Tōnalpōhualli==
+The {{lang|nci|[[tōnalpōhualli]]}} ("day count") consists of a cycle of 260 days, each day signified by a combination of a number from 1 to 13, and one of the twenty day signs. 
+
+17. 
+Using the same count, it has been verified the date of the birth of {{lang|nci|Huitzilopochtli}}, the end of the year and a cycle or "Tie of the Years", and the [[New Fire Ceremony]], day-sign {{lang|nci|1 Tecpatl}} of the year {{lang|nci|2 Acatl}},<ref>Crónica Mexicayotl, Fernando Alvarado Tezozomoc p 36</ref> corresponding to the date [[February 22]]. 
+
+18. 
+</ref> which are commonly known as ''Xiuhmolpilli'', a popular but incorrect name; the correct Nahuatl word for this cycle is '''Xiuhnelpilli'''.<ref>Tena, 2008:9.</ref> We can see below the table with the current years:
+{| class="wikitable"
+!style="background:#c9f; align:center"|Tlalpilli Tochtli
+!style="background:#c9f; align:center"|Tlalpilli Acatl
+!style="background:#c9f; align:center"|Tlalpilli Tecpatl
+!style="background:#c9f; align:center"|Tlalpilli Calli
+|-
+|1 tochtli / 1974
+|1 acatl / 1987
+|1 tecpatl / 2000
+|1 calli / 2013
+|-
+|2 acatl / 1975
+|2 tecpatl / 1988
+|2 calli / 2001
+|2 tochtli / 2014
+|-
+|3 tecpatl / 1976
+|3 calli / 1989
+|3 tochtli / 2002
+|3 acatl / 2015
+|-
+|4 calli / 1977
+|4 tochtli / 1990
+|4 acatl / 2003
+|4 tecpatl / 2016
+|-
+|5 tochtli / 1978
+|5 acatl / 1991
+|5 tecpatl / 2004
+|5 calli / 2017
+|-
+|6 acatl / 1979
+|6 tecpatl / 1992
+|6 calli / 2005
+|6 tochtli / 2018
+|-
+|7 tecpatl / 1980
+|7 calli / 1993
+|7 tochtli / 2006
+|7 acatl / 2019
+|-
+|8 calli / 1981
+|8 tochtli / 1994
+|8 acatl / 2007
+|8 tecpatl / 2020
+|-
+|9 tochtli / 1982
+|9 acatl / 1995
+|9 tecpatl / 2008
+|9 calli / 2021
+|-
+|10 acatl / 1983
+|10 tecpatl / 1996
+|10 calli / 2009
+|10 tochtli / 2022
+|-
+|11 tecpatl / 1984
+|11 calli / 1997
+|11 tochtli / 2010
+|11 acatl / 2023
+|-
+|12 calli / 1985
+|12 tochtli / 1998
+|12 acatl / 2011
+|12 tecpatl / 2024
+|-
+|13 tochtli / 1986
+|13 acatl / 1999
+|13 tecpatl / 2012
+|13 calli / 2025
+|}
+
+==Reconstruction of the Solar calendar==
+For many centuries scholars had tried to reconstruct the Calendar. 
+
+19. 
+Image ||[[Nahuatl]] name || [[Help:IPA|Pronunciation]] || English translation || Direction
+|-
+| [[File:Ozomatli.jpg|x50px]] || {{wikt-lang|nci|Ozomahtli|italic=no}} || {{IPA-nah|osoˈmáʔtɬi|}} || Monkey || West
+|-
+| [[File:Malinalli.jpg|x50px]] || {{wikt-lang|nci|Malīnalli|italic=no}} || {{IPA-nah|maliːˈnálːi|}} || Grass || South
+|-
+| [[File:Acatl.jpg|x50px]] || {{wikt-lang|nci|Ācatl|italic=no}} || {{IPA-nah|ˈáːkatɬ|}} || Reed || East
+|-
+| [[File:Ocelotl.jpg|x50px]] || {{wikt-lang|nci|Ocēlōtl|italic=no}} || {{IPA-nah|oːˈséːloːtɬ|}} || [[Ocelot]]<br/>Jaguar || North
+|-
+| [[File:Cuauhtli.jpg|x50px]] || {{wikt-lang|nci|Cuāuhtli|italic=no}} || {{IPA-nah|ˈkʷáːʍtɬi|}} || Eagle || West
+|-
+| [[File:Cozcacuauhtli.jpg|x50px]] || {{wikt-lang|nci|Cōzcacuāuhtli|italic=no}} || {{IPA-nah|koːskaˈkʷáːʍtɬi|}} || Vulture || South
+|-
+| [[File:Olin (Aztec glyph from the Codex Magliabechiano).jpg|x50px]] || {{lang|nci|[[Ōlīn]]|italic=no}} || {{IPA-nah|ˈoːliːn̥|}} || Movement<br/>Quake<br/>Earthquake || East
+|-
+| [[File:Tecpatl.jpg|x50px]] || {{wikt-lang|nci|Tecpatl|italic=no}} || {{IPA-nah|ˈtékpatɬ|}} || Flint<br/>Flint Knife || North
+|-
+| [[File:Quiahuitl.jpg|x50px]] || {{wikt-lang|nci|Quiyahuitl|italic=no}} || {{IPA-nah|kiˈjáwitɬ|}} || Rain || West
+|-
+| [[File:Xochitl.jpg|x50px]] || {{wikt-lang|nci|Xōchitl|italic=no}} || {{IPA-nah|ˈʃoːtʃitɬ|}} || Flower || South
+|}
+|}
+Wind and Rain are represented by images of their associated gods, {{lang|nci|[[Ehēcatl]]|italic=no}} and {{lang|nci|[[Tlāloc]]|italic=no}} respectively. 
+
+20. 
+Image ||[[Nahuatl]] name || [[WP:IPA for Nahuatl|Pronunciation]] || English translation || Direction
+|-
+| [[File:Cipactli.jpg|x50px]] || {{lang|nci|[[Cipactli]]|italic=no}} || {{IPA-nah|siˈpáktɬi|}} || Crocodile<br/>Alligator<br/>Caiman<br/>Crocodilian Monster<br/>Dragon || East
+|-
+| [[File:Ehecatl2.jpg|x50px]] || {{lang|nci|[[Ehecatl|Ehēcatl]]|italic=no}} || {{IPA-nah|eʔˈéːkatɬ|}} || Wind || North
+|-
+| [[File:Calli.jpg|x50px]] || {{wikt-lang|nci|Calli|italic=no}} || {{IPA-nah|ˈkálːi|}} || House || West
+|-
+| [[File:Cuetzpalin.jpg|x50px]] || {{wikt-lang|nci|Cuetzpalin|italic=no}} || {{IPA-nah|kʷetsˈpálin̥|}} || Lizard || South
+|-
+| [[File:Coatl.jpg|x50px]] || {{wikt-lang|nci|Cōātl|italic=no}} || {{IPA-nah|ˈkóːwaːtɬ|}} || Serpent<br/>Snake || East
+|-
+| [[File:Miquiztli.jpg|x50px]] || {{wikt-lang|nci|Miquiztli|italic=no}} || {{IPA-nah|miˈkístɬi|}} || Death || North
+|-
+| [[File:Mazatl.jpg|x50px]] || {{wikt-lang|nci|Mazātl|italic=no}} || {{IPA-nah|ˈmásaːtɬ|}} || Deer<br/>Animal || West
+|-
+| [[File:Tochtli.jpg|x50px]] || {{wikt-lang|nci|Tōchtli|italic=no}} || {{IPA-nah|ˈtóːtʃtɬi|}} || Rabbit || South
+|-
+| [[File:Atl3.jpg|x50px]] || {{wikt-lang|nci|Ātl|italic=no}} || {{IPA-nah|ˈaːtɬ|}} || Water || East
+|-
+| [[File:Itzcuintli.jpg|x50px]] || {{wikt-lang|nci|Itzcuīntli|italic=no}} || {{IPA-nah|itsˈkʷíːn̥tɬi|}} || Dog || North
+|}
+|style="vertical-align: top"|
+{| class="wikitable" style="text-align: center"
+. 
+
+21. 
+With each new day, both the number and day sign would be incremented: 1 Crocodile is followed by 2 Wind, 3 House, 4 Lizard, and so forth up to 13 Reed, after which the cycle of numbers would restart (though the twenty day signs had not yet been exhausted) resulting in 1 Jaguar, 2 Eagle, and so on, as the days immediately following 13 Reed. 
+
+22. 
+ |year=2000 |title=The Aztecs |edition=Revised 2nd |publisher=[[Thames & Hudson]] |location=London |isbn=0-500-28132-7 |oclc=43337963}}
+: {{cite web |author=Wimmer, Alexis  |year=2006 |url=http://sites.estvideo.net/malinal/nahuatl.page.html |title=Dictionnaire de la langue nahuatl classique |format=online version, incorporating reproductions from {{lang|fr|Dictionnaire de la langue nahuatl ou mexicaine|italic=yes}} [1885], by [[Rémi Siméon]]|accessdate=}} {{in lang|fr|nah}}
+: {{cite book |author=Zantwijk, Rudolph van  |year=1985|title=The Aztec Arrangement: The Social History of Pre-Spanish Mexico |location=Norman |publisher=[[University of Oklahoma Press]] |isbn=0-8061-1677-3 |oclc=11261299 }}
+
+{{refend}}<!-- END biblio format style -->
+
+==External links==
+*[http://www.ancient.eu/article/896/ The Aztec Calendar - Ancient History Encyclopedia]
+*{{in lang|es}} [https://web.archive.org/web/20070224213250/http://www.mna.inah.gob.mx/ Detailed description of the temalacatl] from Mexico's {{lang|es|[[Museo Nacional de Antropología]]|italic=no}}
+*[http://www.azteccalendar.com/ Daily Aztec Calendar]
+{{Calendars}}
+
+[[Category:Aztec society|Calendar]]
+[[Category:Aztec calendars| ]]
+[[Category:Aztec science and technology|Calendar]]
+[[Category:Obsolete calendars]]. 
+
+23. 
+
+The calendar consisted of a 365-day calendar cycle called {{lang|nci|[[xiuhpōhualli]]}} (year count) and a 260-day ritual cycle called {{lang|nci|[[tōnalpōhualli]]}} (day count). 
+
+24. 
+The {{lang|nci|xiuhpōhualli}} is considered to be the agricultural calendar, since it is based on the sun, and the {{lang|nci|tōnalpōhualli}} is considered to be the sacred calendar. 
+
+25. 
+His correlation confirms that the first day of the Mexica year was February 13 of the old [[Julian calendar]] or February 23 of the current [[Gregorian calendar]]. 
+
+26. 
+ Since their months were made of no more than twenty days, these were all the days contained in a month, because they were not guided by the moon but by the days; therefore, the year had eighteen months. 
+
+27. 
+{{short description|Calendar system that was used by the Aztecs}}
+{{Aztecsmall}}
+[[File:Monolito de la Piedra del Sol.jpg|thumb|220px|The [[Aztec calendar stone]], also called the Sun Stone, on display at the [[National Museum of Anthropology]], [[Mexico City]]]]
+The '''Aztec or Mexica calendar''' is the [[calendar]] system that was used by the [[Aztec]]s as well as other [[Pre-Columbian]] peoples of central [[Mexico]]. 
+
+28. 
+
+==={{lang|es|Trecenas}}===
+The 260 days of the sacred calendar were grouped into twenty periods of 13 days each. 
+
+29. 
+
+== See also ==
+* [[Maya calendar]]
+* [[Mesoamerican calendars]]
+* [[Aztec New Year]]
+* [[Muisca calendar]]
+
+==Notes==
+{{reflist}}
+
+==References==
+
+{{refbegin|indent=yes}}<!--BEGIN biblio format. 

@@ -1,0 +1,64 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Global Standard Stratigraphic Age
+
+en edition's differences with the fa version: 
+
+
+1. 
+
+==See also==
+
+*[[European Mammal Neogene]]
+*[[North American Land Mammal Age]]
+*[[Type locality (geology)|Type locality]]
+*[[List of GSSPs]]
+
+==References==
+{{reflist}}
+{{refbegin}}
+*{{Cite journal
+  | last = Gehling
+  | first = James
+  | last2 = Jensen
+  | first2 = Sören
+  | last3 = Droser
+  | first3 = Mary
+  | last4 = Myrow
+  | first4 = Paul
+  | last5 = Narbonne
+  | first5 = Guy
+  | title = Burrowing below the basal Cambrian GSSP, Fortune Head, Newfoundland
+  | journal = Geological Magazine
+  | volume = 138
+  | issue = 2
+  | pages = 213–218
+  | date = March 2001
+  | url = http://www.journals.cambridge.org/action/displayAbstract?fromPage=online&aid=74669
+  | doi = 10.1017/S001675680100509X
+  | id = 1
+| bibcode = 2001GeoM..138..213G
+  }}
+* Hedberg, H.D., (editor), ''International stratigraphic guide: A guide to stratigraphic classification, terminology, and procedure'', New York, John Wiley and Sons, 1976
+* {{cite web|url=http://www.stratigraphy.org/index.php/ics-chart-timescale |title=International Chronostratigraphic Chart |publisher=International Commission on Stratigraphy |accessdate=June 2014 |url-status=dead |archiveurl=https://web.archive.org/web/20140530005940/http://www.stratigraphy.org/index.php/ics-chart-timescale |archivedate=2014-05-30 }}
+{{refend}}
+
+==External links==
+*[https://web.archive.org/web/20090113224346/http://www.stratigraphy.org/over.htm The Global Boundary Stratotype Section and Point (GSSP)]: overview
+*[https://web.archive.org/web/20060423084018/http://www.stratigraphy.org/gssp.htm Chart of The Global Boundary Stratotype Sections and Points (GSSP)]: chart
+*[http://www.rocksandminerals.com/geotime/geotime.htm Geotime chart displaying geologic time periods compared to the fossil record] - Deals with chronology and classifications for laymen (not GSSA/GSSPs)
+
+{{Chronology}}
+
+[[Category:Geologic time scales of Earth]]
+[[Category:Units of time]]
+[[Category:Earth sciences]]
+[[Category:Geochronology]]
+[[Category:Stratigraphy]]. 
+
+2. 
+
+GSSAs, and the generally more recent and preferred benchmark [[GSSP]]s are defined by the [[International Commission on Stratigraphy]] (ICS) under the auspices of their parent organization, the [[International Union of Geological Sciences]] (IUGS), and are used primarily for time dating of rock layers older than 630 [[Megaannum|million years ago]], lacking a good [[fossil record]]. 
+
+3. 
+This is because the Earth's crust in geological time scales is constantly being recycled by [[tectonic]] and weathering forces, and older rocks and especially readily accessible exposed [[stratum|strata]] that can act as a time calibration are rare. 

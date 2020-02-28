@@ -4,7 +4,7 @@ IO operations, excepting database operations
 """
 
 import csv
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 import logging
 import logging.handlers
 import os
@@ -71,35 +71,24 @@ def write_string_to_txt_file(filename, text, write_or_append='a'):
 
 ###############
 
-def microsoft_char_counter():
+def microsoft_char_counter(chars):
     """
     keeps a record of how many characters have been used this month.  If the API key is nearing its limits for that month, will shut down the program and let you know.
     """
     try:
-        with open('MS-char-count.pickle', 'rb') as f:
-            ms_chars, timestart = int(pickle.load(f))
-    except IOError as ioerr:
-        with open('MS-char-count.pickle', 'wb') as f:
-            pickle.dump('0', date.today())
-            microsoft_char_counter()
+        ms_chars, timestart = pickle.load( open('MS-char-count.p', "rb"))
+    except:
+        pickle.dump((0, date.today()), open("MS-char-count.p", "wb" ))
+        microsoft_char_counter(chars)
+    if date.today() - timestart >= timedelta(days=30):
+        pickle.dump((0, date.today()), open("MS-char-count.p", "wb" ))
     # check how much time has elapsed:
-    now = date.today()
-    if ms_chars >= 2000000:
-        sys.exit("Quota exceeded for the month!")
-    elif (now - timestart) >= datetime.duration(days=28) and ms_chars >= 1950000:
-        sys.exit("Quota for the month is near.  Lay off for now.")
+    if ms_chars >= 1850000:
+        sys.exit("Quota met for the month!")
     else:
-        return ms_chars
-
-
-def microsoft_char_counter_reset():
-    with open('MS-char-count.pickle', 'rb') as f:
-        ms_chars, timestart = int(pickle.load(f))
-    if datetime.datetime.today - timestart >= datetime.duration(days=30):
-        with open('MS-char-count.pickle', 'wb') as f:
-            pickle.dump('0', date.today())
-
-
+        ms_chars += chars
+        pickle.dump((ms_chars, timestart), open("MS-char-count.p", "wb" ))
+        print('Total Chars: ' + str(ms_chars))
 
 ################
 

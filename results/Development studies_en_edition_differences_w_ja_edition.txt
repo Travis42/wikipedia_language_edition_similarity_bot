@@ -1,0 +1,24 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Development studies
+
+en edition's differences with the ja version: 
+
+
+1. 
+ISR/Google Books, Second revised edition {{ISBN|978-0-906321-26-3}}</ref> In recent years the use of political economy analysis- the application of the analytical techniques of economics- to try and assess and explain political and social factors that either enhance or limit development has become increasingly widespread as a way of explaining the success or failure of reform processes. 
+
+2. 
+More recently, the emergence of [[human security]] – a new, people-oriented approach to understanding and addressing global security threats – has led to a growing recognition  of a relationship between security and development. 
+
+3. 
+Human security argues that inequalities and insecurity in one state or region have consequences for global security and that it is thus in the interest of all states to address underlying development issues. 
+
+4. 
+In the immediate post-war period, [[development economics]], a branch of [[economics]], arose out of previous studies in colonial economics. 
+
+5. 
+It has grown in popularity as a subject of study since the early 1990s, and has been most widely taught and researched in [[Developing country|developing countries]] and countries with a [[Colonialism|colonial history]], such as the [[UK]], where the discipline originated.<ref>Kothari, U. 
+
+6. 
+This relationship with studies of human security is but one example of the interdisciplinary nature of development studies. 

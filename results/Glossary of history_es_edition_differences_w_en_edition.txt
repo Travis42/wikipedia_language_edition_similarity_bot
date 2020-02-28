@@ -1,0 +1,57 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Glossary of history
+
+es edition's differences with the en version: 
+
+
+1. 
+* [[Avalonia]] ''-''' Separate plate in early Paleozoic consisting of much of northern Europe, Newfoundland, Nova Scotia and some coastal parts of New England
+
+B '
+
+* ''File Bonus -''' Relationship that has each file record with other records produced as part of the same transaction or activity and located within the same group. 
+
+2. 
+* Anals: Historical facts and events counts vary in chronological order, year by year. 
+
+3. 
+* '''Accumulation Method''': Method by which items are added to a collection
+
+They're not going to be
+
+* ''Numismatics -''' Study of coins. 
+
+4. 
+* ''Respect des fonds -''' File principle according to which collections of file records must be sorted and preserved according to the administration, organization, individual or entity by which they were created or received. 
+
+5. 
+
+* ''Accumulation Periodicity -''' Frequency with which items are added to an ac Policy collectionumulation: the policy that governs the addition of articles to a collection
+
+R'
+
+* ''Summary -''' A summary of a textual font. 
+
+6. 
+* ''Original Order -''' Concept in the file theory that a group of records should be kept in the same order as they were placed by the record creator. 
+
+7. 
+* ''Rodinia -''' Supercontinent that existed during the Late Precambrian before the supercontinent Pannotia; the oldest supercontinent for which we have a good record; Russian for "homeland". 
+
+8. 
+The term is now often used in a pejorative sense, to refer to an excessively narrow interest in historical curiosities, the exclusion of a sense of context or historical process. 
+
+9. 
+* ''Anti-Quarism -''' Historical study focused on empirical evidence of the past, including manuscripts and archives, and archaeological and historical sites and artifacts. 
+
+10. 
+
+* ''Auxiliary History Sciences -''' Set of specialized academic disciplines that help evaluate and use historical sources, and which can be used to support historical research. 
+
+11. 
+webcita,http://www2.archivists.org/glossary-title-A Glossary of Archival and Terminology-AccessDate-24, 2013-editorial-[[Society of American Archivists]]--  
+* [http://www.ucmp.berkeley.edu/glossary/glossary_9.htmle USMP Glossary: Paleontology]
+* [http://dublincore.org/usage/terms/history/ DCMI Metadata Deadlines]
+[[Category:History]]
+[[Category:Annexes:Glossaries]]. 

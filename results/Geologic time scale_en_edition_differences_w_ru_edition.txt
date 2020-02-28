@@ -1,0 +1,1056 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Geologic time scale
+
+en edition's differences with the ru version: 
+
+
+1. 
+Where errors are not quoted, errors are less than the precision of the age given.<br /><br /><nowiki>*</nowiki> indicates boundaries where a [[Global Boundary Stratotype Section and Point]] has been internationally agreed upon.}}
+|-
+|rowspan="102" style="background:#ffffff"| n/a{{efn|References to the "Post-Cambrian Supereon" are not universally accepted, and therefore must be considered unofficial.}}
+|rowspan="102" style="background:{{period color|Phanerozoic}}"| [[Phanerozoic]]
+|rowspan="24" style="background:{{period color|Cenozoic}}"| [[Cenozoic]]{{efn|Historically, the [[Cenozoic]] has been divided up into the [[Quaternary]] and [[Tertiary]] sub-eras, as well as the [[Neogene]] and [[Paleogene]] periods. 
+
+2. 
+The  2009 version of the ICS time chart<ref name="cenozoic-division">{{cite web |url=http://www.stratigraphy.org/upload/ISChart2009.pdf |title=Archived copy |accessdate=2009-12-23 |url-status=dead |archiveurl=https://web.archive.org/web/20091229003212/http://www.stratigraphy.org/upload/ISChart2009.pdf |archivedate=29 December 2009 |df=dmy-all }}</ref> recognizes a slightly extended Quaternary as well as the Paleogene and a truncated Neogene, the Tertiary having been demoted to informal status.}}
+|rowspan="7" style="background:{{period color|Quaternary}}"| [[Quaternary]]
+|rowspan="3" style="background:{{period color|Holocene}}"| [[Holocene]]
+|style="background:#fcf0f2"|[[Meghalayan]]
+|[[4.2 kiloyear event]], [[Little Ice Age]], increasing [[Industrial Revolution|industrial]] [[Carbon dioxide in the Earth's atmosphere|CO<sub>2</sub>]]. 
+
+3. 
+|style="background:{{period color|Middle Pleistocene}}"| {{Period start|middle pleistocene}}
+|-
+|style="background:{{period color|Calabrian}}"| [[Early Pleistocene|Calabrian]]
+|Further cooling of the climate. 
+
+4. 
+Oldest known rock (4,031 to 3,580 [[Year#SI prefix multipliers|Ma]]).<ref name="Oldest-rock">{{cite journal|doi=10.1007/s004100050465|title=Priscoan (4.00&ndash;4.03 Ga) orthogneisses from northwestern Canada|year=1999|last=Bowring|first=Samuel A.|journal=Contributions to Mineralogy and Petrology|volume=134|issue=1|pages=3|last2=Williams|first2=Ian S.|bibcode=1999CoMP..134....3B}} The oldest rock on Earth is the [[Acasta Gneiss]], and it dates to 4.03 Ga, located in the [[Northwest Territories]] of Canada.</ref>
+|style="background:{{period color|Hadean}}"| 4130<ref name="goldblatt2010" />
+|-
+|style="background:{{period color|Hadean}}"| [[Nectarian]] ([[Mesohadean]]) (unofficial){{efn|name="Precambrian-Time"}}{{efn|name="Lunar-geologic-timescale-names"}}
+|colspan="4"|  Possible first appearance of [[plate tectonic]]s. 
+
+5. 
+|style="background:{{period color|upper Pleistocene}}"| {{Period start|Late pleistocene}}
+|-
+|style="background:{{period color|Middle Pleistocene}}"| [[Middle Pleistocene|Middle]] ''('[[Ionian Stage|Ionian]]', '[[Chibanian]]')''
+|High amplitude [[100,000-year problem|100 ka]] [[Glacial period|glacial cycles]]. 
+
+6. 
+|style="background:{{period color|Hadean}}"| 4280<ref name="goldblatt2010" />
+|-
+|style="background:{{period color|Hadean}}"| [[Basin Groups]] ([[Paleohadean]]) (unofficial){{efn|name="Precambrian-Time"}}{{efn| name="Lunar-geologic-timescale-names"}}
+|colspan="4"|End of the Early Bombardment Phase. 
+
+7. 
+Asteroids and comets bring water to Earth.<ref name="geology-wisc-edu">{{Cite web|url=http://www.geology.wisc.edu/%7Evalley/zircons/Wilde2001Nature.pdf|title=Geology.wisc.edu}}</ref>
+|style="background:{{period color|Hadean}}"| 4533<ref name="goldblatt2010" />
+|-
+|style="background:{{period color|Hadean}}"| [[Cryptic era|Cryptic]] ([[Cryptic era|Eohadean]]) (unofficial){{efn|name="Precambrian-Time"}}{{efn|name="Lunar-geologic-timescale-names"}}
+|colspan="4"| Formation of [[Moon]] (4,533 to 4,527 [[Year#SI prefix multipliers|Ma]]), probably from [[Giant impact hypothesis|giant impact]], since the end of this era. 
+
+8. 
+|style="background:{{period color|Calabrian}}"| {{Period start|calabrian}}<sup>*</sup>
+|-
+|style="background:{{period color|Gelasian}}"| [[Gelasian]]
+|Start of [[Quaternary glaciation]]s. 
+
+9. 
+|style="background:{{period color|Stenian}}"| {{Period start|stenian}}{{efn|name="absolute-age"}}
+|-
+|style="background:{{period color|Ectasian}}"| [[Ectasian]]
+|colspan="3"| [[Platform cover]]s continue to expand. 
+
+10. 
+|style="background:{{period color|Ectasian}}"| {{Period start|ectasian}}{{efn|name="absolute-age"}}
+|-
+|style="background:{{period color|Calymmian}}"| [[Calymmian]]
+|colspan="3"| [[Platform cover]]s expand. 
+
+11. 
+|style="background:{{period color|Statherian}}"| {{Period start|statherian}}{{efn|name="absolute-age"}}
+|-
+|style="background:{{period color|Orosirian}}"| [[Orosirian]]
+|colspan="3"| The [[Atmosphere of Earth|atmosphere]] becomes [[oxygen]]ic. 
+
+12. 
+|style="background:{{period color|Orosirian}}"| {{Period start|orosirian}}{{efn|name="absolute-age"}}
+|-
+|style="background:{{period color|Rhyacian}}"| [[Rhyacian]]
+|colspan="3"| [[Bushveld Igneous Complex]] forms. 
+
+13. 
+|style="background:{{period color|Rhyacian}}"| {{Period start|rhyacian}}{{efn|name="absolute-age"}}
+|-
+|style="background:{{period color|Siderian}}"| [[Siderian]]
+|colspan="3"| [[Oxygen catastrophe]]: [[banded iron formation]]s forms. 
+
+14. 
+|style="background:{{period color|Neoarchean}}"| {{Period start|neoarchean}}{{efn|name="absolute-age"}}
+|-
+|style="background:{{period color|Mesoarchean}}"| [[Mesoarchean]]{{efn|name="Precambrian-Time"}}
+|colspan="4"| First [[stromatolite]]s (probably [[colony (biology)|colonial]] [[cyanobacteria]]). 
+
+15. 
+|style="background:{{period color|Mesoarchean}}"| {{Period start|mesoarchean}}{{efn|name="absolute-age"}}
+|-
+|style="background:{{period color|Paleoarchean}}"| [[Paleoarchean]]{{efn|name="Precambrian-Time"}}
+|colspan="4"| First known [[phototroph|oxygen-producing]] [[bacteria]]. 
+
+16. 
+|style="background:{{period color|Paleoarchean}}"| {{Period start|paleoarchean}}{{efn|name="absolute-age"}}
+|-
+|style="background:{{period color|Eoarchean}}"| [[Eoarchean]]{{efn|name="Precambrian-Time"}}
+|colspan="4"| [[Prokaryote|Simple single-celled life]] (probably [[bacteria]] and [[archaea]]). 
+
+17. 
+|style="background:{{period color|Eoarchean}}"| ~{{Period start|eoarchean}}
+|-
+|rowspan="4" style="background:{{period color|Hadean}}"| [[Hadean]]{{efn|name="Precambrian-Time"}}{{efn|name="hadeon-not-formal"|Though commonly used, the [[Hadean]] is not a formal eon<ref name="OggEtAl2016">{{cite book | title=A Concise Geologic Time Scale: 2016 | publisher=Elsevier | first=J.G. 
+
+18. 
+|style="background:{{period color|Tonian}}"| {{Period start|tonian}}{{efn|name="absolute-age"}}
+|-
+|rowspan="3" style="background:{{period color|Mesoproterozoic}}"| [[Mesoproterozoic]]{{efn|name="Precambrian-Time"}}
+|style="background:{{period color|Stenian}}"| [[Stenian]]
+|colspan="3"| Narrow highly [[Metamorphic rock|metamorphic]] belts due to [[orogeny]] as [[Rodinia]] forms. 
+
+19. 
+|style="background:{{period color|Siderian}}"| {{Period start|siderian}}{{efn|name="absolute-age"}}
+|-
+|rowspan="4" style="background:{{period color|Archean}}"| [[Archean]]{{efn|name="Precambrian-Time"}}
+|style="background:{{period color|Neoarchean}}"| [[Neoarchean]]{{efn|name="Precambrian-Time"}}
+|colspan="4"| Stabilization of most modern [[craton]]s; possible [[Mantle (geology)|mantle]] overturn event. 
+
+20. 
+These eras include the [[Cryptic era|Cryptic]] and [[Basin Groups]] (which are subdivisions of the [[Pre-Nectarian]] era), [[Nectarian]], and [[Early Imbrian]] units.}}
+|style="background:{{period color|Hadean}}"| [[Early Imbrian]] ([[Neohadean]]) (unofficial){{efn|name="Precambrian-Time"}}{{efn|name="Lunar-geologic-timescale-names"|These unit names were taken from the [[lunar geologic timescale]] and refer to geologic events that did not occur on Earth. 
+
+21. 
+This is largely due to uncertainties in [[radiometric dating]] and the problem that deposits suitable for radiometric dating seldom occur exactly at the places in the geologic column where they would be most useful. 
+
+22. 
+This theory, known as "[[Plutonism]]", stood in contrast to the "Neptunist" flood-oriented theory. 
+
+23. 
+Oldest [[craton]]s on Earth (such as the [[Canadian Shield]] and the [[Pilbara Craton]]) may have formed during this period.{{efn|name="Oldest-craton"|The age of the oldest measurable [[craton]], or [[continental crust]], is dated to 3,600–3,800 Ma.}} Rayner Orogeny in Antarctica. 
+
+24. 
+[[John McPhee]] asserts that "as things appear from the perspective of the 20th century, James Hutton in those readings became the founder of modern geology".<ref name="mcphee">
+{{cite book|first=John|last=McPhee|authorlink=John McPhee|title=Basin and Range|location=New York|publisher=Farrar, Straus and Giroux|date=1981}}
+</ref>{{rp|95–100}}
+Hutton proposed that the interior of Earth was hot, and that this heat was the engine which drove the creation of new rock: land was eroded by air and water and deposited as layers in the sea; heat then consolidated the sediment into stone, and uplifted it into new lands. 
+
+25. 
+D.|last2= Richard|first2= Stephen M.|date= 2005|title=A formal model for the geologic time scale and global stratotype section and point, compatible with geospatial information transfer standards |journal= Geosphere|volume= 1|issue= 3|pages= 119–137|doi= 10.1130/GES00022.1 |url= http://geosphere.geoscienceworld.org/content/1/3/119.full|accessdate=31 December 2012|bibcode = 2005Geosp...1..119C }}</ref>
+
+===The Anthropocene===
+Popular culture and a growing number{{citation needed|date=June 2018}} of scientists use the term "[[Anthropocene]]"  informally to label the current epoch in which we are living. 
+
+26. 
+Ogg|chapter=16: A Chronostratigraphic Division of the Precambrian: Possibilities and Challenges|chapter-url=|doi=10.1016/B978-0-444-59425-9.00016-0}}</ref> (See also [[Period (geology)#Structure]].)
+
+*[[Hadean]] Eon – 4600–4031 MYA{{Contradict inline|Chaotian|date=November 2016}}
+**[[Chaotian (geology)|Chaotian]] Era – 4600–4404 MYA – the name alluding both to the [[Chaos (cosmogony)|mythological Chaos]] and the [[Chaos theory|chaotic]] phase of [[planet formation]]<ref name="vankranendonk2012" /><ref name=goldblatt2010>{{cite journal|last=Goldblatt|first=C.|first2=K. 
+
+27. 
+Barramundi Orogeny, [[McArthur Basin]], [[Northern Australia]], and Isan Orogeny, [[circa|c.]]1,600 [[Year#SI prefix multipliers|Ma]], Mount Isa Block, Queensland
+|style="background:{{period color|Calymmian}}"| {{Period start|calymmian}}{{efn|name="absolute-age"}}
+|-
+|rowspan="4" style="background:{{period color|Paleoproterozoic}}"| [[Paleoproterozoic]]{{efn| name="Precambrian-Time"}}
+|style="background:{{period color|Statherian}}"| [[Statherian]]
+|colspan="3"| First [[Eukaryote|complex single-celled life]]: [[protist]]s with nuclei. 
+
+28. 
+[[Ardipithecus]] in Africa.<ref name="auto"/>
+|style="background:{{period color|Zanclean}}"| {{Period start|zanclean}}<sup>*</sup>
+|-
+|rowspan="6" style="background:{{period color|Miocene}}"| [[Miocene]]
+|style="background:{{period color|Messinian}}"| [[Messinian]]
+|rowspan="2" |[[Messinian Event]] with hypersaline lakes in empty [[Mediterranean Basin]]. 
+
+29. 
+[[Leonardo da Vinci]] (1452–1519) concurred with Aristotle's interpretation that fossils represented the remains of ancient life.<ref>{{cite web|url=http://www.wmnh.com/wmas0002.htm|title=Correlating Earth's History|first=Paul R.|last=Janke|publisher = Worldwide Museum of Natural History|date = 1999}}</ref>
+
+The 11th-century [[Islamic geography|Persian polymath]] [[Avicenna]] (Ibn Sina, died 1037) and the 13th-century [[Dominican Order|Dominican]] [[bishop]] [[Albertus Magnus]] (died 1280) extended Aristotle's explanation into a theory of a [[petrification|petrifying]] fluid.<ref>{{Cite book|title= The Meaning of Fossils: Episodes in the History of Palaeontology|first= M. 
+
+30. 
+The [[Hadean]] eon represents the time before fossil record of life on Earth; its upper boundary is now regarded as 4.0 [[Year#SI prefix multipliers|Ga]] ([[1000000000 (number)|billion]] years ago).<ref name=ICS_chart/> Other subdivisions reflect the evolution of life; the [[Archean]] and [[Proterozoic]] are both eons, the [[Palaeozoic]], [[Mesozoic]] and [[Cenozoic]] are [[era]]s of the [[Phanerozoic]] eon. 
+
+31. 
+ [[Greenhouse and Icehouse Earth|Moderate Icehouse climate]], punctuated by [[ice age]]s and re-establishment of [[East Antarctic Ice Sheet]]; Gradual separation of [[Chimpanzee–human last common ancestor|human and chimpanzee ancestors]]. 
+
+32. 
+Beginning of [[Acadian Orogeny]] for [[Atlas Mountains|Anti-Atlas Mountains]] of North Africa, and [[Appalachian Mountains]] of North America, also the [[Antler Orogeny|Antler]], [[Variscan Orogeny|Variscan]], and [[Mayor Island/Tuhua|Tuhua Orogeny]] in New Zealand. 
+
+33. 
+ Earliest evidence for life based on unusually high amounts of light isotopes of carbon, a common sign of life. 
+
+34. 
+This era overlaps the beginning of the [[Late Heavy Bombardment]] of the [[Inner Solar System|Inner]] [[Solar System]], produced possibly by the planetary migration of [[Neptune]] into the [[Kuiper belt]] as a result of orbital resonances between [[Jupiter]] and [[Saturn]]. 
+
+35. 
+
+Geologic units from the same time but different parts of the world often look different and contain different fossils, so the same time-span was historically given different names in different locales. 
+
+36. 
+A major shift in thinking came when [[James Hutton]] presented his ''Theory of the Earth; or, an Investigation of the Laws Observable in the Composition, Dissolution, and Restoration of Land Upon the Globe''<ref>
+{{cite journal
+| last1                 = Hutton
+| first1                = James
+| author-link1          = James Hutton
+| title                 = Theory of the Earth; or an investigation of the laws observable in the composition, dissolution, and restoration of land upon the Globe
+| url                   = https://archive.org/stream/cbarchive_106252_theoryoftheearthoraninvestigat1788/theoryoftheearthoraninvestigat1788#page/n1/mode/2up
+| journal               = Transactions of the Royal Society of Edinburgh
+| publication-date      = 1788
+| volume                = 1
+| issue                 = 2
+| pages                 = 209–308
+| access-date           = 2016-09-06
+| doi=10.1017/s0080456800029227
+| year                = 2013
+}}
+</ref>
+before the [[Royal Society of Edinburgh]] in March and April 1785. 
+
+37. 
+
+===Naming of geologic periods, eras and epochs===
+Early work on developing the geologic time scale was dominated by British geologists, and the names of the geologic periods reflect that dominance. 
+
+38. 
+|issue=23 |bibcode=2006GeCoA..70.5665R |access-date=6 August 2015 |archive-url=https://web.archive.org/web/20190927033455/http://droyer.web.wesleyan.edu/PhanCO2%28GCA%29.pdf |archive-date=27 September 2019 |url-status=dead }}</ref>{{efn|name="atmospheric-carbon-dioxide"|For more information on this, see [[Atmosphere of Earth#Evolution of Earth's atmosphere]], [[Carbon dioxide in the Earth's atmosphere]], and [[climate change (general concept)|climate change]]. 
+
+39. 
+ It has evolved to describe an "epoch" starting some time in the past and on the whole defined by anthropogenic carbon emissions and production and consumption of plastic goods that are left in the ground.<ref>{{Cite web|title = Anthropocene: Age of Man – Pictures, More From National Geographic Magazine|url = http://ngm.nationalgeographic.com/2011/03/age-of-man/kolbert-text/2|website = ngm.nationalgeographic.com|accessdate = 2015-09-22}}</ref>
+
+Critics of this term say that the term should not be used because it is difficult, if not nearly impossible, to define a specific time when humans started influencing the rock strata—defining the start of an epoch.<ref>{{Cite web|title = What is the Anthropocene and Are We in It?|url = http://www.smithsonianmag.com/science-nature/what-is-the-anthropocene-and-are-we-in-it-164801414/?no-ist|accessdate = 2015-09-22|first = Joseph|last = Stromberg}}</ref> Others say that humans have not even started to leave their biggest impact on Earth, and therefore the Anthropocene has not even started yet. 
+
+40. 
+|style="background:{{period color|Ypresian}}"| {{Period start|ypresian}}<sup>*</sup>
+|-
+|rowspan="3" style="background:{{period color|Paleocene}}"| [[Paleocene]]
+|style="background:{{period color|Thanetian}}"| [[Thanetian]]
+|rowspan="3"| Starts with [[Chicxulub impact]] and the [[K-Pg extinction event]]. 
+
+41. 
+Eons are divided into [[Era (geology)|eras]], which are in turn divided into [[Period (geology)|periods]], [[Epoch (geology)|epochs]] and [[Age (geology)|ages]]. 
+
+42. 
+
+British geologists were also responsible for the grouping of periods into eras and the subdivision of the Tertiary and Quaternary periods into epochs. 
+
+43. 
+Over the course of the 18th century geologists realized that:
+
+# Sequences of strata often become eroded, distorted, tilted, or even inverted after deposition
+# Strata laid down at the same time in different areas could have entirely different appearances
+# The strata of any given area represented only part of Earth's long history
+The [[Neptunist]] theories popular at this time (expounded by [[Abraham Gottlob Werner|Abraham Werner]] (1749–1817) in the late 18th century) proposed that all rocks had precipitated out of a single enormous flood. 
+
+44. 
+|title=A new Geologic Time Scale, with special reference to Precambrian and Neogene |journal=Episodes |volume=27 |issue=2 |url=http://www.episodes.co.in/www/backissues/272/Time%20Scale.pdf |pages=83–100 |accessdate=18 November 2011 |doi=10.18814/epiiugs/2004/v27i2/002 |archive-url=https://web.archive.org/web/20120425232455/http://www.episodes.co.in/www/backissues/272/Time%20Scale.pdf |archive-date=25 April 2012 |url-status=dead }}
+*{{cite web|url=https://www.npr.org/sections/13.7/2014/09/28/351692717/embracing-deep-time-thinking|last= Ialenti|first=Vincent|title=Embracing 'Deep Time' Thinking.|publisher=NPR Cosmos & Culture}}
+*{{cite web|url=https://www.npr.org/sections/13.7/2014/09/21/350344129/pondering-deep-time-could-inspire-new-ways-to-view-climate-change |last=Ialenti|first=Vincent|title=Pondering 'Deep Time' Could Inspire New Ways To View Climate Change.|publisher=NPR Cosmos & Culture}}
+*{{cite journal |date=30 July 2004 |author1link=Andrew H. 
+
+45. 
+For example, the lower Jurassic Series in [[chronostratigraphy]] corresponds to the early Jurassic Epoch in [[geochronology]].<ref name=ICSchronostrat>{{cite web|author=International Commission on Stratigraphy|title=Chronostratigraphic Units|website=International Stratigraphic Guide|access-date=14 December 2009|url=http://www.stratigraphy.org/upload/bak/chron.htm|url-status=dead|archiveurl=https://web.archive.org/web/20091209020034/http://www.stratigraphy.org/upload/bak/chron.htm|archivedate=9 December 2009|df=dmy-all}}</ref> The adjectives are capitalized when the subdivision is formally recognized, and lower case when not; thus "early Miocene" but "Early Jurassic."
+
+==Rationale==
+Evidence from [[radiometric dating]] indicates that Earth is about [[age of the Earth|4.54 billion years old]].<ref name="USGS1997">{{cite web
+ | date=1997 | title=Age of the Earth
+ | url=http://pubs.usgs.gov/gip/geotime/age.html
+ | publisher=U.S. 
+
+46. 
+
+The content of the table is based on the current official geologic time scale of the International Commission on Stratigraphy,<ref name=ICS_chart>{{cite web|url=http://www.stratigraphy.org/index.php/ics-chart-timescale |title=International Stratigraphic Chart |publisher=International Commission on Stratigraphy |url-status=dead |archiveurl=https://web.archive.org/web/20140530005940/http://www.stratigraphy.org/index.php/ics-chart-timescale |archivedate=30 May 2014 }}</ref> with the epoch names altered to the early/late format from lower/upper as recommended by the ICS when dealing with [[chronostratigraphy]].<ref name="ICSchronostrat"/>
+
+A service providing a [[Resource Description Framework]]/[[Web Ontology Language]] representation of the timescale is available through the [[Commission for the Management and Application of Geoscience Information]] [[GeoSciML]] project as a service<ref>{{cite web|url=http://resource.geosciml.org/classifier/ics/ischart/|accessdate=2014-08-03|title=Geologic Timescale Elements in the International Chronostratigraphic Chart}}</ref> and at a [[SPARQL]] end-point.<ref>{{cite web|url=http://resource.geosciml.org/sparql/isc2014 |archive-url=https://archive.is/20140806164132/http://resource.geosciml.org/sparql/isc2014 |url-status=dead |archive-date=2014-08-06 |accessdate=2014-08-03 |title=SPARQL endpoint for CGI timescale service |first=Simon J. 
+
+47. 
+The "Cambrian", (the classical name for [[Wales]]) and the "Ordovician", and "Silurian", named after ancient Welsh tribes, were periods defined using stratigraphic sequences from Wales.<ref name="mcphee"/>{{rp|113–114}} The "Devonian" was named for the English county of [[Devon]], and the name "Carboniferous" was an adaptation of "the Coal Measures", the old British geologists' term for the same set of strata. 
+
+48. 
+It is used by [[geologist]]s, [[paleontology|paleontologists]], and other [[earth sciences|Earth scientists]] to describe the timing and relationships of events that have occurred during [[History of the Earth|Earth's history]]. 
+
+49. 
+[[Quaternary extinction event|Megafauna extinction]]. 
+
+50. 
+|display-authors= etal |title=Large colonial organisms with coordinated growth in oxygenated environments 2.1 Gyr ago|journal=Nature|year=2010|volume=466|issue=7302|pages=100–104|doi=10.1038/nature09166|pmid=20596019|url=http://www.afrikibouge.com/publications/Article%20Albani.pdf|bibcode=2010Natur.466..100A}}</ref> first fossil appearance of [[Eukaryota|eukaryotes]]<ref name="vankranendonk2012" />
+***[[Columbian Period]] – 2060–1780 MYA – named after the supercontinent [[Columbia (supercontinent)|Columbia]]<ref name="vankranendonk2012" />
+**[[Mesoproterozoic]] Era – 1780–850 MYA
+***[[Rodinian]] Period – 1780–850 MYA – named after the supercontinent [[Rodinia]], stable environment<ref name="vankranendonk2012" />
+**[[Neoproterozoic]] Era – 850–541 MYA
+***[[Cryogenian]] Period – 850–630 MYA – named for the occurrence of several glaciations<ref name="vankranendonk2012" /> <!--['''NOTE''': update to 720–635 MYA per 2015?<ref name="SG-20170113">{{cite web|url=http://www.stratigraphy.org/index.php/ics-chart-timescale |title=Chart |publisher=International Commission on Stratigraphy |accessdate=2017-02-14 |url-status=dead |archiveurl=https://web.archive.org/web/20170113013553/http://www.stratigraphy.org/index.php/ics-chart-timescale |archivedate=2017-01-13 }}</ref>]-->
+***[[Ediacaran]] Period – 630–541 MYA
+
+Shown to scale:
+
+<timeline>
+ImageSize = width:800 height:120
+PlotArea  = left:65 right:15 bottom:20 top:5
+AlignBars = justify
+
+Colors =
+  id:precambrian value:rgb(0.968,0.262,0.439)
+  id:proterozoic value:rgb(0.968,0.207,0.388)
+  id:neoproterozoic value:rgb(0.996,0.701,0.258)
+  id:ediacaran value:rgb(0.996,0.85,0.415)
+  id:cryogenian value:rgb(0.996,0.8,0.36)
+  id:tonian value:rgb(0.996,0.75,0.305)
+  id:mesoproterozoic value:rgb(0.996,0.705,0.384)
+  id:rodinian value:rgb(0.996,0.75,0.478)
+  id:paleoproterozoic value:rgb(0.968,0.263,0.44)
+  id:columbian value:rgb(0.968,0.459,0.655)
+  id:eukaryian value:rgb(0.968,0.408,0.596)
+  id:oxygenian value:rgb(0.968,0.357,0.537)
+  id:archean value:rgb(0.996,0.157,0.498)
+  id:neoarchean value:rgb(0.976,0.608,0.757)
+  id:siderian value:rgb(0.976,0.7,0.85)
+  id:methanian value:rgb(0.976,0.65,0.8)
+  id:mesoarchean value:rgb(0.968,0.408,0.662)
+  id:pongolan value:rgb(0.968,0.5,0.75)
+  id:vaalbaran value:rgb(0.968,0.45,0.7)
+  id:paleoarchean value:rgb(0.96,0.266,0.624)
+  id:isuan value:rgb(0.96,0.35,0.65)
+  id:acastan value:rgb(0.96,0.3,0.6)
+  id:hadean value:rgb(0.717,0,0.494)
+  id:zirconian value:rgb(0.902,0.114,0.549)
+  id:chaotian value:rgb(0.8,0.05,0.5)
+  id:black value:black
+  id:white value:white
+
+Period     = from:-4600 till:-541
+TimeAxis   = orientation:horizontal
+ScaleMajor = unit:year increment:500 start:-4500
+ScaleMinor = unit:year increment:100 start:-4500
+
+Define $markred = text:"*" textcolor:red shift:(0,3) fontsize:10
+
+PlotData=
+  align:center textcolor:black fontsize:8 mark:(line,black) width:25 shift:(0,-5)
+
+  bar:supereon
+
+  from: start till: -541 text:[[Precambrian]] color:precambrian
+
+  bar:eon
+
+  from: -2420 till: -541  text:[[Proterozoic]] color:proterozoic
+  from: -4031 till: -2420 text:[[Archean]]     color:archean
+  from: start till: -4031 text:[[Hadean]]      color:hadean
+
+  bar:era
+
+  from: -850 till: -541  text:[[Neoproterozoic]] color:neoproterozoic
+  from: -1780 till: -850 text:[[Mesoproterozoic]] color:mesoproterozoic
+  from: -2420 till: -1780 text:[[Paleoproterozoic]] color:paleoproterozoic
+  from: -2780 till: -2420 text:[[Neoarchean]] color:neoarchean
+  from: -3490 till: -2780 text:[[Mesoarchean]] color:mesoarchean
+  from: -4031 till: -3490 text:[[Paleoarchean]] color:paleoarchean
+  from: -4404 till: -4031 text:[[Zirconian]] color:zirconian
+  from: start till: -4404 text:[[Chaotian]] color:chaotian
+
+  bar:period
+
+  fontsize:6
+
+  from: -630  till: -541  text:[[Ediacaran|Ed.]] color:ediacaran
+  from: -850  till: -630  text:[[Cryogenian]] color:cryogenian
+  from: -1780 till: -850  text:[[Rodinian]] color:rodinian
+  from: -2060 till: -1780 text:[[Columbian]] color:columbian
+  from: -2250 till: -2060 text:[[Eukaryian]] color:eukaryian
+  from: -2420 till: -2250 text:[[Oxygenian]] color:oxygenian
+  from: -2630 till: -2420 text:[[Siderian]] color:siderian
+  from: -2780 till: -2630 text:[[Methanian]] color:methanian
+  from: -3020 till: -2780 text:[[Pongolan]] color:pongolan
+  from: -3490 till: -3020 text:[[Vaalbaran]] color:vaalbaran
+  from: -3810 till: -3490 text:[[Isuan]] color:isuan
+  from: -4031 till: -3810 text:[[Acastan]] color:acastan
+  from: start till: -4031 color:white
+</timeline>
+
+Compare with the current official timeline, not shown to scale:
+
+<timeline>
+ImageSize = width:1100 height:120
+PlotArea  = left:65 right:15 bottom:20 top:5
+AlignBars = justify
+
+Colors =
+  id:precambrian value:rgb(0.968,0.262,0.439)
+  id:proterozoic value:rgb(0.968,0.207,0.388)
+  id:neoproterozoic value:rgb(0.996,0.701,0.258)
+  id:ediacaran value:rgb(0.996,0.85,0.415)
+  id:cryogenian value:rgb(0.996,0.8,0.36)
+  id:tonian value:rgb(0.996,0.75,0.305)
+  id:mesoproterozoic value:rgb(0.996,0.705,0.384)
+  id:stenian value:rgb(0.996,0.85,0.604)
+  id:ectasian value:rgb(0.996,0.8,0.541)
+  id:calymmian value:rgb(0.996,0.75,0.478)
+  id:paleoproterozoic value:rgb(0.968,0.263,0.44)
+  id:statherian value:rgb(0.968,0.459,0.655)
+  id:orosirian value:rgb(0.968,0.408,0.596)
+  id:rhyacian value:rgb(0.968,0.357,0.537)
+  id:siderian value:rgb(0.968,0.306,0.478)
+  id:archean value:rgb(0.996,0.157,0.498)
+  id:neoarchean value:rgb(0.976,0.608,0.757)
+  id:mesoarchean value:rgb(0.968,0.408,0.662)
+  id:paleoarchean value:rgb(0.96,0.266,0.624)
+  id:eoarchean value:rgb(0.902,0.114,0.549)
+  id:hadean value:rgb(0.717,0,0.494)
+  id:black value:black
+  id:white value:white
+
+Period     = from:-4600 till:-541
+TimeAxis   = orientation:horizontal
+ScaleMajor = unit:year increment:500 start:-4500
+ScaleMinor = unit:year increment:100 start:-4500
+
+Define $markred = text:"*" textcolor:red shift:(0,3) fontsize:10
+
+PlotData=
+  align:center textcolor:black fontsize:8 mark:(line,black) width:25 shift:(0,-5)
+
+  bar:supereon
+
+  from: start till: -541 text:[[Precambrian]] color:precambrian
+
+  bar:eon
+
+  from: -2500 till: -541  text:[[Proterozoic]] color:proterozoic
+  from: -4031 till: -2500 text:[[Archean]]     color:archean
+  from: start till: -4031 text:[[Hadean]]      color:hadean
+
+  bar:era
+
+  from: -1000 till: -541  text:[[Neoproterozoic]] color:neoproterozoic
+  from: -1600 till: -1000 text:[[Mesoproterozoic]] color:mesoproterozoic
+  from: -2500 till: -1600 text:[[Paleoproterozoic]] color:paleoproterozoic
+  from: -2800 till: -2500 text:[[Neoarchean]] color:neoarchean
+  from: -3200 till: -2800 text:[[Mesoarchean]] color:mesoarchean
+  from: -3600 till: -3200 text:[[Paleoarchean]] color:paleoarchean
+  from: -4031 till: -3600 text:[[Eoarchean]] color:eoarchean
+  from: start till: -4031 color:white
+
+  bar:period
+
+  fontsize:6
+  from: -635  till: -541  text:[[Ediacaran|Ed.]] color:ediacaran
+  from: -720  till: -635  text:[[Cryogenian|Cr.]] color:cryogenian
+  from: -1000 till: -720  text:[[Tonian]] color:tonian
+  from: -1200 till: -1000 text:[[Stenian]] color:stenian
+  from: -1400 till: -1200 text:[[Ectasian]] color:ectasian
+  from: -1600 till: -1400 text:[[Calymmian]] color:calymmian
+  from: -1800 till: -1600 text:[[Statherian]] color:statherian
+  from: -2050 till: -1800 text:[[Orosirian]] color:orosirian
+  from: -2300 till: -2050 text:[[Rhyacian]] color:rhyacian
+  from: -2500 till: -2300 text:[[Siderian]] color:siderian
+  from: start till: -2500 color:white
+</timeline>
+
+==See also==
+<!-- Please keep entries in alphabetical order & add a short description [[WP:SEEALSO]] -->
+{{div col|colwidth=22em}}
+* [[Age of the Earth]]
+* [[Bubnoff unit]]
+* [[Cosmic calendar]]
+* [[Deep time]]
+* [[Evolutionary history of life]]
+* [[Geological history of Earth]]
+* [[Geology of Mars]]/areology
+* [[Geon (geology)|Geon]]
+* [[Graphical timeline of the universe]]
+* [[History of the Earth]]
+* [[History of geology]]
+* [[History of paleontology]]
+* [[List of fossil sites]]
+* [[Logarithmic timeline]]
+* [[Lunar geologic timescale]]
+* [[Martian geologic timescale]]
+* [[Natural history]]
+* [[New Zealand geologic time scale]]
+* [[Prehistoric life]]
+* [[Timeline of the Big Bang]]
+* [[Timeline of evolution]]
+* [[Timeline of the geologic history of the United States]]
+* [[Timeline of human evolution]]
+* [[Timeline of natural history]]
+* [[Timeline of paleontology]]
+{{div col end}}
+<!-- please keep entries in alphabetical order - per [[WP:ALSO]] -->
+
+== Notes ==
+{{Notelist}}
+
+== References ==
+{{Reflist|30em}}
+
+==Further reading==
+*{{cite journal |date=2009 |last1=Aubry|first1=Marie-Pierre|last2=Van Couvering|first2=John A.|last3=Christie-Blick|first3=Nicholas|last4= Landing|first4=Ed|last5=Pratt|first5=Brian R.|last6=Owen|first6=Donald E.|last7=Ferrusquia-Villafranca|first7=Ismael |title=Terminology of geological time: Establishment of a community standard |journal=Stratigraphy |volume=6 |issue=2 |pages=100–105 |doi=10.7916/D8DR35JQ}}
+*{{cite journal |date=2004 |last1=Gradstein |first1=F. 
+
+51. 
+|style="background:{{period color|Gelasian}}"| {{Period start|gelasian}}<sup>*</sup>
+|-
+|rowspan="8" style="background:{{period color|Neogene}}"| [[Neogene]]
+|rowspan="2" style="background:{{period color|Pliocene}}"| [[Pliocene]]
+|style="background:{{period color|Piacenzian}}"| [[Piacenzian]]
+|[[Greenland ice sheet]] develops.<ref>{{cite journal |doi=10.1016/j.epsl.2005.06.020 |title=Final closure of Panama and the onset of northern hemisphere glaciation |journal=Earth and Planetary Science Letters |volume=237 |issue=1–2 |pages=33–44 |year=2005 |last1=Bartoli |first1=G |last2=Sarnthein |first2=M |last3=Weinelt |first3=M |last4=Erlenkeuser |first4=H |last5=Garbe-Schönberg |first5=D |last6=Lea |first6=D.W |bibcode=2005E&PSL.237...33B }}</ref> [[Australopithecus]] common in East Africa.<ref name="auto">{{cite web | title=NOVA, Aliens from Earth: Who's who in human evolution | last=Tyson | first=Peter |date=October 2009 | publisher=PBS | accessdate=2009-10-08 | url=https://www.pbs.org/wgbh/nova/hobbit/tree-nf.html}}</ref>
+|style="background:{{period color|Piacenzian}}"| {{Period start|piacenzian}}<sup>*</sup>
+|-
+|style="background:{{period color|Zanclean}}"| [[Zanclean]]
+|[[Zanclean flood]]ing of the [[Mediterranean Basin]]. 
+
+52. 
+Apart from the [[Late Heavy Bombardment]], events on other planets probably had little direct influence on the Earth, and events on Earth had correspondingly little effect on those planets. 
+
+53. 
+[[Atmosphere of Earth|Atmospheric]] CO<sub>2</sub> content roughly 15 times present-day ([[Holocene]]) levels (6000 ppmv compared to today's 400 ppmv)<ref name="Royer" />{{efn|name="atmospheric-carbon-dioxide"}}
+|style="background:{{period color|Stage 10}}"| ~489.5
+|-
+|style="background:{{period color|Jiangshanian}}"| [[Jiangshanian]]
+|style="background:{{period color|Jiangshanian}}"| ~494<sup>*</sup>
+|-
+|style="background:{{period color|Paibian}}"| [[Paibian]]
+|style="background:{{period color|Paibian}}"| ~{{Period start|paibian}}<sup>*</sup>
+|-
+|rowspan="3" style="background:{{period color|Series 3}}"| [[Miaolingian]]
+|style="background:{{period color|Guzhangian}}"| [[Guzhangian]]
+|style="background:{{period color|Guzhangian}}"| ~{{Period start|guzhangian}}<sup>*</sup>
+|-
+|style="background:{{period color|Drumian}}"| [[Drumian]]
+|style="background:{{period color|Drumian}}"| ~{{Period start|drumian}}<sup>*</sup>
+|-
+|style="background:{{period color|Stage 5}}"| [[Wuliuan]]
+|style="background:{{period color|Stage 5}}"| ~{{Period start|cambrian stage 5}}
+|-
+|rowspan="2" style="background:{{period color|Series 2}}"| [[Cambrian Series 2|Series 2]]
+|style="background:{{period color|Stage 4}}"| [[Cambrian Stage 4|Stage 4]]
+|style="background:{{period color|Stage 4}}"| ~{{Period start|cambrian stage 4}}
+|-
+|style="background:{{period color|Stage 3}}"| [[Cambrian Stage 3|Stage 3]]
+|style="background:{{period color|Stage 3}}"| ~{{Period start|cambrian stage 3}}
+|-
+|rowspan="2" style="background:{{period color|Terreneuvian}}"| [[Terreneuvian]]
+|style="background:{{period color|Stage 2}}"| [[Cambrian Stage 2|Stage 2]]
+|style="background:{{period color|Stage 2}}"| ~{{Period start|cambrian stage 2}}
+|-
+|style="background:{{period color|Fortunian}}"| [[Fortunian]]
+|style="background:{{period color|Fortunian}}"| ~{{Period start|fortunian}}&nbsp;±&nbsp;1.0<sup>*</sup>
+|-
+|rowspan="18" style="background:{{period color|Precambrian}}"| [[Precambrian]]{{efn|name="aka-cryptozoic"|The [[Precambrian]] is also known as Cryptozoic.}}
+|rowspan="10" style="background:{{period color|Proterozoic}}"| [[Proterozoic]]{{efn|name="Precambrian-Time"|The [[Proterozoic]], [[Archean]] and [[Hadean]] are often collectively referred to as the [[Precambrian|Precambrian Time]] or sometimes, also the Cryptozoic.}}
+|rowspan="3" style="background:{{period color|Neoproterozoic}}"| [[Neoproterozoic]]{{efn|name="Precambrian-Time"}}
+|style="background:{{period color|Ediacaran}}"| [[Ediacaran]]
+|colspan="3"| Good [[fossil]]s of the first [[Metazoa|multi-celled animal]]s. 
+
+54. 
+|style="background:{{period color|Thanetian}}"| {{Period start|thanetian}}<sup>*</sup>
+|-
+|style="background:{{period color|Selandian}}"| [[Selandian]]
+|style="background:{{period color|Selandian}}"| {{Period start|selandian}}<sup>*</sup>
+|-
+|style="background:{{period color|Danian}}"| [[Danian]]
+|style="background:{{period color|Danian}}"| {{Period start|danian}}<sup>*</sup>
+|-
+|rowspan="30" style="background:{{period color|Mesozoic}}"| [[Mesozoic]]
+|rowspan="12" style="background:{{period color|Cretaceous}}" | [[Cretaceous]]
+|rowspan="6" style="background:{{period color|Late Cretaceous}}"| [[Late Cretaceous|Late]]
+|style="background:{{period color|Maastrichtian}}"| [[Maastrichtian]]
+|rowspan="12"| [[Flowering plant]]s proliferate, along with new types of [[insect]]s. 
+
+55. 
+While [[Creationism|creationists]] had been proposing dates of around six or seven thousand years for the age of Earth based on the [[Bible]], early geologists were suggesting millions of years for geologic periods, and some were even suggesting a virtually infinite age for Earth.{{citation needed|date=September 2017}} Geologists and paleontologists constructed the geologic table based on the relative positions of different strata and fossils, and estimated the time scales based on studying rates of various kinds of [[weathering]], [[erosion]], [[sedimentation]], and [[lithification]]. 
+
+56. 
+S.|last= Rudwick|date= 1985|publisher= [[University of Chicago Press]]|isbn= 978-0-226-73103-2|page= 24}}</ref> Avicenna also first proposed one of the principles underlying geologic time scales, the [[law of superposition]] of strata, while discussing the origins of mountains in ''[[The Book of Healing]]'' (1027).<ref>{{Cite journal|doi= 10.1111/j.1365-3091.2008.01009.x|title= The role of the Mediterranean region in the development of sedimentary geology: A historical overview|date= 2009|last1= Fischer|first1= Alfred G.|last2= Garrison|first2= Robert E.|journal= Sedimentology|volume= 56|issue= 1|pages= 3|bibcode = 2009Sedim..56....3F }}</ref>  The [[History of science and technology in China|Chinese naturalist]] [[Shen Kuo]] (1031–1095) also recognized the concept of "[[deep time]]".<ref name="Silvin">
+{{Cite book
+| last = Sivin | first = Nathan
+| authorlink = Nathan Sivin
+| title = Science in Ancient China: Researches and Reflections
+| publisher = Ashgate Publishing [[Variorum]] series
+| date = 1995 | location = [[Brookfield, Vermont|Brookfield]], Vermont
+| pages = III, 23–24 | nopp = true
+}}
+</ref>
+
+===Establishment of primary principles===
+In the late 17th century [[Nicholas Steno]] (1638–1686) pronounced the principles underlying geologic (geological) time scales. 
+
+57. 
+Phillips' scale helped standardize the use of terms like ''[[Paleozoic]]'' ("old life") which he extended to cover a larger period than it had in previous usage, and ''[[Mesozoic]]'' ("middle life") which he invented.<ref>{{cite book|last=Rudwick|first=Martin|title=Worlds Before Adam: The Reconstruction of Geohistory in the Age of Reform|date=2008|pages= 539–545}}</ref>
+
+===Dating of time scales===
+{{Main|Chronological dating}}
+
+When William Smith and [[Sir Charles Lyell]] first recognized that rock strata represented successive time periods, time scales could be estimated only very imprecisely since estimates of rates of change were uncertain. 
+
+58. 
+G.|last4=Nisbet |title=The Eons of Chaos and Hades|journal=Solid Earth|date=2010|volume=1|issue=1|pages=1–3|bibcode = 2010SolE....1....1G |doi=10.5194/se-1-1-2010}}</ref><ref>{{cite journal|last=Chambers|first=John E.|title=Planetary accretion in the inner Solar System|journal=Earth and Planetary Science Letters|date=July 2004|volume=223|issue=3–4|pages=241–252|doi=10.1016/j.epsl.2004.04.031|url=http://www.astro.washington.edu/courses/astro321/Chambers_EPSL_04.pdf|bibcode = 2004E&PSL.223..241C }}</ref>{{Contradict inline|Chaotian|date=November 2016}}
+**[[Jack Hillsian]] or [[Zirconian]] Era – 4404–4031 MYA – both names allude to the [[Jack Hills Greenstone Belt]] which provided the oldest mineral grains on Earth, [[zircons]]<ref name="vankranendonk2012" /><ref name=goldblatt2010 />
+*[[Archean]] Eon – 4031–2420 MYA
+**[[Paleoarchean]] Era – 4031–3490 MYA
+***[[Acastan]] Period – 4031–3810 MYA – named after the [[Acasta Gneiss]]<ref name="vankranendonk2012" /><ref name=goldblatt2010 />
+***[[Isuan]] Period – 3810–3490 MYA – named after the [[Isua Greenstone Belt]]<ref name="vankranendonk2012" />
+**[[Mesoarchean]] Era – 3490–2780 MYA
+***[[Vaalbaran]] Period – 3490–3020 MYA – based on the names of the [[Kapvaal craton|Kapvaal]] (Southern Africa) and [[Pilbara Craton|Pilbara]] (Western Australia) [[craton]]s<ref name="vankranendonk2012" />
+***[[Pongolan]] Period – 3020–2780 MYA – named after the [[Pongola Supergroup]]<ref name="vankranendonk2012" />
+**[[Neoarchean]] Era – 2780–2420 MYA
+***[[Methanian]] Period – 2780–2630 MYA – named for the inferred predominance of [[methanotrophic]] [[prokaryotes]]<ref name="vankranendonk2012" />
+***[[Siderian]] Period – 2630–2420 MYA – named for the voluminous banded iron formations formed within its duration<ref name="vankranendonk2012" />
+*[[Proterozoic]] Eon – 2420–541 MYA
+**[[Paleoproterozoic]] Era – 2420–1780 MYA
+***[[Oxygenian]] Period – 2420–2250 MYA – named for displaying the first evidence for a global oxidizing atmosphere<ref name="vankranendonk2012" />
+***[[Jatulian]] or [[Eukaryian]] Period – 2250–2060 MYA – names are respectively for the Lomagundi–Jatuli δ<sup>13</sup>C isotopic excursion event spanning its duration, and for the (proposed)<ref name="El Albani et al 2014">{{cite journal|last1=El Albani|first1=Abderrazak|last2=Bengtson|first2=Stefan|last3=Canfield|first3=Donald E.|last4=Riboulleau|first4=Armelle|last5=Rollion Bard|first5=Claire|last6=Macchiarelli|first6=Roberto|display-authors=etal|title=The 2.1 Ga Old Francevillian Biota: Biogenicity, Taphonomy and Biodiversity|journal=PLoS ONE|year= 2014|volume=9|issue=6|pages=e99438|doi=10.1371/journal.pone.0099438|bibcode = 2014PLoSO...999438E|pmid=24963687|pmc=4070892}}</ref><ref name="Albani2010">{{cite journal|last= El Albani|first=Abderrazak|last2=Bengtson|first2=Stefan |last3=Canfield|first3=Donald E. 
+
+59. 
+Ancestor of [[apes]], including humans.<ref>{{cite web | url=https://www.livescience.com/60093-last-common-ancestor-of-apes-humans-revealed.html | title=Here's What the Last Common Ancestor of Apes and Humans Looked Like}}</ref>
+|style="background:{{period color|Burdigalian}}"| {{Period start|burdigalian}}
+|-
+|style="background:{{period color|Aquitanian}}"| [[Aquitanian age|Aquitanian]]
+|style="background:{{period color|Aquitanian}}"| {{Period start|aquitanian}}<sup>*</sup>
+|-
+|rowspan="9" style="background:{{period color|Paleogene}}"| [[Paleogene]]
+|rowspan="2" style="background:{{period color|Oligocene}}"| [[Oligocene]]
+|style="background:{{period color|Chattian}}"| [[Chattian]]
+|rowspan="2"| [[Eocene–Oligocene extinction event|Grande Coupure]] extinction. 
+
+60. 
+260&ndash;225 [[Year#SI prefix multipliers|Ma]])
+|style="background:{{period color|Rhaetian}}"| ~{{Period start|rhaetian}}
+|-
+|style="background:{{period color|Norian}}"| [[Norian]]
+|style="background:{{period color|Norian}}"| ~{{Period start|norian}}
+|-
+|style="background:{{period color|Carnian}}"| [[Carnian]]
+|style="background:{{period color|Carnian}}"| ~{{Period start|carnian}}<sup>*</sup>
+|-
+|rowspan="2" style="background:{{period color|Middle Triassic}}"| [[Middle Triassic|Middle]]
+|style="background:{{period color|Ladinian}}"| [[Ladinian]]
+|style="background:{{period color|Ladinian}}"| ~{{Period start|ladinian}}<sup>*</sup>
+|-
+|style="background:{{period color|Anisian}}"| [[Anisian]]
+|style="background:{{period color|Anisian}}"| {{Period start|anisian}}
+|-
+|rowspan="2" style="background:{{period color|Early Triassic}}"| [[Early Triassic|Early]]
+|style="background:{{period color|Olenekian}}"| [[Olenekian]]
+|style="background:{{period color|Olenekian}}"| {{Period start|olenekian}}
+|-
+|style="background:{{period color|Induan}}"| [[Induan]]
+|style="background:{{period color|Induan}}"| {{Period start|induan}} ±&nbsp;0.06<sup>*</sup>
+|-
+|rowspan="48" style="background:{{period color|Paleozoic}}"| [[Paleozoic]]
+|rowspan="9" style="background:{{period color|Permian}}"| [[Permian]]
+|rowspan="2" style="background:{{period color|Lopingian}}"| [[Lopingian]]
+|style="background:{{period color|Changhsingian}}"| [[Changhsingian]]
+|rowspan="9"| [[Landmass]]es unite into [[supercontinent]] [[Pangaea]], creating the [[Appalachian Mountains|Appalachian]]s. 
+
+61. 
+Major evolution and dispersal of modern types of [[flowering plant]]s
+|style="background:{{period color|Chattian}}"| {{Period start|chattian}}
+|-
+|style="background:{{period color|Rupelian}}"| [[Rupelian]]
+|style="background:{{period color|Rupelian}}"| {{Period start|rupelian}}<sup>*</sup>
+|-
+|rowspan="4" style="background:{{period color|Eocene}}"| [[Eocene]]
+|style="background:{{period color|Priabonian}}"| [[Priabonian]]
+|rowspan="3"| [[Greenhouse and Icehouse Earth|Moderate, cooling climate]]. 
+
+62. 
+|style="background:{{period color|Messinian}}"| {{Period start|messinian}}<sup>*</sup>
+|-
+|style="background:{{period color|Tortonian}}"| [[Tortonian]]
+|style="background:{{period color|Tortonian}}"| {{Period start|tortonian}}<sup>*</sup>
+|-
+|style="background:{{period color|Serravallian}}"| [[Serravallian]]
+|rowspan="2" |Warmer during [[middle Miocene climate optimum]].<ref> https://digitalcommons.bryant.edu/cgi/viewcontent.cgi?article=1010&context=honors_science </ref> Extinctions in [[middle Miocene disruption]]. 
+
+63. 
+A key aspect of the work of the International Commission on Stratigraphy is to reconcile this conflicting terminology and define universal [[Horizon (geology)|horizons]] that can be used around the world.<ref>{{cite web|url=http://www.stratigraphy.org/bak/status.htm#_2.__PURPOSE_AND_OBJECTIVES|title=Statutes of the International Commission on Stratigraphy|access-date=26 November 2009}}</ref>
+
+Some other [[Planet#Solar System|planets]] and [[Natural satellite|moons]] in the Solar System have sufficiently rigid structures to have preserved records of their own histories, for example, [[Geology of Venus|Venus]], [[Geology of Mars|Mars]] and the [[Geology of the Moon|Earth's Moon]]. 
+
+64. 
+|style="background:{{period color|Priabonian}}"| {{Period start|priabonian}}
+|-
+|style="background:{{period color|Bartonian}}"| [[Bartonian]]
+|style="background:{{period color|Bartonian}}"| {{Period start|bartonian}}
+|-
+|style="background:{{period color|Lutetian}}"| [[Lutetian]]
+|style="background:{{period color|Lutetian}}"| {{Period start|lutetian}}<sup>*</sup>
+|-
+|style="background:{{period color|Ypresian}}"| [[Ypresian]]
+|Two transient events of global warming ([[Paleocene–Eocene Thermal Maximum|PETM]] and [[Eocene Thermal Maximum 2|ETM-2]]) and warming climate until the [[Eocene Climatic Optimum]]. 
+
+65. 
+In the mid-Permian, [[coal]]-age flora are replaced by [[Conifer cone|cone]]-bearing [[gymnosperm]]s (the first true [[seed plants]]) and by the first true [[moss]]es. 
+
+66. 
+|style="background:{{period color|Pridoli}}"| {{Period start|pridoli}} ±&nbsp;2.3<sup>*</sup>
+|-
+|rowspan="2" style="background:{{period color|Ludlow}}"| [[Ludlow epoch|Ludlow]]
+|style="background:{{period color|Ludfordian}}"| [[Ludfordian]]
+|style="background:{{period color|Ludfordian}}"| {{Period start|ludfordian}} ±&nbsp;0.9<sup>*</sup>
+|-
+|style="background:{{period color|Gorstian}}"| [[Gorstian]]
+|style="background:{{period color|Gorstian}}"| {{Period start|gorstian}} ±&nbsp;0.5<sup>*</sup>
+|-
+|rowspan="2" style="background:{{period color|Wenlock}}"| [[Wenlock epoch|Wenlock]]
+|style="background:{{period color|Homerian}}"| [[Homerian]]
+|style="background:{{period color|Homerian}}"| {{Period start|homerian}} ±&nbsp;0.7<sup>*</sup>
+|-
+|style="background:{{period color|Sheinwoodian}}"| [[Sheinwoodian]]
+|style="background:{{period color|Sheinwoodian}}"| {{Period start|sheinwoodian}} ±&nbsp;0.8<sup>*</sup>
+|-
+|rowspan="3" style="background:{{period color|Llandovery}}"| [[Llandovery epoch|Llandovery]]
+|style="background:{{period color|Telychian}}"| [[Telychian]]
+|style="background:{{period color|Telychian}}"| {{Period start|telychian}} ±&nbsp;1.1<sup>*</sup>
+|-
+|style="background:{{period color|Aeronian}}"| [[Aeronian]]
+|style="background:{{period color|Aeronian}}"| {{Period start|aeronian}} ±&nbsp;1.2<sup>*</sup>
+|-
+|style="background:{{period color|Rhuddanian}}"| [[Rhuddanian]]
+|style="background:{{period color|Rhuddanian}}"| {{Period start|rhuddanian}} ±&nbsp;1.5<sup>*</sup>
+|-
+|rowspan="7" style="background:{{period color|Ordovician}}"| [[Ordovician]]
+|rowspan="3" style="background:{{period color|Late Ordovician}}"| [[Late Ordovician|Late]]
+|style="background:{{period color|Hirnantian}}"| [[Hirnantian]]
+|rowspan="7"| [[Invertebrate]]s diversify into many new types (e.g., long [[orthoconic|straight-shelled]] [[orthocerida|cephalopods]]). 
+
+67. 
+|style="background:{{period color|Changhsingian}}"| {{Period start|changhsingian}} ±&nbsp;0.07<sup>*</sup>
+|-
+|style="background:{{period color|Wuchiapingian}}"| [[Wuchiapingian]]
+|style="background:{{period color|Wuchiapingian}}"| {{Period start|wuchiapingian}} ±&nbsp;0.4<sup>*</sup>
+|-
+|rowspan="3" style="background:{{period color|Guadalupian}}"| [[Guadalupian]]
+|style="background:{{period color|Capitanian}}"| [[Capitanian]]
+|style="background:{{period color|Capitanian}}"| {{Period start|capitanian}} ±&nbsp;0.4<sup>*</sup>
+|-
+|style="background:{{period color|Wordian}}"| [[Wordian]]
+|style="background:{{period color|Wordian}}"| {{Period start|wordian}} ±&nbsp;0.5<sup>*</sup>
+|-
+|style="background:{{period color|Roadian}}"| [[Roadian]]
+|style="background:{{period color|Roadian}}"| {{Period start|roadian}} ±&nbsp;0.5<sup>*</sup>
+|-
+|rowspan="4" style="background:{{period color|Cisuralian}}"| [[Cisuralian]]
+|style="background:{{period color|Kungurian}}"| [[Kungurian]]
+|style="background:{{period color|Kungurian}}"| {{Period start|kungurian}} ±&nbsp;0.6
+|-
+|style="background:{{period color|Artinskian}}"| [[Artinskian]]
+|style="background:{{period color|Artinskian}}"| {{Period start|artinskian}} ±&nbsp;0.26
+|-
+|style="background:{{period color|Sakmarian}}"| [[Sakmarian]]
+|style="background:{{period color|Sakmarian}}"| {{Period start|sakmarian}} ±&nbsp;0.18
+|-
+|style="background:{{period color|Asselian}}"| [[Asselian]]
+|style="background:{{period color|Asselian}}"| {{Period start|asselian}} ±&nbsp;0.15<sup>*</sup>
+|-
+|rowspan="7" style="background:{{period color|Carboniferous}}"| [[Carboniferous|Carbon-<br />iferous]]{{efn|In North America, the Carboniferous is subdivided into [[Mississippian (geology)|Mississippian]] and [[Pennsylvanian (geology)|Pennsylvanian]] Periods.}}
+|rowspan="4" style="background:{{period color|Pennsylvanian}}"| [[Pennsylvanian (geology)|Pennsylvanian]]
+|style="background:{{period color|Gzhelian}}"| [[Gzhelian]]
+|rowspan="4"| [[Pterygota|Winged insects]] radiate suddenly; some (esp. 
+
+68. 
+|style="background:{{period color|Tithonian}}"| {{Period start|tithonian}} ±&nbsp;0.9
+|-
+|style="background:{{period color|Kimmeridgian}}"| [[Kimmeridgian]]
+|style="background:{{period color|Kimmeridgian}}"| {{Period start|kimmeridgian}} ±&nbsp;1.0
+|-
+|style="background:{{period color|Oxfordian}}"| [[Oxfordian stage|Oxfordian]]
+|style="background:{{period color|Oxfordian}}"| {{Period start|oxfordian}} ±&nbsp;1.0
+|-
+|rowspan="4" style="background:{{period color|Middle Jurassic}}"| [[Middle Jurassic|Middle]]
+|style="background:{{period color|Callovian}}"| [[Callovian]]
+|style="background:{{period color|Callovian}}"| {{Period start|callovian}} ±&nbsp;1.2
+|-
+|style="background:{{period color|Bathonian}}"| [[Bathonian]]
+|style="background:{{period color|Bathonian}}"| {{Period start|bathonian}} ±&nbsp;1.3<sup>*</sup>
+|-
+|style="background:{{period color|Bajocian}}"| [[Bajocian]]
+|style="background:{{period color|Bajocian}}"| {{Period start|bajocian}} ±&nbsp;1.4<sup>*</sup>
+|-
+|style="background:{{period color|Aalenian}}"| [[Aalenian]]
+|style="background:{{period color|Aalenian}}"| {{Period start|aalenian}} ±&nbsp;1.0<sup>*</sup>
+|-
+|rowspan="4" style="background:{{period color|Early Jurassic}}"| [[Early Jurassic|Early]]
+|style="background:{{period color|Toarcian}}"| [[Toarcian]]
+|style="background:{{period color|Toarcian}}"| {{Period start|toarcian}} ±&nbsp;0.7<sup>*</sup>
+|-
+|style="background:{{period color|Pliensbachian}}"| [[Pliensbachian]]
+|style="background:{{period color|Pliensbachian}}"| {{Period start|pliensbachian}} ±&nbsp;1.0<sup>*</sup>
+|-
+|style="background:{{period color|Sinemurian}}"| [[Sinemurian]]
+|style="background:{{period color|Sinemurian}}"| {{Period start|sinemurian}} ±&nbsp;0.3<sup>*</sup>
+|-
+|style="background:{{period color|Hettangian}}"| [[Hettangian]]
+|style="background:{{period color|Hettangian}}"| {{Period start|hettangian}} ±&nbsp;0.2<sup>*</sup>
+|-
+|rowspan="7" style="background:{{period color|Triassic}}"| [[Triassic]]
+|rowspan="3" style="background:{{period color|Late Triassic}}"| [[Late Triassic|Late]]
+|style="background:{{period color|Rhaetian}}"| [[Rhaetian]]
+|rowspan="7"| [[Archosaur]]s dominant on land as [[dinosaur]]s and in the air as [[pterosaur]]s. 
+
+69. 
+|style="background:{{period color|Hirnantian}}"| {{Period start|hirnantian}}&nbsp;±&nbsp;1.4<sup>*</sup>
+|-
+|style="background:{{period color|Katian}}"| [[Katian]]
+|style="background:{{period color|Katian}}"| {{Period start|katian}}&nbsp;±&nbsp;0.7<sup>*</sup>
+|-
+|style="background:{{period color|Sandbian}}"| [[Sandbian]]
+|style="background:{{period color|Sandbian}}"| {{Period start|sandbian}}&nbsp;±&nbsp;0.9<sup>*</sup>
+|-
+|rowspan="2" style="background:{{period color|Middle Ordovician}}"| [[Middle Ordovician|Middle]]
+|style="background:{{period color|Darriwilian}}"| [[Darriwilian]]
+|style="background:{{period color|Darriwilian}}"| {{Period start|darriwilian}}&nbsp;±&nbsp;1.1<sup>*</sup>
+|-
+|style="background:{{period color|Dapingian}}"| [[Dapingian]]
+|style="background:{{period color|Dapingian}}"| {{Period start|dapingian}}&nbsp;±&nbsp;1.4<sup>*</sup>
+|-
+|rowspan="2" style="background:{{period color|Early Ordovician}}"| [[Early Ordovician|Early]]
+|style="background:{{period color|Floian}}"| [[Floian]]<br />(formerly [[Arenig]])
+|style="background:{{period color|Floian}}"| {{Period start|floian}}&nbsp;±&nbsp;1.4<sup>*</sup>
+|-
+|style="background:{{period color|Tremadocian}}"| [[Tremadocian]]
+|style="background:{{period color|Tremadocian}}"| {{Period start|tremadocian}}&nbsp;±&nbsp;1.9<sup>*</sup>
+|-
+|rowspan="10" style="background:{{period color|Cambrian}}"| [[Cambrian]]
+|rowspan="3" style="background:{{period color|Furongian}}"| [[Furongian]]
+|style="background:{{period color|Stage 10}}"| [[Cambrian Stage 10|Stage 10]]
+|rowspan="10"| Major diversification of life in the [[Cambrian Explosion]]. 
+
+70. 
+|style="background:{{period color|Maastrichtian}}"| {{Period start|maastrichtian}} ±&nbsp;0.2<sup>*</sup>
+|-
+|style="background:{{period color|Campanian}}"| [[Campanian]]
+|style="background:{{period color|Campanian}}"| {{Period start|campanian}} ±&nbsp;0.2
+|-
+|style="background:{{period color|Santonian}}"| [[Santonian]]
+|style="background:{{period color|Santonian}}"| {{Period start|santonian}} ±&nbsp;0.5<sup>*</sup>
+|-
+|style="background:{{period color|Coniacian}}"| [[Coniacian]]
+|style="background:{{period color|Coniacian}}"| {{Period start|coniacian}} ±&nbsp;0.3
+|-
+|style="background:{{period color|Turonian}}"| [[Turonian]]
+|style="background:{{period color|Turonian}}"| {{Period start|turonian}}<sup>*</sup>
+|-
+|style="background:{{period color|Cenomanian}}"| [[Cenomanian]]
+|style="background:{{period color|Cenomanian}}"| {{Period start|cenomanian}}<sup>*</sup>
+|-
+|rowspan="6" style="background:{{period color|Early Cretaceous}}"| [[Early Cretaceous|Early]]
+|style="background:{{period color|Albian}}"| [[Albian]]
+|style="background:{{period color|Albian}}"| ~{{Period start|albian}}
+|-
+|style="background:{{period color|Aptian}}"| [[Aptian]]
+|style="background:{{period color|Aptian}}"| ~{{Period start|aptian}}
+|-
+|style="background:{{period color|Barremian}}"| [[Barremian]]
+|style="background:{{period color|Barremian}}"| ~{{Period start|barremian}}
+|-
+|style="background:{{period color|Hauterivian}}"| [[Hauterivian]]
+|style="background:{{period color|Hauterivian}}"| ~{{Period start|hauterivian}}
+|-
+|style="background:{{period color|Valanginian}}"| [[Valanginian]]
+|style="background:{{period color|Valanginian}}"| ~{{Period start|valanginian}}
+|-
+|style="background:{{period color|Berriasian}}"| [[Berriasian]]
+|style="background:{{period color|Berriasian}}"| ~{{Period start|berriasian}}
+|-
+|rowspan="11" style="background:{{period color|Jurassic}}"| [[Jurassic]]
+|rowspan="3" style="background:{{period color|Late Jurassic}}"| [[Late Jurassic|Late]]
+|style="background:{{period color|Tithonian}}"| [[Tithonian]]
+|rowspan="11"| [[Gymnosperm]]s (especially [[conifer]]s, [[Bennettitales]] and [[cycad]]s) and [[fern]]s common. 
+
+71. 
+|style="background:{{period color|Serravallian}}"| {{Period start|serravallian}}<sup>*</sup>
+|-
+|style="background:{{period color|Langhian}}"| [[Langhian]]
+|style="background:{{period color|Langhian}}"| {{Period start|langhian}}
+|-
+|style="background:{{period color|Burdigalian}}"| [[Burdigalian]]
+|rowspan="2" |[[Orogeny]] in [[Northern Hemisphere]]. 
+
+72. 
+|style="background:{{period color|Cryogenian}}"| ~{{Period start|cryogenian}}<!--- -635 to -720 (-850 < 2015) mya - Cryogenian glaciation --->{{efn|name="absolute-age"|Defined by absolute age ([[Global Standard Stratigraphic Age]]).}}
+|-
+|style="background:{{period color|Tonian}}"| [[Tonian]]
+|colspan="3"| [[Rodinia]] supercontinent persists. 
+
+73. 
+|style="background:{{period color|Gzhelian}}"| {{Period start|gzhelian}} ±&nbsp;0.1
+|-
+|style="background:{{period color|Kasimovian}}"| [[Kasimovian]]
+|style="background:{{period color|Kasimovian}}"| {{Period start|kasimovian}} ±&nbsp;0.1
+|-
+|style="background:{{period color|Moscovian}}"| [[Moscovian (Carboniferous)|Moscovian]]
+|style="background:{{period color|Moscovian}}"| {{Period start|moscovian}} ±&nbsp;0.2
+|-
+|style="background:{{period color|Bashkirian}}"| [[Bashkirian]]
+|style="background:{{period color|Bashkirian}}"| {{Period start|bashkirian}} ±&nbsp;0.4<sup>*</sup>
+|-
+|rowspan="3" style="background:{{period color|Mississippian}}"|[[Mississippian (geology)|Mississippian]]
+|style="background:{{period color|Serpukhovian}}"| [[Serpukhovian]]
+|rowspan="3"| Large [[Lycopodiophyta|primitive tree]]s, first [[Tetrapoda|land vertebrate]]s, and amphibious [[eurypterid|sea-scorpion]]s live amid [[coal]]-forming coastal [[brackish water|swamp]]s. 
+
+74. 
+|style="background:{{period color|Famennian}}"| {{Period start|famennian}} ±&nbsp;1.6<sup>*</sup>
+|-
+|style="background:{{period color|Frasnian}}"| [[Frasnian]]
+|style="background:{{period color|Frasnian}}"| {{Period start|frasnian}} ±&nbsp;1.6<sup>*</sup>
+|-
+|rowspan="2" style="background:{{period color|Middle Devonian}}"| [[Middle Devonian|Middle]]
+|style="background:{{period color|Givetian}}"| [[Givetian]]
+|style="background:{{period color|Givetian}}"| {{Period start|givetian}} ±&nbsp;0.8<sup>*</sup>
+|-
+|style="background:{{period color|Eifelian}}"| [[Eifelian]]
+|style="background:{{period color|Eifelian}}"| {{Period start|eifelian}} ±&nbsp;1.2<sup>*</sup>
+|-
+|rowspan="3" style="background:{{period color|Early Devonian}}"| [[Early Devonian|Early]]
+|style="background:{{period color|Emsian}}"| [[Emsian]]
+|style="background:{{period color|Emsian}}"| {{Period start|emsian}} ±&nbsp;2.6<sup>*</sup>
+|-
+|style="background:{{period color|Pragian}}"| [[Pragian]]
+|style="background:{{period color|Pragian}}"| {{Period start|pragian}} ±&nbsp;2.8<sup>*</sup>
+|-
+|style="background:{{period color|Lochkovian}}"| [[Lochkovian]]
+|style="background:{{period color|Lochkovian}}"| {{Period start|lochkovian}} ±&nbsp;3.2<sup>*</sup>
+|-
+|rowspan="8" style="background:{{period color|Silurian}}"| [[Silurian]]
+|colspan="2" style="background:{{period color|Pridoli}}"| [[Pridoli epoch|Pridoli]]
+|rowspan="8"| First [[vascular plant]]s (the [[rhyniophyte]]s and their relatives), first [[millipede]]s and [[Arthropleurida|arthropleurid]]s on land. 
+
+75. 
+
+The first geologic time scale that included absolute dates was published in 1913 by the British geologist [[Arthur Holmes]].<ref>{{cite web|url=http://www.enchantedlearning.com/subjects/Geologictime.html|title=Geologic Time Scale|publisher = EnchantedLearning.com}}</ref> He greatly furthered the newly created discipline of [[geochronology]] and published the world-renowned book ''The Age of the Earth'' in which he estimated Earth's age to be at least 1.6 billion years.<ref>{{cite web|url=http://www.bris.ac.uk/news/2007/5609.html|title=How the discovery of geologic time changed our view of the world|publisher=Bristol University}}</ref>
+
+In 1977, the ''Global Commission on Stratigraphy'' (now the [[International Commission on Stratigraphy]]) began to define global references known as GSSP ([[Global Boundary Stratotype Section and Point|Global Boundary Stratotype Sections and Points]]) for geologic periods and faunal stages. 
+
+76. 
+The existence, timing, and terrestrial effects of the Late Heavy Bombardment are still a matter of debate.{{efn|Not enough is known about extra-solar planets for worthwhile speculation.}}
+
+==History and nomenclature of the time scale==
+{{Life timeline}}
+{{Main|History of geology|History of paleontology}}
+[[File:Geological time spiral.png|thumb|Graphical representation of Earth's history as a spiral]]
+
+===Early history===
+In [[Ancient Greece]], [[Aristotle]] (384-322 BCE) observed that [[fossil]]s of seashells in rocks resembled those found on beaches – he inferred that the fossils in rocks were formed by organisms, and he reasoned that the positions of land and sea had changed over long periods of time. 
+
+77. 
+|style="background:{{period color|Serpukhovian}}"| {{Period start|serpukhovian}} ±&nbsp;0.2
+|-
+|style="background:{{period color|visean}}"| [[Viséan]]
+|style="background:{{period color|visean}}"| {{Period start|visean}} ±&nbsp;0.4<sup>*</sup>
+|-
+|style="background:{{period color|Tournaisian}}"| [[Tournaisian]]
+|style="background:{{period color|Tournaisian}}"| {{Period start|tournaisian}} ±&nbsp;0.4<sup>*</sup>
+|-
+|rowspan="7" style="background:{{period color|Devonian}}"| [[Devonian]]
+|rowspan="2" style="background:{{period color|Late Devonian}}"| [[Late Devonian|Late]]
+|style="background:{{period color|Famennian}}"| [[Famennian]]
+|rowspan="7"| First [[Lycopodiopsida|clubmoss]]es, [[Equisetophyta|horsetail]]s and [[fern]]s appear, as do the first [[seed]]-bearing plants ([[progymnosperm]]s), first trees (the progymnosperm ''[[Archaeopteris]]''), and first (wingless) [[insect]]s. 
+
+78. 
+
+The ICS has not officially approved the term {{As of|2015|9|lc=y}}.<ref name = icsanthropocene>{{Cite web |website= Subcommission on Quaternary Stratigraphy |title= Working Group on the 'Anthropocene'|url = http://quaternary.stratigraphy.org/workinggroups/anthropocene/|publisher= [[International Commission on Stratigraphy]]}}</ref>  The Anthropocene Working Group met in Oslo in April 2016 to consolidate evidence supporting the argument for the Anthropocene as a true geologic epoch.<ref name = icsanthropocene/> Evidence was evaluated and the group voted to recommend "Anthropocene" as the new geological age in August 2016.<ref>{{Cite web|url=https://www.theguardian.com/environment/2016/aug/29/declare-anthropocene-epoch-experts-urge-geological-congress-human-impact-earth|title=The Anthropocene epoch: scientists declare dawn of human-influenced age|date=29 August 2016}}</ref>
+Should the International Commission on Stratigraphy approve the recommendation, the proposal to adopt the term will have to be ratified by the International Union of Geological Sciences before its formal adoption as part of the geologic time scale.<ref name="Gixmodo001">
+{{cite web
+|author= George Dvorsky
+|url= https://gizmodo.com/new-evidence-suggests-human-beings-are-a-geological-for-1751429480
+|title= New Evidence Suggests Human Beings Are a Geological Force of Nature
+|publisher= Gizmodo.com |date= |accessdate= 2016-10-15
+}}
+</ref>
+
+==Table of geologic time==
+The following table summarizes the major events and characteristics of the periods of time making up the geologic time scale. 
+
+79. 
+{{short description|System that relates geological strata to time}}
+{{Use dmy dates|date=July 2016}}
+[[File:Geologic Clock with events and periods.svg|thumb|upright=1.85|This clock representation shows some of the major units of geological time and definitive events of Earth history. 
+
+80. 
+[https://books.google.com/books?id=ckIrAAAAYAAJ&printsec=toc#PPP1,M1 Report of the Committee on the measurement of geologic time]
+* [https://web.archive.org/web/20110714173934/http://www.newsciencelessons.com/geology_lesson_plans.html Lessons for Children on Geologic Time]
+* [http://deeptime.info Deep Time – A History of the Earth : Interactive Infographic]
+* [https://ghkclass.fr International Chronostratigraphy Chart v2018-08 by ''ghK Classification technique'']
+
+{{Geological history}}
+{{Navboxes|list=
+{{Time topics}}
+{{Time measurement and standards}}
+{{Big History}}
+{{Chronology}}
+{{Earth}}
+}}
+
+[[Category:Geologic time scales| ]]
+[[Category:Geology timelines|+]]
+[[Category:Geochronology]]
+[[Category:Geology-related lists|Timescale]]
+[[Category:Articles which contain graphical timelines]]
+[[Category:International Commission on Stratigraphy geologic time scale of Earth]]. 
+
+81. 
+|style="background:#fcf0de"| {{Period start|greenlandian}}<sup>*</sup>
+|-
+|rowspan="4" style="background:{{period color|Pleistocene}}"| [[Pleistocene]]
+|style="background:{{period color|Upper Pleistocene}}"| [[Late Pleistocene|Late]] ''('[[Tarantian]]')''
+|[[Eemian]] [[interglacial]], [[Last glacial period]], ending with [[Younger Dryas]]. 
+
+82. 
+It was thus possible to speak of a "Tertiary Period" as well as of "Tertiary Rocks." Indeed, "Tertiary" (now Paleogene and Neogene) remained in use as the name of a geological period well into the 20th century and  "Quaternary" remains in formal use as the name of the current period. 
+
+83. 
+
+===Formulation of geologic time scale===
+The first serious attempts to formulate a geologic time scale that could be applied anywhere on Earth were made in the late 18th century. 
+
+84. 
+The commission's work is described in the 2012 geologic time scale of Gradstein et al.<ref>{{cite book|editor1-first=Felix|editor1-last=Gradstein|editor2-first=James|editor2-last=Ogg|editor3-first=Mark|editor3-last=Schmitz|editor4-first=Gabi|editor4-last=Ogg|title=The Geologic Time Scale 2012|publisher=Elsevier B.V.|date=2012|isbn=978-0-444-59425-9}}</ref> A [[Unified Modeling Language|UML]] model for how the timescale is structured, relating it to the GSSP, is also available.<ref>{{cite journal |last1= Cox |first1= Simon J. 
+
+85. 
+|style="background:{{period color|Ediacaran}}"| ~{{Period start|ediacaran}}<sup>*</sup>
+|-
+|style="background:{{period color|Cryogenian}}"| [[Cryogenian]]
+|colspan="3"| Possible "[[Snowball Earth]]" period. 
+
+86. 
+|style="background:{{period color|Hadean}}"| {{Period start|hadean}}
+|}
+
+==Proposed Precambrian timeline==
+The ICS's ''Geologic Time Scale 2012'' book which includes the new approved time scale also displays a proposal to substantially revise the Precambrian time scale to reflect important events such as the [[formation of the Earth]] or the [[Great Oxidation Event]], among others, while at the same time maintaining most of the previous chronostratigraphic nomenclature for the pertinent time span.<ref name="vankranendonk2012">{{cite book|last=Van Kranendonk|first=Martin J. 
+
+87. 
+|chapter=Time and Geology |chapter-url=https://books.google.com/books?id=D0yl7Cqsu78C&pg=PA29|title=The Earth Through Time |url=https://books.google.com/books?id=D0yl7Cqsu78C |place=Hoboken, New Jersey |publisher=John Wiley & Sons |isbn=978-0-470-38774-0 |accessdate=18 November 2011}}
+*{{cite book|last=Montenari|first=Michael|date=2016|title= Stratigraphy and Timescales|edition=1st|location=Amsterdam|publisher=Academic Press (Elsevier)|isbn=978-0-12-811549-7}}
+
+==External links==
+{{Commons category|Geologic time scale}}
+{{Wikibooks|Historical Geology|Geological column}}
+* [https://web.archive.org/web/20050418090602/http://rst.gsfc.nasa.gov/Sect2/Sect2_1b.html NASA: Geologic Time]
+* [https://web.archive.org/web/20190120115100/https://www.geosociety.org/GSA/Education_Careers/Geologic_Time_Scale/GSA/timescale/home.aspx GSA: Geologic Time Scale]
+* [http://www.bgs.ac.uk/discoveringGeology/time/timechart/home.html British Geological Survey: Geological Timechart]
+* [https://web.archive.org/web/20040623025505/http://www.stratigraphy.org/geowhen/ GeoWhen Database]
+* [https://web.archive.org/web/20060716071827/http://www.stratigraphy.org/gssp.htm International Commission on Stratigraphy Time Scale]
+* [https://web.archive.org/web/19981205122129/http://www.chronos.org/ Chronos.org]
+* [https://web.archive.org/web/20051111150720/http://www.nmnh.si.edu/paleo/geotime/index.htm National Museum of Natural History – Geologic Time]
+* [https://www.seegrid.csiro.au/twiki/bin/view/CGIModel/GeologicTime SeeGrid: Geological Time Systems] Information model for the geologic time scale
+* [http://exploringtime.org/?page=segments Exploring Time] from Planck Time to the lifespan of the universe
+* [https://web.archive.org/web/20120425232455/http://www.episodes.co.in/www/backissues/272/Time%20Scale.pdf Episodes],  Gradstein, Felix M. 
+
+88. 
+The three million year [[Quaternary]] period, the time of recognizable humans, is too small to be visible at this scale.]]
+
+The '''geologic time scale''' ('''GTS''') is a system of [[chronological dating]] that relates [[Geology|geological]] strata ([[stratigraphy]]) to time. 
+
+89. 
+Construction of a time scale that links the planets is, therefore, of only limited relevance to the Earth's time scale, except in a Solar System context. 

@@ -1,0 +1,170 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+John Gower
+
+en edition's differences with the ar version: 
+
+
+1. 
+In the prologue of the first [[recension]] of the ''Confessio Amantis'', he tells how the king, chancing to meet him on the Thames (probably circa 1385), invited him aboard the royal barge, and that their conversation then resulted in a commission for the work that would become the ''Confessio Amantis''.<ref>{{ cite web
+ | title=Confessio Amantis  | editor=Peck
+ |url=http://d.lib.rochester.edu/teams/text/peck-gower-confessio-amantis-volume-1-prologue}} left note line 22</ref>  Later in life his allegiance switched to the future [[Henry IV of England|Henry IV]], to whom later editions of the ''Confessio Amantis'' were dedicated.<ref>{{ cite web 
+| title=John Gower, Richard II and Henry IV: A Poet and his Kings 
+  | author=Grétar Rúnar Skúlason  | year=2012
+ | url=http://skemman.is/stream/get/1946/11084/27272/1/Gretar_Skulason_MA_Enska.pdf}}
+</ref> Much of this is based on circumstantial rather than documentary evidence, and the history of revisions of the ''Confessio Amantis'', including the different dedications, is yet to be fully understood. 
+
+2. 
+The ''Epistola brevi'' (aka ''O Recolende'') (Macaulay, 4:345) would appear to contain an acknowledgement of the grant (lines 19–21).<br />{{ cite journal
+ | title=Calendar of Documents relating to the life of John Gower the Poet
+ | author=John H Fisher 
+ | journal=The Journal of English and Germanic Philology
+ |issue=58#1  |year=1959  |pages=1–23
+}}</ref> or an illustrated presentation copy of Confessio with dedication to Henry IV.<ref>{{ cite book
+ | title=The Late Medieval Age of Crisis and Renewal, 1300–1500
+ | author=Clayton J. 
+
+3. 
+ He is remembered primarily for three major works, the ''[[Mirour de l'Omme]]'', ''[[Vox Clamantis]]'', and ''[[Confessio Amantis]]'', three long poems written in French, Latin, and English respectively, which are united by common moral and political themes.<ref name=DNBG/>
+
+==Life==
+
+Few details are known of Gower's early life. 
+
+4. 
+Carlson estimates the value of the two pipes as 3 to 4 pounds wholesale or 8 pounds retail.<ref name=Carlson/>{{rp|199}}
+
+[[File:john.gower.southwark.london.arp.jpg|thumb|right|250px|The tomb of John Gower in [[Southwark Cathedral]]. 
+
+5. 
+ -->
+
+==Prediction of the Peasants' Revolt==
+When Wickert was attempting to date ''Vox Clamantis'' Books Two to Seven, she found two passages which predict the revolt. 
+
+6. 
+Fisher interprets them and along with the details of the Tale as a friendly competition between two poets.<ref name=FisherMP/>{{rp|292}}
+
+==Manuscripts==
+Sebastian Sobecki's discovery of the early provenance of the trilingual Trentham manuscript reveals Gower as a poet who was not afraid to give Henry IV stern political advice.<ref>{{cite journal | author = Sobecki Sebastian | year = 2015 | title = Ecce patet tensus: The Trentham Manuscript, ''In Praise of Peace'', and John Gower's Autograph Hand | doi = 10.1017/S0038713415002316 | journal = Speculum | volume = 90 | issue = 4| pages = 925–59 | url = https://www.rug.nl/research/portal/en/publications/ecce-patet-tensus(534fae63-f48c-417a-8747-4d673e52131a).html }}</ref> Sobecki also claims to have identified Gower's autograph hand in two manuscripts.<ref>Sobecki. 
+
+7. 
+Fisher  | year=1964 | publisher=New York University Press
+}}</ref>{{rp|133}}
+* short Latin works on various subjects with several poems addressed to the new [[Henry IV of England|Henry IV]]. 
+
+8. 
+The works progress from the description of the origins of sin and the nature of the vices and virtues at the beginning of the ''Mirour de l'omme'', through consideration of social law and order in the discussion of the three estates in the ''Mirour'' and ''Vox Clamatis'', to a final synthesis of royal responsibiity of [[Empedoclean]] love in the ''Confessio Amantis''.<ref name=FisherMP/>{{rp| 136}}</blockquote>
+
+In later years Gower published a number of minor works in all three languages: 
+* the ''Cinkante Ballades'', a series of French ballades on romantic subjects. 
+
+9. 
+ | year=1900 | publisher=Early English Text Society | author-link=George Campbell Macaulay
+ }}</ref>{{rp|xxvi-xxviii}}<ref>{{cite book
+ | title=The Riverside Chaucer
+  | author=Geoffrey Chaucer   | editor=Larry Dean Benson | page=856
+ | url=https://books.google.com/?id=E4DXD7Sk7WcC&pg=PA856&lpg=PA856&dq=Chaucer+Gower++man+at+Law+prologue#v=onepage&q=Chaucer%20Gower%20%20man%20at%20Law%20prologue&f=false
+ | isbn=9780199552092 | year=2008 }}</ref>
+
+At some point during the middle 1370s, he took up residence in rooms provided by the Priory of St Mary Overie (now [[Southwark Cathedral]]).<ref name=FisherMP/>{{rp|59}}  In 1398, while living here, he married,<ref name=MacLatin />{{rp|xvii}}<ref>''Register of William of Wykman'' ii. 
+
+10. 
+Meindl |year=2016 | location=Temp, Arizona
+| publisher=Arizona Center for Medieval and Renaissance Studies}} 
+</ref>{{rp|18-19}} Gower's warnings and call for reform were ignored both before and after the events of 1381.<ref name=Wickert/>{{rp|51-52}}
+
+==Chaucer influence==
+Chaucer used octosyllabic lines in ''[[The House of Fame]]'' but eschewed [[Iamb (poetry)|iambic]] rhythm. 
+
+11. 
+For Gower this was the "moralistic social complaint in the ''Mirour d l'omme'' and ''Vox Clamatis'', while Chaucer wrestled more painfully in the ''[[House of Fame]]'' and ''[[Parliament of Fowls]]'' with the relation between the style and substance of courtly poetry and social satire."<ref name=FisherMP/>{{rp|208}}
+# Gower "took the risk of composing in English only after Chaucer had achieved success and fame with ''[[Troilus and Criseyde]]''."<ref name=Duffel/>{{rp| 92}}
+#  The most of the individuals in the [[General Prologue]] are members of classes  criticized in ''Mirour'' and ''Vox Clamatis''. 
+
+12. 
+Yeager (Editor) | publisher=Medieval Institute Publications
+ | title=The French Balades   | year=2011
+ | chapter-url=http://d.lib.rochester.edu/teams/text/yeager-gower-french-balades-cinkante-balades-introduction}}</ref>
+* the English poem ''In Praise of Peace'' "is a political poem in which Gower, as a loyal subject of Henry IV, approves his coronation, admires him as the saviour of England, dilates on the evil of war and the blessing of peace, and finally begs him to display clemency and seek domestic peace"<ref>{{ cite book
+ | title=John Gower, the medieval poet
+ | author=Masayoshi Itô
+ | publisher=Shinozaki Shorin  |year=1976 
+ | url=http://d.lib.rochester.edu/teams/text/yeager-gower-minor-latin-works-livingston-in-praise-of-peace-introduction
+}}</ref>{{rp|106}} Fisher argued that it was "Gower's last important poem. 
+
+13. 
+According to Yeager "Gower's first intent to write a poem for the instructional betterment of king and court, at a moment when he had reason to believe advice about social reform might influence changes predictably to take place in an expanded jurisdiction, when the French and English peoples were consolidated under a single crown."<ref>{{ cite journal
+ | title=Gower's French Audience: The Mirour de l'Omme
+ | author=Robert F. 
+
+14. 
+When Chaucer was sent as a diplomat to Italy in 1378, Gower was one of the men to whom he gave power of attorney over his affairs in England.<ref name=MacLatin >{{ cite book
+ | title=The Complete Works of John Gower, Vol 4 The Latin Works
+ | editor=G.C. 
+
+15. 
+{{short description|14th/15th-century English writer}}
+{{for|American politician|John Gower (politician)}}
+{{EngvarB|date=January 2014}}
+{{Use dmy dates|date=January 2014}}
+
+[[File:John Gower world Vox Clamantis.jpg|thumb|300px|John Gower shooting the world, a sphere of earth, air, and water (from a manuscript of his works ca. 
+
+16. 
+He was probably born into a family which held properties in Kent and [[Kentwell Hall|Suffolk]].<ref name=DNBG>{{cite DNB|wstitle=Gower, John}}</ref>{{rp|299}} Stanley and Smith use a [[Confessio Amantis#Language|linguistic argument]] to conclude that "Gower’s formative years were spent partly in Kent and partly in Suffolk".<ref>{{ cite book
+ | title=The English of Chaucer and his contemporaries
+ | chapter=The Language of Gower | year=1988
+ | first1=Michael | last1=Samuels  | author2=J.J.Smith
+ | publisher=Aberdeen University Press  | isbn=978-0080364032
+ }}</ref> Southern and Nicolas conclude that the Gower family of Kent and Suffolk cannot be related to the Yorkshire Gowers because their coats of arms are drastically different.<ref name=Southern>{{ cite book
+ | title=The Retrospective Review, and Historical and Antiquarian Magazine, Volumes 1–2
+ | chapter=   |year=1828 | publisher=Baldwin, Cradock, and Joy
+ | editor1= Henry Southern, Esq M.A. 
+
+17. 
+: [[John Hurt Fisher|Fisher, John H.]] (1964) ''John Gower: Moral Philosopher and Friend of Chaucer''. 
+
+18. 
+In the 16th century, he was generally regarded alongside Chaucer as the father of English poetry.<ref name=MacCA1>{{ cite book
+ |title=The English Works of John Gower Vol I  | chapter=Introduction
+ | chapter-url=https://archive.org/details/englishworksjoh01macagoog
+ | author=Macaulay, G.C. 
+
+19. 
+He "left it to Gower to invent the iambic [[tetrameter]], and to later centuries of poets to solve the problems of its potential monotony; he himself merely polished the traditional Middle English short line."<ref name=Duffel>{{ cite book
+ | title=A New History of English Metre | publisher=Legenda | year=2011
+ | author= Martin J. 
+
+20. 
+Macaulay   | chapter=Introduction, Life of Gower |page=vii–xxx
+ | chapter-url=http://lollardsociety.org/pdfs/Gower_Works_vol4Latin.pdf
+}}</ref>{{rp|xv}} The two poets also paid one another compliments in their verse: Chaucer dedicated his ''[[Troilus and Criseyde]]'' in part to "moral Gower", and Gower reciprocated by placing a speech in praise of Chaucer in the mouth of [[Venus (mythology)|Venus]] at the end of the ''Confessio Amantis'' (first recension VIII.2950-70).<ref>{{cite book
+ | title=Testament of Love
+ | author1=Thomas Usk |author2=John Leyerle |author3=Gary Wayne Shawver
+ | publisher=University of Toronto Press |year=2002  | page=3
+ | url=https://books.google.com/?id=MlimTh3MLgkC&dq=%22Do+make+his+testament+of+love%22
+ | isbn=9780802054715 }}</ref> The Introduction to [[The Man of Law's Tale|the Man of Law]]'s Tale (lines 77–89) contains an apparent reference to Gower’s tales of Canacee and Tyro Appolonius. 
+
+21. 
+From 1365 he received ten pounds' rent for the manor of Wygebergh in Essex.<ref name=Pauli>{{ cite book
+ | title=Confessio Amantis of John Gower, Vol 1 | chapter=Life of John Gower
+ | editor=Reinhold Pauli   |year=1857 | publisher=Bell and Daldy
+ | chapter-url=https://books.google.com/books?id=MVQJAAAAQAAJ&pg=PR9&lpg=PR9&dq=%22john+gower%22+kentwell+cobham&source=bl&ots=nCUF7HnGnP&sig=YKS6IfpB9G-8E4CB88gyCnmFx28&hl=en&sa=X&ved=0CCwQ6AEwA2oVChMIt7PCpZyayQIVybYeCh1IVw5W#v=onepage&q=%22john%20gower%22%20kentwell%20cobham&f=false
+}}</ref>{{rp|xi}} From 1382 until death he received forty pounds per annum from selling [[Feltwell]] in Norfolk and [[Moulton, Suffolk|Moulton]] in Suffolk.<ref name=Southern/>{{rp|117}} In 1399 Henry IV granted him a pension, in the form of an annual allowance of two pipes (= 1 tun = 240 gallons) of Gascony wine. 
+
+22. 
+[https://dx.doi.org/10.1017/S0038713415002316 "Ecce patet tensus: The Trentham Manuscript, ''In Praise of Peace'', and John Gower's Autograph Hand."]</ref>
+
+==List of works==
+* ''[[Mirour de l'Omme]]'', or ''Speculum Hominis'', or ''Speculum Meditantis'' (French, c.1376–1379)
+* ''[[Vox Clamantis]]'' (Latin, c.1377–1381)
+* ''[[Confessio Amantis]]'' (English, c.1386–1393)
+* ''Traité pour essampler les amants marietz'' (French, 1397)
+* ''Cinkante Balades'' (French, 1399–1400)
+* ''Cronica Tripertita'' (Latin, c.1400)
+* ''In praise of peace'' (English, c.1400)
+
+== See also ==
+* ''[[Pericles, Prince of Tyre]]'', a play co-written by [[William Shakespeare|Shakespeare]], based on a story from [[Confessio Amantis]] and featuring Gower as the Chorus
+*  Characters named Gower appear in ''[[Henry IV Part II]]'' and ''[[Henry V (play)|Henry V]]'' but there is no reason to associate these characters with the poet. 

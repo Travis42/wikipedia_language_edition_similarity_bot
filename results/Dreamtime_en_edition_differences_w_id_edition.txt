@@ -1,0 +1,375 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Dreamtime
+
+en edition's differences with the id version: 
+
+
+1. 
+* A 1982 album by [[Kate Bush]] is entitled ''[[The Dreaming (album)|The Dreaming]]'', the title track of which deals with the upheaval and displacement of the Aboriginal people. 
+
+2. 
+* ''[[Frog Dreaming]]'' (1986) (renamed ''The Quest'' when released in the USA) included certain aspects of Aboriginal Dreaming. 
+
+3. 
+ | last = Nicholls | first = Christine Judith
+ | website = The Conversation
+ | url = http://theconversation.com/dreamtime-and-the-dreaming-who-dreamed-up-these-terms-20835
+ | date = 28 January 2014c | access-date = 7 January 2019
+ | ref = harv
+}}
+*{{Cite web| title = 'Dreamings' and dreaming narratives: what's the relationship. 
+
+4. 
+Spencer found attestations of ''altjira'' from the 1890s that used the word to mean "associated with past times" or "eternal", not "god".{{sfn|Gill|1998|pp=93–103}}
+
+Academic Sam Gill finds Strehlow's use of ''Altjira'' ambiguous, sometimes describing a supreme being and sometimes describing a totem being, but not necessarily a supreme one. 
+
+5. 
+* [[Jeff Smith (cartoonist)|Jeff Smith]] says that aspects of his [[cartoon]]/[[fantasy]] epic ''[[Bone (comic)|Bone]]'' were inspired by Dreamtime, among other things.{{sfn|Smith|loc=Bone–A–Fides section}}
+* [[Queenie Chan]]'s manga [[The Dreaming (manga)|''The Dreaming'']] (2005) takes place in [[Australia]] and deals with students from a boarding school who mysteriously go missing. 
+
+6. 
+* [[Sandra McDonald]]'s novels, ''The Outback Stars'', ''The Stars Down Under'' and ''The Stars Blue Yonder'' (2007–2009), use Aboriginal myth extensively. 
+
+7. 
+In another example, the ''[[Gagudju]]'' people of [[Arnhemland]], for which [[Kakadu National Park]] is named, believe that the sandstone escarpment that dominates the park's landscape was created in the Dreamtime when ''Ginga'' (the crocodile-man) was badly burned during a ceremony and jumped into the water to save himself.{{cn|date=December 2019}}
+
+==In popular culture==
+{{unreferenced section|date=January 2020}}
+An early reference is found is [[Richard McKenna]]'s 1960s speculative fiction novella, ''[[Fiddler's Green (1967 novelette)|Fiddler's Green]]'', which mentions "Alcheringa... 
+
+8. 
+* [[Tuomas Holopainen]]'s 2014 album ''[[Music Inspired by the Life and Times of Scrooge]]'' includes a track entitled "Dreamtime," which directly references the Scrooge McDuck comic ''[[Dreamtime Duck of the Never-Never]]'', and includes a [[didgeridoo]] in its instrumentation. 
+
+9. 
+ | author1-link = Baldwin Spencer
+ | author2-link = Francis James Gillen
+ | year = 1899
+ | publisher = [[Macmillan & Co]]
+ | url = https://archive.org/details/nativetribesofce00spenuoft
+ | ref = harv
+}}
+*{{cite book| title = The northern tribes of central Australia
+ | last1 = Spencer | first1 = Baldwin
+ | last2 = Gillen | first2 = F. 
+
+10. 
+In this way, "[[songline]]s" (or ''Yiri'' in the [[Warlpiri language]]) were established, some of which could travel right across Australia, through as many as six to ten different language groupings. 
+
+11. 
+"The native," they concluded, "knows nothing of 'dreamtime' as a designation of a certain period of their history."{{sfn|Hill|2003|pp=140–141}}{{efn|The Strehlows' informant, Moses (''Tjalkabota''), was a convert to Christianity, and the adoption of his interpretation suffered from a methodological error, according to [[Barry Hill (Australian writer)|Barry Hill]], since his conversion made his views on pre-contact beliefs unreliable.}}
+
+Strehlow gives ''Altjira'' or ''Altjira mara'' (''mara'' meaning "good") as the Arrente word for the eternal [[Creator deity|creator]] of the world and humankind. 
+
+12. 
+The meaning and significance of particular places and creatures is wedded to their origin in The Dreaming, and certain places have a particular potency or Dreaming. 
+
+13. 
+In Strehlow's account, ''Altjira'' lives in the sky (which is a body of land through which runs the [[Milky Way]], a river).{{sfn|Gill|1998|pp=93–103}}
+
+However, by the time Strehlow was writing, his contacts had been converts to Christianity for decades, and critics suggested that ''Altjira'' had been used by missionaries as a word for the [[God in Christianity|Christian God]].{{sfn|Gill|1998|pp=93–103}}
+
+In 1926, Spencer conducted a field study to challenge Strehlow's conclusion about ''Altjira'' and the implied criticism of Gillen and Spencer's original work. 
+
+14. 
+
+"[[Dreaming (spirituality)|Dreaming]]" is now also used as a term for a system of totemic symbols, so that an Aboriginal person may "own" a specific "Dreaming", such as Kangaroo Dreaming, Shark Dreaming, Honey Ant Dreaming, Badger Dreaming, or any combination of Dreamings pertinent to their country. 
+
+15. 
+He may also regard tribal law as his Dreaming."
+
+In the [[Wangga]] genre, the songs and dances express themes related to death and regeneration.{{sfn|Marett|2005|p=1}} They are performed publicly with the singer composing from their daily lives or while Dreaming of a ''nyuidj'' (dead spirit).{{sfn|Povinelli|2002|p=200}}
+
+Dreaming stories vary throughout Australia, with variations on the same theme. 
+
+16. 
+ | last = Nicholls | first = Christine Judith
+ | website = The Conversation
+ | url = http://theconversation.com/dreamings-and-dreaming-narratives-whats-the-relationship-20837
+ | date = 5 February 2014b | access-date = 7 January 2019
+ | ref = harv
+}}
+*{{Cite book| title = The Cunning of Recognition: Indigenous Alterities and the Making of Australian Multiculturalism
+ | last = Povinelli | first = Elizabeth A.. 
+
+17. 
+ | author1-link = Baldwin Spencer
+ | author2-link = Francis James Gillen
+ | year = 1904
+ | publisher = [[Macmillan & Co]]
+ | url = https://archive.org/details/northerntribesc00gillgoog
+ | ref = harv
+}}
+*{{Cite book| title = The Native Tribes of Central Australia
+ | last1 = Spencer | first1 = Walter Baldwin
+ | last2 = Gillen | first2 = Francis James
+ | author1-link = Walter Baldwin Spencer
+ | author2-link = Francis James Gillen
+ | year = 1968 | orig-year = First published 1899
+ | publisher = Dover | location = New York
+ | ref = harv
+}}
+*{{Cite book| title = White Man Got No Dreaming: Essays 1938–1973
+ | last = Stanner | first = Bill | year = 1979
+ | author-link = William Edward Hanley Stanner
+ | publisher = Australian National University Press | location = Canberra
+ | ref = harv
+}}
+*{{Cite book| title = After The Dreaming
+ | last = Stanner | first = W.H. 
+
+18. 
+36:"the prescriptive New Age genre, which sells one-hundred-proof ethnological antimodernism without overmuch worry about bothersome ethnographic facts")
+*{{Cite book| title = Songs, Dreamings, and Ghosts: the Wangga of North Australia
+ | last = Marett | first = Allan | year = 2005
+ | publisher = Wesleyan University Press | location = Middletown, Connecticut
+ | url = https://books.google.com/books?id=oFhUE_AlE8QC&printsec=frontcover&dq=wangga&hl=en&ei=SRSqTd3MG4XuuAPMu_2QCg&sa=X&oi=book_result&ct=result&resnum=1&ved=0CCgQ6AEwAA#v=onepage&q&f=false
+ | page = 1
+ | isbn = 978-0-8195-6618-8
+ | ref = harv
+}}
+*{{Cite book| title = Altjira, Dream and God
+ | last = Moore | first = David
+ | url = https://www.researchgate.net/publication/306037801_Altjira_Dream_and_God
+ | date = 1 January 2016 | pages = 85–108
+ | isbn = 978-1472443830
+ | ref = harv
+}}
+*{{Cite web| title = 'Dreamtime' and 'The Dreaming' – an introduction
+ | last = Nicholls | first = Christine Judith
+ | website = The Conversation
+ | url = http://theconversation.com/dreamtime-and-the-dreaming-an-introduction-20833
+ | date = 22 January 2014a | access-date = 7 January 2019
+ | ref = harv
+}}
+*{{Cite web| title = 'Dreamtime' and 'The Dreaming': who dreamed up these terms. 
+
+19. 
+With [[Walter Baldwin Spencer]], Gillen published a major work, ''Native Tribes of Central Australia'', in 1899.{{sfn|James|2015|p=36}} In that work, they spoke of the ''Alcheringa'' as "the name applied to the far distant past with which the earliest traditions of the tribe deal".{{sfn|Spencer|Gillen|1899|p=73 n.1,645}}{{efn|"the dim past to which the natives give the name of the 'Alcheringa'." (p.119)}} Five years later, in their ''Northern tribes of central Australia'', they gloss the far distant age as "the dream times", link it to the word ''alcheri'' meaning "dream", and affirm that the term is current also among the [[Kaytetye people|Kaitish]] and [[Anmatyerre|Unmatjera]].{{sfn|Spencer|Gillen|1904|p=745}}
+
+=== Altjira ===
+Early doubts about the precision of Spencer and Gillen's English gloss were expressed by the German [[Lutheran]] pastor and missionary [[Carl Strehlow]] in his 1908 book ''Die Aranda'' ("The [[Arrernte people|Arrernte]]"), who noted that his Arrente contacts explained ''altjira'', whose etymology was unknown, as an eternal being who had no beginning. 
+
+20. 
+| year = 1968
+ | author-link = William Edward Hanley Stanner
+ | publisher = ABC
+ | series = Boyer Lecture Series
+ | ref = harv
+}}
+*{{cite book| title = A Place for Strangers: Towards a History of Australian Aboriginal Being
+ | last = Swain | first = Tony | year = 1993
+ | publisher = [[Cambridge University Press]]
+ | url = https://books.google.com/books?id=B040KquZAEIC&pg=PA21
+ | isbn = 978-0-521-44691-4
+ | ref = harv
+}}
+*{{Cite book| title = Giuliano Ghelli. 
+
+21. 
+A consideration of irregular hand stencils from Central Queensland
+ | last = Walsh | first = GL
+ | journal = Australian Archaeology
+ | year = 1979 | number = 9 | pages = 33–41
+ | url = https://dspace2.flinders.edu.au/xmlui/bitstream/handle/2328/708/1979009033041_FINAL.pdf
+ | format = PDF
+ | ref = harv
+}}
+*{{Cite book| title = The Dreaming Universe: a mind-expanding journey into the realm where psyche and physics meet
+ | last = Wolf | first = Fred Alan | year = 1994
+ | publisher = Simon & Schuster | location = New York
+ | isbn = 0-671-74946-3
+ | ref = harv
+}}
+*{{Cite book| chapter = Should the Subaltern Dream. 
+
+22. 
+ | editor2-last = Possamai | editor2-first = Adam
+ | publisher = [[Routledge]]
+ | chapter-url = https://books.google.com/books?id=Xo2iDQAAQBAJ&pg=PT115
+ | pages = 85–108
+ | isbn = 978-1-317-06795-5
+ | ref = harv
+}}
+*{{cite book| title = Bone #46, Tenth Anniversary
+ | last = Smith | first = Jeff
+ | publisher = Self-published
+ | nopp = true
+ | pages = Bone-A–Fides section
+ | ref = harv
+}}
+*{{cite book| title = Native Tribes of Central Australia
+ | last1 = Spencer | first1 = Baldwin
+ | last2 = Gillen | first2 = F. 
+
+23. 
+There was some semantic relationship between "Altjira" and "a dream", but to imagine that the latter captures the essence of "Altjira" is an illusion.|sign=|source=}}
+
+=== Other terms ===
+The complex of religious beliefs encapsulated by The Dreamings are also called:
+
+* "Ngarrankarni" or "Ngarrarngkarni" by the [[Gija people]]{{sfn|Nicholls|2014a}}
+* "the Jukurrpa" or "Tjukurpa" by the [[Warlpiri people]] and in the [[Pitjantjatjara dialect]]{{sfn|Nicholls|2014a}}{{sfn|Nicholls|2014b}}
+* "the Ungud" or "Wungud" by the [[Ngarinyin language|Ngarinyin people]]{{sfn|Nicholls|2014a}}
+* "Manguny" in the language [[Martu Wangka dialect|Martu Wangka]]{{sfn|Nicholls|2014a}}
+* "Wongar" in North-East [[Arnhem Land]]{{sfn|Nicholls|2014a}}
+* "Daramoolen" in [[Ngunnawal language]] and [[Ngarigo language]]{{sfn|Nicholls|2014b}}
+* "Nura" in the [[Dharug language]]{{sfn|Nicholls|2014b}}
+
+In English, anthropologists have variously translated words normally understood to mean Dreaming or Dreamtime in a variety of other ways, including Everywhen "world-dawn", "Ancestral past", "Ancestral present", "Ancestral now" (satirically), "Abiding Events" or "Abiding Law".{{sfn|Swain|1993|pp=21–22}}
+
+=== Translations ===
+Most translations of The Dreaming into other languages are based on the translation of the word "dream". 
+
+24. 
+| editor-link = Shmuel Eisenstadt
+ | publisher = [[Elsevier]]
+ | chapter-url = https://books.google.com/books?id=LkttBQAAQBAJ&pg=PA220
+ | pages = 211–244
+ | isbn = 978-1-483-13786-5
+ | ref = harv
+}}
+*{{Cite book| chapter = Introduction
+ | last1 = Charlesworth | first1 = Max
+ | last2 = Murphy | first2 = Howard
+ | last3 = Bell | first3 = Diane
+ | last4 = Maddock | first4 = Kenneth
+ | year = 1984
+ | title = Religion In Aboriginal Australia: An Anthology
+ | publisher = University of Queensland Press
+ | ref = harv
+}}
+*{{cite encyclopedia| title = the Dreaming
+ | encyclopedia = Encyclopædia Britannica
+ | url = http://www.britannica.com/EBchecked/topic/171252/the-Dreaming
+ | access-date = 26 January 2013
+ | ref = {{harvid|Encyclopædia Britannica}}
+}}
+*{{Cite book| title = Storytracking: Texts, Stories & Histories in Central Australia
+ | last = Gill | first = Sam D. 
+
+25. 
+One of these, perhaps the most feared, is the interpretation of symbols in paintings associated with Dreamtime."
+ | ref = harv
+}}
+*{{Cite book| title = Wisdom Of The Earth: the living legacy of the Aboriginal dreamtime
+ | last1 = Voigt | first1 = Anna
+ | last2 = Drury | first2 = Neville
+ | year = 1997
+ | publisher = Simon & Schuster | location = East Roseville, NSW
+ | ref = harv
+}}
+*{{Cite journal | title = Mutilated hands or signal stencils. 
+
+26. 
+
+==See also==
+{{portal|Australia}}
+* [[Dreaming (Australian Aboriginal art)]]
+* [[Aboriginal mythology]]
+** [[Rainbow Serpent]]
+** [[Tjilbruke]]
+* [[Apeiron]], the concept of the eternal or unlimited in Greek philosophy
+* [[Wuji (philosophy)]] and [[Taiji (philosophy)]], concepts of the eternal or limitless in Chinese philosophy
+* [[Indigenous All Stars (rugby league)|Indigenous All Stars]], a rugby league team also known as Indigenous Dreamtime
+
+==Notes==
+{{notelist}}
+
+===Citations===
+{{Reflist|20em}}
+
+==Sources==
+{{refbegin|30em}}
+*{{Cite book| title = Aboriginal Perth and Bibbulmun biographies and legends
+ | last = Bates | first = Daisy | year = 1996
+ | publisher = Hesperion Press
+ | ref = harv
+}}
+*{{Cite book| chapter = Religious Evolution
+ | last = Bellah | first = Robert N. 
+
+27. 
+| year = 2002
+ | publisher = [[Duke University Press]] | location = Durham, North Carolina
+ | url = https://books.google.com/books?id=Hq9r6HpvLakC&pg=PA200&dq=wangga&hl=en&ei=bLSqTdnVOYKEvgOW1JiTCg&sa=X&oi=book_result&ct=result&resnum=4&ved=0CDgQ6AEwAw#v=onepage&q=wangga&f=false
+ | page = 200
+ | isbn = 978-0-8223-2868-1
+ | ref = harv
+}}
+*{{Cite book| chapter = The waking dream in ethnographic perspective
+ | last = Price-Williams | first = Douglas | year = 1987
+ | title = Dreaming: Anthropological and Psychological Interpretations
+ | editor-last = Tedlock | editor-first = Barbara
+ | publisher = [[Cambridge University Press]]
+ | chapter-url = https://books.google.com/books?id=eRk9AAAAIAAJ&pg=PA249
+ | pages = 246–262
+ | isbn = 978-0-521-34004-5
+ | ref = harv
+}}
+*{{Cite book| chapter = Altjira, Dream and God
+ | last = Price-Williams | first = Douglas | year = 2016
+ | title = Religion and non-religion among Australian Aboriginal Peoples
+ | editor1-last = Cox | editor1-first = James L. 
+
+28. 
+Examples include ''Espaces de rêves'' in French ("dream spaces") and ''Snivanje'' in Croatian (a gerund derived from the verb "to dream").{{sfn|Nicholls|2014c}}
+
+== Aboriginal beliefs and culture ==
+[[File:Ku-ring-gai Chase - petroglyph.jpg|thumb|right|200px|Ku-ring-gai Chase-petroglyph, via Waratah Track, depicting [[Baiame]], the Creator God and Sky Father in the dreaming of several Aboriginal language groups.]]
+[[File:Bibbulmun Track Markings.jpg|thumb|200px|Waugals (yellow triangles with a black snake in the centre) are the official [[Bibbulmun Track]] trailmarkers between [[Kalamunda]] and [[Albany, Western Australia|Albany]] in Western Australia. 
+
+29. 
+ | publisher = Oxford University Press
+ | url = https://books.google.com.au/books/about/Storytracking.html?id=IlfnCwAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y#v=snippet&q=altjira&f=false
+ | date = 1998 | pages = 93–103
+ | isbn = 978-0195115871
+ | ref = harv
+}}
+*{{cite book| title = Broken Song: T G H Strehlow and Aboriginal Possession
+ | last = Hill | first = Barry | year = 2003
+ | author-link = Barry Hill (Australian writer)
+ | publisher = [[Random House|Knopf-Random House]]
+ | isbn = 978-1-742-74940-2
+ | ref = harv
+}}
+*{{Cite book| title = Australian Dreaming: 40,000 Years of Aboriginal History
+ | last = Isaacs | first = Jennifier | year = 1980
+ | publisher = Lansdowne Press | location = Sydney
+ | isbn = 0-7018-1330-X
+ | ref = harv
+}}
+*{{Cite book| chapter = Tjukurpa Time'
+ | last = James | first = Diana | year = 2015
+ | title = Long History, Deep Time: Deepening Histories of Place
+ | editor1-last = McGrath | editor1-first = Ann
+ | editor2-last = Jebb | editor2-first = Mary Anne
+ | publisher = [[ANU Press|Australian National University Press]]
+ | chapter-url = https://books.google.com/books?id=6nDSCgAAQBAJ&pg=PA36
+ | pages = 33–46
+ | isbn = 9781--925-02253-7
+ | ref = harv
+}}
+*{{Cite book| title = Voices Of The First Day: Awakening in the Aboriginal dreamtime
+ | last = Lawlor | first = Robert | year = 1991
+ | publisher = Inner Traditions International | location = Rochester, Vermont
+ | isbn = 0-89281-355-5
+ | ref = harv
+}}
+*{{Cite book| title = Exotics at Home: Anthropologies, Others, and American Modernity
+ | last = di Leonardo | first = Micaela | year = 2000
+ | publisher = [[University of Chicago Press]]
+ | url = https://books.google.com/books?id=dt54NXnN_3UC&pg=PA377
+ | page = 377 n.42
+ | ref = harv
+}}("Into the Crystal Dreamtime", promotional pamphlet, late 1980s; "Crystal Woman: isters of the Dreamtime" 1987; p. 
+
+30. 
+* [[Werner Herzog]]'s ''[[Where the Green Ants Dream]] (Wo die grünen Ameisen träumen)'' (1984) posited an Aboriginal protest against uranium mining based on the taboo against disturbing the dream of green ants and thus causing the destruction of the world. 
+
+31. 
+The spirit of the child is culturally understood to enter the developing [[fetus]] during the fifth month of pregnancy.{{sfn|Bates|1996}} When the mother felt the child move in the womb for the first time, it was thought that this was the work of the spirit of the land in which the mother then stood. 
+
+32. 
+Both before and after life, it is believed that this spirit-child exists in the Dreaming and is only initiated into life by being born through a mother. 

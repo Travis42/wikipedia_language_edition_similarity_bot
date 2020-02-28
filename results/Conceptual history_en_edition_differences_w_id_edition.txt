@@ -1,0 +1,50 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Conceptual history
+
+en edition's differences with the id version: 
+
+
+1. 
+|author2-link=Manfred Steger
+|year=2014
+|title=A Genealogy of Globalization: The Career of a Concept
+|journal=Globalizations
+|volume=11
+|issue=4
+|pages=417–434
+|doi=10.1080/14747731.2014.951186
+|issn=1474-774X
+|ref=harv
+}}
+: {{cite book
+|year=1979
+|editor-last=Koselleck
+|editor-first=Reinhart
+|editor-link=Reinhart Koselleck
+|title=Historische Semantik und Begriffsgeschichte
+|language=de
+|location=Stuttgart
+|publisher=Klett-Cotta
+|ref=harv
+}}
+: {{cite book
+|last=Koselleck
+|first=Reinhart
+|author-link=Reinhart Koselleck
+|author-mask={{long dash}}
+|year=2006
+|title=Begriffsgeschichten
+|language=de
+|location=Frankfurt
+|publisher=Suhrkamp
+|ref=harv
+}}
+: {{cite book
+|year=2004
+|editor-last=Müller
+|editor-first=Ernst
+|title=Begriffsgeschichte im Umbruch. 
+
+2. 
+Examples of conceptual histories include a genealogy of the concept of globalization drawing on the approach of Williams written by [[Paul James (academic)|Paul James]] and [[Manfred B. 

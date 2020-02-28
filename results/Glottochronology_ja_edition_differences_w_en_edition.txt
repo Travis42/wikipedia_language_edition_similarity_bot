@@ -1,0 +1,45 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Glottochronology
+
+ja edition's differences with the en version: 
+
+
+1. 
+
+- Overview
+[Morris Swadesh]] was advocated by [[Japan]] [Introduced] by [Hshiro Hattori] and [Research]]
+
+Based on the assumption that the basic [vocabulary] changes at a relatively constant rate, the age at which the two languages diverged from the common protolanguage, [radiocarbon dating] Similar to [age measurement of organic matter by C14]] is, a method of calculating from the estimated vocabulary of [[half-life]] is taken. 
+
+2. 
+
+In linguistic chronology, the [[lexical statistics] method is used, but lexical statistics does not necessarily require the assumption that "basic vocabulary changes at a relatively constant rate." It is also methodologically different from [Comparative linguistics], which reveals the law of change by comparing languages in [phonology] and [grammar]] to clarify the law of change. 
+
+3. 
+
+Footnotes
+<references />
+
+The bibliography of the following:
+Shiro Hattori, Japanese Lineage, 1959 [[Iwanami Shoten]]
+
+Related items
+[http://en.wiktionary.org/wiki/Swadesh_list Swadesh list] (Wiktionary)
+[https://kotobank.jp/word/%E8%A8%80%E8%AA%9E%E5%B9%B4%E4%BB%A3%E5%AD%A6-60480#E6.97.A5.E6.9C.AC.E5.A4.A7.E7.99.BE.E7.A7.91.E5.85.A8.E6.9B.B8.28.E3.83.8B.E3.83.83.E3.83.9D.E3.83.8B.E3.82.AB.29 What is linguistic chronology] - [Cotbank] ]
+
+[Chronology]
+[DEFAULTSORT: Kekinnentaikaku]
+[Category: Linguistics]
+[Category: Dating]
+[Category: Phylogenetics]]
+[Category: Historical Linguistics]]
+[Category: Comparative Linguistics]]. 
+
+4. 
+A basic vocabulary list called [Swadesh List] is used for "basic vocabulary". 
+
+5. 
+[Source]
+[Linguistics]
+"'Linguistic chronology'' is a way of estimating the age when two strains in [Linguistics] branched out. 

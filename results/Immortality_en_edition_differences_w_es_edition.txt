@@ -1,0 +1,367 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Immortality
+
+en edition's differences with the es version: 
+
+
+1. 
+|url=http://www.geocities.com/pastorkeith/cullmann.html |last=Cullmann |first=Oscar |authorlink=Oscar Cullmann |date=1955 |archiveurl= https://web.archive.org/web/20091026200705/http://geocities.com/pastorkeith/cullmann.html |archivedate=2009-10-26}}
+* {{Cite book |title=Immortality |last=Edwards |first=Paul |authorlink=Paul Edwards (philosopher) |date=1997 |publisher=Prometheus Books |isbn=978-1-57392-130-5}}
+* {{Cite book |title=The Immortalist Manifesto: Stay Young & Save the World |last=Elixxir |date=2001 |publisher=Authorhouse Books |isbn=978-0-7596-5339-9}}
+* {{cite web |url=http://www.rfreitas.com/Nano/DeathIsAnOutrage.htm |title=Death is an Outrage |accessdate=2008-02-14 |date=2002 |author1=Freitas Jr. 
+
+2. 
+The world is already experiencing a global [[demographic shift]] of increasingly ageing populations with lower replacement rates.<ref>{{cite journal|last1=He, Goodkind, Kowal|first1=Wan, Daniel, Paul|title=An Aging World: 2015|journal=International Population Reports: U.S. 
+
+3. 
+
+==Fiction==
+{{Main|Immortality in fiction}}
+Immortality is a popular subject in [[fiction]], as it explores humanity's deep-seated fears and comprehension of its own [[Death|mortality]]. 
+
+4. 
+
+[[Mind uploading]] is the transference of brain states from a human brain to an alternative medium providing similar functionality. 
+
+5. 
+* The [[Phaedo#The Affinity Argument|Affinity Argument]], explains that invisible, immortal, and incorporeal things are different from visible, mortal, and corporeal things. 
+
+6. 
+{{cite web|url=http://www.telomere.org/Downloads/Williams_searchable.pdf |title=Archived copy |accessdate=2006-07-23 |url-status=dead |archiveurl=https://web.archive.org/web/20060713071204/http://www.telomere.org/Downloads/Williams_searchable.pdf |archivedate=2006-07-13 }} Paper in which Williams describes his theory of antagonistic pleiotropy.</ref>
+* The disposable soma theory was proposed in 1977 by [[Thomas Kirkwood]], which states that an individual body must allocate energy for metabolism, reproduction, and maintenance, and must compromise when there is food scarcity. 
+
+7. 
+Every time a cell divides the telomere becomes a bit shorter; when it is finally worn down, the cell is unable to split and dies. 
+
+8. 
+With the presence of telomerase, each dividing cell can replace the lost bit of [[DNA]], and any single cell can then divide unbounded. 
+
+9. 
+It was found that those mice which were "[[genetic engineering|genetically engineered]] to produce 10 times the normal levels of telomerase lived 50% longer than normal mice".<ref>{{cite news |url=https://www.telegraph.co.uk/health/healthnews/3489881/Scientists-take-a-step-closer-to-an-elixir-of-youth.html |work=The Daily Telegraph |location=London |title=Scientists take a step closer to an elixir of youth |first=Richard |last=Alleyne |date=November 20, 2008 |accessdate=May 5, 2010}}</ref>
+
+In normal circumstances, without the presence of telomerase, if a cell divides repeatedly, at some point all the progeny will reach their [[Hayflick limit]]. 
+
+10. 
+Assuming the process to be possible and repeatable, this would provide immortality to the computation of the original brain, as predicted by [[futurist]]s such as [[Ray Kurzweil]].<ref name="Kurzweil 2005">{{cite book |author=Kurzweil, Raymond |authorlink=Raymond Kurzweil |title=The Singularity Is Near: When Humans Transcend Biology |publisher=Viking Adult |date=2005 |isbn=978-0-670-03384-3|title-link=The Singularity Is Near }}</ref>
+
+===Religious===
+{{See also|Soul}}
+The belief in an ''[[afterlife]]'' is a fundamental tenet of most religions, including [[Hinduism]], [[Buddhism]], [[Jainism]], [[Sikhism]], [[Christianity]], [[Zoroastrianism]], [[Islam]], [[Judaism]], and the [[Bahá'í Faith]]; however, the concept of an immortal [[Soul (spirit)|soul]] is not. 
+
+11. 
+Wright says [[John Polkinghorne]], a physicist and a priest, has put it this way: 'God will download our software onto his hardware until the time he gives us new hardware to run the software again for ourselves.' That gets to two things nicely: that the period after death (the [[Intermediate state]]) is a period when we are in God's presence but not active in our own bodies, and also that the more important transformation will be when we are again embodied and administering [[World to Come|Christ's kingdom]]."<ref>{{cite news |url=http://www.time.com/time/world/article/0,8599,1710844,00.html |work=Time |title=Christians Wrong About Heaven, Says Bishop&#13; |date=February 7, 2008 |accessdate=May 5, 2010 |first=David |last=Van Biema}}</ref> This kingdom will consist of [[World to Come|Heaven and Earth "joined together in a new creation"]], he said. 
+
+12. 
+The exact form of his argument is unclear, but it appears to have influenced Plato, Aristotle, and other later writers.<ref name="alcmaeon">https://plato.stanford.edu/entries/alcmaeon/#immort</ref>
+
+===Plato===
+[[Plato]]'s ''[[Phaedo]]'' advances four arguments for the soul's immortality:<ref>https://plato.stanford.edu/entries/plato/</ref>
+
+* The [[Phaedo#The Cyclical Argument|Cyclical Argument]], or Opposites Argument explains that [[Theory of forms|Forms]] are eternal and unchanging, and as the soul always brings life, then it must not die, and is necessarily "imperishable". 
+
+13. 
+In the Phaedon, Mendelssohn addresses gaps in earlier versions of this argument (an argument that Kant calls the Achilles of Rationalist Psychology). 
+
+14. 
+As Kagan notes, his argument is an adaptation of a similar argument given by the British philosopher [[Bernard Williams]] in his book ''Problems of the Self'' (1973).</ref>
+
+== Sociology ==
+
+If human beings were to achieve immortality, there would most likely be a change in the worlds' [[social structures]]. 
+
+15. 
+The Phaedon contains an original argument for the simplicity of the soul, and also an original argument that simples cannot suddenly disappear. 
+
+16. 
+[[Raymond Kurzweil]], a [[futurist]] and [[transhumanist]], stated in his book ''[[The Singularity Is Near]]'' that he believes that advanced medical [[nanorobotics]] could completely remedy the effects of aging by 2030.<ref>{{Cite book |first=Ray |last=Kurzweil |authorlink=Raymond Kurzweil |year=2005 |title=The Singularity Is Near |publisher=[[Viking Press]] |location=[[New York City]] |isbn=978-0-670-03384-3 |oclc=57201348|title-link=The Singularity Is Near }}{{Page needed|date=September 2010}}</ref> According to [[Richard Feynman]], it was his former graduate student and collaborator [[Albert Hibbs]] who originally suggested to him (circa 1959) the idea of a ''medical'' use for Feynman's theoretical micromachines (see [[biological machine]]). 
+
+17. 
+
+====Environmental change ====
+Organisms otherwise unaffected by these causes of death would still face the problem of obtaining sustenance (whether from currently available agricultural processes or from hypothetical future technological processes) in the face of changing availability of suitable resources as environmental conditions change. 
+
+18. 
+* The [[Phaedo#The Argument from Form of Life|Argument from Form of Life]], or The Final Argument explains that the Forms, incorporeal and static entities, are the cause of all things in the world, and all things participate in Forms. 
+
+19. 
+The concept of resurrection of the physical body is found in [[2 Maccabees]], according to which it will happen through recreation of the flesh.<ref>2 Maccabees 7.11, 7.28.</ref> Resurrection of the dead also appears in detail in the extra-canonical books of [[Book of Enoch|Enoch]],<ref>1 Enoch 61.5, 61.2.</ref> and in [[Syriac Apocalypse of Baruch|Apocalypse of Baruch]].<ref>2 Baruch 50.2, 51.5</ref> According to the British scholar in ancient Judaism [[Philip R. 
+
+20. 
+|date=2003 |publisher=Houghton Mifflin |location=Boston |isbn=978-0-618-09524-7 |url=https://archive.org/details/merchantsofimmor00hall }}
+* {{Cite book |title=The Scientific Conquest Of Death |last=Immortality Institute |date=2004 |publisher=Libros En Red |isbn=978-987-561-135-1}}
+* {{Cite book |title=Forever For All: Moral philosophy, Cryonics, and the Scientific Prospects for Immortality |last=Perry |first=R. 
+
+21. 
+[[Telomerase]] is an enzyme which rebuilds the telomeres in stem cells and cancer cells, allowing them to replicate an infinite number of times.<ref name="LinKahWai">{{cite journal |author=Lin Kah Wai |authorlink=Lin Kah Wai |title=Telomeres, Telomerase, and Tumorigenesis – A Review |journal=MedGenMed |date=18 April 2004 |volume=6 |issue=3 |page=19 |pmid=15520642 |pmc=1435592}}</ref> No definitive work has yet demonstrated that telomerase can be used in human somatic cells to prevent healthy tissues from aging. 
+
+22. 
+
+====Aging====
+[[Aubrey de Grey]], a leading researcher in the field,<ref name="Garreau"/> defines [[aging]] as "a collection of cumulative changes to the [[molecular]] and [[cell (biology)|cellular]] structure of an adult [[organism]], which result in essential [[metabolic]] processes, but which also, once they progress far enough, increasingly disrupt metabolism, resulting in [[pathology]] and death." The current causes of aging in humans are cell loss (without replacement), [[DNA damage theory of aging|DNA damage]], [[oncology|oncogenic]] [[cell nucleus|nuclear]] [[mutation]]s and [[epimutation]]s, cell [[senescence]], [[mitochondria]]l mutations, [[lysosomal]] aggregates, extracellular aggregates, random extracellular cross-linking, [[immune system]] decline, and [[endocrine]] changes. 
+
+23. 
+As may be witnessed even into the Christian era, not least by the complaints of various philosophers over popular beliefs, many or perhaps most traditional Greeks maintained the conviction that certain individuals were resurrected from the dead and made physically immortal and that others could only look forward to an existence as disembodied and dead, though everlasting, souls. 
+
+24. 
+|authorlink=Mortimer Adler |display-authors=etal |date=1952 |page=784 |publisher=Encyclopædia Britannica |location=Chicago|title-link=Syntopicon }}</ref>
+Christians who profess the [[Nicene Creed]] believe that every dead person (whether they believed in Christ or not) will be [[Resurrection of the Dead|resurrected from the dead]] at the [[Second Coming]], and this belief is known as [[Universal resurrection]].{{citation needed|date=June 2015}}
+
+[[N.T. 
+
+25. 
+
+The [[Hebrew Bible]] speaks about ''[[Sheol]]'' (שאול), originally a synonym of the grave-the repository of the dead or the cessation of existence until the [[Techiyat hamaysim|resurrection of the dead]]. 
+
+26. 
+Davies]], there is “little or no clear reference … either to immortality or to resurrection from the dead” in the [[Dead Sea scrolls]] texts.<ref>Philip R. 
+
+27. 
+The "soul" itself has different meanings and is not used in the same way in different religions and different denominations of a religion. 
+
+28. 
+
+[[Biologist]]s have chosen the word "immortal" to designate cells that are not limited by the [[Hayflick limit]], where cells no longer divide because of [[DNA repair|DNA damage]] or shortened [[telomere]]s. 
+
+29. 
+In adults, telomerase is highly expressed in cells that need to divide regularly (e.g., in the immune system), whereas most [[Somatic (biology)|somatic]] cells express it only at very low levels in a cell-cycle dependent manner. 
+
+30. 
+After this point, the human body could be treated as an optional accessory and the program implementing the person could be transferred to any sufficiently powerful computer. 
+
+31. 
+For example, beautiful things participate in the Form of Beauty; the number four participates in the Form of the Even, etc. 
+
+32. 
+454.</ref>
+
+Modern theories on the evolution of aging include the following:
+* Mutation accumulation is a theory formulated by [[Peter Medawar]] in 1952 to explain how evolution would select for aging. 
+
+33. 
+Freitas Jr.}}
+* {{Cite book |last=de Grey |first=Aubrey |authorlink=Aubrey de Grey |author2=Rae, Michael |title=Ending Aging: The Rejuvenation Breakthroughs that Could Reverse Human Aging in Our Lifetime |publisher=[[St. 
+
+34. 
+These technologies are the subject of ongoing research, and are not yet realized.<ref>{{cite news|url=https://www.nytimes.com/2017/01/26/science/chimera-stemcells-organs.html|title=New Prospects for Growing Human Replacement Organs in Animals|website=nytimes.com|access-date=March 3, 2018}}</ref>
+
+====Biologically immortal species====
+{{see also|List of longest-living organisms}}
+
+Life defined as biologically immortal is still susceptible to causes of death besides aging, including disease and trauma, as defined above. 
+
+35. 
+[[Jorge Luis Borges]] explored the idea that life gets its meaning from death in the short story "[[The Immortal (short story)|The Immortal]]"; an entire society having achieved immortality, they found time becoming infinite, and so found no motivation for any action. 
+
+36. 
+
+====Trauma====
+[[Physical trauma]] would remain as a threat to perpetual physical life, as an otherwise immortal person would still be subject to unforeseen accidents or catastrophes. 
+
+37. 
+What level of detail such scans and simulations would need to achieve to emulate awareness, and whether the scanning process would destroy the brain, is still to be determined.<ref name=Roadmap>{{Cite book |last=Anders |first=Sandberg |last2=Nick |first2=Boström |title=Whole Brain Emulation: A Roadmap |quote=The basic idea is to take a particular brain, scan its structure in detail, and construct a software model of it that is so faithful to the original that, when run on appropriate hardware, it will behave in essentially the same way as the original brain.|url=http://www.fhi.ox.ac.uk/Reports/2008-3.pdf |accessdate=5 April 2009 |series=Technical Report #2008‐3 |date=2008 |publisher=Future of Humanity Institute, Oxford University}}</ref> It is suggested that achieving immortality through this mechanism would require specific consideration to be given to the role of [[consciousness]] in the functions of the [[mind]]. 
+
+38. 
+[[Hans Holbein the Younger]], ''Danse Macabre'', 16th century]]
+
+[[Christianity|Christian theology]] holds that [[Adam and Eve]] lost physical immortality for themselves and all their descendants in the [[Fall of man]], although this initial "imperishability of the bodily frame of man" was "a preternatural condition".<ref name="Syntopicon I 784">{{cite book |title=The Great Ideas: A Syntopicon of Great Books of the Western World |author=Adler, Mortimer J., ed. 
+
+39. 
+Immortal beings and [[species]] abound in fiction, especially [[fantasy]] fiction, and the meaning of "immortal" tends to vary. 
+
+40. 
+
+===Ancient Greek religion===
+Immortality in [[ancient Greek religion]] originally always included an eternal union of body and soul as can be seen in [[Homer]], [[Hesiod]], and various other ancient texts. 
+
+41. 
+
+====Evolution of aging====
+{{Main|Evolution of aging}}<!--that's how they spell aging in England ... 
+
+42. 
+Vogel
+* [http://www.gutenberg.org/etext/27237 ''An Essay on the Scriptural Doctrine of Immortality''] by James Challis
+* [https://web.archive.org/web/20070614100157/http://www.wlsessays.net/authors/M/MeyerEternity/MeyerEternity.PDF ''Eternity: Christ’s Return, Chiliasm, Resurrection of the Dead, Judgment, Hell, Luther on Eternity, Heaven''] J.P. 
+
+43. 
+Theoretically if one could stay out of harm's way one could live forever. 
+
+44. 
+Death occurs when God ‘requires your soul’ (Luke 12:20).}}</ref> ‘Soul’ may refer to the whole person, the self: ‘three thousand souls’ were converted in Acts 2:41 (see Acts 3:23). 
+
+45. 
+This aversion to trauma risk to the brain would naturally result in significant behavioral changes that would render physical immortality undesirable for some people. 
+
+46. 
+Whatever the route to mind upload, persons in this state could then be considered essentially immortal, short of loss or traumatic destruction of the machines that maintained them.{{Clarify|date=October 2015}}
+
+====Cybernetics====
+{{Main|Cyborg}}
+
+Transforming a human into a [[cyborg]] can include [[brain implants]] or extracting a human processing unit and placing it in a robotic life-support system. 
+
+47. 
+They believe through the application of alchemical processes, the physical body can be maintained through infinity, not dying by any natural diseases, only finding an end through physical destruction of the body. 
+
+48. 
+Components would be added gradually until the person's entire brain functions were handled by artificial devices, avoiding sharp transitions that would lead to issues of [[identity (social science)|identity]], thus running the risk of the person to be declared dead and thus not be a legitimate owner of his or her property. 
+
+49. 
+In short, it is an abnormal condition affecting the body of an organism, something the body shouldn't typically have to deal with its natural make up.<ref>{{cite web|title=Classification of diseases functioning and disability|url=https://www.cdc.gov/nchs/icd.htm}}</ref> Human understanding of [[genetics]] is leading to cures and treatments for a myriad of previously incurable diseases. 
+
+50. 
+
+===Buddhism===
+{{Expand section|date=June 2019}}
+According to one [[Tibetan Buddhist]] teaching, [[Dzogchen]], individuals can transform the physical body into an immortal body of light called the [[rainbow body]].{{cn|date=June 2019}}
+
+===Christianity===
+{{main|Eternal life (Christianity)|Christian conditionalism|Christian mortalism}}
+[[File:Holbein Danse Macabre 3.jpg|thumb|Adam and Eve condemned to mortality. 
+
+51. 
+A 2005 [[PLoS Biology]] paper<ref>{{cite web|url= http://hal.archives-ouvertes.fr/docs/00/08/01/54/PDF/stewart_Plos.pdf|title= Aging and Death in an Organism That Reproduces by Morphologically Symmetric Division}}</ref> suggests that after each division the daughter cells can be identified as the older and the younger, and the older is slightly smaller, weaker, and more likely to die than the younger.<ref>{{cite web |url=https://www.newscientist.com/channel/health/mg18524855.800-bacteria-death-reduces-human-hopes-of-immortality.html |title=Bacteria Death Reduces Human Hopes of Immortality |date=February 5, 2005 |website=New Scientist magazine, issue 2485| page= 19 |accessdate=2007-04-02}}</ref>
+* ''[[Turritopsis dohrnii]]'', a jellyfish (phylum [[Cnidaria]], class [[Hydrozoa]], order [[Anthoathecata]]), after becoming a sexually mature adult, can transform itself back into a [[polyp (zoology)|polyp]] using the cell conversion process of [[transdifferentiation]].<ref name="CheatingDeath">{{cite web|url=http://10e.devbio.com/article.php?ch=2&id=6|title=Cheating Death: The Immortal Life Cycle of Turritopsis|last=Gilbert|first=Scott F.|date=2006|accessdate=2009-06-14|url-status=dead|archiveurl=https://web.archive.org/web/20151121052612/http://10e.devbio.com/article.php?ch=2&id=6|archivedate=2015-11-21}}</ref> ''Turritopsis dohrnii'' repeats this cycle, meaning that it may have an [[indefinite lifespan]].<ref name="CheatingDeath" /> Its immortal adaptation has allowed it to spread from its original habitat in the Caribbean to "all over the world".<ref name="Telegraph-immortal-jellyfish">{{cite news |url=https://www.telegraph.co.uk/earth/wildlife/4357829/Immortal-jellyfish-swarming-across-the-world.html |title={{-'}}Immortal' jellyfish swarming across the world |date=January 30, 2009 |publisher=[[Telegraph Media Group]] |accessdate= 2009-06-14 |location=London}}</ref><ref>{{cite web|url=http://news.nationalgeographic.com/news/2009/01/090130-immortal-jellyfish-swarm.html|title="Immortal" Jellyfish Swarm World's Oceans|website=news.nationalgeographic.com|access-date=2017-08-19}}</ref>
+* ''[[Hydra (genus)|Hydra]]'' is a [[genus]] belonging to the phylum [[Cnidaria]], the class [[Hydrozoa]] and the order [[Anthomedusae]]. 
+
+52. 
+
+==See also==
+{{div col|colwidth=18em}}
+* [[Ambrosia]]
+* [[Amrita]]
+* [[Bioethics]]
+* [[Biogerontology]]
+* [[Crown of Immortality]]
+* [[Dyson's eternal intelligence]]
+* [[Eternal return]]
+* [[Eternal youth]]
+* [[Ghost]]
+* [[Immortal DNA strand hypothesis]]
+* [[Immortalist Society]]
+* [[Internal alchemy]]
+* [[Lich]]
+* [[List of people claimed to be immortal in myth and legend]]
+* [[Methuselah Mouse Prize]]
+* [[Molecular nanotechnology]]
+* [[Negligible senescence]]
+* [[Omega Point (Tipler)|Tipler's Omega Point]]
+* [[Organlegging]]
+* [[Posthuman]]
+* [[Queen Mother of the West]]
+* [[Simulated reality]]
+* [[Suspended animation]]
+* [[Nikola Tesla]]<!-- alphabetized by surname -->
+* [[Undead]]
+* [[Regeneration (theology)]]
+{{div col end}}
+
+==References==
+{{Reflist|2}}
+
+==Further reading==
+* {{Cite book |title=Thursday's Fictions |last=Allen |first=Richard James |authorlink=Richard James Allen |date=1999 |publisher=Five Islands Press |location=Wollongong |isbn=978-0-86418-596-9}}
+* {{Cite book |title=Rapture: How Biotech Became the New Religion |last=Alexander |first=Brian |authorlink=Alexander Bolonkin (author) |date=2003 |publisher=Basic Books |isbn=978-0-7382-0761-2}}
+* {{Cite book |title=Rapture: Human Immortality and Electronic Civilization|last=Bolonkin |first=Alexander |authorlink=Brian Alexander (author) |date=2010 |publisher=Publish America|isbn= 978-1-4489-3367-9}}
+* {{Cite book |title=Immortality: How Science Is Extending Your Life Span-and Changing the World |last=Bova |first=Ben |authorlink=Ben Bova |date=2000 |publisher=Avon |location=New York|isbn=978-0-380-79318-1}}
+* {{Cite book |title=Immortality: The Quest to Live Forever and How it Drives Civilization |last=Cave |first=Stephen |date=2012 |publisher=Crown |isbn= 978-0-307-88491-6}}
+* {{Cite book |title=Immortality of the Soul or Resurrection of the Dead. 
+
+53. 
+1343 (2000)</ref> In the New Testament, the Greek word traditionally translated "soul" ({{lang|grc|ψυχή}}) has substantially the same meaning as the Hebrew, without reference to an immortal soul.<ref>{{cite book|quote=In the nt, ‘soul’ retains its basic Hebrew field of meaning. 
+
+54. 
+http://tenets.zoroastrianism.com/topi33.html {{Webarchive|url=https://web.archive.org/web/20170727145155/http://tenets.zoroastrianism.com/topi33.html |date=2017-07-27 }}</ref>
+
+==Philosophical arguments for the immortality of the soul==
+
+===Alcmaeon of Croton===
+[[Alcmaeon of Croton]] argued that the soul is continuously and ceaselessly in motion. 
+
+55. 
+too Michael Marmura's complete translation, Avicenna: The Metaphysics of the Healing, Provo, Utah, Brigham Young University Press, 2005.</ref>
+
+===Aquinas===
+The full argument for the immortality of the soul and [[Thomas Aquinas]]' elaboration of Aristotelian theory is found in Question 75 of the First Part of the ''[[Summa Theologica]]''.<ref>https://plato.stanford.edu/entries/aquinas/</ref>
+
+===Descartes===
+[[René Descartes]] endorses the claim that the soul is simple, and also that this entails that it cannot decompose. 
+
+56. 
+Accordingly, the Hebrew word ''[[nephesh]]'', although translated as "soul" in some older English Bibles, actually has a meaning closer to "living being".{{citation needed|date=April 2015}} ''Nephesh'' was rendered in the [[Septuagint]] as ''{{lang|grc|ψυχή}}'' (''psūchê''), the Greek word for soul.{{citation needed|date=June 2015}}
+
+The only Hebrew word traditionally translated "soul" (''nephesh'') in English language Bibles refers to a living, breathing conscious body, rather than to an immortal soul.<ref>"Even as we are conscious of the broad and very common biblical usage of the term "soul," we must be clear that scripture does not present even a rudimentarily developed theology of the soul. 
+
+57. 
+Michael |date=2000 |publisher=Universal Publishers |location=New York |isbn=978-1-58112-724-9}}
+* {{Cite book |title=A Beginner's Guide to Immortality: Extraordinary People, Alien Brains, and Quantum Resurrection |last=Pickover |first=Clifford |authorlink=Clifford Pickover |date=2007 |publisher=Thunder's Mouth Press |location=New York |isbn=978-1-56025-984-8}}
+* {{Cite book |title=Psyche: The Cult of Souls and Belief in Immortality among the Greeks |last=Rohde |first=Erwin |authorlink=Erwin Rohde |date=1925 |publisher=Harper & Row |location=New York}}
+* {{Cite book |title=The Christian Doctrine of Immortality |url=https://archive.org/download/cu31924029320524/cu31924029320524.pdf |last=Salmond |first=Stewart |authorlink=Stewart Salmond |date=1903}}
+* {{Cite book |title=The Immortal Cell: One Scientist's Quest to Solve the Mystery of Human Aging |last=West |first=Michael D. 
+
+58. 
+NY.</ref>
+
+===Zoroastrianism===
+[[Zoroastrian]]s believe that on the fourth day after death, the human soul leaves the body and the body remains as an empty shell. 
+
+59. 
+The soul was considered to have an eternal existence in Hades, but without the body the soul was considered dead. 
+
+60. 
+Soul refers to one’s life: Herod sought Jesus’ soul (Matt. 
+
+61. 
+Oxford University Press.</ref>
+
+===Leibniz===
+In early work, [[Gottfried Wilhelm Leibniz]] endorses a version of the argument from the simplicity of the soul to its immortality, but like his predecessors, he does not address the possibility that the soul might suddenly disappear. 
+
+62. 
+For example, in the [[Shvetashvatara Upanishad]] (Chapter 2, Verse 12), it is stated "When earth, water, fire, air and sky arise, that is to say, when the five attributes of the elements, mentioned in the books on yoga, become manifest then the yogi's body becomes purified by the fire of yoga and he is free from illness, old age and death."
+
+Another view of immortality is traced to the Vedic tradition by the interpretation of [[Maharishi Mahesh Yogi]]:
+<blockquote>
+That man indeed whom these (contacts)<br>do not disturb, who is even-minded in<br>pleasure and pain, steadfast, he is fit<br>for immortality, O best of men.<ref name="Maharishi-Mahesh-Yogi">Maharishi Mahesh Yogi on the Bhagavad-Gita, a New Translation and Commentary, Chapter 1-6. 
+
+63. 
+
+== Politics ==
+Although some scientists state that radical life extension, delaying and stopping aging are achievable,<ref>{{cite web|url=http://www.imminst.org/cureaging/|title=Scientists' Open Letter on Aging|accessdate=20 April 2015}}</ref> there are no international or national programs focused on stopping aging or on radical life extension. 
+
+64. 
+The best outcome, Kagan argues, would be for humans to live as long as they desired and then to accept death gratefully as rescuing us from the unbearable tedium of immortality.<ref>Shelly Kagan, ''Death''. 
+
+65. 
+
+====Digital immortality====
+{{Main|Digital immortality}}
+
+==Religious views==
+{{Main|Afterlife|Soul}}
+As late as 1952, the editorial staff of the ''[[A Syntopicon: An Index to The Great Ideas|Syntopicon]]'' found in their compilation of the [[Great Books of the Western World]], that "The philosophical issue concerning immortality cannot be separated from issues concerning the existence and nature of man's soul."<ref name="Syntopicon I 788">{{cite book |title=The Great Ideas: A Syntopicon of Great Books of the Western World |author=Adler, Mortimer J., ed. 
+
+66. 
+
+===Causes of death===
+{{Main|Death}}
+
+There are three main causes of death: [[aging]], [[disease]] and [[physical trauma]].<ref>{{cite journal|last=Hayflick|first=L|title=Biological Aging is No Longer an Unsolved Problem|journal=Annals of the New York Academy of Sciences|volume=1100|issue=1|pages=1–13|date=2007|doi=10.1196/annals.1395.001|pmid=17460161|bibcode=2007NYASA1100....1H}}{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> Such issues can be resolved with the solutions provided in research to any end providing such alternate theories at present that require unification. 
+
+67. 
+44, #8
+* [http://christianity.com/Christian%20Foundations/Becoming%20a%20Christian/11528905/ "How you Can Have Eternal Life"] Jack Graham, PowerPoint Ministries, Christianity.com
+* [http://www.gotquestions.org/eternal-life.html Got Eternal Life?] Got Questions Ministries
+* [http://www.personaltao.com/tao/immortality.pdf Immortality] Taoist essay, personaltao.com
+* [http://www.yogam.org The Trial to Conquer Death] Ancient Scientific Yoga – The First Atom's Final Attempt
+* [https://web.archive.org/web/20130518024043/http://www.rcpsych.ac.uk/pdf/Fenwick%20Book%20Review%20Human%20Immortality%3B%20%20Death%20and%20Adjustment%20Hypotheses%20Elaborated.x.x.pdf] A review by Dr. 
+
+68. 
+The reason for this is that, as we noted at the beginning, the Hebrew Bible does not present a theory of the soul developed much beyond the simple concept of a force associated with respiration, hence, a life-force.", Avery-Peck, "Soul", in Neusner, et al. 
+
+69. 
+Our soul is of the former, while our body is of the latter, so when our bodies die and decay, our soul will continue to live. 
+
+70. 
+The soul, by its very nature, participates in the Form of Life, which means the soul can never die. 

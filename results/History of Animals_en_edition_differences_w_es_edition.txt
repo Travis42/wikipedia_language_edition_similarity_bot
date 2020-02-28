@@ -1,0 +1,117 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+History of Animals
+
+en edition's differences with the es version: 
+
+
+1. 
+This is an instance of a [[Universal (metaphysics)|universal]]: if something is a bird, it will have [[feather]]s and [[wing]]s; if something has feathers and wings, that also implies it is a bird, so the reasoning here is bidirectional. 
+
+2. 
+Thus, Philippa Lang argues, Aristotle may have been [[empiricism|empirical]], but he was quite [[laissez-faire]] about observation, "because [he] was not expecting nature to be misleading".<ref name=Lang2015/>
+
+In other cases, errors may have been wrongly attributed to Aristotle.<ref name=Wilkins>{{cite web |last1=Wilkins |first1=John S. 
+
+3. 
+Aristotle investigates four types of differences between animals: differences in particular body parts (Books I to IV); differences in ways of life and types of activity (Books V, VI, VII and IX); and differences in specific characters (Book VIII).<ref name=Lennox/>
+
+To illustrate the philosophical method, consider one grouping of many kinds of animal,  '[[birds]]': all members of this group possess the same distinguishing features—feathers, wings, beaks, and two bony legs. 
+
+4. 
+Wilkins notes that Aristotle did not say "all flies have four legs"; he wrote that one particular animal, the ''ephemeron'' or [[mayfly]], "moves with four feet and four wings: and, I may observe in passing, this creature is exceptional not only in regard to the duration of its existence, whence it receives its name, but also because though a quadruped it has wings also." Mayflies do in fact walk on four legs, the front pair not being adapted for walking, so, Wilkins concludes, Aristotle was correct.<ref name=Wilkins/>
+
+===Translations===
+[[File:Al-Jahiz - pages from Kitaab al Hayawaan 3.jpg|thumb|upright|Page from the medieval Arabic translation, ''[[Kitāb al-Hayawān]]'' by [[Al-Jahiz]]]]
+[[File:Hectocotyle Arm - a page of Aristotle's History of Animals (D'Arcy Thompson).jpg|thumb|upright|
+[[D'Arcy Thompson]]'s illustration of the [[octopus]]'s [[hectocotyl arm]] in a page of his 1910 translation.{{efn|D'Arcy Thompson translated the relevant passage of Book IV.1 as follows: "In all cases their feet are furnished with suckers. 
+
+5. 
+Like other classical authors such as [[Pliny the Elder]], Aristotle also gathered evidence from travellers and people with specialised knowledge, such as fishermen and [[beekeeper]]s, without much attempt to corroborate what they said.<ref name=Lang2015>{{cite book |last=Lang |first=Philippa |title=Science: Antiquity and its Legacy |url=https://books.google.com/books?id=OzDPCwAAQBAJ&pg=PT60 |year=2015 |publisher=I.B.Tauris |isbn=978-0-85773-955-1 |pages=60–63}}</ref>
+
+===Apparent errors===
+[[File:Ephemerellidae sp 01.jpg|thumb|[[Mayfly|Mayflies]] walk on four legs, as Aristotle stated.]]
+
+The text contains some claims that appear to be errors. 
+
+6. 
+It was written in the fourth century BC; Aristotle died in 322 BC. 
+
+7. 
+This implies, in Aristotle's reasoning, that if something has lungs, it has red blood; but Aristotle is careful not to imply that all red-blooded animals have lungs, so the reasoning here is not bidirectional.<ref name=Lennox/>
+
+===Contents===
+'''Book I''' The grouping of animals and the parts of the [[human body]]. 
+
+8. 
+* {{cite book|author=Aristotle|title=Historia animalium|url=https://books.google.com/books?id=2Z8NAAAAYAAJ|year=1837|publisher=e Typographeo academico}} (Greek text)
+
+{{History of biology}}
+{{natural history|state=expanded}}
+
+[[Category:History of biology|Animals]]
+[[Category:History of veterinary medicine]]
+[[Category:History of zoology]]
+[[Category:Natural history books]]
+[[Category:Natural philosophy]]
+[[Category:Works by Aristotle]]. 
+
+9. 
+On the other hand, some animals that have red [[blood]] have [[lung]]s; other red-blooded animals (such as fish) have [[gills]]. 
+
+10. 
+
+'''Book IX''' Social behaviour in animals; signs of intelligence in animals such as sheep and birds. 
+
+11. 
+Aristotle described the embryological development of a chick; he distinguished whales and dolphins from fish; he described the chambered stomachs of ruminants and the social organization of bees; he noticed that some sharks give birth to live young — his books on animals are filled with such observations, some of which were not confirmed until many centuries later.<ref>{{cite web |last1=Waggoner |first1=Ben |title=Aristotle (384-322 B.C.E.) |url=http://www.ucmp.berkeley.edu/history/aristotle.html |publisher=[[University of California Museum of Paleontology]] |accessdate=27 November 2014 |date=9 June 1996}}</ref>}}
+
+[[Walter Pagel]] comments that Aristotle "perceptibly influenced" the founders of modern zoology, the Swiss [[Conrad Gessner]] with his 1551–1558 ''[[Historiae animalium (Gesner)|Historiae animalium]]'', the Italian [[Ulisse Aldrovandi]] (1522–1605), the French [[Guillaume Rondelet]] (1507–1566), and the Dutch [[Volcher Coiter]] (1534–1576), while his methods of looking at time series and making use of [[comparative anatomy]] assisted the Englishman [[William Harvey]] in his 1651 work on embryology.<ref name="Pagel1967">{{cite book|author=Walter Pagel |title=William Harvey's Biological Ideas: Selected Aspects and Historical Background |url=https://books.google.com/books?id=m0cQQlZK43cC&pg=PA335 |year=1967 |publisher=Karger Medical and Scientific Publishers |isbn=978-3-8055-0962-6|page=335}}</ref>
+
+[[Armand Marie Leroi]]'s 2014 book ''The Lagoon: How Aristotle Invented Science'' and BBC documentary ''[[Aristotle's Lagoon]]'' set Aristotle's biological writings including the ''History of Animals'' in context, and propose an interpretation of his biological theories.<ref>{{cite book |authorlink=Armand Marie Leroi |author=Leroi, Armand Marie |title=The Lagoon: How Aristotle Invented Science |publisher=Viking |date=2014 |isbn=978-0-670-02674-6}}</ref><ref>{{cite web |author=Leroi, Armand Marie (presenter) |title=Aristotle's Lagoon |url=http://www.bbc.co.uk/programmes/b00q0hh2 |publisher=BBC |accessdate=11 November 2016 |date=11 June 2013}}</ref>
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{commonscat|History of animals (Aristotle)}}
+{{wikisource|History of Animals (Thompson)}}
+
+{{wikisourcelang|el|Των περί τα ζώα ιστοριών|Τῶν περὶ τὰ ζῷα ἱστοριῶν}}
+* English translation by [[D'Arcy Wentworth Thompson]]. 
+
+12. 
+The Swiss American zoologist [[Louis Agassiz]] found the account to be correct in 1890.<ref>{{cite book |last=Leroi|first=Armand Marie |title=The Lagoon: How Aristotle Invented Science |url=https://books.google.com/books?id=CU4gBQAAQBAJ&pg=PA69 |year=2014 |publisher=Bloomsbury |isbn=978-1-4088-3620-0 |pages=69–}}</ref>
+
+Aristotle's methods of observation included [[dissection]] (Aristotle's lost companion work, ''The Dissections'', contained illustrations of these<ref name=Haworth>{{cite book |last=Haworth |first=Alan |title=Understanding the Political Philosophers: From Ancient to Modern Times |url=https://books.google.com/books?id=WZUWqnGiTfsC&pg=PA37 |year=2011 |publisher=Taylor & Francis |isbn=978-1-135-19896-1 |pages=37–40}}</ref>), so he observed animal [[anatomy]] directly, though his interpretations of the functions of the structures he observed were subject to error. 
+
+13. 
+For example, he recorded that male octopuses have a [[hectocotylus]], a [[tentacle]] which stores [[sperm]] and which can transfer it into the female's body; sometimes it snaps off during mating.<ref>Aristotle, Book IV.I (D'Arcy Thompson, page 524)</ref> The account was dismissed as fanciful until the French naturalist [[Georges Cuvier]] described it in his 1817 ''[[Le Règne Animal]]''.<ref name=Allaby>{{cite book |last=Allaby |first=Michael |title=Animals: From Mythology to Zoology |url=https://books.google.com/books?id=KtKZ12YN9qcC&pg=PT34 |year=2010 |publisher=Infobase Publishing |isbn=978-0-8160-6101-3 |pages=34–}}</ref> Aristotle also noted that the young of the [[Mustelus canis|dogfish]] grow inside their mother's body attached by a cord to something like a [[placenta]] (a yolk sac). 
+
+14. 
+Bohn |date=1862}}</ref> and by the zoologist [[D'Arcy Wentworth Thompson]] in 1910.<ref>{{cite book |author=Thompson, D'Arcy Wentworth |authorlink=D'Arcy Wentworth Thompson |title=A History of Animals |publisher=Clarendon Press |date=1910}}</ref>
+
+A French translation was made by [[Jules Barthélemy-Saint-Hilaire]] in 1883.<ref>{{cite book |author=Barthélemy-Saint Hilaire, Jules |authorlink=Jules Barthélemy-Saint-Hilaire |url=http://remacle.org/bloodwolf/philosophes/Aristote/tableanimaux.htm |title=Histoire des Animaux D'Aristote |publisher=Librairie Hachette |date=1883}}</ref> Another translation into French was made by J. 
+
+15. 
+Vrin |date=1957 |url=https://books.google.co.uk/books/about/Histoire_des_animaux.html?id=QPoGAQAAIAAJ&redir_esc=y}}</ref>
+
+A German translation of books I–VIII was made by Anton Karsch, starting in 1866.<ref>{{cite book |author=Karsch, Anton |title=Natur-geschichte der Thiere |publisher=Krais & Hoffmann |date=1866 |url=https://books.google.co.uk/books?id=2lE-AAAAcAAJ&printsec=frontcover&dq=Karsch+Naturgeschichte+der+Thiere&hl=en&sa=X&ved=0ahUKEwigpNz8meLPAhXMFsAKHWUnDCkQ6AEIHzAA#v=onepage&q=Karsch%20Naturgeschichte%20der%20Thiere&f=false}}</ref> A translation of all ten books into German was made by Paul Gohlke in 1949.<ref>{{cite book |author=Gohlke, Paul Hermann Edward |title=VIII: Tierkunde |work=Die Lehrschriften |publisher=Ferdinand Schöning |date=1949}}</ref>
+
+==Influence==
+{{further|Aristotle's biology#Influence}}
+
+The comparative anatomist [[Richard Owen]] said in 1837 that "Zoological Science sprang from [Aristotle's] labours, we may almost say, like [[Minerva]] from the Head of [[Jupiter|Jove]], in a state of noble and splendid maturity".<ref>{{cite book |last1=Owen |first1=Richard |editor1-last=Sloan|editor1-first=Phillip Reid|title=The Hunterian Lectures in Comparative Anatomy (May and June 1837) |date=1992 |publisher=University of Chicago Press |location=Chicago |page=91}}</ref>
+
+Ben Waggoner of the [[University of California Museum of Paleontology]] wrote that
+
+{{quote|Though Aristotle's work in zoology was not without errors, it was the grandest biological synthesis of the time, and remained the ultimate authority for many centuries after his death. 
+
+16. 
+{{good article}}
+[[File:Costantinopoli, aristotele, historia animalium e altri scritti, xii sec., pluteo 87,4.JPG|thumb|upright=1.5|''Historia animalium et al.'', [[Constantinople]], 12th century ([[Biblioteca Medicea Laurenziana]], pluteo 87.4)]]
+{{italic title}}
+'''''History of Animals''''' ({{lang-grc-gre|Τῶν περὶ τὰ ζῷα ἱστοριῶν}}, ''Ton peri ta zoia historion'', "Inquiries on Animals"; {{lang-la|Historia Animālium}} "History of Animals") is one of the major [[Aristotle's biology|texts on biology]] by the [[Ancient Greece|ancient Greek]] [[philosophy|philosopher]] [[Aristotle]], who had studied at [[Plato's Academy]] in [[Athens]]. 

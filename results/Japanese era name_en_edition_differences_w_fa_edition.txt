@@ -1,0 +1,901 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Japanese era name
+
+en edition's differences with the fa version: 
+
+
+1. 
+The system of {{nihongo|[[Japanese era name]]s|年号|''nengō''|"year name"}} was irregular until the beginning of the 8th century.{{sfnp|Tsuchihashi|1952|p=16}} After 701, sequential era names developed without interruption across a span of centuries.{{sfnp|Brown|Ishida|1979|p=[{{Google books|w4f5FrmIJKIC|plain-url=yes|page=32}} 32]}} As of April 1, 2019, there have been 239 era names. 
+
+2. 
+194–195]</ref>
+|-
+| 1166
+| {{nihongo2|仁安}}
+| [[Nin'an]]
+| ''also'' Ninnan; [[Emperor Takakura]], 1168–1180.<ref name="t194"/>
+|-
+| 1169
+| {{nihongo2|嘉応}}
+| [[Kaō (era)|Kaō]]
+|
+|-
+| 1171
+| {{nihongo2|承安}}
+| [[Jōan (era)|Jōan]]
+| ''also'' Shōan
+|-
+| 1175
+| {{nihongo2|安元}}
+| [[Angen]]
+|
+|-
+| 1177
+| {{nihongo2|治承}}
+| [[Jishō]]
+| ''also'' Jijō or Chishō; [[Emperor Antoku]], 1180–1185.<ref>{{harvp|Brown|Ishida|1979}} [{{Google books|w4f5FrmIJKIC|plain-url=yes|page=333}} pp. 
+
+3. 
+Since then, era names have been used continuously up through the present day.{{sfnp|Brown|Ishida|1979|p=[{{Google books|w4f5FrmIJKIC|plain-url=yes|page=32}} 32]}}
+
+===Historical ''nengō''===
+Prior to the [[Meiji period]], era names were decided by court officials and were subjected to frequent change. 
+
+4. 
+Since the [[Heian period]], [[Confucian]] thoughts and ideas have been reflected in era names, such as {{nihongo|Daidō|大同}}, {{nihongo|Kōnin|弘仁}} and {{nihongo|Tenchō|天長}}.{{Citation needed|date=August 2007}}  Although there currently exist a total of 248 Japanese era names, only 73 kanji have been used in composing them. 
+
+5. 
+ For example, the Meiji era lasted until 30 July 1912, when the Emperor died and the {{nihongo|[[Taishō]]|大正}} era was proclaimed. 
+
+6. 
+67–73]</ref>
+|-
+| 729 
+| {{nihongo2|天平}}
+| [[Tenpyō]]
+| ''also'' Tenbyō or Tenhei
+|-
+| 749 
+| {{nihongo2|天平感宝}}
+| [[Tenpyō-kanpō]]
+| ''also'' Tenbyō-kanpō
+|-
+| 749 
+| {{nihongo2|天平勝宝}}
+| [[Tenpyō-shōhō]]
+| ''also'' Tenbyō-shōbō or Tenpei-shōhō; [[Empress Kōken]], 749–758.<ref>{{harvp|Brown|Ishida|1979}} [{{Google books|w4f5FrmIJKIC|plain-url=yes|page=274}} pp. 
+
+7. 
+While the {{nihongo|[[Heisei|Heisei era]]|平成}} started on the day after the death of the Emperor [[Hirohito]] (8 January 1989), the {{nihongo|[[Reiwa|Reiwa era]]|令和}} began the day after the planned and ''voluntary'' [[abdication]]<ref>{{cite news |url=https://www.nytimes.com/2019/04/30/world/asia/emperor-akihito-abdication-prince-naruhito.html |title=Emperor Akihito, Who Gave Japan’s Monarchy a Human Face, Abdicates Throne |work=New York Times |last=Rich |first=Motoko |date=30 April 2019|access-date=30 April 2019}}</ref> of the 125th Emperor [[Emperor Akihito|Akihito]]. 
+
+8. 
+The Japanese nengō system differs from Chinese practice, in that in the Chinese system the era name was not updated until the year following the emperor's death. 
+
+9. 
+
+Era names originated in 140 BCE in China, during the reign of the [[Emperor Wu of Han]].<ref name=First1>{{cite book|last1=Lü|first1=Zongli|title=Power of the words: Chen prophecy in Chinese politics, AD 265-618|year=2003|url=https://books.google.com.sg/books?id=ZvYvAQAAIAAJ&q=era+name+nian+hao+origin&dq=era+name+nian+hao+origin&hl=en&sa=X&ved=0ahUKEwiBmO76htrmAhWOXSsKHR9hDBoQ6AEIZjAJ}}</ref><ref name=First2>{{cite book|last1=Sogner|first1=Sølvi|title=Making Sense of Global History: The 19th International Congress of the Historical Sciences, Oslo 2000, Commemorative Volume|year=2001|url=https://books.google.com.sg/books?id=7nsWAQAAIAAJ&q=era+name+china+Korea+Japan+vietnam+making+sense+of+global+history&dq=era+name+china+Korea+Japan+vietnam+making+sense+of+global+history&hl=en&sa=X&ved=0ahUKEwi7vp-8s9rmAhW_6nMBHf5cDrMQ6AEIKTAA}}</ref> As elsewhere in East Asia, the use of era names was originally derived from Chinese imperial practice,<ref name=First2></ref><ref name=Sinosphere>{{cite journal|year=2000|title=International Congress of Historical Sciences|url=https://books.google.com.sg/books?id=0ervAAAAMAAJ&q=era+name+china+Korea+Japan+vietnam&dq=era+name+china+Korea+Japan+vietnam&hl=en&sa=X&ved=0ahUKEwjr9r2csdrmAhWWe30KHaZoBEAQ6AEIRDAD|journal=International Congress of Historical Sciences|volume=19|access-date=29 December 2019}}</ref><ref name=Japan>{{cite web|url=https://asia.nikkei.com/Spotlight/Japan-s-Reiwa-era/Ancient-tradition-carries-forward-with-Japan-s-new-era|title=Ancient tradition carries forward with Japan's new era|access-date=29 December 2019}}</ref> although the Japanese system is independent of the [[Chinese era name|Chinese]], [[Korean era name|Korean]], and [[Vietnamese era name|Vietnamese]] era-naming systems. 
+
+10. 
+
+===Calendar libraries===
+Certain calendar libraries support the conversion from and to the era system, as well as rendering of dates using it. 
+
+11. 
+
+The five era names used since the end of the [[Edo period]] in 1868 can be abbreviated by taking the first letter of their [[Hepburn romanization|romanized]] names. 
+
+12. 
+Therefore, the posthumous names of the emperors and empresses who reigned prior to 1868 may not be taken as era names by themselves. 
+
+13. 
+While the name of the era was yet to be known, placeholder names ("{{lang|ja|元号}}" for Japanese, "NewEra" for other languages) are provided for its display names. 
+
+14. 
+A new era name was usually proclaimed within a year or two after the ascension of a new emperor. 
+
+15. 
+
+Other well-known ''itsunengō'' and ''shinengō'' include {{nihongo |Hōkō|法興}} (591–621+ CE), {{nihongo |Suzaku|朱雀}} (686), {{nihongo |Fukutoku|福徳}} (1489–1492), {{nihongo|Miroku|弥勒}} (1506–1507 or 1507–1509) and {{nihongo |Meiroku|命禄}} (1540–1543). 
+
+16. 
+|}
+
+==Non-nengo periods==
+Unofficial non-nengō [[periodization|periods]] (''shinengō'') before 701 are called {{nihongo|''itsunengō''|逸年号}}.{{efn|name=jawiki}} Pre-Taika chronology intervals include:
+*Reign of Emperor Jimmu, 660–581 BC
+*Reign of Emperor Suizei, 581–548 BC
+*Reign of Emperor Annei, 548–510 BC
+*Reign of Emperor Itoku, 510–475 BC
+*Reign of Emperor Kōshō, 475–392 BC
+*Reign of Emperor Kōan, 392–290 BC
+*Reign of Emperor Kōrei, 290–214 BC
+*Reign of Emperor Kōgen, 214–157 BC
+*Reign of Emperor Kaika, 157–97 BC
+*Reign of Emperor Sujin, 97–29 BC
+*Reign of Emperor Suinin, 29 BC–AD 71
+*Reign of Emperor Keikō, AD 71–131
+*Reign of Emperor Seimu, 131–192
+*Reign of Emperor Chūai, 192–201
+*Regency of Empress Jingū, 201–270
+*Reign of Emperor Ōjin, 270–313
+*Reign of Emperor Nintoku, 313–400
+*Reign of Emperor Richū, 400–406
+*Reign of Emperor Hanzei, 406–412
+*Reign of Emperor Ingyō, 412–454
+*Reign of Emperor Ankō, 454–457
+*Reign of Emperor Yūryaku, 457–480
+*Reign of Emperor Seinei, 480–485
+*Reign of Emperor Kenzō, 485–488
+*Reign of Emperor Ninken, 488–499
+*Reign of Emperor Buretsu, 499–507
+*Reign of Emperor Keitai, 507–534
+*Reign of Emperor Ankan, 534–536
+*Reign of Emperor Senka, 536–540
+*Reign of Emperor Kinmei, 540–572
+*Reign of Emperor Bidatsu, 572–586
+*Reign of Emperor Yōmei, 586–588
+*Reign of Emperor Sushun, 588–593
+*Reign of Emperor Suiko, 593–629<ref>The [[National Diet Library]] (NDL) website explains that [http://www.ndl.go.jp/koyomi/e/ "Japan organized its first calendar in the 12th year of Suiko (604)"], which was a pre-''nengō'' time frame; {{harvp|Nussbaum|2005}} "Jikkan Jūnishi" [{{Google books|p2QnPijAEmEC|plain-url=yes|page=420}} p. 
+
+17. 
+150–154]</ref>
+|-
+| 987
+| {{nihongo2|永延}}
+| [[Eien]]
+| ''also'' Yōen
+|-
+| 988
+| {{nihongo2|永祚}}
+| [[Eiso]]
+| ''also'' Yōso
+|-
+| 990 
+| {{nihongo2|正暦}}
+| [[Shōryaku]]
+| ''also'' Jōryaku or Shōreki
+|-
+| 995
+| {{nihongo2|長徳}} 
+| [[Chōtoku]]
+|
+|-
+| 999
+| {{nihongo2|長保}} 
+| [[Chōhō (era)|Chōhō]]
+|
+|-
+| 1004
+| {{nihongo2|寛弘}} 
+| [[Kankō]]
+| [[Emperor Sanjō]], 1011–1016.<ref>{{harvp|Brown|Ishida|1979}} [{{Google books|w4f5FrmIJKIC|plain-url=yes||page=307}} p. 
+
+18. 
+162–166]</ref>
+|-
+| 1046
+| {{nihongo2|永承}} 
+| [[Eishō (Heian period)|Eishō]]
+| ''also'' Eijō or Yōjō
+|-
+| 1053
+| {{nihongo2|天喜}} 
+| [[Tengi]]
+| ''also'' Tenki
+|-
+| 1058
+| {{nihongo2|康平}}
+| [[Kōhei]]
+| 
+|-
+| 1065
+| {{nihongo2|治暦}} 
+| [[Jiryaku]]
+| ''also'' Chiryaku
+|-
+| 1069
+| {{nihongo2|延久}}
+| [[Enkyū]]
+| [[Emperor Go-Sanjō]], 1068–1073.<ref>{{harvp|Brown|Ishida|1979}} [{{Google books|w4f5FrmIJKIC|plain-url=yes|page=314}} pp. 
+
+19. 
+172–178]</ref>
+|-
+| 1094
+| {{nihongo2|嘉保}}
+| [[Kahō]]
+|
+|-
+|1096
+| {{nihongo2|永長}}
+| [[Eichō]]
+| ''also'' Yōchō
+|-
+| 1097
+| {{nihongo2|承徳}} 
+| [[Jōtoku]]
+| ''also'' Shōtoku
+|-
+| 1099
+| {{nihongo2|康和}}
+| [[Kōwa (Heian period)|Kōwa]]
+|
+|-
+| 1104
+| {{nihongo2|長治}}
+| [[Chōji]]
+| 
+|-
+| 1106
+| {{nihongo2|嘉承}}
+| [[Kajō]]
+| ''also'' Kashō or Kasō; [[Emperor Toba]], 1107–1123.<ref>{{harvp|Brown|Ishida|1979}} [{{Google books|w4f5FrmIJKIC|plain-url=yes|page=320}} pp. 
+
+20. 
+242–245]</ref>
+|-
+| 1233
+| {{nihongo2|天福}}
+| [[Tenpuku]]
+| ''also'' Tenfuku
+|-
+| 1234
+| {{nihongo2|文暦}}
+| [[Bunryaku]]
+| ''also'' Monryaku or Monreki
+|-
+| 1235
+| {{nihongo2|嘉禎}}
+| [[Katei]]
+|
+|-
+| 1238
+| {{nihongo2|暦仁}}
+| [[Ryakunin]]
+| ''also'' Rekinin
+|-
+| 1239
+| {{nihongo2|延応}}
+| [[En'ō]]
+| ''also'' Ennō
+|-
+| 1240
+| {{nihongo2|仁治}}
+| [[Ninji]]
+| ''also'' Ninchi; [[Emperor Go-Saga]], 1242–1246.<ref>{{harvp|Varley|1980|pp=228–231}}; {{harvp|Titsingh|1834}} [{{Google books|18oNAAAAIAAJ|plain-url=yes|page=245}} pp. 
+
+21. 
+331–351]</ref>
+|-
+| 1429 
+| {{nihongo2|永享}} 
+| [[Eikyō]]
+| ''also'' Eikō
+|-
+| 1441 
+| {{nihongo2|嘉吉}} 
+| [[Kakitsu]]
+| ''also'' Kakichi
+|-
+| 1444 
+| {{nihongo2|文安}}
+| [[Bun'an]]
+| ''also'' Bunnan
+|-
+| 1449
+| {{nihongo2|宝徳}}
+| [[Hōtoku]]
+|-
+| 1452
+| {{nihongo2|享徳}}
+| [[Kyōtoku]]
+|
+|-
+| 1455
+| {{nihongo2|康正}}
+| [[Kōshō]]
+|
+|-
+| 1457
+| {{nihongo2|長禄}}
+| [[Chōroku]]
+|
+|-
+| 1460
+| {{nihongo2|寛正}}
+| [[Kanshō]]
+| [[Emperor Go-Tsuchimikado]], 1464–1500.<ref>{{harvp|Titsingh|1834}} [{{Google books|18oNAAAAIAAJ|plain-url=yes|page=352}} pp. 
+
+22. 
+420].</ref> 
+*Reign of Emperor Jomei, 629–645
+
+Post-Taika chronology intervals not covered by the nengō system include:
+*Reign of Empress Saimei, 655–662<ref>{{harvp|NengoCalc}} (655) 斉明 Saimei</ref> ... 
+
+23. 
+106–112]</ref>
+|-
+| 834 
+| {{nihongo2|承和}}
+| [[Jōwa (Heian period)|Jōwa]]
+| ''also'' Shōwa or Sōwa
+|-
+| 848 
+| {{nihongo2|嘉祥}}
+| [[Kashō]]
+| ''also'' Kajō; [[Emperor Montoku]], 850–858.<ref>{{harvp|Brown|Ishida|1979}} [{{Google books|w4f5FrmIJKIC|plain-url=yes|page=285}} pp. 
+
+24. 
+134–138]</ref>
+|-
+| 931
+| {{nihongo2|承平}}
+| [[Jōhei]]
+| ''also'' Shōhei
+|-
+| 938
+| {{nihongo2|天慶}}
+| [[Tengyō]]
+| ''also'' Tenkei or Tenkyō; [[Emperor Murakami]], 946–967.<ref>{{harvp|Brown|Ishida|1979}} [{{Google books|w4f5FrmIJKIC|plain-url=yes|page=295}} pp. 
+
+25. 
+144–148]</ref>
+|-
+| 970 
+| {{nihongo2|天禄}}
+| [[Tenroku]]
+| 
+|-
+| 973 
+| {{nihongo2|天延}}
+| [[Ten'en]]
+|
+|-
+| 976
+| {{nihongo2|貞元}}
+| [[Jōgen (Heian period)|Jōgen]]
+| ''also'' Teigen
+|-
+| 978
+| {{nihongo2|天元}}
+| [[Tengen (era)|Tengen]]
+|
+|-
+| 983
+| {{nihongo2|永観}}
+| [[Eikan]]
+| ''also'' Yōkan; [[Emperor Kazan]], 984–986.<ref>{{harvp|Brown|Ishida|1979}} [{{Google books|w4f5FrmIJKIC|plain-url=yes|page=300}} pp. 
+
+26. 
+169–171]</ref>
+|-
+| 1077
+| {{nihongo2|承暦}}
+| [[Jōryaku]]
+| ''also'' Shōryaku or Shōreki
+|-
+| 1081
+| {{nihongo2|永保}} 
+| [[Eihō]]
+| ''also'' Yōhō
+|-
+|1084
+| {{nihongo2|応徳}}
+| [[Ōtoku]]
+|  
+|-
+| 1087 
+| {{nihongo2|寛治}} 
+| [[Kanji (era)|Kanji]]
+| [[Emperor Horikawa]], 1087–1107.<ref>{{harvp|Brown|Ishida|1979}} [{{Google books|w4f5FrmIJKIC|plain-url=yes|page=317}} pp. 
+
+27. 
+178–181]</ref>
+|-
+| 1108
+| {{nihongo2|天仁}}
+| [[Tennin (era)|Tennin]]
+|
+|-
+|1110
+| {{nihongo2|天永}}
+| [[Ten'ei]]
+| ''also'' Ten'yō
+|-
+| 1113
+| {{nihongo2|永久}}
+| [[Eikyū]]
+| ''also'' Yōkyū
+|-
+| 1118
+| {{nihongo2|元永}}
+| [[Gen'ei]]
+|-
+| 1120
+| {{nihongo2|保安}}
+| [[Hōan]]
+| [[Emperor Sutoku]], 1123–1142.<ref>{{harvp|Brown|Ishida|1979}} [{{Google books|w4f5FrmIJKIC|plain-url=yes|page=322}} pp. 
+
+28. 
+186–188]</ref>
+|-
+| 1144
+| {{nihongo2|天養}}
+| [[Ten'yō]]
+|  ''also'' Tennyō
+|-
+| 1145
+| {{nihongo2|久安}}
+| [[Kyūan]]
+|
+|-
+| 1151
+| {{nihongo2|仁平}}
+| [[Ninpei]]
+| ''also'' Ninpyō or Ninbyō or Ninhyō or Ninhei
+|-
+| 1154
+| {{nihongo2|久寿}}
+| [[Kyūju]]
+| [[Emperor Go-Shirakawa]], 1155–1158.<ref>{{harvp|Brown|Ishida|1979}} [{{Google books|w4f5FrmIJKIC|plain-url=yes|page=326}} pp. 
+
+29. 
+191–194]</ref>
+|-
+| 1159
+| {{nihongo2|平治}}
+| [[Heiji]]
+| ''also'' Byōji
+|-
+| 1160
+| {{nihongo2|永暦}}
+| [[Eiryaku]]
+| ''also'' Yōryaku
+|-
+| 1161
+| {{nihongo2|応保}}
+| [[Ōhō]]
+|
+|-
+| 1163
+| {{nihongo2|長寛}}
+| [[Chōkan]]
+| ''also'' Chōgan
+|-
+| 1165
+| {{nihongo2|永万}}
+| [[Eiman]]
+| ''also'' Yōman; [[Emperor Rokujō]], 1165–1168.<ref name="t194">{{harvp|Brown|Ishida|1979}} [{{Google books|w4f5FrmIJKIC|plain-url=yes|page=329}} pp. 
+
+30. 
+221–230]</ref>
+|-
+| 1199
+| {{nihongo2|正治}}
+| [[Shōji (era)|Shōji]]
+|
+|-
+| 1201
+| {{nihongo2|建仁}}
+| [[Kennin]]
+|
+|-
+| 1204
+| {{nihongo2|元久}}
+| [[Genkyū]]
+|
+|-
+| 1206
+| {{nihongo2|建永}}
+| [[Ken'ei]]
+| ''also'' Ken'yō
+|-
+| 1207
+| {{nihongo2|承元}}
+| [[Jōgen (Kamakura period)|Jōgen]]
+| ''also'' Shōgen; [[Emperor Juntoku]], 1210–1221.<ref>{{harvp|Brown|Ishida|1979}} [{{Google books|w4f5FrmIJKIC|plain-url=yes|page=341}} pp. 
+
+31. 
+230–238]</ref>
+|-
+| 1211
+| {{nihongo2|建暦}}
+| [[Kenryaku]]
+|
+|-
+| 1213
+| {{nihongo2|建保}}
+| [[Kempo (era)|Kenpō]]
+| ''also'' Kenhō
+|-
+| 1219
+| {{nihongo2|承久}}
+| [[Jōkyū]]
+| ''also'' Shōkyū; [[Emperor Chūkyō]], 1221.<ref>{{harvp|Brown|Ishida|1979}} [{{Google books|w4f5FrmIJKIC|plain-url=yes|page=343}} pp. 
+
+32. 
+238–241]</ref> 
+|-
+| 1222
+| {{nihongo2|貞応}}
+| [[Jōō (Kamakura period)|Jōō]]
+| ''also'' Teiō
+|-
+| 1224
+| {{nihongo2|元仁}}
+| [[Gennin]]
+|
+|-
+| 1225
+| {{nihongo2|嘉禄}}
+| [[Karoku]]
+|
+|-
+| 1227
+| {{nihongo2|安貞}}
+| [[Antei]]
+| ''also'' Anjō
+|-
+| 1229
+| {{nihongo2|寛喜}}
+| [[Kangi]]
+| ''also'' Kanki
+|-
+| 1232
+| {{nihongo2|貞永}}
+| [[Jōei]]
+| ''also'' Teiei; [[Emperor Shijō]], 1232–1242.<ref>{{harvp|Varley|1980|p=227}}; {{harvp|Titsingh|1834}} [{{Google books|18oNAAAAIAAJ|plain-url=yes|page=242}} pp. 
+
+33. 
+412–413]</ref>
+|-
+| 1644
+| {{nihongo2|正保}}
+| [[Shōhō]]
+|
+|-
+| 1648
+| {{nihongo2|慶安}}
+| [[Keian]]
+| ''also'' Kyōan
+|-
+| 1652
+| {{nihongo2|承応}}
+| [[Jōō (Edo period)|Jōō]]
+| ''also'' Shōō; [[Emperor Go-Sai]], 1655–1663.<ref>{{harvp|Titsingh|1834}} [{{Google books|18oNAAAAIAAJ|plain-url=yes|page=413}} p. 
+
+34. 
+414–415]</ref>
+|-
+| 1673
+| {{nihongo2|延宝}}
+| [[Enpō]]
+| ''also'' Enhō, ''formerly written'' {{nihongo2|延寳}}
+|-
+| 1681
+| {{nihongo2|天和}}
+| [[Tenna]]
+| ''also'' Tenwa
+|-
+| 1684
+| {{nihongo2|貞享}}
+| [[Jōkyō]]
+| [[Emperor Higashiyama]], 1687–1709.<ref>{{harvp|Titsingh|1834}} [{{Google books|18oNAAAAIAAJ|plain-url=yes|page=415}} pp. 
+
+35. 
+1912 is therefore known as both "Meiji 45" and {{nihongo|"Taishō 1"|大正元年|Taishō gannen}}, although Meiji technically ended on 30 July with Mutsuhito's death. 
+
+36. 
+These three years are respectively known as ''[[wiktionary:革令|kakurei]]'', ''[[wiktionary:革運|kakuun]]'', and ''[[wiktionary:革命|kakumei]]'', and collectively known as ''[[wiktionary:三革|sankaku]]''. 
+
+37. 
+This system is similar to the now-defunct Chinese system used since the days of the [[Ming dynasty]]. 
+
+38. 
+181–185]</ref>
+|-
+| 1124
+| {{nihongo2|天治}}
+| [[Tenji (era)|Tenji]]
+| ''also'' Tenchi
+|-
+| 1126
+| {{nihongo2|大治}}
+| [[Daiji (era)|Daiji]]
+| ''also'' Taiji
+|-
+| 1131
+| {{nihongo2|天承}}
+| [[Tenshō (Heian period)|Tenshō]]
+| ''also'' Tenjō
+|-
+| 1132 
+| {{nihongo2|長承}} 
+| [[Chōshō]]
+| ''also'' Chōjō
+|-
+| 1135
+| {{nihongo2|保延}}
+| [[Hōen]]
+|
+|-
+| 1141
+| {{nihongo2|永治}} 
+| [[Eiji (era)|Eiji]]
+|
+|-
+| 1142
+| {{nihongo2|康治}}
+| [[Kōji (Heian period)|Kōji]]
+| [[Emperor Konoe]], 1142–1155.<ref>{{harvp|Brown|Ishida|1979}} [{{Google books|w4f5FrmIJKIC|plain-url=yes|page=324}} pp. 
+
+39. 
+ 
+It is protocol in Japan that the reigning emperor be referred to as {{nihongo|''Tennō Heika''|天皇陛下||"His Imperial Majesty the Emperor"}} or {{nihongo|''Kinjō Tennō''|今上天皇||"current emperor"}}. 
+
+40. 
+On 23 October 1868, the era name was changed to {{nihongo|"[[Meiji period|Meiji]]"|明治}}, and a {{nihongo|"one reign, one era name"|一世一元|issei-ichigen}} system was adopted, wherein era names would change only upon immediate imperial succession. 
+
+41. 
+281–286], [{{Google books|18oNAAAAIAAJ|plain-url=yes|page=290}} 290–294]</ref>
+|-
+| 1319
+| {{nihongo2|元応}}
+| [[Gen'ō]]
+| ''also'' Gennō
+|-
+| 1321
+| {{nihongo2|元亨}}
+| [[Genkō (first)|Genkō]]
+|
+|-
+| 1324
+| {{nihongo2|正中}}
+| [[Shōchū (era)|Shōchū]]
+|
+|-
+| 1326
+| {{nihongo2|嘉暦}}
+| [[Karyaku]]
+|
+|-
+| 1329
+| {{nihongo2|元徳}}
+| [[Gentoku]]
+|
+|-
+| 1331
+| {{nihongo2|元弘}}
+| [[Genkō (second)|Genkō]]
+|-
+|-
+!colspan="5"|[[Nanboku-chō period]] (1334–1392)
+|-
+!colspan="5" |''Southern Court''
+|-
+| 1334
+| {{nihongo2|建武}}
+| [[Kenmu]]
+| ''also'' Kenbu
+|-
+| 1336
+| {{nihongo2|延元}}
+| [[Engen]]
+| 
+|-
+| 1340
+| {{nihongo2|興国}} 
+| [[Kōkoku]]
+|
+|-
+| 1346
+| {{nihongo2|正平}}
+| [[Shōhei]]
+| 
+|-
+| 1370
+| {{nihongo2|建徳}}
+| [[Kentoku]]
+|
+|-
+| 1372
+| {{nihongo2|文中}}
+| [[Bunchū]]
+|
+|-
+| 1375
+| {{nihongo2|天授}} 
+| [[Tenju]]
+|
+|-
+| 1381
+| {{nihongo2|弘和}} 
+| [[Kōwa (Muromachi period)|Kōwa]]
+| 
+|-
+| 1384 
+| {{nihongo2|元中}}
+| [[Genchū]]
+|colspan="90%" |''Genchū 9 becomes [[Meitoku]] 3 in post Nanboku-chō reunification''
+|-
+!colspan="5" |''Northern Court''
+|-
+| 1332 
+| {{nihongo2|正慶}} 
+| [[Shōkei (Japanese era)|Shōkei]]
+| ''also'' Shōkyō
+|-
+| 1334
+| {{nihongo2|建武}}
+| [[Kenmu]]
+| ''also'' Kenbu
+|-
+| 1338
+| {{nihongo2|暦応}}
+| [[Ryakuō]]
+| ''also'' Rekiō
+|-
+| 1342
+| {{nihongo2|康永}}
+| [[Kōei]]
+|
+|-
+| 1345
+| {{nihongo2|貞和}}
+| [[Jōwa (Muromachi period)|Jōwa]]
+| ''also'' Teiwa
+|-
+| 1350
+| {{nihongo2|観応}}
+| [[Kannō]]
+| ''also'' Kan'ō
+|-
+| 1352
+| {{nihongo2|文和}}
+| [[Bunna]]
+| ''also'' Bunwa
+|-
+| 1356
+| {{nihongo2|延文}}
+| [[Enbun]]
+|
+|-
+| 1361
+| {{nihongo2|康安}}
+| [[Kōan (Muromachi period)|Kōan]]
+|
+|-
+| 1362
+| {{nihongo2|貞治}}
+| [[Jōji]]
+| ''also'' Teiji
+|-
+| 1368
+| {{nihongo2|応安}}
+| [[Ōan]]
+|
+|-
+| 1375
+| {{nihongo2|永和}}
+| [[Eiwa]]
+|
+|-
+| 1379
+| {{nihongo2|康暦}}
+| [[Kōryaku]]
+|
+|-
+| 1381
+| {{nihongo2|永徳}}
+| [[Eitoku]]
+|
+|-
+| 1384
+| {{nihongo2|至徳}}
+| [[Shitoku]]
+|
+|-
+| 1387
+| {{nihongo2|嘉慶}}
+| [[Kakei]]
+| ''also'' Kakyō
+|-
+| 1389
+| {{nihongo2|康応}}
+| [[Kōō (Nanboku-chō period)|Kōō]]
+|
+|-
+| 1390
+| {{nihongo2|明徳}}
+| [[Meitoku]]
+|colspan="90%" |''Meitoku 3 replaces [[Genchū]] 9 in post-Nanboku-chō reunification''
+|-
+!colspan="5"|[[Muromachi period]] (1392–1573)
+|-
+|-
+| 1394
+| {{nihongo2|応永}} 
+| [[Ōei]]
+| [[Emperor Shōkō]], 1412–1428.<ref>{{harvp|Titsingh|1834}} [{{Google books|18oNAAAAIAAJ|plain-url=yes|page=327}} pp. 
+
+42. 
+|-
+!colspan="5"|Modern Japan (from 1868)
+|-
+| 1868
+| {{nihongo2|明治}}
+| [[Meiji (era)|Meiji]]
+| [[Emperor Meiji]], 1868–1912. 
+
+43. 
+The new name, made public on the morning of April 1 of the same year, is {{nihongo|[[Reiwa]]|令和}}.<ref name=reiwaannouncement />
+
+==Periods without era names==
+The era name system that was introduced by [[Emperor Kōtoku]] was abandoned after his death; no era names were designated between 654 and 686. 
+
+44. 
+For example, the year 572—the year in which [[Emperor Bidatsu]] assumed the [[Chrysanthemum Throne]] – is properly written as "{{lang|ja|敏達天皇元年}}" (''Bidatsu-Tennō Gannen'', "the first year of Emperor Bidatsu"), and not "{{lang|ja|敏達元年}}" (''Bidatsu Gannen'', "the first year of Bidatsu"), although it may be abbreviated as such.<ref>[http://www.ndl.go.jp/koyomi/e/ "The Japanese Calendar"], National Diet Library, Japan</ref> By incorporating both proper era names and posthumous imperial names in this manner, it is possible to extend the nengō system to cover all dates from 660 BC through today.<ref>{{jp}} [http://homepage1.nifty.com/gyouseinet/history/nengouichiran.htm 年号一覧] {{Webarchive|url=https://web.archive.org/web/20071019050706/http://homepage1.nifty.com/gyouseinet/history/nengouichiran.htm |date=19 October 2007 }}</ref>
+
+==Unofficial era name system==
+In addition to the official era name system, in which the era names are selected by the imperial court, one also observes—primarily in the ancient documents and epigraphs of shrines and temples—unofficial era names called {{nihongo |''shinengō''|私年号||"personal era name"}}, also known as {{nihongo |''ginengō''|偽年号}} or {{nihongo |''inengō''|異年号}}. 
+
+45. 
+Emperor Akihito received special one-time permission to abdicate,<ref>{{cite news|url=http://www3.nhk.or.jp/news/html/20160713/k10010594271000.html |title=天皇陛下 「生前退位」の意向示される ("His Majesty The Emperor Indicates His Intention to 'Abdicate'") |publisher=NHK |language=Japanese |date=13 July 2016 |access-date=13 July 2016 |url-status=dead |archiveurl=https://web.archive.org/web/20160713100512/http://www3.nhk.or.jp/news/html/20160713/k10010594271000.html |archivedate=13 July 2016 |df=dmy }}</ref> rather than serving in his role until his death, as is the rule.<ref>{{cite news|url=https://www.bbc.com/news/world-asia-36784045|title=Japanese Emperor Akihito 'wishes to abdicate' |publisher=BBC News|date=13 July 2016|access-date=17 July 2016}}</ref> His elder son, [[Naruhito, Crown Prince of Japan|Naruhito]], [[Enthronement of the Japanese Emperor|ascended to the throne]] as the 126th [[Emperor of Japan]] on 1 May 2019.<ref>{{cite news |url= https://www.aljazeera.com/news/2019/04/japan-rings-era-naruhito-emperor-190430180007614.html |title=Japan rings in new era as Naruhito becomes emperor|publisher=Al Jazeera|date=30 April 2019|access-date=30 April 2019}}</ref>
+
+==Overview==
+[[File:Keizo Obuchi cropped Keizo Obuchi 19890107.jpg|thumb|220px|[[Keizō Obuchi]], [[Chief Cabinet Secretary]], announces the name of the new era "[[Heisei]]" ({{nihongo2|平成}}), on 7 January 1989.]]
+[[File:Yoshihide Suga announcing new imperial era Reiwa 2 (cropped).jpg|thumb|220px|[[Yoshihide Suga]], [[Chief Cabinet Secretary]], announces the name of the new era "[[Reiwa]]" ({{nihongo2|令和}}) at the [[Prime Minister's Official Residence]], on 1 April 2019.]]
+
+{{External timeline|Template:Timeline of Japanese era names|Timeline of Japanese era names}}
+
+The system on which the Japanese era names are based originated in China in 140 BC, and was adopted by Japan in 645 CE, during the reign of [[Emperor Kōtoku]]. 
+
+46. 
+
+Since the release of [[Java 8]], the [[Japanese calendar]] is supported in the new Date and time API for the year Meiji 6 (1873) onwards.<ref>{{cite web |title=JapaneseDate (Java Platform SE 8 )|url=https://docs.oracle.com/javase/8/docs/api/java/time/chrono/JapaneseDate.html |url-status=live |archive-date=2015-05-15 |archive-url=https://web.archive.org/web/20150515211441/https://docs.oracle.com/javase/8/docs/api/java/time/chrono/JapaneseDate.html }}</ref>
+
+===Support for the new era in Japanese imperial transition of 2019===
+{{Main|Japanese calendar era bug}}
+Computers and software manufacturers needed to test their systems in preparation for [[2019 Japanese imperial transition|the new era which began on 1 May 2019]]. 
+
+47. 
+{{about|the ''nengō'' element of the Japanese era calendar scheme|the computer software known as "NENGO"|Neural Engineering Object}}
+{{Use dmy dates|date=September 2016}}
+{{History of Japan |topics |image=Yoshihide_Suga_announcing_new_imperial_era_Reiwa_2_(cropped).jpg}}
+
+The {{nihongo|'''Japanese era name'''|年号|nengō|"year name"}}, also known as {{nihongo|''gengō''|元号}}, is the first of the two elements that identify years in the '''Japanese era calendar scheme'''. 
+
+48. 
+[[Monmu (period)]]<ref name="murray402"/>
+
+==See also==
+*[[Calendar]]
+*[[Japanese calendar]]
+*[[Japanese imperial year]]
+*[[Sexagenary cycle|''Jikkan Jūnishi'' (sexagenary cycle)]]
+*[[Regnal name]]
+*[[Regnal year|Regnal years worldwide]]
+
+==Notes==
+{{notelist}}
+
+==Citations==
+{{reflist}}
+
+==References==
+* {{cite book |last=Bramsen |first=William. 
+
+49. 
+The second element is a number which indicates the year number within the era (with the first year being "{{nihongo|gan|元}}"), followed by the literal "{{nihongo|nen|年}}" meaning "year". 
+
+50. 
+ ''Windows'' provided a test mechanism to simulate a new era ahead of time.<ref>{{cite web|url=https://blogs.msdn.microsoft.com/shawnste/2018/04/12/the-japanese-calendars-y2k-moment/|title=The Japanese Calendar's Y2K Moment}}</ref> Java Development Kit 11 supported this era using the placeholders "{{lang|ja|元号}}" for Japanese, "NewEra" for other languages.<ref>{{cite web |title=JDK 11 Release Notes, Important Changes, and Information |url=https://www.oracle.com/technetwork/java/javase/11-relnote-issues-5012449.html#JDK-8202088 |website=www.oracle.com |accessdate=1 October 2018 |quote=Japanese calendars, both in java.time.chrono and java.util packages support the upcoming Japanese new era, which will be in effect from May 1st, 2019. 
+
+51. 
+The placeholder names will be replaced with the legitimate era name, Reiwa, in a future update, thus applications should not depend on those placeholder names.}}</ref> The final name was added in JDK 12.0.1, after it was announced by the Japanese government.<ref>{{cite web |last1=Kishida |first1=Naoki |title=Java 11 API Change Proposals |url=https://dzone.com/articles/java-11-api-changes-so-far |website=DZone Java |accessdate=1 October 2018 |language=en |date=14 July 2018}}</ref>
+
+[[Unicode]] code point U+32FF (㋿) was reserved for representing the new era name, Reiwa.<ref>{{Citation|url=https://www.unicode.org/L2/L2017/17429-sc2-n4577-japan-new-era.pdf|title=Request to reserve the code point for square Japanese new era name|date=2017-12-19}}</ref><ref>{{Citation|url=https://www.unicode.org/wg2/docs/n4949-Japanese_new_era.pdf|title=Update on SC2 N4577 “Request to reserve the code point for square Japanese new era name”|date=2018-05-23|author=The Japan National Body}}</ref><ref>{{Citation|url=https://isotc.iso.org/livelink/livelink?func=ll&objId=19813998&objAction=Open|title=Resolutions of the 23rd ISO/IEC JTC 1/SC 2 Plenary Meeting|section=RESOLUTION M 23-10|date=2018-06-28}}</ref><ref>{{Citation|url=https://www.unicode.org/L2/L2018/18056-future-adds.pdf|title=Future Additions to ISO/IEC 10646 (January 2018)|date=2018-01-25}}</ref><ref>{{Cite web|title=Proposed New Characters: Pipeline Table|url=https://www.unicode.org/alloc/Pipeline.html|publisher=[[Unicode Consortium]]|date=2018-06-30}}</ref><ref>{{Citation|url=https://www.unicode.org/L2/L2018/18220-u121planning.txt|title=Unicode 12.1 Planning Considerations|date=2018-07-16|first=Ken|last=Whistler}}</ref>
+
+The '''list of Japanese era names''' is the result of a [[periodization]] system which was established by [[Emperor Kōtoku]] in 645. 

@@ -1,0 +1,16 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Intercalation (timekeeping)
+
+en edition's differences with the vi version: 
+
+
+1. 
+Usually five epagomenal days are included within every year ([[Egyptian calendar|Egyptian]], [[Coptic calendar|Coptic]], [[Ethiopian calendar|Ethiopian]], Mayan [[Haab']] and [[French Republican Calendar]]s), but a sixth epagomenal day is intercalated every four years in some (Coptic, Ethiopian and French Republican calendars). 
+
+2. 
+Any year that has 53 Thursdays has 53 weeks; this extra week may be regarded as intercalary. 
+
+3. 
+
+Epagomenal<ref>From ἐπαγόμενος, ''epagomenos'' (present participle passive of ἐπάγειν, ''epagein'' "to bring in") + -al</ref> days are days within a solar calendar that are outside any regular month. 

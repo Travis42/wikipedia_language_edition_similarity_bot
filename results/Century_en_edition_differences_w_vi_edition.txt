@@ -1,0 +1,130 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Century
+
+en edition's differences with the vi version: 
+
+
+1. 
+| style="border: 1px solid black;" | 1900
+| style="border: 1px solid black;" | 1901 
+| style="border: 1px solid black;" | 1902
+| style="border: 1px solid black;" | 1903
+| style="border: 1px solid black;" | ... 
+
+2. 
+| style="border: 1px solid black;" | 98
+| style="border: 1px solid black;" | 99
+| style="border: 1px solid black;" | 100
+| style="border: 1px solid black;" | 101
+| style="border: 1px solid black;" | 102
+| style="border: 1px solid black;" | 103
+| style="border: 1px solid black;" | ... 
+
+3. 
+| style="border: 1px solid black;" | 1998
+| style="border: 1px solid black;" | 1999
+| style="border: 1px solid black;" | 2000
+| style="border: 1px solid black;" | 2001
+| style="border: 1px solid black;" | 2002
+| style="border: 1px solid black;" | 2003
+| style="border: 1px solid black;" | ... 
+
+4. 
+| style="border: 1px solid black;" | 2098
+| style="border: 1px solid black;" | 2099
+| style="border: 1px solid black;" | 2100
+| style="border: 1px solid black;" | 2101
+| style="border: 1px solid black;" | 2102
+| style="border: 1px solid black;" | 2103
+| style="border: 1px solid black;" | ... 
+
+5. 
+align="right" | Year 
+| style="border: 1px solid black;" | 1 
+| style="border: 1px solid black;" | 2
+| style="border: 1px solid black;" | 3 
+| style="border: 1px solid black;" | ... 
+
+6. 
+| style="border: 1px solid black;" | 198
+| style="border: 1px solid black;" | 199
+| style="border: 1px solid black;" | 200
+| style="border: 1px solid black;" | ... 
+
+7. 
+| style="border: 1px solid black;" | 2198
+| style="border: 1px solid black;" | 2199
+| style="border: 1px solid black;" | 2200
+| style="border: 1px solid black;" | ... 
+
+8. 
+The [[Hindu calendar]], in particular, summarizes its years into groups of 60,<ref>{{cite web|title=www.vedavidyalaya.com|url=http://www.vedavidyalaya.com/varsham.htm|accessdate=4 September 2013}}</ref> while the [[Aztec calendar]] considers groups of 52.<ref>{{cite web|title=www.aztec-history.com|url=http://www.aztec-history.com/aztec-calendar.html|accessdate=4 September 2013}}</ref>
+
+== See also ==
+{{Wiktionary|century}}
+{{Commons category multi|Centuries|Centennials}}
+* [[Age of Discovery]]
+* [[Ancient history]]
+* [[Before Christ]]
+* [[Common Era]]
+* [[Decade]]
+* [[List of centuries]]
+* [[Lustrum]]
+* [[Middle Ages]]
+* [[Millennium]]
+* [[Modern era]]
+* [[Saeculum]]
+* [[Year]]
+
+== References ==
+{{Reflist}}
+
+== Bibliography ==
+* [ftp://ftp.loc.gov/pub/reference.guides/battle.centuries.txt''The Battle of the Centuries''], Ruth Freitag, [[U.S. 
+
+9. 
+In this model, the ''n''-th century started/will start on the year ''(100 × n) − 99'' and ends in ''100 × n''. 
+
+10. 
+
+{{Time measurement and standards}}
+
+[[Category:100 (number)]]
+[[Category:Centuries| ]]
+[[Category:Units of time]]. 
+
+11. 
+In this model, the 'n' -th century started/will start on the year ''(100 x n) - 100'' and ends in ''(100 x n) - 1''. 
+
+12. 
+align="right" | Strict 
+| colspan="7" style="border: 1px solid black; background: #faa; text-align: center;" | 1st century
+| colspan="7" style="border: 1px solid black; background: #faf; text-align: center;" | 2nd century
+| colspan="2" style="border: 1px solid black; text-align: center;" | ... 
+
+13. 
+Because of this, a century will only include one year, the centennial year, that starts with the century's number (e.g. 
+
+14. 
+align="right" | General 
+| colspan="6" style="border: 1px solid black; background: #faa; text-align: center;" | 1st century
+| colspan="7" style="border: 1px solid black; background: #faf; text-align: center;" | 2nd century
+| colspan="2" style="border: 1px solid black; text-align: center;" | ... 
+
+15. 
+| colspan="7" style="border: 1px solid black; background: #aff; text-align: center;" | 20th century
+| colspan="7" style="border: 1px solid black; background: #afa; text-align: center;" | 21st century
+| colspan="7" style="border: 1px solid black; background: #ffa; text-align: center;" | 22nd century
+| style="border: 1px solid black; text-align: center;" | ... 
+
+16. 
+| colspan="7" style="border: 1px solid black; background: #aff; text-align: center;" | 20th century 
+| colspan="7" style="border: 1px solid black; background: #afa; text-align: center;" | 21st century
+| colspan="7" style="border: 1px solid black; background: #ffa; text-align: center;" | 22nd century
+| colspan=2 style="border: 1px solid black; text-align: center;" | ... 
+
+17. 
+{{short description|Unit of time lasting 100 years}}
+{{redirect-multi|2|Centuries|Centenary||Century (disambiguation)|and|Centuries (disambiguation)|and|Centenary (disambiguation)}}
+A '''century''' is a period of 100 [[year]]s. 

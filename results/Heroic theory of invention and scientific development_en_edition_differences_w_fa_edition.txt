@@ -1,0 +1,13 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Heroic theory of invention and scientific development
+
+en edition's differences with the fa version: 
+
+
+1. 
+ A competing hypothesis ("[[multiple discovery]]") is that most inventions and scientific discoveries are made independently and simultaneously by multiple inventors and scientists. 
+
+2. 
+{{No footnotes|date=June 2011}}
+The '''heroic theory of invention and scientific development''' is the [[hypothesis]] that the principal authors of [[invention]]s and [[scientific discoveries]] are unique [[hero]]ic individuals{{spaced ndash}} "great scientists" or "geniuses"<ref>{{Cite journal|last=Epstein|first=Ralph C.|date=1926|title=Industrial Invention: Heroic, or Systematic?|journal=The Quarterly Journal of Economics|volume=40|issue=2|pages=232–272|doi=10.2307/1884619|issn=0033-5533|jstor=1884619}}</ref>. 

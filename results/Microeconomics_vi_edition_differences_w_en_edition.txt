@@ -1,0 +1,104 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Microeconomics
+
+vi edition's differences with the en version: 
+
+
+1. 
+
+= = = Static Comparison method = = =
+According to this method, the economic hypothesis of the relationship between variables must always be accompanied by the assumption [[Ceteris Paribus]] in the model. 
+
+2. 
+= = = Border Analysis Method = = =
+This is a unique method of general economics and microeconomics in particular. 
+
+3. 
+This method is also known as: Marginal Analysis method. 
+
+4. 
+
+= = Research Objectives = =
+One of the research objectives of micro-economics is the analysis [[market mechanisms]] that set out [[pricing] relative prices] between items and services and the distribution of limited resources between various uses. 
+
+5. 
+
+= = Research Methodology = =
+Research methods of Microeconomics include:
+= = = Modeling Method = = =
+#xây model. 
+
+6. 
+It is also the method of optimum economic choice because any choice must be based on a comparison between the benefits and the cost. 
+
+7. 
+* Samuelson – Education
+* Microeconomics Curriculum-Ministry of Education & Training-National Economics University-editor: PGS. 
+
+8. 
+* [[Hal Varian| Varian, Hal R.]] (1987). 
+
+9. 
+The method of a marginal analysis is used to find the optimal point (also known as the equilibrium point) of choice. 
+
+10. 
+* McGuigan, James R.; Moyer, R. 
+
+11. 
+* Smartalec Economic Discussion Board: [http://s6.invisionfree.com/SmartalEC] - Growing community for Economic discussion. 
+
+12. 
+Important sectors in microeconomics include the market under [[Asymmetrical information | Asymmetric information]], which is chosen with [[uncertainties]] and the economic application of [[Game theory]]. 
+
+13. 
+DR Vu Kim Dung
+* Microeconomics Curriculum-University of Economics-Hanoi National University <ref> {{web comments | url = http://www.slideshare.net/tohaitrieu/giao-trinh-kinh-te-vi-mo|title = microeconomics Curriculum-University of Economics} </ref>
+
+= = Read more = =
+* {{caption Book | first = Robin | last = Bade | coauthors = Michael Parkin | title = Foundations of Microeconomics | publisher = Addison Wesley Paperback 1st Edition | year = 2001}}
+* Colander, David. 
+
+14. 
+
+== Xem thêm ==
+* [[Kinh tế học vĩ mô]]
+
+== Liên kết ngoài ==
+* [http://www.amosweb.com/cgi-bin/awb_nav.pl?s=gls AmosWEB GLOSS*arama] - online economics dictionary
+* [http://www.economicswebinstitute.org/books.htm A free textbook of microeconomics, supplemented by software and data] - Key concepts of microeconomics easily explained and thoroughly criticised. 
+
+15. 
+
+= = Platform for majors of economics = =
+Microeconomics is the foundation for many majors of economics. 
+
+16. 
+Micro economics analysis [[Market Failure | Failure of the market]], when the market does not operate efficiently, as well as describing the conditions required in theory for the [[Perfect competition]]. 
+
+17. 
+
+= = Research Scope = =
+The scope of research of microeconomics includes:
+# Fundamental arguments for economics such as [[Principle Supply-Bridge # Offer | supply]], [[Principle of supply-demand # Demand |], [[Price]], [[Market]]
+# Theories on people's behaviour [[consumers]]
+# Theory of human Behaviour [[production]]
+# Market Structure
+#:* The perfect competitive market
+#:* Competitive Market that's exclusive
+#:* The exclusive minority market
+#:* Purely Exclusive markets
+# Market Manufacturing factors: Labour-capital-resources
+# Role of government in market economy
+# Arguments on [[Exchange]], [[Economic welfare]]
+# Arguments on [[Market failure]]
+... 
+
+18. 
+{{Economics sidebar}}
+{{Business Administration}}
+
+' ' ' Micro Economics ' ' (microeconomic) or ' small-scale ' economics ' is a major subdivision of [[economics]], specializes in the study of behavior [[economics]] of the subject involved in the economy (consumers, producers) and how they interact with each other. 
+
+19. 
+Microeconomics is also a direct basis for subjects such as [[Public Economics]], [[] Welfare economics], [[International Trade]], [[Industry]], [[Economic geographic]], etc. 

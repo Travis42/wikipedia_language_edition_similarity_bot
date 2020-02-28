@@ -1,0 +1,47 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Codicology
+
+en edition's differences with the es version: 
+
+
+1. 
+ 
+
+While the term "Manuscript Studies" is a broader term of disciplines studying manuscripts, including [[Palaeography]] and other fields of study. 
+
+2. 
+
+There are no clear-cut definitions: some codicologists say that their field encompasses [[palaeography]], the study of handwriting, while some palaeographers say that their field encompasses codicology. 
+
+3. 
+
+== See also ==
+*[[Manuscriptology|Manusciptology]]
+*[[Palaeography]]
+*[[Fragmentology (manuscripts)]]
+*[[Textual scholarship]]
+
+== External links ==
+*[https://web.archive.org/web/20110218052112/http://cdi.uvm.edu/collections/getCollection.xql?pid=manuscripts&title=Medieval%20and%20Renaissance%20Manuscripts Medieval and Renaissance Manuscripts, 12th–17th centuries, Center for Digital Initiatives, University of Vermont Libraries]
+
+{{Historiography}}
+{{Authority control}}
+
+[[Category:Writing]]
+[[Category:Manuscripts]]
+[[Category:Art history]]
+[[Category:Palaeography]]
+[[Category:Textual criticism]]
+[[Category:Textual scholarship]]
+
+
+{{writingsystem-stub}}
+{{philology-stub}}. 
+
+4. 
+* [https://web.archive.org/web/20060206235537/http://cgi-host.uni-marburg.de/~mrep/index_mrep.html 'Marburger Repertorium] of German manuscripts in the 13th and 14th century, Philipps-Universität Marburg (descriptive catalog) (not included are solitary documents and minimal inscriptions in Latin Manuscripts). 
+
+5. 
+
+By a close examination of the physical attributes of a book, it is sometimes possible to establish the history and provenance of a book, or to match up long-separated elements originally from the same book. 

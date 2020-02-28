@@ -1,0 +1,36 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Microhistory
+
+en edition's differences with the ja version: 
+
+
+1. 
+ The individuals microhistorical works are concerned with are frequently those Robert Tristano describes as "little people", especially those considered heretics.{{sfn|Tristano|1996|p=26-27}}
+
+Carlo Ginzburg has written that a core principle of microhistory is making obstacles in sources, such as [[lacuna (manuscripts)|lacunae]], part of the historical account.{{sfn|Ginzburg|Tedeschi|Tedeschi|1993|p=28}} Relatedly, Levi has said that the point of view of the researcher becomes part of the account in microhistory.{{sfn|Burke|1991|page=106}} Other notable aspects of microhistory as a historical approach are an interest in the interaction of elite and popular culture,{{sfn|Tristano|1996|p=28}} and an interest in the interaction between micro- and macro-levels of history.{{sfn|Tristano|1996|p=27}}
+
+==See also==
+* [[Alltagsgeschichte]]
+* [[English local history]]
+* [[People's history|History from below]]
+* [[:Category:Microhistorians]]
+* [[Macrohistory]]
+
+===Notable microhistorians===
+{{div col|colwidth=22em}}
+*{{Interlanguage link multi|Jaroslav Čechura|cs|3=Jaroslav Čechura}}
+*[[Wolfgang Behringer]]
+*[[Simona Cerutti]]
+*[[Alain Corbin]]
+*[[John J. 
+
+2. 
+
+==Origins==
+Microhistory became popular in Italy in the 1970s.{{sfn|Tristano|1996|p=26}} According to [[Giovanni Levi]], one of the pioneers of the approach, it began as a reaction to a perceived crisis in existing historiographical approaches.{{sfn|Burke|1991|page=93-94}} [[Carlo Ginzburg]], another of microhistory's founders, has written that he first heard the term used around 1977, and soon afterwards began to work with Levi and [[Simona Cerutti]] on ''Microstorie'', a series of microhistorical works.{{sfn|Ginzburg|Tedeschi|Tedeschi|1993|p=10}}
+
+The word "microhistory" dates back to 1959, when the American historian [[George R. 
+
+3. 
+In its ambition, however, microhistory can be distinguished from a simple [[case study]] insofar as microhistory aspires to "[ask] large questions in small places", to use the definition given by Charles Joyner.<ref>Joyner, C. 

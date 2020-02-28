@@ -1,0 +1,22 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Annals
+
+en edition's differences with the es version: 
+
+
+1. 
+Eccl.]]'', 7.</ref> Following the [[First Council of Nicaea|325 Council of Nicaea]], [[Easter tables]] began to be drawn up according to [[computus|various methods of computing Easter]], often running from the [[Passion of Christ|Passion]] until decades or centuries into the future. 
+
+2. 
+
+It is also applied to various [[periodicals]], particularly [[peer-reviewed journal]]s in the [[sciences]], after the model of [[Antoine Lavoisier|Lavoisier]]'s ''[[Annales de chimie et de physique]]''. 
+
+3. 
+Beginning in [[Irish monasticism|Ireland]], Wales, and England in the 7th century, monks began to briefly note important events of the year as [[marginalia]] in these tables.{{sfnp|EB|1911}} Thereafter the compilation of annals became by and large a monastic activity, with the earliest recorded monastic annals being compiled in Ireland and known as the ''[[Chronicle of Ireland]]''.{{sfnp|Flechner|2013|pp=422&nbsp;ff}}  Not all early annalistic texts, however, were monastic, and some in fact were made under royal patronage. 
+
+4. 
+Cicero states that, from the [[Roman Republic|founding of the Republic]] down to the pontificate of [[Publius Mucius Scaevola]] ({{circa|lk=no|132}}&nbsp;{{sc|bc}}), it was usual for the [[pontifex maximus]] to record the name of the magistrates and the noteworthy events of each year on a white tablet (an {{lang|la|album}}), which was exhibited in an open place at his house so that the people might read it.{{sfnp|EB|1878}} Servius states the events were written for each day.{{refn|group=n|{{lang-la|per singulos dies}}.<ref name=server/>}} In the late Republic, these were known as the {{lang|la|[[Annales Maximi]]}}.{{sfnp|EB|1878}} After the pontificate of Publius, annals were compiled by various unofficial writers, of whom Cicero names [[Cato the elder|Cato]], [[Pictor]], and [[Piso]].{{sfnp|EB|1878}} These annals have been generally regarded as the same with the {{lang|la|[[Commentarii Pontificum]]}} cited by [[Livy]], but there seems reason to believe that the two were distinct, with the {{lang|la|Commentarii}} being fuller and more circumstantial.{{sfnp|EB|1878}} Verrius Flaccus's division of genres is borne out in the common division of Tacitus's works into ''[[Annals (Tacitus)|Annals]]'' and ''[[Histories (Tacitus)|Histories]]'',{{sfnp|EB|1878}} although he did not use those titles to refer to his own works. 
+
+5. 
+Other examples of insular annals, written under various kinds of patronage, include the ''[[Annals of the Four Masters]]'', the ''[[Annals of Ulster]]'', the ''[[Annals of Innisfallen]]'', and the ''[[Annals of Wales]]'' ({{lang|la|Annales Cambriae}}). 

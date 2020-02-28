@@ -1,0 +1,25 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Imaginary time
+
+es edition's differences with the en version: 
+
+
+1. 
+
+[[Stephen Hawking]] proposed that [[space-time]] itself should be curved into a five-dimensional universe, which would allow the theoretical limitations of [general relativity] to be avoided when faced with the [[space-time singularity]] of [[space-time]], such as the Big Bang itself. 
+
+2. 
+
+See also
+* [[Hartle-Hawking State]]
+* [[Eukydedea Quantum Gravity]]
+* [[Quantum Mechanics]]
+* [[General Relativity]]
+* [[Theoretical Physical]]
+
+Bibliography
+"Listaref"
+
+"Authority Control"
+[[Category:Quantum Gravity]]. 

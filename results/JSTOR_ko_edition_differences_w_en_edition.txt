@@ -1,0 +1,62 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+JSTOR
+
+ko edition's differences with the en version: 
+
+
+1. 
+{Information on the website
+| Name = JSTOR
+| Favicon = 
+| Logo = 
+| Logo size = 
+| Logo description = 
+| Figure = 
+| Figure size = 
+| collapsible = 
+| collapsetext = 
+| Description = 
+| url = {URL|http://www.jstor.org}}
+| Slogan = 
+| Clever = No
+| Type = [Electronic Library]]
+| Registration = 
+| Language = [[English]]
+| Number of users = 
+| Content licensing = 
+| Programming language = 
+| Owner = Ithaka Harbors<ref name="About Ithaka"}{Web Citation=Language=en|url=http://www.ithaka.org/about-ithaka_title=Aboutpublisher=Ithaka _date access=2009-10-25}</ref>
+| Creator = Andrew W. 
+
+2. 
+== Footnote ==
+{}}
+
+== External link ==
+* {{languagelink_en}} {official website,http://www.jstor.org/}}
+
+{[Stubl's Website]}
+
+[Classification: Education Publisher]]
+[Classification: Academic Publication]]
+[Classification: Electronic Library]]
+[Classification: Surge Database]]
+[Classification: Founded in 1995]]
+[Classification: Online Database]]. 
+
+3. 
+Mellon Foundation
+| Editor = 
+| Start date = 1995
+| Revenue = 
+| Alexa = ={decrease}2,658 ({as of 2014|4|April 2014})<ref name="alexa"},{web quote=en|url= http://www.alexa.com/siteinfo/jstor.org=Jstor.org Site Info | publisher= [Alexa],2015-01-17}</ref>
+| ip = 
+| Current state = 
+| Footnote = 
+}}
+"JSTOR" (JSTORE) was founded in 1995. 
+
+4. 
+=== Response to demand for expanding access
+American jurist Lawrence Lesig asked how much he could convert JSTOR to [Open Access]. 

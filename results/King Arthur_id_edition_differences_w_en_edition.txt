@@ -1,0 +1,18 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+King Arthur
+
+id edition's differences with the en version: 
+
+
+1. 
+
+== Pranala luar ==
+{{Commons category| King Arthur}}
+* {{citation|url= http://www.blaenau-gwent.gov.uk/8035.asp |chapter= Arthurian Gwent |title= Blaenau Gwent Borough County Council |accessdate=2008-05-22}}. 
+
+2. 
+* {{citation|url= http://www.heroicage.org/ |title= The Heroic Age: A Journal of Early Medieval Northwestern Europe |issn= 1526-1827 |accessdate=2008-05-22|publisher= [[The Heroic Age (journal)| The Heroic Age]]}}. 
+
+3. 
+* {{citation|url= http://www.arthuriana.co.uk |title= Arthurian Resources: King Arthur, History and the Welsh Arthurian Legends |accessdate=2008-05-22}}. 

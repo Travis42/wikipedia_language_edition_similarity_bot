@@ -1,0 +1,79 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Gravitational time dilation
+
+en edition's differences with the ar version: 
+
+
+1. 
+If the other, remote light eventually intercepts the first observer, it too will be measured at ''c'' by the first observer. 
+
+2. 
+There is no violation of the constancy of the speed of light here, as any observer observing the speed of photons in their region will find the speed of those photons to be ''c'', while the speed at which we observe light travel finite distances in the vicinity of the Sun will differ from ''c''. 
+
+3. 
+
+For simplicity, in a [[Rindler coordinates|Rindler's family of observers]] in a [[Minkowski space|flat space-time]], the dependence would be
+
+: <math>g(h) = c^2/(H+h)</math><!-- please, check the sign: I am lazy to investigate whether it would be positive or negative -->
+
+with constant <math>H</math>, which yields
+
+: <math>T_d(h) = e^{\ln (H+h) - \ln H} = \tfrac{H+h}H</math>. 
+
+4. 
+In [[general relativity]], it is considered to be a difference in the passage of [[proper time]] at different positions as described by a [[metric tensor (general relativity)|metric tensor]] of space-time. 
+
+5. 
+Additionally, all physical phenomena in similar circumstances undergo time dilation equally according to the [[equivalence principle]] used in [[General relativity|the general theory of relativity]]. 
+
+6. 
+Relative to Earth's age in billions of years, Earth's core is effectively 2.5 years younger than its surface.<ref>{{cite journal |title= The young centre of the Earth |journal= European Journal of Physics |volume= 37 |issue= 3 |date= 2016 |page= 035602 |doi= 10.1088/0143-0807/37/3/035602 |first1= U I |last1= Uggerhøj |first2= R E |last2= Mikkelsen |first3= J |last3= Faye  |arxiv= 1604.05507 |bibcode= 2016EJPh...37c5602U }}</ref> Demonstrating larger effects would require greater distances from the Earth or a larger gravitational source. 
+
+7. 
+For example, considered over the total time-span of Earth (4.6 billion years), a clock set in a geostationary position at the height of 9000 meters over the sea level would be about 39 hours ahead of a clock set at sea level.<ref>{{cite book |title=From Atoms to Galaxies: A Conceptual Physics Approach to Scientific Awareness |first1=Sadri |last1=Hassani |publisher=CRC Press |year=2011 |isbn=978-1-4398-0850-4 |page=433 |url=https://books.google.com/books?id=oypZ_a9pqdsC&pg=PA433}} [https://books.google.com/books?id=oypZ_a9pqdsC&pg=PA433 Extract of page 433]</ref><ref>{{cite book |title=How Einstein Created Relativity out of Physics and Astronomy |edition=illustrated |first1=David |last1=Topper |publisher=Springer Science & Business Media |year=2012 |isbn=978-1-4614-4781-8 |page=118 |url=https://books.google.com/books?id=2U6qvi5TlE4C}} [https://books.google.com/books?id=2U6qvi5TlE4C&pg=PA118 Extract of page 118]</ref> This is because gravitational time dilation is manifested in accelerated [[Frame of reference|frames of reference]] or, by virtue of the [[equivalence principle]], in the gravitational field of massive objects.<ref>[https://books.google.com/books?id=MBjkuQAoyZIC&pg=PA28 John A. 
+
+8. 
+A [[Shapiro effect|time delay]] can be measured for photons which are emitted from Earth, bend near the Sun, travel to Venus, and then return to Earth along a similar path. 
+
+9. 
+To illustrate then, without accounting for the effects of rotation, proximity to Earth's gravitational well will cause a clock on the planet's surface to accumulate around 0.0219 fewer seconds over a period of one year than would a distant observer's clock. 
+
+10. 
+Einstein, "Über das Relativitätsprinzip und die aus demselben gezogenen Folgerungen", Jahrbuch der Radioaktivität und Elektronik 4, 411–462 (1907); English translation, in "On the relativity principle and the conclusions drawn from it", in "The Collected Papers", v.2, 433–484 (1989); also in H M Schwartz, "Einstein's comprehensive 1907 essay on relativity, part I", American Journal of Physics vol.45,no.6 (1977) pp.512–517; Part II in American Journal of Physics vol.45 no.9 (1977), pp.811–817; Part III in American Journal of Physics vol.45 no.10 (1977), pp.899–902, see [http://hermes.ffn.ub.es/luisnavarro/nuevo_maletin/Einstein_1907_Jahrbuch.pdf parts I, II and III].</ref> as a consequence of [[special relativity]] in accelerated frames of reference. 
+
+11. 
+The lower the [[gravitational potential]] (the closer the clock is from the source of gravitation), the slower time passes, speeding up as the gravitational potential increases (the clock getting away from the source of gravitation). 
+
+12. 
+* If an observer is able to track the light in a remote, distant locale which intercepts a remote, time dilated observer nearer to a more massive body, that first observer tracks that both the remote light and that remote time dilated observer have a slower time clock than other light which is coming to the first observer at ''c'', like all other light the first observer ''really'' can observe (at their own location). 
+
+13. 
+
+==Definition==
+[[Clock]]s that are far from massive bodies (or at higher gravitational potentials) run more quickly, and clocks close to massive bodies (or at lower gravitational potentials) run more slowly. 
+
+14. 
+Auping, ''Proceedings of the International Conference on Two Cosmological Models''], Plaza y Valdes, {{ISBN|9786074025309}}</ref>
+
+According to general relativity, [[Mass#Inertial mass|inertial mass]] and [[gravitational mass]] are the same, and all accelerated reference frames (such as a [[Born coordinates|uniformly rotating reference frame]] with its proper time dilation) are physically equivalent to a gravitational field of the same strength.<ref>[http://www.cathodixx.com/pdfs/RELATIVITY.pdf Johan F Prins, ''On Einstein's Non-Simultaneity, Length-Contraction and Time-Dilation'']</ref>
+
+Consider a family of observers along a straight "vertical" line, each of whom experiences a distinct constant [[g-force]] directed along this line (e.g., a long accelerating spacecraft<ref>{{cite book |title=Introduction to Relativity: For Physicists and Astronomers |edition=illustrated |first1=John B. 
+
+15. 
+The equation is
+
+:<math>t_0 = t_f \sqrt{1 - \frac{2GM}{rc^2}} = t_f \sqrt{1 - \frac{r_s}{r}} </math>
+
+where
+
+* <math>t_0</math> is the proper time between events A and B for a slow-ticking observer within the gravitational field,
+* <math>t_f</math> is the coordinate time between events A and B for a fast-ticking observer at an arbitrarily large distance from the massive object (this assumes the fast-ticking observer is using [[Schwarzschild coordinates]], a coordinate system where a clock at infinite distance from the massive sphere would tick at one second per second of coordinate time, while closer clocks would tick at less than that rate),
+* <math>G</math> is the [[gravitational constant]],
+* <math>M</math> is the [[mass]] of the object creating the gravitational field,
+* <math>r</math> is the radial coordinate of the observer (which is analogous to the classical distance from the center of the object, but is actually a Schwarzschild coordinate),
+* <math>c</math> is the [[speed of light]], and
+* <math>r_s = 2GM/c^2</math> is the [[Schwarzschild radius]] of <math>M</math>. 
+
+16. 
+The clocks aboard the airplanes were slightly faster than clocks on the ground. 

@@ -1,5 +1,0 @@
-Cuckoo clock
-ru edition's differences with the en version: 
-0.0141662
-
-The voice mechanism, installed in almost every cuckoo clock, appeared by the middle of the 18th century and has remained almost unchanged to this day

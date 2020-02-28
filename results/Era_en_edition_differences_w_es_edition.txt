@@ -1,0 +1,64 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Era
+
+en edition's differences with the es version: 
+
+
+1. 
+ [[Anno mundi]] ("year of the world") refers to a group of calendar eras based on a [[Dating creation|calculation of the age of the world]], assuming it was created as described in the [[Book of Genesis]]. 
+
+2. 
+
+==Use in chronology==
+In [[chronology]], an '''era''' is the highest level for the organization of the measurement of [[time]]. 
+
+3. 
+
+==See also==
+*[[Periodization]]
+*[[List of time periods]]
+*[[List of archaeological periods]]
+
+== References ==
+{{Reflist}}
+
+{{Chronology}}
+
+{{Authority control}}
+{{Use dmy dates|date=August 2019}}
+
+
+[[Category:Chronology]]
+[[Category:Units of time]]. 
+
+4. 
+
+===Calendar eras===
+{{main|Calendar era}}
+Calendar eras count the years since a particular date (epoch), often one with religious significance. 
+
+5. 
+
+For a time ranging from 1872 to the [[World War II|Second World War]], the Japanese used the imperial year system (''kōki''), counting from the year when the legendary [[Emperor Jimmu]] founded Japan which occurred in 660 BC. 
+
+6. 
+ In Jewish religious contexts one of the versions is still used, and many [[Eastern Orthodox]] religious calendars used another version until 1728. 
+
+7. 
+
+===Regnal eras===
+{{main|Regnal year}}
+The word era also denotes the units used under a different, more arbitrary system where time is not represented as an endless continuum with a single reference year, but each unit starts counting from one again as if time starts again. 
+
+8. 
+{{Short description|Span of time defined for the purposes of chronology or historiography}}
+{{Other uses|ERA (disambiguation)}}
+{{Wiktionary|era}}
+An '''era''' is a span of time defined for the purposes of [[chronology]] or [[historiography]], as in the [[regnal era]]s in the history of a given monarchy, a [[calendar era]] used for a given [[calendar]], or the [[geological era]]s defined for the [[history of Earth]]. 
+
+9. 
+A '''[[calendar era]]''' indicates a span of many years which are numbered beginning at a specific [[epoch (reference date)|reference date (epoch)]], which often marks the origin of a political state or [[cosmology]], dynasty, ruler, the birth of a leader, or another significant historical or mythological event; it is generally called after its focus accordingly as in ''[[Victorian era]]''. 
+
+10. 
+Use of the term for more recent periods or topical history might include [[Soviet era]], and "[[:Category:History of European art music|musical eras]]" in the history of modern [[popular music]], such as the "[[Big Band|Big Band era]]", "[[Disco era]]", etc. 

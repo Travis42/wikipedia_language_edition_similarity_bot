@@ -1,5 +1,0 @@
-International Atomic Time
-vi edition's differences with the en version: 
-0.263686
-
-1 [[] atomic = time interval 9192631770 conversion between atomic energy levels [[caesium]] 133

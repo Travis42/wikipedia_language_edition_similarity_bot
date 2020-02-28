@@ -1,0 +1,21 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Accounting period
+
+uk edition's differences with the en version: 
+
+
+1. 
+
+There are reporting and [[Tax period | taxation]] periods, but in the current tax legislation of Ukraine, these concepts are identified. 
+
+2. 
+
+The reporting period includes the tax period and the legislatively established term for the filing and submission [[Tax statements | Tax reporting]]. 
+
+3. 
+' ' Reporting period (tax) ' ' — the period for which [[tax payer]] is obliged to carry out tax calculations and pay it to the budget. 
+
+4. 
+
+The tax period is the period during which [[tax base]] is being formed and the economic activity is being conducted. 

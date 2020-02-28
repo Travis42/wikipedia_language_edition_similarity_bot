@@ -1,0 +1,1157 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"visi",
+				"visited_topics〔variable〕"
+			],
+			[
+				"to",
+				"total_time_steps"
+			],
+			[
+				"plot",
+				"plot_organism〔function〕"
+			],
+			[
+				"emp",
+				"emp_1\tstatement"
+			],
+			[
+				"tearDown",
+				"tearDownClass\tfunction"
+			],
+			[
+				"asser",
+				"assertEqual\tfunction"
+			],
+			[
+				"file",
+				"filename\tforstmt"
+			],
+			[
+				"date",
+				"datetime.strptime"
+			],
+			[
+				"gets",
+				"getSquadron"
+			],
+			[
+				"new",
+				"new_unique"
+			],
+			[
+				"g",
+				"getSquadron"
+			],
+			[
+				"MX_",
+				"MX_turn_changes\tstatement"
+			],
+			[
+				"ge",
+				"getMXturn"
+			],
+			[
+				"chang",
+				"changeMXturn"
+			],
+			[
+				"cha",
+				"changeMXturn"
+			],
+			[
+				"time",
+				"timedelta\tclass"
+			],
+			[
+				"get",
+				"getMXturn\tfunction"
+			],
+			[
+				"getMX",
+				"getMXfront"
+			],
+			[
+				"all",
+				"allocate"
+			],
+			[
+				"true",
+				"true_tally\tstatement"
+			],
+			[
+				"sortie",
+				"sortie_scheds\tstatement"
+			],
+			[
+				"unique",
+				"unique_scheds\tstatement"
+			],
+			[
+				"uni",
+				"uniquescheds\tstatement"
+			],
+			[
+				"sorte",
+				"sortie_scheds\tstatement"
+			],
+			[
+				"mod",
+				"modified_sorties"
+			],
+			[
+				"getT",
+				"getTakeoff"
+			],
+			[
+				"tota",
+				"total_mins"
+			],
+			[
+				"total",
+				"total_seconds"
+			],
+			[
+				"tansi",
+				"transit_time"
+			],
+			[
+				"blocked",
+				"blocked_times"
+			],
+			[
+				"la",
+				"getLanding\tfunction"
+			],
+			[
+				"MX",
+				"MXturn\tparam"
+			],
+			[
+				"a",
+				"airspace_schedule\tstatement"
+			],
+			[
+				"getVu",
+				"getVulduration\tfunction"
+			],
+			[
+				"trani",
+				"transit_time\tparam"
+			],
+			[
+				"getVul",
+				"getVulend\tfunction"
+			],
+			[
+				"getv",
+				"getVulstart\tfunction"
+			],
+			[
+				"changeVul",
+				"changeVulend"
+			],
+			[
+				"getV",
+				"getVulstart\tfunction"
+			],
+			[
+				"vul",
+				"vulend\tstatement"
+			],
+			[
+				"exi",
+				"existingVuls\tparam"
+			],
+			[
+				"re",
+				"replace"
+			],
+			[
+				"fl",
+				"floor"
+			],
+			[
+				"m",
+				"minutes"
+			],
+			[
+				"Sort",
+				"sortielist\tparam"
+			],
+			[
+				"check",
+				"checkOverlap"
+			],
+			[
+				"sort",
+				"sortielist\tparam"
+			],
+			[
+				"tim",
+				"timechop\tfunction"
+			],
+			[
+				"int",
+				"int\tclass"
+			],
+			[
+				"take",
+				"takeoff"
+			],
+			[
+				"air",
+				"airspace"
+			],
+			[
+				"transit",
+				"transit_time"
+			],
+			[
+				"Get",
+				"getTakeoff"
+			],
+			[
+				"O",
+				"object"
+			],
+			[
+				"while",
+				"while\twhile continue break"
+			],
+			[
+				"pun",
+				"punctuation()\tstring"
+			],
+			[
+				"r",
+				"random"
+			],
+			[
+				"rand",
+				"randint\tstatement"
+			],
+			[
+				"web",
+				"webbrowser\tmodule"
+			],
+			[
+				"de",
+				"deque\tclass"
+			],
+			[
+				"sub",
+				"PIPE\tsubprocess"
+			],
+			[
+				"for",
+				"for\tkeyword"
+			],
+			[
+				"you",
+				"youtube"
+			],
+			[
+				"good",
+				"goodreads"
+			],
+			[
+				"Pl",
+				"Plugin"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 2238,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "compare_sentences.py",
+			"settings":
+			{
+				"buffer_size": 5687,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config.cnf",
+			"settings":
+			{
+				"buffer_size": 326,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "compare_docs.py",
+			"settings":
+			{
+				"buffer_size": 4610,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "project_log.md",
+			"settings":
+			{
+				"buffer_size": 13252,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "utils.py",
+			"settings":
+			{
+				"buffer_size": 5078,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "get_articles.py",
+			"settings":
+			{
+				"buffer_size": 2711,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "translate.py",
+			"settings":
+			{
+				"buffer_size": 2182,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "datastore.py",
+			"settings":
+			{
+				"buffer_size": 6901,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "send_log.py",
+			"settings":
+			{
+				"buffer_size": 764,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 172.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"search",
+				"File: Search Files"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"removie",
+				"Package Control: Remove Repository"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"repl",
+				"SublimeREPL: Clojure"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"latex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"remoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"packagere",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"snippets",
+				"Snippet: self"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"make sn",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"snipp",
+				"Snippet: for loop"
+			],
+			[
+				"stack",
+				"Stack Overflow Snippets"
+			],
+			[
+				"stac",
+				"Stack Overflow Snippets"
+			],
+			[
+				"sta",
+				"Stack Overflow Snippets"
+			],
+			[
+				"snippet",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"indent",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdwon",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"sublime",
+				"Build With: sublimerepl_build_system_hack"
+			],
+			[
+				"python",
+				"Anaconda: Set Python interpreter"
+			],
+			[
+				"snip",
+				"Snippet: Try/Except/Else"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			]
+		],
+		"width": 493.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/t42/Documents/programming/Projects/PivotalTrackerSimilarity/tfidf.py",
+		"/home/t42/Documents/programming/Projects/wikiscripts/mine/wikipedia_language_entry_similarity_bot/Project log.md",
+		"/home/t42/Documents/programming/Projects/Main_Goal_Today/main_goal.py",
+		"/home/t42/Documents/programming/Projects/wikiscripts/mine/wikipedia_language_entry_similarity_bot/example_pywikibot_actions.py",
+		"/home/t42/Documents/programming/Projects/wikiscripts/wikipedia robot scripts, stock/editarticle.py",
+		"/home/t42/Documents/programming/Projects/wikiscripts/wikipedia robot scripts, stock/followlive.py",
+		"/home/t42/Documents/programming/Projects/pywikibot/user-config.py",
+		"/home/t42/Documents/programming/Projects/wikiscripts/wikipedia robot scripts, stock/watchlist.py",
+		"/home/t42/Documents/programming/Projects/wikiscripts/wikipedia robot scripts, stock/revertbot.py",
+		"/home/t42/Documents/programming/Projects/wikiscripts/wikipedia robot scripts, stock/piper.py",
+		"/home/t42/Documents/programming/Projects/wikiscripts/wikipedia robot scripts, stock/patrol.py",
+		"/home/t42/Documents/programming/Projects/wikiscripts/wikipedia robot scripts, stock/basic.py",
+		"/home/t42/Documents/programming/Projects/wikiscripts/mine/wikipedia_language_entry_similarity_bot/config.cnf",
+		"/home/t42/Documents/programming/Projects/wikiscripts/mine/wikipedia_language_entry_similarity_bot/language_similarity.py",
+		"/home/t42/Documents/programming/headfirst_python/ch10/webapp/cgi-bin/initDBtables.py",
+		"/home/t42/Documents/programming/headfirst_python/ch10/webapp/cgi-bin/createDBtables.py",
+		"/home/t42/Documents/programming/headfirst_python/ch10/webapp/cgi-bin/athletemodel.py",
+		"/home/t42/Documents/programming/Projects/pywikibot/scripts/listpages.py",
+		"/home/t42/Documents/programming/headfirst_python/ch7-1/webapp/cgi-bin/athletemodel.py",
+		"/home/t42/Documents/programming/headfirst_python/ch7-1/webapp/simple_httpd.py",
+		"/home/t42/Documents/programming/headfirst_python/ch9/webapp/simple_httpd.py",
+		"/home/t42/Documents/programming/clojure/playsync/src/playsync/core.clj",
+		"/home/t42/Desktop/writings/Writing Drafts/Notes for Novelty Engine project.md",
+		"/home/t42/Documents/programming/Projects/text-summarization/first_last_sentence_summary.py",
+		"/home/t42/Documents/programming/Projects/PivotalTrackerSimilarity/main.py",
+		"/home/t42/Documents/programming/Projects/wikiscripts/mine/Glass, English.txt",
+		"/home/t42/Documents/programming/Projects/wikiscripts/mine/Glass, Japanese, untranslated",
+		"/home/t42/Documents/programming/Projects/wikiscripts/mine/glass, Japanese, translated.txt",
+		"/home/t42/Documents/programming/Projects/wikiscripts/wikipedia robot scripts, stock/listpages.py",
+		"/home/t42/Documents/programming/Projects/wikiscripts/wikipedia robot scripts, stock/welcome.py",
+		"/home/t42/Documents/programming/Projects/wikiscripts/wikipedia robot scripts, stock/solve_disambiguation.py",
+		"/home/t42/Documents/programming/Projects/wikiscripts/wikipedia robot scripts, stock/shell.py",
+		"/home/t42/Documents/programming/Projects/wikiscripts/wikipedia robot scripts, stock/match_images.py",
+		"/home/t42/Documents/programming/Projects/wikiscripts/language_similarity.py",
+		"/home/t42/Desktop/temp_code",
+		"/home/t42/Documents/programming/Projects/DecisionTool/main.py",
+		"/home/t42/Documents/programming/Projects/text-summarization/pdf-textrank-summarizer.py",
+		"/home/t42/Documents/programming/Projects/Noise/noise.py",
+		"/home/t42/Documents/programming/Projects/text-summarization/pdf-textrank-summarizer-temp.py",
+		"/home/t42/Documents/programming/clojure/playsync/project.clj",
+		"/home/t42/Documents/programming/JavaScript_Practice/Conway'sGameOfLife.ts",
+		"/home/t42/Desktop/writings/Writing Drafts/Notes for Novelty Engine project",
+		"/home/t42/Documents/programming/clojure/ants/ants.clj",
+		"/home/t42/Documents/programming/clojure/practice/src/practice/celsius.clj",
+		"/home/t42/Documents/programming/Best_Notes/markdown.mdown",
+		"/home/t42/Documents/programming/Complexity_Projects/Notes on projects.mdown",
+		"/home/t42/Documents/programming/Projects/PivotalTrackerSimilarity/API_interface.py",
+		"/home/t42/Documents/programming/Best_Notes/Snippets.py",
+		"/home/t42/Documents/programming/Complexity_Projects/organism.py",
+		"/home/t42/Documents/programming/Complexity_Projects/plotting.py",
+		"/home/t42/Documents/programming/Best_Notes/listofmodules.py",
+		"/home/t42/.local/lib/python3.6/site-packages/undervolt.py",
+		"/home/t42/Desktop/Reference/kindle sync, book notes/kindle.py",
+		"/home/t42/.cache/.fr-aY5FmA/Sources/ECRAM WRITE/possibly_keyboard lights.cs",
+		"/home/t42/Documents/distros/Pi isos/headless setup/toward an install script",
+		"/home/t42/temp.txt",
+		"/home/t42/.cache/.fr-zq7t2z/Sources/MyColour COMPLETE PROJECT (use as template)/Audio/src/audiostealer.h",
+		"/home/t42/.cache/.fr-C7wC9N/Sources/MyColour COMPLETE PROJECT (use as template)/Audio/src/audiostealer.cpp",
+		"/home/t42/.cache/.fr-hl3h3S/Sources/FanBoost + MyLightBar/MyLightBar.cs",
+		"/home/t42/.cache/.fr-S57Ign/Sources/FanBoost + MyLightBar/MyFanBoost.cs",
+		"/home/t42/Documents/programming/Projects/text-summarization/finished/pdf-textrank-summarizer.py",
+		"/home/t42/Documents/programming/Projects/text-summarization/mimic.py",
+		"/home/t42/.profile",
+		"/home/t42/Downloads/node-v10.15.0-linux-x64/lib/node_modules/npm/configure",
+		"/home/t42/Documents/programming/Projects/tool_scripts/git_clone.py",
+		"/home/t42/Documents/programming/toolscripts/git_clone.py",
+		"/home/t42/Desktop/writings/Writing Drafts/prep_for_launch.sh",
+		"/home/t42/programs/docear-1.2.0.0_stable_build291/docear.sh",
+		"/media/t42/travis/load",
+		"/home/t42/Documents/programming/Julia/practice/practice.jl",
+		"/home/t42/Documents/programming/testing code how to/calc.py",
+		"/home/t42/Documents/programming/testing code how to/test_calc.py",
+		"/home/t42/Documents/programming/testing code how to/employee.py",
+		"/home/t42/Documents/programming/testing code how to/test_employee.py",
+		"/home/t42/Documents/programming/Projects/tool_scripts/file_renamer.py",
+		"/home/t42/Documents/programming/testphotos/jpgify2workingprogress.py",
+		"/home/t42/Documents/programming/testphotos/jpgify.py",
+		"/home/t42/Documents/programming/temp/percentages.py",
+		"/home/t42/Documents/programming/Julia/FFT.jl",
+		"/home/t42/Documents/programming/Projects/AFI_Link_bot/AFILinkerBot/AFILinkerBot.py",
+		"/home/t42/Documents/programming/Linear/Notes on Linear Programming.mdown",
+		"/home/t42/Documents/programming/SQL/practice.py",
+		"/home/t42/Documents/programming/SQL/SQL.markdown",
+		"/home/t42/Documents/programming/Projects/Scheds/Scheduling for Aircraft",
+		"/home/t42/Documents/programming/Projects/Scheds/Scheds1.0/mutations.py",
+		"/home/t42/Documents/programming/Projects/Scheds/Scheds1.0/analysis.py",
+		"/home/t42/Documents/programming/Projects/Scheds/Scheds1.0/gen_uniques.py",
+		"/home/t42/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/home/t42/Documents/programming/SQL/pickle.py",
+		"/home/t42/Documents/programming/SQL/tindydb.py",
+		"/home/t42/Documents/programming/databases/practice.py",
+		"/home/t42/Documents/programming/databases/tindydb.py",
+		"/home/t42/Documents/programming/ATBS/listofmodules.py",
+		"/home/t42/Documents/programming/Projects/Scheds/practice.py",
+		"/home/t42/Documents/programming/Projects/Scheds/ponypractice.py",
+		"/home/t42/Documents/programming/MITx6.00.2x/lecture9/lecture9-segment4.py",
+		"/home/t42/Documents/programming/get_sum.py",
+		"/home/t42/Documents/programming/Projects/Scheds/scheds1.0.py",
+		"/home/t42/Documents/programming/Projects/Scheds/scheds0.6.py",
+		"/home/t42/Documents/programming/Projects/Scheds/scheds0.5.py",
+		"/home/t42/Documents/programming/Projects/Scheds/scheds0.7.py",
+		"/home/t42/Documents/programming/Projects/Scheds/objects.py",
+		"/home/t42/Documents/programming/Projects/Scheds/schedsmain0.6.py",
+		"/home/t42/Documents/programming/Projects/Scheds/scheds0.6objects.py",
+		"/home/t42/Documents/programming/Projects/Scheds/Schedsmain0.6.py",
+		"/home/t42/Documents/programming/Projects/Scheds/scheds0.3.py",
+		"/home/t42/Documents/programming/MITx6.00.2x/lecture9/lecture9-segment3.py",
+		"/home/t42/Documents/programming/MITx6.00.2x/pset2, modeling a robot/ps2.py",
+		"/home/t42/Documents/programming/Projects/Scheds/scheds.py",
+		"/home/t42/Documents/programming/datetime.py",
+		"/home/t42/Documents/programming/Projects/Scheds/time.py",
+		"/home/t42/Documents/programming/Projects/Scheds/arrow.py",
+		"/home/t42/Documents/programming/MLPractice/practice.py",
+		"/home/t42/.config/sublime-text-3/Packages/User/Python.sublime-settings",
+		"/home/t42/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/t42/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/t42/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/t42/Documents/programming/MITx6.00/scrabble/ps4a.py",
+		"/home/t42/Documents/programming/ATBS/backuptozip.py",
+		"/home/t42/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/t42/Documents/programming/ATBS/brutepdfcrack.py",
+		"/home/t42/timezones.py",
+		"/home/t42/Documents/programming/Projects/NaNoPyMo/mimicry.py",
+		"/home/t42/Documents/programming/googlepythoncourse/basic/solution/mimic.py",
+		"/home/t42/Documents/programming/Projects/nano generator.py",
+		"/home/t42/Documents/programming/ATBS/makelist.py",
+		"/home/t42/Documents/programming/Projects/Timmy.py",
+		"/home/t42/.config/sublime-text-3/Packages/User/foriinrange.sublime-snippet"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tokenize",
+			"farthest_lang",
+			"title",
+			"onsen",
+			"Onsen",
+			"onsen",
+			"Onsen",
+			"onsen",
+			"Onsen",
+			"onsen",
+			"score",
+			"entry",
+			"update",
+			"select",
+			"store_nlp_to_db",
+			"get_edition_topic_tokens",
+			"get_all_titles_from_db",
+			"vec_lsi",
+			"lsi",
+			"logging",
+			"print",
+			")\n",
+			"editions",
+			"()\n",
+			"continue",
+			"en_tokens",
+			"article",
+			"articles",
+			"= ",
+			"Japanese_translated_doc",
+			"English_doc",
+			"pri_lang_content",
+			"microsoft",
+			">>>",
+			"site",
+			"\n>>> ",
+			">>>",
+			">>> ",
+			">>>",
+			"usernames",
+			"stop",
+			"summary",
+			"page",
+			"findPageNumberInPDF",
+			"getDocxText",
+			"print",
+			"getDocxText",
+			"summarizers",
+			"textrank"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								260,
+								260
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "compare_sentences.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5687,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2311,
+								2311
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 264.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "config.cnf",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 326,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								283,
+								283
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "compare_docs.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4610,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3928,
+								3928
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1386.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "project_log.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13252,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								285,
+								285
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "utils.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5078,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1092,
+								1092
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "get_articles.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2711,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2711,
+								2711
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "translate.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2182,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								367,
+								367
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "datastore.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6901,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5742,
+								5742
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2505.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "send_log.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 764,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								763,
+								763
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 122.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Anaconda Python Builder",
+	"project": "wiki-bot.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/programming/clojure/practice/clojure.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+		"markdown_live_preview_window": true
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 94.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

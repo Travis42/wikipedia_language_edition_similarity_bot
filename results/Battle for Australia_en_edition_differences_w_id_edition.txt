@@ -1,0 +1,39 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Battle for Australia
+
+en edition's differences with the id version: 
+
+
+1. 
+{{Use Australian English|date=November 2013}}	 
+{{Use dmy dates|date=November 2013}}
+{{Infobox Military Conflict
+| image = Coming South (AWM ARTV09225).jpg
+|caption = An Australian propaganda poster released in 1942. 
+
+2. 
+| conflict = Battle for Australia
+|partof = [[Second World War]] during [[Pacific War|War in the Pacific]]
+| date = February, 1942 -  2 september, 1945
+|place = [[Coral Sea]], [[New Guinea]], [[Solomon Islands]] and [[Australia]]
+| result = Allied Victory
+* End of attacks following the [[capitulation of Japan]]
+| combatant1 = {{Flag|Australia}} <br/>
+{{Flag | New Zealand}} <br/>
+{{Flag | Canada | 1921}} <br/>
+{{Flag | British Raj}} <br/>
+{{Flag | United Kingdom}} <br/>
+{{Flagcountry | US | 1912}} <br/>
+{{Flag | Norway}} <br/>
+{{Flag | Netherlands}}
+| combatant2 = {{flag|Japanese Empire}} <br/>
+{{Flag | Nazi Germany}}
+| commander1 = {{Flagdeco | Australia}} [[John Curtin]] <br/>
+{{Flagdeco | Australia}} [[Joseph Burnett]] <br/>
+{{Flagdeco | Australia}} [[David V. 
+
+3. 
+Stanley has also stated that no historian he knows believes that there was a 'Battle for Australia'.<ref name="Stanley_What_BoA?">
+{{cite web|last=Stanley|first=Peter|title=What 'Battle for Australia'?|url=http://www.abc.net.au/news/2008-09-03/32530|work=The Drum|publisher= Australian Broadcasting Corporation|accessdate=9 February 2011}}
+</ref> In a 2006 speech, Stanley argued that the concept of a Battle for Australia is invalid as the events that are considered to form the battle were only loosely related. 

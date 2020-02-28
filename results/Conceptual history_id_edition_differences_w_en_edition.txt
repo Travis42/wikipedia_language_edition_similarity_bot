@@ -1,0 +1,20 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Conceptual history
+
+id edition's differences with the en version: 
+
+
+1. 
+<ref> {{Cite Journal | year = 2014 | last1 = James | first1 = Paul | authorlink1 = Paul James (academic) | last2 = Steger | first2 = Manfred B. 
+
+2. 
+This branch assumes that [[Social history]]-also all historical reflection-must start from understanding the values and practices of historical cultures in their particular context over time, not merely as ideological or unchanging processes. 
+
+3. 
+Journal of the American Society for Information Science and Technology, 60 (8), 1519 – 1536
+* {{Cite Journal | year = 2014 | last1 = James | first1 = Paul | authorlink1 = Paul James (academic) | last2 = Steger | first2 = Manfred B. 
+
+4. 
+
+His interest in conceptual history grew rapidly in the 20th century through the publication of the Historisches Wörterbuch der Philosophie, the Geschichtliche Grundbegriffe ' ' and the journal, and the journal [[Archiv für Begriffsgeschichte]]. 

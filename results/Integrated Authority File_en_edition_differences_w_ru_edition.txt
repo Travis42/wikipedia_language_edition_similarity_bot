@@ -1,0 +1,72 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Integrated Authority File
+
+en edition's differences with the ru version: 
+
+
+1. 
+| image_alt     = 
+| acronym       = GND
+| number        = 
+| start_date    = {{Start date|2012|04|05|df=yes}}
+| organisation  = [[German National Library|DNB]]
+| digits        = 
+| check_digit   = 
+| example       = [http://d-nb.info/gnd/7749153-1 7749153-1]
+| website       = {{Official URL}}
+}}
+The '''Integrated Authority File''' ({{lang-de|Gemeinsame Normdatei}}; also known as the ''Universal Authority File'') or '''GND''' is an international [[authority file]] for the organisation of personal names, subject headings and corporate bodies from [[Library catalog|catalogues]]. 
+
+2. 
+It also comprises an [[ontology (computer science)|ontology]] intended for [[knowledge representation]] in the [[semantic web]], available in the [[Resource Description Framework|RDF]] format.<ref>[http://d-nb.info/standards/elementset/gnd GND Ontology – Namespace Document] {{webarchive|url=https://web.archive.org/web/20130103070757/http://d-nb.info/standards/elementset/gnd |date=2013-01-03}}, version 2012-06-30.</ref>
+
+The Integrated Authority File became operational in April 2012 and integrates the content of the following authority files, which have since been discontinued:
+* [[Name Authority File]] ({{lang-de|Personennamendatei|links=no}}; PND)
+* [[Corporate Bodies Authority File]] ({{lang-de|Gemeinsame Körperschaftsdatei|links=no}}; GKD)
+* [[Subject Headings Authority File]] ({{lang-de|Schlagwortnormdatei|links=no}}; SWD)
+* Uniform Title File of the Deutsches Musikarchiv ({{lang-de|Einheitssachtitel-Datei des Deutschen Musikarchivs|links=no}}; DMA-EST)
+
+At the time of its introduction on 5 April 2012, the GND held 9,493,860 files, including 2,650,000 personalised names. 
+
+3. 
+English (translation)
+|- class="hintergrundfarbe5"
+| '''p''' || Person ({{lang|de|individualisiert}}) || person (individualised)
+|- class="hintergrundfarbe5"
+| '''n''' || Name ({{lang|de|nicht individualisiert}}) || name (not individualised)
+|- 
+| '''k''' || {{lang|de|Körperschaft}} || corporate body
+|- 
+| '''v''' || {{lang|de|Veranstaltung}} || event
+|-
+| '''w''' || {{lang|de|Werk}} || work
+|- 
+| '''s''' || {{lang|de|Sachbegriff}} || topical term
+|- 
+| '''g''' || {{lang|de|Geografikum}} || geographical place name
+|}
+
+==See also==
+<!-- * [[Library of Congress Name Authority File]] --> 
+* [[LIBRIS]]
+* [[Virtual International Authority File]]
+<!-- * [[Web NDL Authorities]] -->
+
+==References==
+{{reflist}}
+
+==External links==
+{{Wikidata property|P227}}
+* [http://www.dnb.de/EN/gnd Information pages about the GND] from the German National Library
+* [http://swb.bsz-bw.de/DB=2.104/SET=4/TTL=1/LNG=EN/START_WELCOME?retrace=0 Search via OGND] ({{lang|de|Bibliotheksservice-Zentrum Baden-Württemberg}})
+* [http://www.dnb.de/SharedDocs/Downloads/DE/DNB/service/rundschreibenBereitstellungGNDGrundbestand.pdf?__blob=publicationFile Bereitstellung des ersten GND-Grundbestandes] DNB, 19 April 2012
+* [https://web.archive.org/web/20160303184551/http://connect.ala.org/files/ALA_MFIG_Heuvelmann.pdf From Authority Control to Linked Authority Data] Presentation given by Reinhold Heuvelmann (German National Library) to the ALA MARC Formats Interest Group, June 2012
+
+{{Authority files}}
+{{Authority control}}
+
+[[Category:Computer-related introductions in 2012]]
+[[Category:Library cataloging and classification]]
+[[Category:Unique identifiers]]
+[[Category:Creative Commons-licensed databases]]. 

@@ -1,0 +1,31 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Digital object identifier
+
+ko edition's differences with the en version: 
+
+
+1. 
+
+View like == ==
+* [[International Organization for Standardization]]
+* [[[XRI]]
+* [[[Viv code]]
+
+== Footnote ==
+{}}
+
+== External link ==
+{{Wikidata Properties| P356} }
+* {{language link}} {official website}
+* {{LanguageLink_en}} [http://www.doi.org/factsheets/DOIIdentifierSpecs.html Factsheet: DOI System and Internet Identifier Specifications]
+
+{ISO standard}}
+{Transfer control}}
+{[Stubl]}
+
+[[classification: electronic document]]
+[[classification:identifier]]. 
+
+2. 
+<ref name = "iso">{web citation | url = https://www.iso.org/obp/ui/#iso:std:iso:26324:ed-1:v1:en | title = ISO 26324:2012 (en), Information and documentation — Digital object identifier system | publisher = [ISO]| date = = accessdate = 2016-04-20}</ref> [[[[[[[[HTTP]Address] is a permanently granted [identifier] to [[[[[[[[[[[[[[[[document]] or internet document permanently granted to the [[[[[[[[[[[[[[[[http://]. 

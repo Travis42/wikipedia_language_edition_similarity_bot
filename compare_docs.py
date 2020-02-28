@@ -8,7 +8,6 @@ from nltk.corpus import stopwords
 
 from collections import defaultdict, namedtuple
 from copy import deepcopy
-import logging
 import re
 import string
 import sys
@@ -68,7 +67,7 @@ def similarity(documents_list, comparison="lsa"):
     # return similarities least to most
     #sims = sorted(enumerate(sims), key=lambda x: x[1])
 
-    return sims
+    return list(sims)
 
 
 def compare_docs(topic):
@@ -77,7 +76,7 @@ def compare_docs(topic):
 
     # add in English
     documents.insert(0, topic['content'])
-    logging.info('There are this many documents', len(documents))
+    print('There are this many documents', len(documents))
 
     # Tokenize
     tokenized_texts = [tokenize(doc) for doc in documents]
@@ -97,7 +96,7 @@ def compare_docs(topic):
     # add back to topic:
     topic['tokens'] =  ' '.join(tokenized_texts.pop())
     assert len(topic['tokens']) != 0
-    logging.info('LSA score: ', LSA_score)
+    print('LSA score: ', LSA_score)
     LSA_score.pop()
     for k, v in topic['language'].items():
         v['tokens'] = ' '.join(tokenized_texts.pop())
@@ -120,7 +119,10 @@ def batch_similarity_processing():
         tokens_and_langs = datastore.get_edition_topic_tokens(title[0])
         if len(tokens_and_langs) < 2:
             continue
-        tokens = [token[0].split(' ') for token in tokens_and_langs]
+        try:
+            tokens = [token[0].split(' ') for token in tokens_and_langs]
+        except AttributeError:
+            continue
         scores = similarity(tokens, compare)[1:] # get rid of English
         try:
             langs = [lang[1] for lang in tokens_and_langs][1:]

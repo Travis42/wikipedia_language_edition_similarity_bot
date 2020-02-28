@@ -1,0 +1,78 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Fritz Fischer
+
+ar edition's differences with the en version: 
+
+
+1. 
+{{{{{1908|1999}) is a modern-day historian, [historian], [professor]university professor, and [engineer] German, born in [Ludwigsstadt|Ludwigs]{<ref>{<ref>
+|Work =[[Integrated Bass File]
+|Path = https://d-nb.info/gnd/118533282
+|Address = Integrated Based File ID
+|Arrival Date = December 10, 2014
+{Http://web.archive.org/web/201912100800034/https://d-nb.info/gnd/118533282|Archive history=2019-12-10}</ref>, was a member of [The Nazi Party], and was a member of [[Battalion] Storm, died in [Hamburg] <ref>
+|Work =[[Integrated Bass File]
+|Path = https://d-nb.info/gnd/118533282
+|Address = Integrated Based File ID
+|Arrival Date = December 30, 2014
+|Archive Path= https://web.archive.org/web/20191210080034/https://d-nb.info/gnd/118533282|Archive History=2019-12-10}</ref>, at about 91 years old. 
+
+2. 
+== Education ==
+He studied at [University of Erlengen Nuremberg], and [Humboldt University in Berlin]. 
+
+3. 
+{{{3=Fritz Fischer}}
+{{More Sources|Date=January 2019}}
+{{Someone's information box
+| Name =
+| Original name =
+| Photo =
+| Image caption =
+| Date of birth =
+| Place of birth =
+| Date of death =
+| The government's work on the "Women's
+| Burial place =
+| Residence =
+| The government's work on the issue
+| Ethnic =
+| Origin =
+| Name at birth =
+| Nickname =
+| Religion =
+| Party =
+| The government's work on the law
+| Occupation =
+| Field of work =
+| Outstanding Works =
+| Mother's School =
+| Affected by =
+| Effect in =
+| Awards =
+| Signature =
+| Official website =
+| Notes =
+}}
+"Fritz Fischer" {{Lang-de| Fritz Fischer}} (w. 
+
+4. 
+{{End of automated update|Prizes}}
+== References ==
+{{Reference}}
+{{{Bar Gates|Flags|Date|Applied Architecture|Germany}}
+{{Germany Flag Seed}}
+{{Bass set}}
+
+[Classification:Persons from The Kingdom of Bavaria]
+[[Rating:Faculty at the University of Hamburg]
+[[Rating:Fricorbus members of the 20th century]
+[Rating: Graduates of The University of Erlengen Nuremberg]
+[Rating: Graduates of Humboldt University in Berlin]
+[[Rating:German soldiers in World War II]
+[Rating: German Male Non-Fiction Writers]
+[[Rating:Born 1908]
+[[Rating:Nazi historians]
+[[Rating:20th-century German historians]
+[[Classification:Deaths 1999]. 

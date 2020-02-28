@@ -1,0 +1,25 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Historical determinism
+
+ar edition's differences with the en version: 
+
+
+1. 
+<ref name=manifesto={{{book reference=author1= [Karl Marx] |author2= [Frederick Engels] |title = Communist Manifesto =https://www.marxists.org/arabic/archive/marx/1848-cm/01.htm |Https://www.marxists.org/arabic/archive/marx/1848-cm/01.htm |Archive path = https://web.archive.org/web/20160312082724/https://www.marxists.org/arabic/archive/marx/1848-cm/01.htm = Chapter 1: Bourgeois and Proletarian | Archive History = 12-3-2016 Arrival Date = 18-08-2017 </ref> | Inevitably, the system is the [socialist|socialist]. 
+
+2. 
+{{Marxist |expanded=concepts}}
+"Historical determinism" is the concept of [political philosophy|philosophical political] that human history has a path towards a certain direction, and if we take note of all the elements and forces that influence it we can predict or influence. 
+
+3. 
+
+Elsewhere in the "manifesto", it is written that the class conflict of the past centuries has ended with either a revolutionary transformation of society as a whole, either by the destruction of both conflicting classes, ref="manifesto"> which has led [Eric Hobsbaum] to deny the inevitable thought of that document<ref> {Cite{magazine
+| Title = Indomitable |Author = Terry Eagleton | trans-title = invincible | Language = en | Magazine = London review of books | Volumem = 33
+| Issue = 5| pages = 13-14 |path = http://www.lrb.co.uk/v33/n05/terry-eagleton/indomitable |archive path = https://web.archive.org/web/20120302015009/https://www.lrb.co.uk/v33/n05/terry-eagleton/indomitable |Archive History = 02-03-2012 | issn = 0260-9592 |arrival date = 18-8-2017}</ref>
+
+Technology is another potential driving force of history. 
+
+4. 
+
+In "[Communist Party Manifesto]," Marx and [Frederick Engels|Engels] wrote {{quotile=the history of any society to date is only the history of class conflicts}. 

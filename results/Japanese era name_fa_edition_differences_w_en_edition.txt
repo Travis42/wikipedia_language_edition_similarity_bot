@@ -1,0 +1,38 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Japanese era name
+
+fa edition's differences with the en version: 
+
+
+1. 
+Such a method of naming the course in countries influenced by the culture of China, such as [[Korea (country) | Korea]] and Japan and the countries surrounding China are prevalent. 
+
+2. 
+<Ref> {{Pack | Encyclopedia Nipponica 2001 | 1994 | k = 年号 | s = 299 | language code = JA}} </ref>
+
+= = Related Queries = =
+* [The list of Japanese courses]]
+* [[]]
+
+= = Footer = =
+{{Footnote}}
+
+= = Resources = =
+{{Footnote | left align = yes}}
+* {{Cite-wiki | link =//en.wikipedia.org/w/index.php. 
+
+3. 
+title = Japanese_era_name & oldid = 762369039 | title = Japanese ERA name | language = English | recovery = 30 January 2017}}
+{{Timeline}}
+{{Time-shattered}}
+
+[[Category: Japanese courses]]
+[[Category: Courses]]
+[[Category: Time in Japan]]. 
+
+4. 
+For example, the year 1989 AD, the first year was the [Hseh] period, which was called Japanese, "Hiseh 1" and the year 2017 in this way "Hiseh 29". 
+
+5. 
+' ' ' Japanese Age ' ' ' ' ', ' ' {{' to Japanese | 年号 nengō}} or ' ' ' ', ' {{to Japanese | 元号 gengō}} is the first part of the two components that constitute the name of the year the second part also shows the order of the year in this age or period. 

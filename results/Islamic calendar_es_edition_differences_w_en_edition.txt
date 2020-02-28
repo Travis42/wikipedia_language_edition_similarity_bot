@@ -1,0 +1,69 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Islamic calendar
+
+es edition's differences with the en version: 
+
+
+1. 
+
+The days of the week
+
+It's seven days a week:
+* al-ahad (the "first"), Sunday
+* al-ithnáyn ('the second'), Monday's
+* al-thalatha ('the third'), Tuesday'
+* al-arba'a (A.D.A.), Wednesday
+* al-Jamís (the fifth), Thursday,
+* al-yuma'a (the "meeting") on Friday. 
+
+2. 
+On 25 October 2014 it coincided with 1 [[muharram], the first day of the hegirian year ''1436''', whose last day 30 of [[du l-hiyya]] coincided with 24 October 2015. 
+
+3. 
+
+The Months
+
+Months are 12:
+[[Muharram]]
+[[Safar]]
+[[Rabi' al-Awwal]]
+[[Rabi' al-Thani]]
+[[Yumada al-Wula]]
+[[Yumada al-Thania]]
+[[Rayab]]
+[[Sha'abán]]
+[[Ramadan]]
+[[Shawwal]]
+[[Du l-qa'da' Du al-Qa'da]
+[[Du l-hiyya' Du al-Hiyya]]
+
+• Particularities
+The Muslim day begins with the sun falling, and the month begins about two days after the new moon, when the rising mole begins to be seen. 
+
+4. 
+The 355-day years are called interleavers and are divided into seven months of 30 days and another five of 29 days. 
+
+5. 
+That is, every 33 Years Muslims equal 32 Gregorian years. 
+
+6. 
+The 30 years of the cycle are divided into 19 years of 354 days and 11 years of 355 days. 
+
+7. 
+The 354-day years are called simple years and are divided into six months of 30 days and another six months of 29 days. 
+
+8. 
+There are correspondence tables of years, <ref>, web quote, http://calendar.zoznam.sk/islamic_calendar-sp.php, title, Islamic calendar 2012, dateaccess, May 23, 2012, and </ref> for quick and accurate calculation:
+* To move from the Muslim year to the Gregorian:
+"Equation" <math>G-Frac{32}{33}H+622</math>-1-center-
+
+* To move from Gregorian to Muslim year:
+"Equation" <math>Ha'frac{33}{32}(G-622)</math>'2'center'
+Where:
+
+Gregorian year G
+
+H- Muslim year (hegira)
+
+These formulas serve to establish the correspondence between the Muslim and Gregorian years but to establish the exact correspondence of a specific date is almost impossible, and even historians admit a mistake of a day or so. 

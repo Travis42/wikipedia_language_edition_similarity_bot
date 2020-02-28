@@ -1,0 +1,165 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Leap year
+
+en edition's differences with the vi version: 
+
+
+1. 
+In the [[Bahá'í Calendar]], a leap day is added when needed to ensure that the following year begins on the [[vernal equinox (Northern Hemisphere)|vernal equinox]]. 
+
+2. 
+Years begin at Naw-Rúz, on the [[vernal equinox (Northern Hemisphere)|vernal equinox]], on or about March 21. 
+
+3. 
+This period normally has 4 days, but an extra day is added when needed to ensure that the following year starts on the [[vernal equinox (Northern Hemisphere)|vernal equinox]]. 
+
+4. 
+This is to ensure that [[Passover]] ({{transl|he|''Pesah''}}) is always in the spring as required by the [[Torah]] (Pentateuch) in many verses<ref>Exodus 23,15 ; Exodus 34,18 ; Deuteronomy 15,1 ; Deuteronomy 15, 13</ref> relating to Passover. 
+
+5. 
+Matthias shifting from February 23 to the leap day of February 24. 
+
+6. 
+
+[[File:MissaleLeapYear.jpg|thumb|right|In the older [[Roman Missal]], feast days falling on or after February 24 are celebrated one day later in leap year.]]
+Until 1970, the [[Roman Catholic Church]] always celebrated the feast of [[Saint Matthias]] on a. 
+
+7. 
+[[United States Naval Observatory]].</ref></blockquote>
+
+Over a period of four centuries, the accumulated error of adding a leap day ''every'' four years amounts to about three extra days. 
+
+8. 
+Because only 22 or 23 days were effectively added, not a full lunation, the calends and ides of the Roman Republican calendar were no longer associated with the new moon and full moon. 
+
+9. 
+This rule is known in Hebrew as "{{transl|he|''lo adu rosh''}}" ({{lang|he|לא אד"ו ראש}}), i.e., "Rosh [ha-Shanah, first day of the year] is not Sunday, Wednesday or Friday" (as the Hebrew word {{transl|he|''adu''}} is written by three [[Hebrew alphabet|Hebrew letters]] signifying Sunday, Wednesday and Friday). 
+
+10. 
+This rule is known in Hebrew as "{{transl|he|''lo badu Pesah''}}" ({{lang|he|לא בד"ו פסח}}), which has a double meaning — "Passover is not a legend", but also "Passover is not Monday, Wednesday or Friday" (as the Hebrew word {{transl|he|''badu''}} is written by three Hebrew letters signifying Monday, Wednesday and Friday). 
+
+11. 
+Caesar also replaced the intercalary month by a single intercalary day, located where the intercalary month used to be. 
+
+12. 
+
+==Julian, Coptic and Ethiopian calendars==
+From AD 8 the Julian calendar received an extra day added to February in years that are multiples of 4. 
+
+13. 
+This extra month is called ''Adar Alef'' ([[Adar 1|first Adar]]) and is added before ''[[Adar]]'', which then becomes ''Adar Bet'' ([[Adar 2|second Adar]]). 
+
+14. 
+But if there is no corresponding day in the last month, the period ends with the ending of the last day of the last month.<ref>{{citation | article = Article 121 Civil Code | url = http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?PCode=B0000001 | title = Part I General Principles of the Republic of China}}</ref>}}
+
+===Hong Kong===
+Since 1990 non-retroactively, Hong Kong considers the legal birthday of a leapling March 1 in common years:<ref>{{citation | url = http://www.legislation.gov.hk/blis_ind.nsf/E1BF50C09A33D3DC482564840019D2F4/22F10EC537B1BEBAC825648300339AA3?OpenDocument | title = Age of Majority (Related Provisions) Ordinance (Ch. 
+
+15. 
+| editor2-last = Seidelmann | title = Explanatory Supplement to the Astronomical Almanac | edition =3rd | location = Mill Valley CA | publisher = University Science Books | page = 598 | isbn = 9781891389856}}</ref> The rule can be applied to years before the Gregorian reform (the [[proleptic Gregorian calendar]]), if [[astronomical year numbering]] is used.<ref>{{citation | url = http://www.archive.org/stream/131123ExplanatorySupplementAstronomicalAlmanac/131123-explanatory-supplement-astronomical-almanac#page/n304/mode/1up | last = Doggett | first=L.E. 
+
+16. 
+5) | date = June 30, 1997 | publisher = Hong Kong Department of Justice}} (Enacted in 1990).</ref>
+{{quote|
+# The time at which a person attains a particular age expressed in years shall be the commencement of the anniversary corresponding to the date of [their] birth. 
+
+17. 
+# This section shall apply only where the relevant anniversary falls on a date after the date of commencement of this Ordinance.}}
+
+== See also ==
+
+* [[Century leap year]]
+* [[Calendar reform]] includes proposals that have not (yet) been adopted. 
+
+18. 
+In the Chinese calendar the [[leap month]] is added according to a rule which ensures that month 11 is always the month that contains the northern winter [[solstice]]. 
+
+19. 
+The intercalary month takes the same number as the preceding month; for example, if it follows the second month (二月) then it is simply called "leap second month" i.e. 
+
+20. 
+This rule agrees with the rule for the Gregorian calendar until 2799. 
+
+21. 
+
+One reason for this rule is that [[Yom Kippur]], the holiest day in the Hebrew calendar and the tenth day of the Hebrew year, now must never be adjacent to the weekly Sabbath (which is Saturday), i.e., it must never fall on Friday or Sunday, in order not to have two adjacent Sabbath days. 
+
+22. 
+[[Ancient Rome|The Romans]] counted days inclusively in their calendars, so this was actually the fifth day before March 1 when counted in the modern exclusive manner (not including the starting day).<ref>{{citation | first = Thomas Hewitt | last = Key | url = http://penelope.uchicago.edu/Thayer/E/Roman/Texts/secondary/SMIGRA*/Calendarium.html | title = Calendarium | publisher = University of Chicago | orig-year = 1875 | date = 2013}}</ref>
+
+The Republican calendar's intercalary month was inserted on the first or second day after the [[Terminus (mythology)|Terminalia]] (a. 
+
+23. 
+| publisher = Time and Date AS | accessdate = February 29, 2012}}</ref> This additional day is found at the end of the last month, Dhu 'l-Hijja, which is also the month of the [[Hajj]].<ref name=GMANewsLeapYearTrivia>{{citation | url = http://www.gmanetwork.com/news/story/249829/lifestyle/people/leap-year-trivia-you-might-want-to-know | title = Leap year trivia you might want to know | date = n.d. 
+
+24. 
+The ''Nonae'' or nones was not the first [[Lunar phase|quarter moon]] but was exactly one ''nundina'' or Roman market week of nine days before the ides, inclusively counting the ides as the first of those nine days. 
+
+25. 
+| last = Heydari-Malayeri | url = http://aramis.obspm.fr/~heydari/divers/ir-cal-eng.html | title = A Concise Review of the Iranian Calendar | publisher = Paris Observatory | date = 2004| arxiv = astro-ph/0409620 | bibcode = 2004astro.ph..9620H }}</ref> A similar rule has been proposed to simplify the Gregorian calendar.<ref>Dr Jeremy Shears, President, British Astronomical Association, personal communication (JBAA 2015/022), 3 September 2015.</ref> The centennial leap years would be spaced so that in years giving remainder 3 on division by 100 the dynamic mean sun<ref>The dynamic mean sun travels with uniform velocity and completes one circuit of the [[ecliptic]] (equinox to equinox) in one [[mean tropical year]].</ref> passes through the equinox in the 24-hour period ending at 1 PM GMT on 19 March. 
+
+26. 
+The religious festivals that were normally celebrated in the last five days of February were moved to the last five days of Intercalaris. 
+
+27. 
+
+For example, in the [[Gregorian calendar]], each leap year has 366 days instead of 365, by [[February 29|extending February to 29 days]] rather than the common 28. 
+
+28. 
+The days of these calendars were counted down (inclusively) to the next named day, so February 24 was ''ante diem sextum Kalendas Martias'' ("the sixth day before the calends of March") often abbreviated a. 
+
+29. 
+(the days numbered 24, 25, 26, 27, and 28 from the beginning of February in a common year), so that the intercalated day was the ''first'' half of the doubled day. 
+
+30. 
+Other feasts normally falling on February 25–28 in common years are also shifted to the following day in a leap year (although they would be on the same day according to the Roman notation). 
+
+31. 
+Contrast this with the Iranian [[Solar Hijri calendar#Accuracy|Solar Hijri calendar]], which generally has 8 leap year days every 33 years.''
+|}
+The Gregorian calendar was designed to keep the [[vernal equinox (Northern Hemisphere)|vernal equinox]] on or close to March 21, so that the date of [[Easter]] (celebrated on the Sunday after the ecclesiastical [[full moon]] that falls on or after March 21) remains close to the vernal equinox.<ref>{{citation | first = E. 
+
+32. 
+Exodus 13) that the God of Abraham, Isaac and Jacob gave the Hebrews their "Law" including the days to be kept holy and the feast days and Sabbaths. 
+
+33. 
+Indeed, none concerning her subjects are recorded in the twelve volume ''Acts of the Parliaments of Scotland'' (1814–75) covering the period 1124–1707 (two laws concerning young Margaret herself are recorded on pages 424 & 441–2 of volume I).</ref> In some places the tradition was tightened to restricting female proposals to the modern leap day, February 29, or to the medieval (bissextile) leap day, February 24. 
+
+34. 
+These extra days occur in years which are multiples of four (with the exception of centennial years not divisible by 400). 
+
+35. 
+For example, the years 1700, 1800, and 1900 are not leap years, but the years 1600 and 2000 are.<ref>[http://aa.usno.navy.mil/faq/docs/calendars.php Introduction to Calendars]. 
+
+36. 
+The algorithm is not necessarily valid for years in the Julian calendar, such as years before 1752 in the British Empire. 
+
+37. 
+According to the [[Metonic cycle]], this is done seven times every nineteen years (specifically, in years 3, 6, 8, 11, 14, 17, and 19). 
+
+38. 
+This phenomenon is exploited when a person claims to be only a quarter of their actual age, by counting their leap-year birthday anniversaries only: for example, in [[Gilbert and Sullivan]]'s 1879 [[comic opera]] ''[[The Pirates of Penzance]]'', Frederic the pirate apprentice discovers that he is bound to serve the pirates until his 21st ''birthday'' (that is, when he turns 88 years old, since 1900 was not a leap year) rather than until his 21st ''year''. 
+
+39. 
+This system has less periodic deviation or jitter from its mean year than the Gregorian calendar, and operates on the simple rule that the vernal equinox always falls in the 24-hour period ending at noon on New Year's Day.<ref name=jitter>{{citation |last=Bromberg |first=Irv |title=Fixed Arithmetic Calendar Cycle Jitter |publisher=University of Toronto |url=http://individual.utoronto.ca/intervalmath/}}</ref> The 33-year period is not completely regular; every so often the 33-year cycle will be broken by a cycle of 29 years.<ref>{{citation | first = M. 
+
+40. 
+The first cancellation will probably be AD 8400 and the next two centennial leap years thereafter will probably be AD 8800 and AD 9700.<ref>The calculations were performed using [http://www.web.archive.org/web/20150918233453/http://chemistry.unina.it/~alvitagl/solex SOLEX-11].</ref>
+
+[[Image:Jalaali_Leap_Year.svg]]
+
+==Folk traditions==
+[[File:Bob Satterfield cartoon about leap year traditions.jpg|right|thumb|upright|A [[spinster]] eagerly awaits the upcoming leap day, in this 1903 cartoon by [[Bob Satterfield (cartoonist)|Bob Satterfield.]]]]
+In Ireland and Britain, it is a [[tradition]] that women may [[Proposal of marriage|propose marriage]] only in leap years. 
+
+41. 
+For legal purposes, the two days of the ''bis sextum'' were considered to be a single day, with the second half being intercalated; but in common practice by 238, when [[Censorinus]] wrote, the intercalary day was followed by the last five days of February, a. 
+
+42. 
+
+===Republic of China===
+{{Wikisource|Civil Code Part I General Principles}}
+The Civil Code of the [[Republic of China]] since October 10, 1929,<ref>{{citation | url = http://law.moj.gov.tw/Eng/LawClass/LawHistory.aspx?PCode=B0000001 | title = Legislative History of the Civil Code of the Republic of China}}</ref> implies that the legal birthday of a leapling is February 28 in common years:
+
+{{quote|If a period fixed by weeks, months, and years does not commence from the beginning of a week, month, or year, it ends with the ending of the day which precedes the day of the last week, month, or year which corresponds to that on which it began to commence. 

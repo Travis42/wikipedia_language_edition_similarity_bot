@@ -1,0 +1,19 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Limmu
+
+en edition's differences with the es version: 
+
+
+1. 
+{{About|the Assyrian office||Limu (disambiguation){{!}}Limu}}
+{{update|Finds of limmu lists in past couple years, covering a much wider range of dates than indicated below|date=November 2012}}
+{{Unreferenced|date=December 2009}}
+: 
+'''Limmu''' was an [[Assyria]]n [[eponym]]. 
+
+2. 
+Each year a new limmu would be chosen<ref>{{Cite web|url=http://cdli.ox.ac.uk/wiki/doku.php?id=list_of_old_assyrian_limmu_officials|title=The Old and Middle Assyrian limmu officials [CDLI Wiki]|website=cdli.ox.ac.uk|access-date=2019-04-01}}</ref>. 
+
+3. 
+Lists of limmus have been found accounting for every year between 892 BC and 648 BC. 

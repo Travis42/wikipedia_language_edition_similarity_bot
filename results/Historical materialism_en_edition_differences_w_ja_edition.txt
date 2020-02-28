@@ -1,0 +1,845 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Historical materialism
+
+en edition's differences with the ja version: 
+
+
+1. 
+In proportion as the antagonism between classes within the nation vanishes, the hostility of one nation to another will come to an end.<ref>{{cite book |last1=Marx |first1=Karl |title=The Communist Manifesto |date=1848 |location=London |url=https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch01.htm#007 |accessdate=4 April 2019}}</ref></blockquote>
+
+Under capitalism, the [[bourgeoisie]] and [[proletariat]] become the two primary classes. 
+
+2. 
+: {{cite book
+|last=Suchting
+|first=Wal
+|title=Marx: An Introduction
+}}<br />Includes a good short introduction. 
+
+3. 
+In such societies, there is a [[division of labour]] in which people not only carry out different kinds of labour but occupy different social positions on the basis of those differences. 
+
+4. 
+The guild-masters were pushed on one side by the manufacturing middle class; division of labour between the different corporate guilds vanished in the face of division of labour in each single workshop.<ref name="The Communist Manifesto">{{cite book |last1=Marx |first1=Karl |title=The Communist Manifesto |date=1848 |location=London |url=https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch01.htm#007 |accessdate=12 March 2019}}</ref></blockquote>
+
+With the rise of the bourgeoisie came the concepts of [[nation-states]] and [[nationalism]]. 
+
+5. 
+
+==== Higher-stage of communism ====
+To Marx, the [[communist society|higher-stage of communist society]] is a [[Free association (Marxism and anarchism)|free association of producers]] which has successfully negated all remnants of capitalism, notably the concepts of [[State (polity)|states]], [[nationality]], [[sexism]], [[families]], [[Marx's theory of alienation|alienation]], [[social classes]], [[money]], [[property]], [[commodities]], the [[bourgeoisie]], the [[proletariat]], [[division of labor]], [[cities]] and [[countryside]], [[class struggle]], [[religion]], [[ideology]], and [[Market (economics)|markets]]. 
+
+6. 
+{{refend}}
+{{Marxist and communist phraseology}}
+{{Authority control}}
+
+{{DEFAULTSORT:Historical Materialism}}
+[[Category:Ideology of the Communist Party of the Soviet Union]]
+[[Category:Marxist theory]]
+[[Category:Marxism]]
+[[Category:Theories of history]]
+[[Category:Materialism]]. 
+
+7. 
+Volume III: The Process of Capitalist Production as a Whole
+|title-link=Capital, Volume III
+}}
+: {{cite book
+|last=Marx
+|first=Karl
+|author-link=Karl Marx
+|author-mask={{long dash}}
+|year=1964
+|editor-last=Hobsbawm
+|editor-first=E.&nbsp;J. 
+
+8. 
+In all societies, [[Human beings]] collectively work on [[nature]] but, especially in class societies, do not do the same work. 
+
+9. 
+: {{cite book
+|last=Draper
+|first=Hal
+|author-link=Hal Draper
+|title=Karl Marx's Theory of Revolution
+}}<br />Captures the full subtlety of Marx's thought, but at length in four volumes. 
+
+10. 
+From any given vantage point, a river looks much the same day after day. 
+
+11. 
+He receives a certificate from society that he has furnished such-and-such an amount of labor (after deducting his labor for the common funds); and with this certificate, he draws from the social stock of means of consumption as much as the same amount of labor cost. 
+
+12. 
+Prior to capitalism, nations were not the primary political form.<ref>{{cite web |last=Dixon |first=Norm |title=Marx, Engels and Lenin on the National Question |url=http://links.org.au/node/164 |website=Links International Journal of Socialist Renewal |access-date=21 April 2018}}</ref> [[Vladimir Lenin]] shared a similar view on nation-states.<ref>{{cite web |title=В.И. 
+
+13. 
+
+=== Primitive communism ===
+To historical materialists, [[hunter-gatherer]] societies, also known as [[primitive communist]] societies, were structured so that economic forces and political forces were one and the same. 
+
+14. 
+134.</ref>}}
+
+In saying that productive forces have a universal ''tendency'' to develop, Cohen's reading of Marx is not claiming that productive forces always develop or that they never decline. 
+
+15. 
+: {{cite book
+|last=Mandel
+|first=Ernest
+|author-link=Ernest Mandel
+|author-mask={{long dash}}
+|year=1986
+|title=The Place of Marxism in History
+|url=https://www.marxists.org/archive/mandel/19xx/marx-hist/index.htm
+|publisher=International Institute for Research and Education
+|access-date=21 April 2018
+|via=Marxists Internet Archive
+}}<br />Modelled on Lenin's "Three components of Marxism"{{citation needed|date=December 2013}} but with a section on the reception and diffusion of Marxism in the world. 
+
+16. 
+Thompson
+|year=1965
+|title=The Peculiarities of the English
+|url=http://www.socialistregister.com/index.php/srv/article/view/5963
+|journal=Socialist Register
+|volume=2
+|pages=311–362
+|access-date=21 April 2018
+|ref=harv
+}}
+{{refend}}
+
+== Further reading ==
+{{further reading cleanup|date=April 2018}}
+{{refbegin|35em|indent=yes}}
+: {{cite book
+|last=Acton
+|first=H.&nbsp;B. 
+
+17. 
+Meek
+|year=1976
+|title=Social Science and the Ignoble Savage
+|series=Cambridge Studies in the History and Theory of Politics
+|location=Cambridge, England
+|publisher=Cambridge University Press
+|ref=harv
+}}
+: {{cite book
+|last=Popper
+|first=Karl
+|author-link=Karl Popper
+|year=1957
+|title=The Poverty of Historicism
+|ref=harv
+|title-link=The Poverty of Historicism
+}}
+: {{cite journal
+|last=Seligman
+|first=Edwin R.&nbsp;A. 
+
+18. 
+: {{cite magazine
+|year=1979
+|title=The Materialist Conception of History
+|url=http://www.worldsocialism.org/spgb/education/study-guides/materialist-conception-history
+|magazine=Education Bulletin
+|issue=1
+|access-date=21 April 2018
+}}
+: {{cite book
+|last=Therborn
+|first=Göran
+|author-link=Göran Therborn
+|title=Science, Class and Society
+}}<br />Critical survey of the relationship between sociology and historical materialism. 
+
+19. 
+: {{cite book
+|last=Blackledge
+|first=Paul
+|year=2006
+|title=Reflections on the Marxist Theory of History
+}}
+: {{cite book
+|last=Blackledge
+|first=Paul
+|year=2018
+|title="Historical Materialism" in Oxford Handbook on Karl Marx|url= http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190695545.001.0001/oxfordhb-9780190695545-e-1
+|doi=10.1093/oxfordhb/9780190695545.001.0001
+}}
+: {{cite book
+|last=Boudin
+|first=Louis B. 
+
+20. 
+Polanyi distinguishes between the ''formal'' definition of economics as the logic of rational choice between limited resources and a ''substantive'' definition of economics as the way humans make their living from their natural and social environment.<ref>{{cite book|author=Polanyi, K.|title=The Great Transformation | location=New York|year=1944| pages=44–49}}</ref> In ''[[The Great Transformation (book)|The Great Transformation]]'' (1944), Polanyi asserts that both the formal and substantive definitions of economics hold true under capitalism, but that the formal definition falls short when analyzing the economic behavior of pre-industrial societies, whose behavior was more often governed by redistribution and [[Reciprocity (cultural anthropology)|reciprocity]].<ref>{{cite book|title=ibid. 
+
+21. 
+: {{cite book
+|last=Marx
+|first=Karl
+|author-link=Karl Marx
+|year=1848
+|title=Manifesto of the Communist Party
+|title-link=The Communist Manifesto
+}}
+: {{cite book
+|last=Marx
+|first=Karl
+|author-link=Karl Marx
+|author-mask={{long dash}}
+|year=1869
+|title=The Eighteenth Brumaire of Louis Napoleon
+|title-link=The Eighteenth Brumaire of Louis Napoleon
+}}
+: {{cite book
+|last=Marx
+|first=Karl
+|author-link=Karl Marx
+|author-mask={{long dash}}
+|year=1887
+|editor-last=Engels
+|editor-first=Friedrich
+|editor-link=Friedrich Engels
+|title=Capital: Critique of Political Economy. 
+
+22. 
+
+In proportion as the exploitation of one individual by another will also be put an end to, the exploitation of one nation by another will also be put an end to. 
+
+23. 
+One of them was expressed in the activation of national life and national movements against the oppressors. 
+
+24. 
+the transition from feudalism to capitalism, in that both societies are "stamped with the birthmarks of the old society from whose womb it emerges." The emphasis on the idea that modes of production do not exist in isolation but rather are materialized from the previous existence is a core idea in historical materialism. 
+
+25. 
+All history must be studied afresh, the conditions of existence of the different formations of society must be examined individually before the attempt is made to deduce them from the political, civil law, aesthetic, philosophic, religious, etc., views corresponding to them. 
+
+26. 
+Subsequently, the new capitalist mode of production also began expanding into other societies that had not yet developed a capitalist system (e.g. 
+
+27. 
+Stirner's 1844 work ''[[The Ego and its Own|The Unique and its Property]]'' had a particularly strong impact<ref>{{cite web|url= https://plato.stanford.edu/entries/max-stirner/ |title=Max Stirner (Stanford Encyclopedia of Philosophy) |website=Stanford Encyclopedia of Philosophy |publisher=The Metaphysics Research Lab, Center for the Study of Language and Information (CSLI), Stanford University |access-date=2018-09-06}}</ref> on the worldview of Marx and Engels: Stirner's blistering critique of [[morality]] and whole-hearted embrace of [[egoism]] prompted the pair to formulate a conception of [[socialism]] along lines of [[self-interest]] rather than simple [[humanism]] alone, grounding that conception in the scientific study of history.<ref>{{cite book |last=Welsh |first=John F. 
+
+28. 
+[[John Bellamy Foster]] asserts that historical materialism is important in explaining history from a scientific perspective, by following the scientific method, as opposed to belief-system theories like [[creationism]] and [[intelligent design]], which do not base their beliefs on verifiable facts and hypotheses.{{sfn|Foster|Clark|2008}}
+
+== Trajectory of historical development ==
+The main modes of production that Marx identified generally include [[primitive communism]], [[ancient world|slave society]], [[feudalism]], [[mercantilism]], and [[capitalism]]. 
+
+29. 
+That said, it is precisely because the superstructure strongly affects the base that the base selects that superstructure. 
+
+30. 
+
+Insofar as Marx and Engels regarded historical processes as [[law]]-governed processes, the possible future directions of historical development were to a great extent ''limited'' and ''conditioned'' by what happened before. 
+
+31. 
+But instead of this too many of the younger Germans simply make use of the phrase historical materialism (and everything can be turned into a phrase) only in order to get their own relatively scanty historical knowledge—for economic history is still in its swaddling clothes!—constructed into a neat system as quickly as possible, and they then deem themselves something very tremendous. 
+
+32. 
+This put Marx in direct conflict with groups like the [[classical liberalism|liberals]] who believed that reality was governed by some set of [[platonic ideal|ideals]],<ref name="The German Ideology">{{cite book |last1=Marx |first1=Karl |title=The German Ideology |date=1845 |accessdate=12 March 2019|url=https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01a.htm}}</ref> when he stated in ''[[The German Ideology]]'': "Communism is for us not a ''state of affairs'' which is to be established, an [[platonic ideal|ideal]] to which reality [will] have to adjust itself. 
+
+33. 
+# Every type of [[State (polity)|state]] is a powerful [[institution]] of the ruling class; the state is an instrument which one class uses to secure its rule and enforce its preferred relations of production and its [[Exploitation of labour|exploitation]] onto society.{{citation needed|date=December 2018}}<!-- This is the first mention of the state. 
+
+34. 
+: {{cite book
+|last=Gandler
+|first=Stefan
+|author-link=Stefan Gandler
+|year=2015
+|title=Critical Marxism in Mexico: Adolfo Sánchez Vázquez and Bolívar Echeverría
+|series=Historical Materialism Book Series
+|volume=87
+|location=Leiden, Netherlands
+|publisher=Brill Academic Press
+|isbn=978-90-04-28468-5
+|issn=1570-1522
+}}
+: {{cite book
+|last=Giddens
+|first=Anthony
+|author-link=Anthony Giddens
+|year=1981
+|title=A Contemporary Critique of Historical Materialism
+}}
+: {{cite book
+|last=Graham
+|first=Loren R. 
+
+35. 
+|editor-link=Eric Hobsbawm
+|title=Pre-Capitalist Economic Formations
+|translator-last=Cohen
+|translator-first=Jack
+|location=London
+|publisher=Lawrence & Wishart
+}}
+: {{cite book
+|last=Marx
+|first=Karl
+|author-link=Karl Marx
+|author-mask={{long dash}}
+|year=1969
+|chapter=[[Theses on Feuerbach]]
+|title=Marx/Engels Selected Works
+|location=Moscow
+|publisher=Progress Publishers
+|pages=13–15
+}}
+: {{cite book
+|last=Mehring
+|first=Franz
+|author-link=Franz Mehring
+|year=1975
+|title=On Historical Materialism
+|url=https://www.marxists.org/archive/mehring/1893/histmat/index.htm
+|translator-last=Archer
+|translator-first=Bob
+|location=London
+|publisher=New Park Press
+|access-date=21 April 2018
+|via=Marxists Internet Archive
+}}<br />Classic statement by a contemporary and friend of Marx & Engels. 
+
+36. 
+Volume I: The Process of Production of Capital
+|translator1-last=Moore
+|translator1-first=Samuel
+|translator2-last=Aveling
+|translator2-first=Edward
+|translator2-link=Edward Aveling
+|location=Moscow
+|publisher=Progress Publishers
+|title-link=Capital, Volume I
+}}
+: {{cite book
+|last=Marx
+|first=Karl
+|author-link=Karl Marx
+|author-mask={{long dash}}
+|year=1895
+|title=The Class Struggles in France, 1848–1850
+|title-link=The Class Struggles in France 1848-1850
+}}
+: {{cite book
+|last=Marx
+|first=Karl
+|author-link=Karl Marx
+|author-mask={{long dash}}
+|year=1932
+|title=Economic and Philosophic Manuscripts of 1844
+|title-link=Economic and Philosophic Manuscripts of 1844
+}}
+: {{cite book
+|last=Marx
+|first=Karl
+|author-link=Karl Marx
+|author-mask={{long dash}}
+|year=1932
+|title=The German Ideology
+|title-link=The German Ideology
+}}
+: {{cite book
+|last=Marx
+|first=Karl
+|author-link=Karl Marx
+|author-mask={{long dash}}
+|year=1956
+|editor-last=Engels
+|editor-first=Friedrich
+|editor-link=Friedrich Engels
+|title=Capital: Critique of Political Economy. 
+
+37. 
+It is not the consciousness of men that determines their existence, but their social existence that determines their consciousness.{{sfn|Marx|1977}}</blockquote>
+
+=== Continued development ===
+In a foreword to his essay ''Ludwig Feuerbach and the End of Classical German Philosophy'' (1886), three years after Marx's death, Engels claimed confidently that "the Marxist world outlook has found representatives far beyond the boundaries of Germany and Europe and in all the literary languages of the world."{{sfn|Engels|1946}} Indeed, in the years after Marx and Engels' deaths, "historical materialism" was identified as a distinct philosophical doctrine and was subsequently elaborated upon and systematized by [[Orthodox Marxism|Orthodox Marxist]] and [[Marxist–Leninist]] thinkers such as [[Eduard Bernstein]], [[Karl Kautsky]], [[Georgi Plekhanov]] and [[Nikolai Bukharin]]. 
+
+38. 
+He also explained that on the foundation of the economic base there arise certain political institutions, laws, customs, culture, etc., and ideas, ways of thinking, morality, etc. 
+
+39. 
+|author-link=Gerald Cohen
+|year=2000
+|orig-year=1978
+|title=Karl Marx's Theory of History: A Defence
+|edition=expanded
+|location=Oxford
+|publisher=Clarendon Press
+|ref=harv
+|title-link=Karl Marx's Theory of History: A Defence
+}}
+: {{cite book
+|last=Engels
+|first=Friedrich
+|author-link=Friedrich Engels
+|year=1946
+|chapter=Foreword
+|chapter-url=https://www.marxists.org/archive/marx/works/1886/ludwig-feuerbach/foreword.htm
+|title=Ludwig Feuerbach and the End of Classical German Philosophy
+|url=https://www.marxists.org/archive/marx/works/1886/ludwig-feuerbach/index.htm
+|location=Moscow
+|publisher=Progress Publishers
+|access-date=21 April 2018
+|via=Marxists Internet Archive
+|ref=harv
+}}
+: {{cite book
+|last=Foster
+|first=John Bellamy
+|author-link=John Bellamy Foster
+|year=1999
+|title=Marx's Ecology: Materialism and Nature
+|location=New York
+|publisher=Monthly Review Press
+|ref=harv
+}}
+: {{cite book
+|last1=Foster
+|first1=John Bellamy
+|author1-link=John Bellamy Foster
+|last2=Clark
+|first2=Brett
+|author2-link=Brett Clark (sociologist)
+|year=2008
+|title=Critique of Intelligent Design: Materialism versus Creationism from Antiquity to the Present
+|location=New York
+|publisher=Monthly Review Press
+|isbn=978-1-58367-173-3
+|ref=harv
+|url-access=registration
+|url=https://archive.org/details/critiqueofintell00fost
+}}
+: {{cite book
+|last=Fromm
+|first=Erich
+|author-link=Erich Fromm
+|year=1961
+|chapter=Marx's Historical Materialism
+|chapter-url=https://www.marxists.org/archive/fromm/works/1961/man/ch02.htm
+|title=Marx's Concept of Man
+|location=New York
+|publisher=Frederick Ungar Publishing
+|access-date=21 April 2018
+|via=Marxists Internet Archive
+|ref=harv
+|title-link=Marx's Concept of Man
+}}
+: {{cite book
+|last=Kołakowski
+|first=Leszek
+|author-link=Leszek Kołakowski
+|year=1978
+|title=Main Currents of Marxism: Its Origins, Growth and Dissolution
+|ref=harv
+|title-link=Main Currents of Marxism
+}}
+: {{cite book
+|last=Lenin
+|first=Vladimir Illyich
+|author-link=Vladimir Lenin
+|year=n.d. 
+
+40. 
+Cohen]], author of ''[[Karl Marx's Theory of History: A Defence]]'', the level of development of society's productive forces (i.e., society's technological powers, including tools, machinery, raw materials, and labour power) determines society's economic structure, in the sense that it selects a structure of economic relations that tends best to facilitate further technological growth. 
+
+41. 
+The book, which [[Structural Marxism|structural Marxists]] such as [[Louis Althusser]]<ref>{{cite book|last=Althusser |first=Louis |title=For Marx |publisher= The Penguin Press |date=1969 |page=59 |url=http://www.marx2mao.com/Other/FM65NB.html}}</ref> regard as Marx's [[Young Marx#Various breaks|first 'mature' work]], is a lengthy polemic against Marx and Engels' fellow [[Young Hegelians]] and contemporaries [[Ludwig Feuerbach]], [[Bruno Bauer]], and [[Max Stirner]]. 
+
+42. 
+(He is both honouring and shaming me too much.)<ref>{{cite web |url=https://www.marxists.org/archive/marx/works/1877/11/russia.htm |title=Letter from Marx to Editor of the Otecestvenniye Zapisky |publisher=Marxists Internet Archive |access-date=10 November 2018}}</ref>}}
+
+Marx goes on to illustrate how the same factors can in different historical contexts produce very different results, so that quick and easy generalizations are not really possible. 
+
+43. 
+It can do this with no further ado against any opponent, so long as it employs the services of [[theology]], which as everyone knows is small and ugly and must be kept out of sight." Benjamin's friend and colleague [[Gershom Scholem]] would argue that Benjamin's critique of historical materialism was so definitive that, as [[Mark Lilla]] would write, "nothing remains of historical materialism [...] but the term itself".<ref>{{cite magazine |last=Lilla |first=Mark |author-link=Mark Lilla |date=25 May 1995 |title=The Riddle of Walter Benjamin |magazine=The New York Review of Books}}</ref> However, Benjamin was arguing against a mechanistic form of historical materialist explanation then prevalent in Stalin's Russia, and was himself a committed, if unorthodox, Marxist. 
+
+44. 
+In historical explanation, the overall primacy of the productive forces can be understood in terms of two key theses:
+{{cquote|(a) The productive forces tend to develop throughout history (the Development Thesis).<br />(b) The nature of the production relations of a society is explained by the level of development of its productive forces (the Primacy Thesis proper).<ref>Cohen, p. 
+
+45. 
+Marx and Engels explained that the coming into existence of nation-states was the result of class struggle, specifically of the capitalist class's attempts to overthrow the institutions of the former ruling class. 
+
+46. 
+|year=1967
+|chapter=The Origins of Dialectical Materialism
+|chapter-url=https://marxmyths.org/jordan/article.htm
+|title=The Evolution of Dialectical Materialism: A Philosophical and Sociological Analysis
+|location=London
+|publisher=Macmillan
+|access-date=21 April 2018
+|via=Marx Myths & Legends
+}}<br />Good survey. 
+
+47. 
+: {{cite book
+|last=Witt-Hansen
+|first=Johan
+|title=Historical Materialism: The Method, The Theories
+}}<br />Sees historical materialism as a methodology and ''Das Kapital'' as an application of the method. 
+
+48. 
+|location=Moscow
+|publisher=Progress Publishers
+|access-date=21 April 2018
+|via=Marxists Internet Archive
+|ref=harv
+|title-link=A Contribution to the Critique of Political Economy
+}}
+: {{cite book
+|last=Marx
+|first=Karl
+|author-link=Karl Marx
+|author-mask={{long dash}}
+|year=1993
+|title=Grundrisse: Foundations of the Critique of Political Economy
+|translator-last=Nicolaus
+|translator-first=Martin
+|location=London
+|publisher=Penguin Books
+|isbn=978-0-14-044575-6
+|ref=harv
+|title-link=Grundrisse
+}}
+: {{cite book
+|last1=Marx
+|first1=Karl
+|author1-link=Karl Marx
+|last2=Engels
+|first2=Friedrich
+|year=1968
+|title=Selected Works in One Volume
+|location=London
+|publisher=Lawrence and Wishart
+|ref=harv
+}}
+: {{cite book
+|last=Meek
+|first=Ronald L. 
+
+49. 
+: {{cite book
+|last=Spirkin
+|first=Alexander
+|author-link=Alexander Spirkin
+|year=1990
+|title=Fundamentals of Philosophy
+|url=https://archive.org/details/FundamentalsOfPhilosophy_913
+|translator-last=Syrovatkin
+|translator-first=Sergei
+|location=Moscow
+|publisher=Progress Publishers
+|isbn=978-5-01-002582-3
+|access-date=15 January 2011
+}}
+: {{cite book
+|last=Stalin
+|first=Joseph
+|author-link=Joseph Stalin
+|title=Dialectical and Historical Materialism
+|title-link=Dialectical and Historical Materialism
+}}<br />Classic statement of Stalinist doctrine. 
+
+50. 
+: {{cite book
+|last=Anderson
+|first=Perry
+|year=1974
+|title=Lineages of the Absolutist State
+}}
+: {{cite book
+|last=Aronowitz
+|first=Stanley
+|author-link=Stanley Aronowitz
+|year=1981
+|title=The Crisis in Historical Materialism
+}}<br />American criticism of orthodox Marxism and argument for a more radical version of historical materialism that sticks closer to Marx by changing itself to keep up with changes in the historical situation. 
+
+51. 
+Rome and Greece) were based on a ruling class of citizens and a class of slaves; feudalism was based on [[nobles]] and [[serfs]]; and capitalism based on the [[capitalist class]] ([[bourgeoisie]]) and the [[working class]] ([[proletariat]]). 
+
+52. 
+To indicate how seriously Marx took research, when he died, his estate contained several cubic metres of Russian statistical publications (it was, as the old Marx observed, in Russia that his ideas gained most influence). 
+
+53. 
+Ленина
+|language=ru
+|volume=24
+|edition=5th
+|pages=113–150
+|ref=harv
+}}
+: {{cite book
+|contributor-last=Marx
+|contributor-first=Karl
+|contributor-link=Karl Marx
+|last=Marx
+|first=Karl
+|author-link=Karl Marx
+|year=1977
+|contribution=Preface
+|contribution-url=https://www.marxists.org/archive/marx/works/1859/critique-pol-economy/preface.htm
+|editor-last=Dobb
+|editor-first=Maurice
+|editor-link=Maurice Dobb
+|title=A Contribution to the Critique of Political Economy
+|translator-last=Ryazanskaya
+|translator-first=S.&nbsp;W. 
+
+54. 
+Wood
+|year=2004
+|title=Karl Marx
+|edition=2nd
+|series=Arguments of the Philosophers
+|location=Abingdon, England
+|publisher=Routledge
+|isbn=978-0-415-31697-2
+}}<br />Delves into misinterpretations of Marx including the substitution of "Historical materialism" by Lenin. 
+
+55. 
+87 (2017).</ref> In contrast, [[idealists]] believe that human consciousness creates [[reality]] rather than the materialist conception that material reality creates human consciousness. 
+
+56. 
+Having abandoned abstract philosophical speculation in his youth, Marx himself showed great reluctance during the rest of his life about offering any generalities or universal truths about human existence or human history. 
+
+57. 
+-->
+# State power is usually only transferred from one class to another by social and political upheaval.{{citation needed|date=December 2018}}<!-- again, the state should have been mentioned before the summary -->
+# When a given relation of production no longer supports further progress in the productive forces, either further progress is strangled, or 'revolution' must occur.{{citation needed|date=December 2018}}
+# The actual historical process is not predetermined but depends on class struggle, especially the elevation of class consciousness and organization of the working class.{{citation needed|date=December 2018}}
+
+== Key implications in the study and understanding of history ==
+Many writers note that historical materialism represented a revolution in human thought, and a break from previous ways of understanding the underlying basis of change within various human societies. 
+
+58. 
+This represents the dialectical part of Marx's famous theory of [[dialectical materialism|dialectical]] (or historical) materialism.|source=— Hubert Kay, ''[[Life (magazine)|Life]]'', 1948<ref>{{cite magazine|last=Kay|first=Hubert|date=18 October 1948|title=Karl Marx|magazine=Life|page=66}}</ref>|width=30%|align=right}}
+Historical materialism builds upon the idea of historical [[progress]] that became popular in philosophy during [[the Enlightenment]], which asserted that the development of human society has progressed through a series of stages, from [[hunting and gathering society|hunting and gathering]], through [[pastoralism]] and cultivation, to commercial society.{{sfn|Meek|1976}} Historical materialism rests on a foundation of [[dialectical]] [[materialism]], in which matter is considered primary and ideas, thought, and consciousness are secondary, i.e. 
+
+59. 
+|page=41}}</ref> While Polanyi was influenced by Marx, he rejected the primacy of [[economic determinism]] in shaping the course of history, arguing that rather than being a realm unto itself, an economy is [[Embeddedness|embedded]] within its contemporary social institutions, such as the [[State (polity)|state]] in the case of the market economy.<ref>{{Cite book|last=Hann |first=Chris |title=Economic Anthropology (The International Encyclopedia of Anthropology) |pages = 1–16|publisher=John Wiley & Sons, 2018 |date=2017-09-29|doi=10.1002/9781118924396.wbiea2194 |chapter = Economic Anthropology|isbn = 9780470657225}}</ref>
+
+Perhaps the most notable recent exploration of historical materialism is [[G.&nbsp;A. 
+
+60. 
+This superstructure not only has its origin in the economic base, but its features also ultimately correspond to the character and development of that economic base, i.e. 
+
+61. 
+|url=http://www.marxist.com/an-introduction-to-historical-materialism.htm |website=In Defence of Marxism |publisher=International Marxist Tendency |access-date=28 November 2017}}</ref>
+
+== History and development ==
+=== Origins ===
+[[Karl Marx]] never used the words "historical materialism" to describe his theory of history; the term first appears in [[Friedrich Engels]]' 1880 work ''[[Socialism: Utopian and Scientific]]'',<ref>{{cite web |url=https://marxists.catbull.com/archive/marx/works/1880/soc-utop/ch03.htm |title= Socialism: Utopian and Scientific |author= Friedrich Engels |website=marxists.org |publisher=Marxists Internet Archive |access-date=2018-09-06}}</ref> to which Marx wrote an introduction for the French edition.<ref>{{cite web |url=https://marxists.catbull.com/archive/marx/works/1880/05/04.htm |title=Introduction to the French Edition of Engels' ''Socialism: Utopian and Scientific'' |author=Karl Marx |website=marxists.org |publisher= Marxists Internet Archive| access-date=2018-09-06}}</ref> By 1892, Engels indicated that he accepted the broader usage of the term "historical materialism," writing in an introduction to an [[English (language)|English]] edition of ''Socialism: Utopian and Scientific;''
+
+{{quotation|This book defends what we call "historical materialism", and the word materialism grates upon the ears of the immense majority of British readers. 
+
+62. 
+Marx observed that nations arose at the time of the appearance of capitalism on the basis of community of economic life, territory, language, certain features of psychology, and traditions of everyday life and culture. 
+
+63. 
+
+[[File:MaxStirner2.svg|thumb|150px|A caricature drawn by Engels of [[Max Stirner]], whose 1844 work ''[[The Ego and Its Own|The Unique and its Property]]'' prompted Marx and Engels to theorize a scientific approach to the study of history which they first laid out in ''[[The German Ideology]]'' (1845) along with a lengthy rebuttal of Stirner's own critique of socialism]]
+Marx and Engels first state and detail their materialist conception of history within the pages of ''[[The German Ideology]]'', written in 1845. 
+
+64. 
+Many Marxists contend that historical materialism is a [[scientific]] approach to the study of history.<ref>{{cite web |last=Woods |first=Alan |year=2016 |title=What Is Historical Materialism. 
+
+65. 
+He regards it as his task to brush history against the grain.{{sfn|Benjamin}}}}
+
+== See also ==
+{{Wikiquote}}
+{{Portal|History}}
+* [[Analytical Marxism]]
+* [[Classical Marxism]]
+* [[Economic determinism]]
+* [[Formalist–substantivist debate]]
+* ''[[Fundamentals of Marxism–Leninism]]''
+* [[Orthodox Marxism]]
+* [[Parametric determinism]]
+* [[Technological determinism]]
+* [[Theory of historical trajectory]]
+
+== References ==
+=== Citations ===
+{{reflist|22em}}
+
+=== Sources ===
+{{refbegin|35em|indent=yes}}
+: {{cite book
+|last=Benjamin
+|first=Walter
+|author-link=Walter Benjamin
+|title=Theses on the Philosophy of History
+|ref=harv
+|title-link=Theses on the Philosophy of History
+}}
+: {{cite book
+|last=Cohen
+|first=G.&nbsp;A. 
+
+66. 
+Their development may be temporarily blocked, but because human beings have a rational interest in developing their capacities to control their interactions with external nature in order to satisfy their wants, the historical tendency is strongly toward further development of these capacities. 
+
+67. 
+
+In the early years of the 20th century, historical materialism was often treated by socialist writers as interchangeable with [[dialectical materialism]], a formulation never used by Marx or Engels.<ref>{{cite web|url=https://www.marxists.org/archive/fromm/works/1961/man/ch02.htm|title=Marx's Conception of Man |author= [[Erich Fromm]] |publisher=Marxists.org|accessdate=2018-09-06}}</ref> According to many Marxists influenced by Soviet Marxism, historical materialism is a specifically [[sociology|sociological]] method, while dialectical materialism refers to the more general, abstract [[philosophy]] underlying Marx and Engels' body of work. 
+
+68. 
+Cohen]] argues in ''[[Karl Marx's Theory of History: A Defence]]'' that a society's superstructure stabilizes or entrenches its economic structure, but that the economic base is primary and the superstructure secondary. 
+
+69. 
+For example, the social working day consists of the sum of the individual hours of work; the individual labor time of the individual producer is the part of the social working day contributed by him, his share in it. 
+
+70. 
+Historical materialism is an example of Marx and Engel's [[scientific socialism]], attempting to show that [[socialism]] and [[communism]] are scientific necessities rather than philosophical ideals.<ref>{{cite book |last1=Marx |first1=Karl |title=The German Ideology |date=1845 |accessdate=12 March 2019 |url=https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01a.htm}}</ref>
+
+Historical materialism is [[materialist]] as it does not believe that [[history]] has been driven by individual's [[consciousness]] or [[platonic ideal|ideals]], but rather ascribes to the philosophical [[monism]] that [[matter]] is the fundamental substance of [[nature]] and henceforth the driving force in all of [[world history]]; this drove Marx and other historical materialists to abandon ideas such as [[rights]] (e.g. 
+
+71. 
+-->
+
+Perhaps Marx's clearest formulation of historical materialism resides in the preface to his 1859 book ''[[A Contribution to the Critique of Political Economy]]'':
+<blockquote>The mode of production of material life conditions the general process of social, political and intellectual life. 
+
+72. 
+[...] The productive forces at the disposal of society no longer tend to further the development of the conditions of bourgeois property; on the contrary, they have become too powerful for these conditions, by which they are fettered, and so soon as they overcome these fetters, they bring disorder into the whole of bourgeois society, endanger the existence of bourgeois property.<ref name="The Communist Manifesto"/></blockquote>
+
+=== Communist mode of production ===
+==== Lower-stage of communism ====
+The [[bourgeoisie]], as Marx stated in ''[[The Communist Manifesto]]'', has "forged the weapons that bring death to itself; it has also called into existence the men who are to wield those weapons—the modern working class—the proletarians."<ref name="The Communist Manifesto"/> Historical materialists henceforth believe that the modern [[proletariat]] are the new revolutionary class in relation to the bourgeoisie, in the same way that the bourgeoisie was the revolutionary class in relation to the nobility under feudalism.<ref name="Critique of the Gotha Programme">{{cite book |last1=Marx |first1=Karl |title=Critique of the Gotha Programme |url=https://www.marxists.org/archive/marx/works/1875/gotha/ch04.htm |accessdate=12 March 2019}}</ref> The proletariat, then, must seize power as the new revolutionary class in a [[dictatorship of the proletariat]]. 
+
+73. 
+
+To summarize, history develops in accordance with the following observations:
+[[File:Tomb of Nakht (2).jpg|thumb|upright|Scenes from the tomb of [[Nakht]] depicting an [[Agriculture|agricultural]] [[division of labour]] in [[Ancient Egypt]], painted in the 15th century BC]]
+# Social progress is driven by progress in the material, [[productive forces]] a society has at its disposal ([[technology]], [[labour (economics)|labour]], [[capital goods]] and so on)
+# Humans are inevitably involved in productive relations (roughly speaking, economic relationships or institutions), which constitute our most decisive [[social relations]]. 
+
+74. 
+This view is based on [[Joseph Stalin]]'s pamphlet ''[[Dialectical and Historical Materialism]]'', as well as textbooks issued by the [[Marx–Engels–Lenin Institute|Institute of Marxism–Leninism of the Central Committee of the Communist Party of the Soviet Union]].<ref>{{cite web |url=https://www.marxists.org/reference/archive/stalin/works/1938/09.htm |title= Dialectical and Historical Materialism |author= [[Joseph Stalin]] |website=marxists.org |publisher= Marxists Internet Archive| access-date=2018-09-06}}</ref>
+
+The [[Formalist–substantivist debate|substantivist]] [[ethnography|ethnographic]] approach of economic [[economic anthropology|anthropologist]] and [[economic sociology|sociologist]] [[Karl Polanyi]] bears similarities to historical materialism. 
+
+75. 
+{{for|the academic journal|Historical Materialism (journal)}}
+{{use British English Oxford spelling|date=April 2018}}
+{{use dmy dates|date=April 2018}}
+{{short description|Marxist historiography}}
+{{over-quotation|date=December 2018}}
+{{Marxism|philosophy}}
+'''Historical materialism''', also known as the '''materialist conception of history''', is a [[Historical method|methodology]] used by some [[Communism|communist]] and [[Marxist historiography|Marxist historiographers]] that focuses on human [[societies]] and their development through history, arguing that history is the result of [[materialism|material conditions]] rather than [[idealism|ideals]]. 
+
+76. 
+It is the [[negation]] of [[capitalism]].<ref name="The German Ideology"/><ref>{{cite book |last1=Marx |first1=Karl |title=The Communist Manifesto |date=1848 |location=London |url=https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch02.htm#007 |accessdate=12 March 2019}}</ref>
+
+Marx made the following comments on the higher-phase of communist society:
+
+<blockquote>In a higher phase of communist society, after the enslaving subordination of the individual to the [[division of labor]], and therewith also the antithesis between mental and physical labor, has vanished; after labor has become not only a means of life but life's prime want; after the productive forces have also increased with the all-around development of the individual, and all the springs of co-operative wealth flow more abundantly—only then can the narrow horizon of [[Idealism|bourgeois right]] be crossed in its entirety and society inscribe on its banners: [[From each according to his ability, to each according to his needs|From each according to his ability, to each according to his needs!]]<ref name="marxists.org"/></blockquote>
+
+== Warnings against misuse ==
+{{see also|Economic determinism}}
+In the 1872 Preface to the French edition of ''[[Das Kapital]]'' Vol. 
+
+77. 
+x.</ref>
+
+Several scholars have argued that historical materialism ought to be revised in the light of modern scientific knowledge.{{who|date=December 2018}} [[Jürgen Habermas]] believes historical materialism "needs revision in many respects", especially because it has ignored the significance of [[communicative action]].<ref>{{cite journal |last1=Habermas |first1=Jürgen |date=Autumn 1975 |title=Toward a Reconstruction of Historical Materialism |url=https://www.unige.ch/sciences-societe/socio/files/3514/0533/6053/Habermas_1975.pdf |journal=Theory and Society |volume=2 |issue=3 |pages=287–300 |doi= |access-date=2018-12-05 }}</ref>
+
+[[Göran Therborn]] has argued that the method of historical materialism should be applied to historical materialism as intellectual tradition, and to the history of Marxism itself.<ref>{{cite book|title=Science, Class and Society: on the formation of Sociology and Historical Materialism |last= Therborn |first=Göran |publisher= London: Verso Books |date=1980}}</ref>
+
+In the early 1980s, [[Paul Hirst]] and [[Barry Hindess]] elaborated a [[structural Marxism|structural Marxist]] interpretation of historical materialism.<ref>{{cite book|first1=Paul |last1=Hirst |first2=Barry |last2= Hindess |title=Pre-Capitalist Modes of Production | location=London |publisher=Routledge & Kegan Paul |year=1975 |pages=}}</ref>
+
+[[Regulation theory]], especially in the work of [[Michel Aglietta]] draws extensively on historical materialism.<ref>{{cite book|first1=Bob |last1=Jessop |editor1-last=Brown |editor1-first=A |editor2-last=Fleetwood |editor2-first=S |editor3-last=Roberts |editor3-first=J  |chapter=Capitalism, the Regulation Approach, and Critical Realism |title=Critical Realism and Marxism | location=London |publisher=Routledge |year=2001 |pages=}}</ref>
+
+[[Spiral dynamics]] shows similarities to historical materialism.{{how|date=October 2018}}<ref>{{cite news |last=Douglas |first=Angus |date=2015-12-16 |title=Marxism versus Spiral Dynamics Integral |url=https://www.news24.com/MyNews24/marxism-versus-spiral-dynamics-integral-20151116 |work=[[News24]] |location=South Africa |access-date=2018-12-05}}</ref>
+
+== Key ideas ==
+{{quote|text=Society does not consist of individuals, but expresses the sum of interrelations, the relations within which these individuals stand.|sign=[[Karl Marx]], ''[[Grundrisse]]'', 1858{{sfn|Marx|1993|p=265}}}}
+{{quote box|quote=In the Marxian view, human history is like a river. 
+
+78. 
+
+Broadly, the importance of the study of history lies in the ability of history to explain the present. 
+
+79. 
+
+Marx himself took care to indicate that he was only proposing a guideline to historical research (''Leitfaden'' or ''Auffassung''), and was not providing any substantive "theory of history" or "grand philosophy of history", let alone a "master-key to history". 
+
+80. 
+[...] The materialist conception of history has a lot of [dangerous friends] nowadays, to whom it serves as an excuse for not studying history. 
+
+81. 
+: {{cite book
+|last=Fleischer
+|first=Helmut
+|title=Marxism and History
+}}<br />Good reply to false interpretations of Marx's view of history. 
+
+82. 
+: {{cite book
+|last=Harman
+|first=Chris
+|author-link=Chris Harman
+|title=A People's History of the World
+}}<br />Marxist view of history according to a leader of the International Socialist Tendency. 
+
+83. 
+: {{cite book
+|last=Novack
+|first=George
+|author-link=George Novack
+|year=2002
+|title=Understanding History: Marxist Essays
+|url=https://www.marxists.org/archive/novack/works/history/index.htm
+|location=Chippendale, New South Wales
+|publisher=Resistance Books
+|isbn=978-1-876646-23-3
+|access-date=21 April 2018
+|via=Marxists Internet Archive
+}}<br />Trotskyist interpretations of problems of history. 
+
+84. 
+Thompson
+|title=The Poverty of Theory
+}}<br />Polemic which ridicules theorists of history who do not actually study history. 
+
+85. 
+Corresponding to this is also a political transition period in which the state can be nothing but the ''revolutionary dictatorship of the proletariat''.<ref name="Critique of the Gotha Programme"/></blockquote>
+
+Marx also describes a communist society developed alongside the proletarian dictatorship:
+<blockquote>Within the co-operative society based on common ownership of the means of production, the producers do not exchange their products; just as little does the labor employed on the products appear here as the value of these products, as a material quality possessed by them, since now, in contrast to capitalist society, individual labor no longer exists in an indirect fashion but directly as a component part of total labor. 
+
+86. 
+[...] I hope even British respectability will not be overshocked if I use, in English as well as in so many other languages, the term "historical materialism", to designate that view of the course of history which seeks the ultimate cause and the great moving power of all important historic events in the economic development of society, in the changes in the modes of production and exchange, in the consequent division of society into distinct classes, and in the struggles of these classes against one another.<ref>{{cite web |author=Frederick Engels |url=http://www.marxists.org/archive/marx/works/1880/soc-utop/int-mat.htm |title=Socialism: Utopian and Scientific (Introduction – Materialism) |publisher=Marxists Internet Archive |access-date=7 December 2011}}</ref>}}
+
+Marx's initial interest in materialism is evident in [[The Difference Between the Democritean and Epicurean Philosophy of Nature|his doctoral thesis]] which compared the philosophical [[atomism]] of [[Democritus]] with the [[materialism|materialist]] philosophy of [[Epicurus]]<ref name="Karl Marx (Stanford Encyclopedia of Philosophy)">{{cite web |url=https://plato.stanford.edu/entries/marx/ |title=Karl Marx (Stanford Encyclopedia of Philosophy) |website=Stanford Encyclopedia of Philosophy |publisher=The Metaphysics Research Lab, Center for the Study of Language and Information (CSLI), Stanford University |access-date=2018-09-06}}</ref>{{sfn|Foster|1999}} as well as his close reading of [[Adam Smith]] and other writers in classical [[political economy]]. 
+
+87. 
+This was first articulated by [[Karl Marx]] (1818–1883) as the "materialist conception of history".<ref>{{cite web|url=https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01b.htm|title=The German Ideology|last=Marx|first=Karl|date=1845|website=www.marxists.org|archive-url=|archive-date=|access-date=2019-03-05}}</ref> It is principally a [[Philosophy_of_history|theory of]] [[history]] which asserts that the material conditions of a society's [[mode of production]] or in Marxist terms, the union of a society's [[productive forces]] and [[relations of production]], fundamentally determine society's organization and development. 
+
+88. 
+
+=== Ancient mode of production ===
+Slave societies, the [[ancient world|ancient mode of production]], were formed as [[productive forces]] advanced, namely due to [[agriculture]] and its ensuing abundance which led to the abandonment of nomadic society. 
+
+89. 
+However, production does not get carried out in the abstract, or by entering into arbitrary or random relations chosen at will, but instead are determined by the development of the existing forces of production.<ref>{{cite book |last=Marx |first=Karl |date=1999 |title=Capital: Critique of Political Economy |volume=3 |chapter=48 |url=https://www.marxists.org/archive/marx/works/1867-c1/p2.htm |publisher=[[Marxists Internet Archive]] |accessdate=2018-12-05}}</ref> How production is accomplished depends on the character of society's [[productive forces]], which refers to the means of production such as the tools, instruments, technology, land, raw materials, and human knowledge and abilities in terms of using these means of production.<ref>{{cite book|url=https://www.marxists.org/archive/marx/works/1847/poverty-philosophy/ch02.htm|title=The Poverty of Philosophy|last=Marx|first=Karl|date=1999|publisher=[[Marxists Internet Archive]]|location=marxists.org|chapter=2|accessdate=2018-12-05}}</ref> The relations of production are determined by the level and character of these productive forces present at any given time in history. 
+
+90. 
+
+What we have to deal with here is a communist society, not as it has ''developed'' on its own foundations, but, on the contrary, just as it ''emerges'' from capitalist society; which is thus in every respect, economically, morally, and intellectually, still stamped with the birthmarks of the old society from whose womb it emerges. 
+
+91. 
+The same amount of labor which he has given to society in one form, he receives back in another.<ref name="marxists.org">{{cite book |last1=Marx |first1=Karl |title=Critique of the Gotha Programme |url=https://www.marxists.org/archive/marx/works/1875/gotha/ch01.htm |accessdate=12 March 2019}}</ref></blockquote>
+
+This lower-stage of communist society is, according to Marx, analogous to the lower-stage of capitalist society, i.e. 

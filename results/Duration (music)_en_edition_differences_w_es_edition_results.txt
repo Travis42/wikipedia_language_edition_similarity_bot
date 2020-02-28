@@ -1,4 +1,0 @@
-Duration (music)
-en edition's differences with the es version: 
-0.235427
-As such, the ''duration [[Complement (music)|complement]]'' is the amount of different durations used, the '''duration scale''' is an ordering ([[Scale (measurement)|scale]]) of those durations from shortest to longest, the ''duration [[Range (music)|range]]'' is the difference in length between the shortest and longest, and the ''duration hierarchy'' is an ordering of those durations based on frequency of use.<ref>Winold, Allen (1975)

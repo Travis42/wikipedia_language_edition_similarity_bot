@@ -1,0 +1,86 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Astronomical chronology
+
+en edition's differences with the ru version: 
+
+
+1. 
+258.</ref>  The rapidly moving Moon is the most sensitive indicator for the exact time; if one can estimate the indicated position of the Moon to within a degree, the time of the diagram can be computed to within an hour.<ref>William D. 
+
+2. 
+{{quote box
+|align     = right
+|quote     = Astronomical dating can be a powerful tool for establishing absolute chronologies, but...<br/> it can easily produce precise and impressive looking results based on invalid assumptions –<br/> results so precise and impressive they may not be questioned by scholars in other fields. 
+
+3. 
+ Since the date of a festival in the Greek lunisolar calendar only recurs on the same date in the solar calendar every eight or nineteen years, Dinsmoor identified a festival connected with a specific temple and was able to determine the exact year near the historically recorded construction date when the Sun rose in alignment with the temple on the date of the festival.<ref>William Bell Dinsmoor, "Archæology and Astronomy", ''Proceedings of the American Philosophical Society'', 10 (1939): 95-173.</ref>
+
+==Notes==
+{{reflist}}
+
+==References==
+* Neugebaer, Otto. 
+
+4. 
+|salign    = 
+|source    = —John Steele, "The Use and Abuse of Astronomy in Establishing Absolute Chronologies."
+}}
+
+==Dating historical events==
+
+The use of descriptions of astronomical phenomena to date historical events began in the 16th century, a time of a renewed humanistic interest in history and of increasingly precise astronomical tables.<ref>Anthony Grafton, "Some Uses of Eclipses in Early Modern Chronology," ''Journal of the History of Ideas'', 64 (2003): 213-229.</ref> [[Eclipse]]s in particular are relatively infrequent events and can be dated precisely. 
+
+5. 
+ The resulting time was about noon of 12 December 1581.<ref>Arthur Beer, "Astronomical dating of works of art", ''Vistas in Astronomy'', 9 (1967): 177-223.</ref>
+
+==Dating structures by their orientation==
+
+A more controversial [[Archaeoastronomy|archaeoastronomical]] approach has been used to date structures that are believed to have been oriented on astronomical principles by measuring their orientation and computing the date in the past when a single specified celestial body, whether the Sun or a selected star, rises or sets at the measured azimuth. 
+
+6. 
+247.</ref>
+
+[[Babylonian astronomical diaries]] provide detailed and unambiguous accounts of the positions of all the visible planets, often in relation to specific stars, that have been used to provide precise dates of events like the defeat of [[Darius III of Persia|Darius III]] by [[Alexander the Great]] at the [[Battle of Gaugamela]] on 1 October 331 BCE and of Alexander's subsequent death on 11 June 323.<ref>[[Jona Lendering]], [http://www.pothos.org/content/index.php?page=astronomical-diaries "Astronomical Diaries"] {{webarchive|url=https://web.archive.org/web/20110514150612/http://www.pothos.org/content/index.php?page=astronomical-diaries |date=2011-05-14 }}</ref>
+
+Since the success of this method depends on the reliability of the written sources and the precision of their accounts of astronomical phenomena, attempts to date literary texts which may describe astronomical events loosely or even as metaphors have led researchers to conclusions that appear precise, but rely on invalid assumptions and are consequently less widely accepted. 
+
+7. 
+
+==External links==
+* van Gent, R.H., [http://www.staff.science.uu.nl/~gent0113/babylon/babybibl_chronology.htm Astronomical Chronology]
+
+{{Time Topics}}
+{{Time measurement and standards}}
+{{Chronology}}
+
+[[Category:Chronology]]
+[[Category:Dating methods]]
+[[Category:Time in astronomy]]. 
+
+8. 
+ Thus the attempts to date [[Vedas|Vedic texts]] describing the [[Pleiades]] as rising "due East" to about 2300 BCE, which is the time when the Pleiades rose "exactly" due East, is complicated by the fact that poetic descriptions need not be taken as reflecting precise astronomical observations, while [[Axial precession|precession]] is a very slow process which makes only small changes in the azimuth of a star rising in the East.<ref>[[Michael Witzel]], "The Pleiades and the Bears viewed from inside the Vedic texts," [http://www.ejvs.laurasianacademy.com/ejvs0502/ejvs0502.txt ''Electronic Journal of Vedic Studies''] {{webarchive |url=https://web.archive.org/web/20080320070909/http://www.ejvs.laurasianacademy.com/ejvs0502/ejvs0502.txt |date=March 20, 2008 }}, 5 (1999), issue 2</ref>
+
+==Dating artifacts==
+
+[[File:Aratea 93v.jpg|thumb|right|150 px|Ninth century diagram of the positions of the [[Classical planet|seven planets]] on 18 March 816.]]
+Among the artifacts that can most readily be dated by astronomical techniques are depictions of the positions of the [[celestial bodies]] at a particular time. 
+
+9. 
+'''Astronomical chronology''', or '''astronomical dating''', is a technical method of dating events or artifacts that are associated with astronomical phenomena. 
+
+10. 
+ Written records of historical events that include descriptions of astronomical phenomena have done much to clarify the chronology of the [[Ancient Near East]]; works of art which depict the configuration of the stars and planets and buildings which are oriented to the rising and setting of celestial bodies at a particular time have all been dated through astronomical calculations. 
+
+11. 
+
+==Bibliography==
+* [[Owen Gingerich|Gingerich, Owen]] and Barbara Welther. 
+
+12. 
+158.</ref>
+
+A striking example of this method was an astrological portrait of Sir [[Christopher Hatton]] (1540–1591), which depicted the positions of the seven classical planets in the zodiac and noted the computed positions of the planets to the nearest minute of arc. 
+
+13. 
+* [[Bryant Tuckerman|Tuckerman, Bryant]]. 

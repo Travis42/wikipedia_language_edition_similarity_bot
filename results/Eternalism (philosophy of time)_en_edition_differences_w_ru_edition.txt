@@ -1,0 +1,70 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Eternalism (philosophy of time)
+
+en edition's differences with the ru version: 
+
+
+1. 
+Zalta |url=https://plato.stanford.edu/archives/fall2016/entries/time/ |accessdate=November 18, 2017}}</ref>
+
+[[File:BarAndRing.svg|thumb|right|180px|The [[Ladder paradox#Bar and ring paradox|bar and ring paradox]] is an example of the [[relativity of simultaneity]]. 
+
+2. 
+Retrieved February 14, 2019, from https://www.quantamagazine.org/a-debate-over-the-physics-of-time-20160719/</ref> Elitzur and Shahar Dolev argue that quantum mechanical experiments such as the Quantum Liar<ref>Elitzur, A. 
+
+3. 
+However, there are events that may be non-simultaneous in all frames of reference: when one event is within the [[light cone]] of another—its causal past or causal future—then observers in all frames of reference show that one event preceded the other. 
+
+4. 
+Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics, 52, 86-102.</ref><ref>Smolin, L. 
+
+5. 
+Faith and Philosophy 26 (3):320-338.</ref> Rogers also discusses this issue in her book "Anselm on Freedom", using the term "four-dimensionalism" rather than "eternalism" for the view that "the present moment is not ontologically privileged", and commenting that "[[Boethius]] and Augustine do sometimes sound rather four-dimensionalist, but Anselm is apparently the first consistently and explicitly to embrace the position."<ref>{{cite book |first=Katherin |last=Rogers |year=2008 |title=Anselm on Freedom |publisher=Oxford University Press |isbn=9780199231676 |url=https://books.google.com/books?id=lg-swy7JcEAC&lpg=PP1&pg=PA159#v=onepage&q&f=false |page=159}}</ref> Taneli Kukkonen argues in the ''Oxford Handbook of Medieval Philosophy'' that "what Augustine's and Anselm's mix of eternalist and presentist, tenseless and tensed language tells is that medieval philosophers saw no need to choose sides" the way modern philosophers do.<ref>From Kukkonen's chapter on "Eternity" in ''The Oxford Handbook of Medieval Philosophy'' edited by John Marenbon (2012), [https://books.google.com/books?id=2TbPp5I6nL8C&lpg=PP1&pg=PA529#v=onepage&q&f=false p. 
+
+6. 
+D |volume=10|title=Time in Quantum Gravity|issue=4|pages=595|year=1999|arxiv=gr-qc/9906010|bibcode=2001IJMPD..10..595B}}
+* {{cite journal| title=That Mysterious Flow| journal=Scientific American|date=September 2002| volume=287| issue=3| pages=40–45| first=Paul| last=Davies| doi=10.1038/scientificamerican0902-40| bibcode=2002SciAm.287c..40D}}
+* {{cite web| url=http://plato.stanford.edu/entries/time/#3D4Con| title=Time: 8. 
+
+7. 
+Retrieved from https://phys.org/news/2012-04-physicists-abolish-fourth-dimension-space.html
+</ref>
+
+==See also==
+* [[A series and B series]]
+* [[Arrow of time]]
+* [[Dr. 
+
+8. 
+Both ends of the bar pass through the ring simultaneously in the rest frame of the ring (left), but the ends of the bar pass one after the other in the rest frame of the bar (right).]]
+[[Special relativity]] eliminates the concept of absolute [[simultaneity]] and a universal present: according to the [[relativity of simultaneity]], observers in different [[Frame of reference|frames of reference]] can have different measurements of whether a given pair of events happened at the same time or at different times, with there being no physical basis for preferring one frame's judgments over another's. 
+
+9. 
+It does not travel forward through an environment of time, moving from a real point in the past and toward a real point in the future. 
+
+10. 
+Within this intuitive understanding of time is the philosophy of [[Presentism (philosophy of time)|presentism]], which argues that only the present exists. 
+
+11. 
+Elitzur and Dolev believe that an objective passage of time and relativity can be reconciled, and that it would resolve many of the issues with the block universe and the conflict between relativity and quantum mechanics.<ref>Elitzur, A. 
+
+12. 
+
+=== Quantum physics ===
+Some philosophers appeal to a specific theory that is "timeless" in a more radical sense than the rest of physics, the theory of [[quantum gravity]]. 
+
+13. 
+As time passes, the moment that was once the present becomes part of the past; and part of the future, in turn, becomes the new present. 
+
+14. 
+
+==The present==
+
+In classical philosophy, time is divided into three distinct regions; the "[[past]]", the "[[present]]", and the "[[future]]". 
+
+15. 
+McTaggart argued that the description of events as existing in absolute time is self-contradictory, because the events have to have properties about being in the past and in the future, which are incompatible with each other. 
+
+16. 
+The causal past and causal future are consistent within all frames of reference, but any other time is "elsewhere", and within it there is no present, past, or future. 

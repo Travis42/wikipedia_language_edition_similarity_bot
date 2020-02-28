@@ -1,0 +1,16 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Geisteswissenschaft
+
+en edition's differences with the ar version: 
+
+
+1. 
+In some contexts of science policy the ''Geisteswissenschaften'' are described as non-empirical sciences, drawing them near philosophy and excluding the social sciences from their area.<ref>Carl Friedrich Gethmann, Dieter Langewiesche, Jürgen Mittelstraß, Dieter Simon, Günter Stock, ''Manifest Geisteswissenschaft'', ed. 
+
+2. 
+ Besides philosophy itself it encompassed the natural sciences with mathematics as well as the philological and historical disciplines and later on psychology and the social sciences. 
+
+3. 
+{{Italic title}}
+'''''Geisteswissenschaften''''' ({{IPA-de|ˈɡaɪstəsˌvɪsənʃaftən}}, "sciences of mind") is a set of [[human science]]s such as [[philosophy]], [[history]], [[philology]], [[musicology]], [[linguistics]], [[theater studies]], [[literary studies]], [[media studies]], and sometimes even [[theology]] and [[jurisprudence]], that are traditional in German [[universities]]. 

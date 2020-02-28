@@ -1,0 +1,20 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Byzantine calendar
+
+hu edition's differences with the en version: 
+
+
+1. 
+Furthermore, there was an official calendar in the [Byzantine Empire], from 988 to 1453 and [Russia], from 988 to 1700. 
+
+2. 
+
+This calendar is based on [[Julian calendar]] with the exception that the year in this calendar starts on September 1. 
+
+3. 
+The first year of the calendar, according to the [Gregorian calendar], is 5509 BC. 
+
+4. 
+{{partially no source}}
+The '''trust calendar''' (ancient Greek: â€â€" Κόσμου κατ,[Orthodox Christianity]] calendar used by [Orthodox Christianity]] in [Orthodox Church of Constantinople]] from 691 to 1728. 

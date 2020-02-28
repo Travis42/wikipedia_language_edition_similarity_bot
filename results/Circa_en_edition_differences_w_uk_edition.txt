@@ -1,0 +1,21 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Circa
+
+en edition's differences with the uk version: 
+
+
+1. 
+{{Redirect2|Ca.|Cca.|other uses of "Ca"|CA (disambiguation){{!}}CA|other uses of "Cca"|CCA (disambiguation){{!}}CCA|other uses of "Circa"|Circa (disambiguation)}}
+
+'''Circa''' ({{ety|la||around, about, roughly, approximately}}) – frequently abbreviated '''ca.''' or '''c.''' and less frequently '''circ.''' or '''cca.''' – signifies "approximately" in several European languages and as a [[loanword]] in English, usually in reference to a date.<ref>{{cite web |url = http://dictionary.reference.com/browse/circa |title=circa |publisher=[[Dictionary.com]] |access-date=16 July 2010}}</ref> ''Circa'' is widely used in historical writing when the dates of events are not accurately known. 
+
+2. 
+1732 – 1799: The beginning year is approximate; the end year is known precisely. 
+
+3. 
+1799: The beginning year is known precisely; the end year is approximate. 
+
+4. 
+
+When used in date ranges, ''circa'' is applied before each approximate date, while dates without ''circa'' immediately preceding them are generally assumed to be known with certainty. 

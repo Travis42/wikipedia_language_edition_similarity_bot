@@ -1,0 +1,40 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Luminescence dating
+
+uk edition's differences with the en version: 
+
+
+1. 
+
+= = Physical foundation = =
+All minerals contain trace amounts [[Radioactive elements | Radioactive elements]], including [[Uranium (chemical Element) | uranium]], [[Tory]], [[Rusyns]], and [[potassium]]. 
+
+2. 
+
+= = Minerals = =
+Minerals to be measured in &nbsp; are most often quartz or feldspar with grains of size of sand, or non-separated dust-sized granules. 
+
+3. 
+The power of the absorbed dose is determined by the content of radioactive elements (K, U, Th and Rb) in the pattern and its surroundings and dose rate from [[Cosmic rays | Cosmic rays]]. 
+
+4. 
+' &nbsp; Datuvánnâ ' ' optimization is a physical dating method based on determining the time when [[mineral]] was the last time in the light. 
+
+5. 
+The complete absorbed radiation dose is determined by excitation by the light of certain minerals by the pattern (usually quartz or feldspar) and measurements emitted as a result of light. 
+
+6. 
+If you change the pattern in blue, green, or [[Infrared radiation | "infrared]] light, the crystal will [[Photoluminescent | luteinize]], as the energy stored in the defects will be released in the form of [[light | light]]. 
+
+7. 
+The intensity of luminescence varies depending on {{NP | absorbed dose | absorbed radiation dose | | Absorbed dose}} accumulated over time until pattern was in darkness. 
+
+8. 
+
+Optical dating &nbsp; is one of several methods in which age is calculated as the ratio of the total absorbed radiation dose to [[dosimetry | The power of the absorbed dose]]. 
+
+9. 
+Sometimes other names of the &nbsp; method are used — ' ' optically stimulated fluorescent dating ' ' (' ' FL-dating ' ') and ' ' Photoluminescent dating ' (
+
+The typical range of the age &nbsp; is from several hundred to &nbsp; 000 &nbsp; years. 

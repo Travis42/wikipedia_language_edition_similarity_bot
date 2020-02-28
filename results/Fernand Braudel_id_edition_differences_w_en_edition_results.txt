@@ -1,8 +1,0 @@
-Fernand Braudel
-id edition's differences with the en version: 
-0.183177
-< ref name = "Philosopher"/> It is a major research area of the most famous, ' ' The Mediterranean and Mediterranean World in The Age of Philip II ' '
-0.183177
-' ' The Mediterranean and Mediterranean World in The Age of Philip II ' '
-0.226791
-< ref name = "Fernand" > Fernand Braudel

@@ -1,0 +1,78 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Ephemeris
+
+ja edition's differences with the en version: 
+
+
+1. 
+
+GPS satellites
+The astronomical calendar, which pre- or retroactively estimates the orbits of [Artificial Objects] and [Satellite] (including [GPS] satellites), is calculated by specialized agencies. 
+
+2. 
+In Japan, until 2009, the annual visual astronomical calendar "[Astronomical Position Table]" was published by the Marine Information Department <ref> [[Japan Coast Guard]]
+ | title - Publication of various celestial calendars
+ | publisher: Japan Coast Guard Marine Intelligence Department Geodesy, Astronomy and Observatory
+ | url http://www1.kaiho.mlit.go.jp/KOHO/syoshi/pr_eph.htms
+ | accessdate, 2010-11-11
+</ref>. 
+
+3. 
+In addition, as a celestial calendar of pre-estimation, those applicable to a longer period of time (but schematic accuracy) are also broadcast together, this is distinguished from the [GPS] specifications --> almanac (Almanac, "almanac") in the sense that distinguishes from the [GPS] !-- [[GPS] [ephemeris]. 
+
+4. 
+The basic calendar deals with the geometric position of the celestial body obtained by integrating the equation of motion of the celestial body, and the visual celestial calendar deals with the visual position of the celestial body obtained by the coordinate transformation and the correction of [[light difference ] [planetary light difference] based on the basic calendar. 
+
+5. 
+It is also referred to as ''astronomical calendar''', ''[calendar]',''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' (alma astronomical yearbook). 
+
+6. 
+In modern times, the accuracy of the astronomical calendar has become more and more elaborate due to the development of modern methods such as radar to measure the distance of planets and the use of communication data with planetary probes. 
+
+7. 
+!-- [[Chinese calendar]] had a side as a celestial calendar in addition to [[calendar]] (Koyomi, calendar, calendar) to determine the day of the month.].>>
+
+Currently, the celestial calendar can be divided into the basic calendar (fundamental ephemeris) and the visual astronomical calendar (apparent ephemeris). 
+
+8. 
+Therefore, the astronomical calendar is not only the position prediction of the celestial body, but also various [astronomical constants] such as the size of [mass] and [astronomical unit] of the planet that is a parameter of the theory are determined at the same time, and it is also [source of information]. 
+
+9. 
+
+Source/Annotation
+<a0> </a0> <a1></a1><a2></a2
+
+External link
+The following is the <a0></a0>cite web<
+ | title-Ephemerides
+ | publisher: Jet Propulsion Laboratory, California Institute of Technology
+ | url http://ssd.jpl.nasa.gov/?ephemeridess
+ | accessdate, 2010-11-10
+}}
+The following is the <a0></a0>cite web<
+ | title: International Astronomical Union Communication 4: (Ephemerides) 
+ | publisher: Jet Propulsion Laboratory, California Institute of Technology
+ | url http://iau-comm4.jpl.nasa.gov/s
+ | accessdate, 2010-11-10
+}}
+The following is the <a0></a0>cite web<
+ | title- NAOJ Astronomical Information Center, Calendar Calculation Office
+ | publisher: NAOJ Astronomical Information Center, Calendar Calculation Office
+ | url-http://eco.mtk.nao.ac.jp/koyomi/
+ | accessdate, 2013-1-19
+}}
+
+[Chronology]
+<a0> </a0><a1></a1><a2><
+[DEFAULTSORT]
+[Category: Astronomy]
+[Category: Navigation]
+[Category: Astronomy article]]. 
+
+10. 
+[[National Aeronautics and Space Administration] NASA]] [Jet Propulsion Laboratory]] (JPL) ''DE'' (Development Ephemeris) and [Russian Academy of Sciences]] Applied Astronomy Institute The ''EPM'' (Ephemerides of Planets and the Moon) of the Institute of Applied Astoronomy (Ephemerides of Planets and the Moon) is<ref> typical of such numerical celestial calendars. 
+
+11. 
+[[File: Mizauld, Antoine – Ephemerides aeris perpetuae, 1560 – BEIC 113199.jpg]
+"'Astrocalendar'' (Tentaireki, [:en:ephemeris]] is [Astronomical] ([Sun], [Moon], [Moon], [Satellite], [Planet], [Planet], [[Planet], [[Planet], [[Tentaireki] It is information that describes the operation position and orbit of [stellar] and [artificial celestial body]) and the forecast that estimated [[solar eclipse], [lunar eclipse], [astronomical infestation]). 

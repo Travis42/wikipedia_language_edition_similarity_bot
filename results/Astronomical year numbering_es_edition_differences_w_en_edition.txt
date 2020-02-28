@@ -1,0 +1,14 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Astronomical year numbering
+
+es edition's differences with the en version: 
+
+
+1. 
+The astronomical numbering is based on the classic Gregorian calendar, but adapted to the integer numbering system. 
+
+2. 
+<ref>Fred Espenak, [https://web.archive.org/web/20090605101653/http://eclipse.gsfc.nasa.gov/phase/phases-0099.html Phases of the Moon: '99 to 0 (100 to 1 BCE)] ''NASA Eclipse web site''</ref>
+
+The prefixes aC and dC (ECB and EC) expressing "[before Christ]] and [[after Christ]", are not used in this convention. 

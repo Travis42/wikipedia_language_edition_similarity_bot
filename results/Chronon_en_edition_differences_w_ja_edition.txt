@@ -1,0 +1,20 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Chronon
+
+en edition's differences with the ja version: 
+
+
+1. 
+Caldirola's original paper has a different formula due to not working in standard units.</ref>
+
+From this formula, it can be seen that the nature of the moving particle being considered must be specified since the value of the chronon depends on the particle's charge and mass. 
+
+2. 
+ Consequently, the value of the chronon, like other quantized observables in quantum mechanics, is a function of the system under consideration, particularly its boundary conditions.<ref>Farias & Recami, p.18.</ref> The value for the chronon, ''θ''<sub>0</sub>, is calculated from:
+
+:<math>\theta_0=\frac{1}{6\pi\epsilon_0}\frac{e^2}{m_0c^3}\ </math><ref>Farias & Recami, p.11. 
+
+3. 
+
+Caldirola claims the chronon has important implications for quantum mechanics, in particular that it allows for a clear answer to the question of whether a free-falling charged particle does or does not emit radiation.{{clarify|date=February 2014}} This model supposedly avoids the difficulties met by Abraham–[[Hendrik Lorentz|Lorentz]]'s{{which|date=February 2014}} and [[Paul Dirac|Dirac]]'s approaches{{which|date=February 2014}} to the problem, and provides a natural explication of [[quantum decoherence]].<!--I assume these were Caldirola's claims, not merely the claims of some anonymous Wikipedia editor. 

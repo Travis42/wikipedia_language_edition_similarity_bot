@@ -1,0 +1,333 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Milankovitch cycles
+
+en edition's differences with the vi version: 
+
+
+1. 
+For Earth's current orbital eccentricity, incoming solar radiation varies by about 6.8%, while the distance from the Sun currently varies by only 3.4% (5.1&nbsp;million&nbsp;[[kilometre|km]]). 
+
+2. 
+Summer in the northern hemisphere is 4.66 days longer than winter, and spring is 2.9 days longer than autumn. 
+
+3. 
+This is known as ''solar forcing'' (an example of [[radiative forcing]]). 
+
+4. 
+
+===Mars===
+[[Mars]] has no moon large enough to stabilize its obliquity, which has varied from 10 to 70 degrees. 
+
+5. 
+P.|display-authors=etal|title=Recent Warming Reverses Long-Term Arctic Cooling |doi=10.1126/science.1173983 |journal=Science |volume=325 |issue=5945 |pages=1236–1239 |year=2009 |pmid=19729653 |pmc=|bibcode=2009Sci...325.1236K |citeseerx=10.1.1.397.8778 }}</ref><ref>{{cite web|title=Arctic Warming Overtakes 2,000 Years of Natural Cooling |url=http://www2.ucar.edu/news/846/arctic-warming-overtakes-2000-years-natural-cooling |publisher=UCAR |date=September 3, 2009 |access-date=19 May 2011 |url-status=dead |archiveurl=https://web.archive.org/web/20110427235538/http://www2.ucar.edu/news/846/arctic-warming-overtakes-2000-years-natural-cooling |archivedate=27 April 2011 }}</ref><ref>{{cite news|last=Bello |first=David |title=Global Warming Reverses Long-Term Arctic Cooling |url=http://www.scientificamerican.com/article.cfm?id=global-warming-reverses-arctic-cooling |publisher=Scientific American |date=September 4, 2009 |access-date=19 May 2011 }}</ref>). 
+
+6. 
+[[Kepler's laws of planetary motion#Second law|Kepler's second law]] states that a body in orbit traces equal areas over equal times; its orbital velocity is highest around perihelion and lowest around aphelion. 
+
+7. 
+J.|title=On the Precession as a Cause of Pleistocene Variations of the Atlantic Ocean Water Temperatures|journal=Geophysical Journal International|date=1966|volume=11|issue=3|pages=323–336|url=http://gji.oxfordjournals.org/content/11/3/323.short|bibcode = 1966GeoJ...11..323V |doi = 10.1111/j.1365-246X.1966.tb03086.x }}</ref> Apsidal precession occurs in the plane of the ecliptic and alters the orientation of the Earth's orbit relative to the ecliptic. 
+
+8. 
+Astrobio.|volume=1|issue=1|pages=21–9|year=2002|url=http://physics.bd.psu.edu/faculty/williams/3DEarthClimate/ija2003.pdf|doi=10.1017/s1473550402001064|bibcode=2002IJAsB...1...61W}}</ref> Although the obliquity they studied is more extreme than Earth ever experiences, there are scenarios 1.5 to 4.5 billion years from now, as the Moon's stabilizing effect lessens, where obliquity could leave its current range and the poles could eventually point almost directly at the Sun.<ref>{{citation | last1=Neron de Surgy | first1=O. 
+
+9. 
+
+===Apsidal precession===
+{{Main|Apsidal precession }}
+[[File:Precessing Kepler orbit 280frames e0.6 smaller.gif|thumb|right|upright=1.25|Planets orbiting the Sun follow elliptical (oval) orbits that rotate gradually over time (apsidal precession). 
+
+10. 
+The eccentricity of this ellipse, as well as the rate of precession, is exaggerated for visualization.]]
+In addition, the orbital ellipse itself precesses in space, in an irregular fashion, completing a full cycle every 112,000 years relative to the fixed stars.<ref name=Heuvel>{{cite journal|last1=van den Heuvel|first1=E. 
+
+11. 
+ Apsidal precession shortens this period to 23,000 years on average (varying between 20,800 and 29,000 years).<ref name=Heuvel/>
+
+[[File:precession and seasons.svg|thumb|right|upright=1.5|Effects of precession on the seasons (using the [[Northern Hemisphere]] terms).]]
+As the orientation of Earth's orbit changes, each season will gradually start earlier in the year. 
+
+12. 
+This three-dimensional movement is known as "precession of the ecliptic" or "planetary precession". 
+
+13. 
+Earth presently moves through the [[invariable plane]] around January 9 and July 9. 
+
+14. 
+
+
+Perihelion presently occurs around January 3, while aphelion is around July 4. 
+
+15. 
+Axial precession will promote more extreme variation in irradiation of the northern hemisphere and less extreme variation in the south. 
+
+16. 
+However, some researchers say the records do not show these peaks, but only show a single cycle of 100,000 years.<ref>{{cite web | url=http://search.proquest.com/openview/5d5565735578d40943494a793b71d626/1.pdf?pq-origsite=gscholar| title=Nonlinear coupling between 100 ka periodicity of the paleoclimate records in loess and periodicities of precession and semi-precession| publisher=ProQuest}}</ref>
+
+===Unsynched stage 5 observation===
+Deep-sea core samples show that the interglacial interval known as [[Marine isotope stage#Stages|marine isotope stage 5]] began 130,000 years ago. 
+
+17. 
+{{clear}}
+
+===Axial precession===
+{{Main|Axial precession}}
+[[File:Earth precession.svg|thumb|right|200px |Axial Precessional movement]]
+Axial precession is the trend in the direction of the Earth's axis of rotation relative to the fixed stars, with a period of 25,771.5 years. 
+
+18. 
+
+Apsidal precession combines with the 25,771.5-year cycle of axial precession (see [[#Axial precession|above]]) to vary the position in the year that the Earth reaches perihelion. 
+
+19. 
+|last2=MacDonald |title=Glacial Cycles and Astronomical Forcing| journal=Science| volume=277| issue=5323| year=1997| pages=215–8| doi=10.1126/science.277.5323.215| bibcode = 1997Sci...277..215M |url=https://zenodo.org/record/1231114}}</ref><ref name="Muller2">{{cite web | title=Origin of the 100&nbsp;kyr Glacial Cycle: eccentricity or orbital inclination?| work=Richard A Muller| url=http://muller.lbl.gov/papers/nature.html| access-date=March 2, 2005}}</ref>
+
+==Present and future conditions==
+[[File:InsolationSummerSolstice65N.png|thumb|upright=2|Past and future of daily average insolation at top of the atmosphere on the day of the summer solstice, at 65 N latitude. 
+
+20. 
+Therefore, he deduced a 41,000-year period for ice ages.<ref name="Milankovitch">{{cite book | last=Milankovitch| first=Milutin| title=Canon of Insolation and the Ice Age Problem| origyear=1941| edition=| series= | volume=| year=1998| publisher=Zavod za Udz̆benike i Nastavna Sredstva |location=Belgrade |language=| isbn=978-86-17-06619-0| chapter=| url=| quote=}}; see also {{cite web | title=Astronomical Theory of Climate Change| url=http://www.ncdc.noaa.gov/paleo/milankovitch.html}}</ref><ref>{{cite book | first=John |last=Imbrie |first2=Katherine P. 
+
+21. 
+Because most of the planet's snow and ice lies at high latitude, decreasing tilt may encourage the onset of an [[ice age]] for two reasons: There is less overall summer insolation, and also less insolation at higher latitudes, which melts less of the previous winter's snow and ice. 
+
+22. 
+
+====Effect on lengths of seasons====
+{| class="wikitable" style="margin: 0 0 1em 1em"
+|+ '''Season durations'''<ref>Data from [http://aa.usno.navy.mil/data/docs/EarthSeasons.php United States Naval Observatory]</ref>
+|-
+!Year
+!Northern<br />Hemisphere
+!Southern<br />Hemisphere
+!Date: [[GMT]]
+!Season<br />duration
+|-
+|2005
+|Winter [[solstice]]
+|Summer solstice
+|align="right" | 21 December 2005 18:35
+|align="right" | 88.99 days
+|-
+|2006
+|Spring [[equinox]]
+|Autumn equinox
+|align="right" | 20 March 2006 18:26
+|align="right" | 92.75 days
+|-
+|2006
+|Summer solstice
+|Winter solstice
+
+|align="right" | 21 June 2006 12:26
+| align="right" | 93.65 days
+|-
+|2006
+|Autumn equinox
+|Spring equinox
+|align="right" | 23 September 2006 4:03
+|align="right" | 89.85 days
+|-
+|2006
+|Winter solstice
+|Summer solstice
+|align="right" | 22 December 2006 0:22
+|align="right" | 88.99 days
+|-
+|2007
+|Spring equinox
+|Autumn equinox
+|align="right" | 21 March 2007 0:07
+|align="right" | 92.75 days
+|-
+|2007
+|Summer solstice
+|Winter solstice
+|align="right" | 21 June 2007 18:06
+| align="right" | 93.66 days
+|-
+|2007
+|Autumn equinox
+|Spring equinox
+|align="right" | 23 September 2007 9:51
+|align="right" | 89.85 days
+|-
+|2007
+|Winter solstice
+|Summer solstice
+|align="right" | 22 December 2007 06:08
+|&nbsp;
+|}
+
+The seasons are quadrants of the Earth's orbit, marked by the two solstices and the two equinoxes. 
+
+23. 
+As an illustration, if during an ice age the northern land masses were covered in year-round ice, solar energy would be reflected away, couteracting the eventual warming effect from orbital forcing and extending the ice age. 
+
+24. 
+However, the Earth's eccentricity is always so small that the variation in solar irradiation is a minor factor in [[season]]al climate variation, compared to axial tilt and even compared to the relative ease of heating the larger land masses of the northern hemisphere. 
+
+25. 
+This would explain recent observations of its surface compared to evidence of different conditions in its past, such as the extent of its [[Martian polar ice caps|polar caps]].<ref>{{Cite journal | bibcode=2008GeoRL..3518201S| title=Temperature response of Mars to Milankovitch cycles| journal=Geophysical Research Letters| volume=35| issue=18| pages=L18201| author=Schorghofer, Norbert| year=2008| doi=10.1029/2008GL034954| url=https://semanticscholar.org/paper/e983582db0791a41dc16dc32b1086f49357ee71a}}</ref><ref>{{cite web | url=http://ams.confex.com/ams/90annual/techprogram/paper_165827.htm| title=3.5 Modeling Milankovitch cycles on Mars (2010 – 90; Annual Symp Planet Atmos)| publisher= Confex}}</ref>
+
+===Outer planets===
+Saturn's moon [[Titan (moon)|Titan]] has a cycle of approximately 60,000 years that could change the location of the [[methane]] lakes.<ref>{{cite web | url=https://www.youtube.com/watch?v=e9sfNegkpPE| title=Hydrocarbon lakes on Titan – Alex Hayes (SETI Talks)| work=YouTube}}</ref><ref>{{cite web | url=http://www.universetoday.com/46308/lake-asymmetry-on-titan-explained/| title=Lake Asymmetry on Titan Explained| author=Nicholos Wethington| date=30 November 2009| publisher=}}</ref> Neptune's moon [[Triton (moon)|Triton]] has a variation similar to Titan's, which could cause its solid [[nitrogen]] deposits to migrate over long time scales.<ref>{{cite web | url=http://www.livescience.com/1349-sun-blamed-warming-earth-worlds.html| title=Sun Blamed for Warming of Earth and Other Worlds| work=LiveScience.com}}</ref>
+
+===Exoplanets===
+Scientists using computer models to study extreme axial tilts have concluded that high obliquity could cause extreme climate variations, and while that would probably not render a planet uninhabitable, it could pose difficulty for land-based life in affected areas. 
+
+26. 
+Antarctic ice cores contain trapped air bubbles whose ratios of different oxygen isotopes are a reliable [[Proxy (climate)#Proxy|proxy]] for global temperatures around the time the ice was formed. 
+
+27. 
+However, the [[semi-major axis]] of the orbital ellipse remains unchanged; according to [[perturbation (astronomy)|perturbation theory]], which computes the evolution of the orbit, the semi-major axis is [[adiabatic invariant|invariant]]. 
+
+28. 
+The Earth spends less time near perihelion and more time near aphelion. 
+
+29. 
+
+Various explanations for this discrepancy have been proposed, including [[frequency modulation]]<ref>{{Citation | last = Rial| first = J.A.| title = Earth's orbital Eccentricity and the rhythm of the Pleistocene ice ages: the concealed pacemaker| journal = Global and Planetary Change| volume = 41| issue = 2| pages =  81–93|date= October 2003| url = http://www.geolab.unc.edu/faculty/rial/GPCRial2.pdf| jstor = | archiveurl =https://web.archive.org/web/20110720092801/http://www.geolab.unc.edu/faculty/rial/GPCRial2.pdf| archivedate =2011-07-20| doi=10.1016/j.gloplacha.2003.10.003| bibcode =2004GPC....41...81R}}</ref> or various feedbacks (from [[Carbon dioxide in Earth's atmosphere|carbon dioxide]], [[cosmic ray]]s, or from [[ice sheet dynamics]]). 
+
+30. 
+Earth's current inclination relative to the [[invariable plane]] (the plane that represents the [[angular momentum]] of the Solar System, approximately the orbital plane of [[Jupiter]]) is 1.57°. 
+
+31. 
+
+==Earth's movements==
+The [[Earth]]'s rotation around its axis, and revolution around the [[Sun]], evolve over time due to [[Perturbation (astronomy)|gravitational interactions]] with other bodies in the solar system. 
+
+32. 
+This means that solar radiation due to (1) axial tilt inclining the southern hemisphere toward the Sun and (2) the Earth's proximity to the Sun, both reach maximum during the southern summer and both reach minimum during the southern winter. 
+
+33. 
+That's why we see a stronger 100,000-year pace than a 21,000-year pace."<ref>{{Cite web | url=https://m.phys.org/news/2017-01-earth-orbital-variations-sea-ice.html |title=Earth's orbital variations and sea ice synch glacial periods |author=Kevin Stacey |publisher=m.phys.org | date=2017-01-26}}</ref><ref>{{cite journal | title=Hemispheric sea ice distribution sets the glacial tempo| first1=Jung-Eun| last1=Lee| first2=Aaron| last2=Shen| first3=Baylor| last3=Fox-Kemper| first4=Yi| last4=Ming| date=1 January 2017| journal=Geophys. 
+
+34. 
+Finally, the direction in the [[fixed stars]] pointed to by the Earth's [[Earth's Axis|axis]] changes ([[axial precession]]), while the Earth's elliptical orbit around the Sun rotates ([[apsidal precession]]). 
+
+35. 
+
+[[File:Earth obliquity range.svg|thumb|right|250px|22.1–24.5° range of Earth's obliquity]]
+
+===Axial tilt (obliquity)===
+{{Main|Axial tilt}}
+The angle of the Earth's axial tilt with respect to the orbital plane (the obliquity of the [[ecliptic]]) varies between 22.1° and 24.5°, over a cycle of about 41,000 years. 
+
+36. 
+ (This is also known as the ''causality problem'', because the effect precedes the putative cause.)<ref>{{cite journal | vauthors=Karner DB, Muller RA | title=PALEOCLIMATE: A Causality Problem for Milankovitch |journal=Science |volume=288 |issue=5474 |pages=2143–4 |date=June 2000 |pmid=17758906 |doi=10.1126/science.288.5474.2143 }}</ref>
+
+===Predicted effects mystery===
+{{See also|Climate change feedback}}
+
+[[File:Vostok 420ky 4curves insolation.jpg|thumb|upright=1.3|420,000 years of [[ice core]] data from [[Vostok, Antarctica]] research station, with more recent times on the left]]
+[[Proxy (climate)|Physical evidence]] shows that the variation in Earth's climate is much more extreme than the variation in the intensity of solar radiation calculated as the Earth's orbit evolves. 
+
+37. 
+In the northern hemisphere, these two factors reach maximum at opposite times of the year: The north is tilted toward the Sun when the Earth is furthest from the Sun. 
+
+38. 
+Here, cycles can be observed in the colouration and resistance of different strata.]]
+Materials taken from the Earth have been studied to infer the cycles of past climate. 
+
+39. 
+
+===Orbital inclination===<!-- This section is anchored from [100,000-year problem] -->
+{{Main|Orbital inclination }}
+The [[inclination]] of Earth's orbit drifts up and down relative to its present orbit. 
+
+40. 
+Both periods closely match the 100,000-year pattern of glacial events.<ref name="pmid11607741">{{cite journal|vauthors=Muller RA, MacDonald GJ | title=Spectrum of 100-kyr glacial cycle: orbital inclination, not eccentricity. 
+
+41. 
+If orbital forcing causes [[Climate change (general concept)|climate change]], science needs to explain why the observed effect is amplified out of linear proportion to the theoretical cause. 
+
+42. 
+* {{cite journal|vauthors=Edvardsson S, Karlsson KG, Engholm M |title=Accurate spin axes and solar system dynamics: Climatic variations for the Earth and Mars|journal=[[Astronomy and Astrophysics]]|volume=384|year=2002|pages=689–701|doi=10.1051/0004-6361:20020029|issue=2|bibcode = 2002A&A...384..689E }} ''This is the first work that investigated the derivative of the ice volume in relation to insolation (page 698).''
+* {{cite journal|vauthors=Zachos J, Pagani M, Sloan L, Thomas E, Billups K |title=Trends, Rhythms, and Aberrations in Global Climate 65 Ma to Present|journal=Science|volume=292|issue=5517|year=2001|pages=686–693|doi=10.1126/science.1059412|pmid=11326091|bibcode=2001Sci...292..686Z|url=https://semanticscholar.org/paper/b64fdb5c9528162e635e8a83f5649c5969a3f371}}<br />''This review article discusses cycles and great-scale changes in the global climate during the [[Cenozoic]] Era.''
+* {{cite journal | authors=Pälike, H., R.D. 
+
+43. 
+Climate records contained in a {{Cvt|1700|ft}} core of rock drilled in Arizona show a pattern synchronized with Earth's eccentricity, and cores drilled in New England match it, going back 215 million years.<ref>{{Cite news | url=https://www.nytimes.com/2018/05/21/science/earth-orbit-change.html| title=Every 202,500 Years, Earth Wanders in a New Direction| author=Nicholas Bakalar| newspaper=New York Times| date=2018-05-21| accessdate=2018-05-25}}</ref>
+
+===100,000-year issue===
+{{Main|100,000-year problem}}
+Of all the orbital cycles, Milankovitch believed that obliquity had the greatest effect on climate, and that it did so by varying the summer insolation in northern high latitudes. 
+
+44. 
+The ''transition problem'' refers to the need to explain what changed 1 million years ago.<ref>{{cite journal | vauthors=Zachos JC, Shackleton NJ, Revenaugh JS, Pälike H, Flower BP |title=Climate response to orbital forcing across the Oligocene-Miocene boundary| journal=Science|volume=292| issue=5515| pages=27–48| date=April 2001| pmid=11303100| doi=10.1126/science.1058288| url=http://www.scencemag.org/cgi/pmidlookup?view=long&pmid=11303100| bibcode = 2001Sci...292..274Z }}</ref> The MPT can now be reproduced in numerical simulations that include a decreasing trend in [[carbon dioxide]] and glacially induced removal of [[regolith]].<ref name="Willeit">{{cite web | url=http://advances.sciencemag.org/content/5/4/eaav7337| title=Mid-Pleistocene transition in glacial cycles explained by declining CO2 and regolith removal &#124; Science Advances| website=advances.sciencemag.org| accessdate=2019-04-05}}</ref>
+
+===Interpretation of unsplit peak variances===
+Even the well-dated climate records of the last million years do not exactly match the shape of the eccentricity curve. 
+
+45. 
+
+The Earth's current [[orbital inclination]] is 1.57° (see [[#Orbital inclination|above]]). 
+
+46. 
+This period is very similar to the 100,000-year eccentricity period. 
+
+47. 
+{{short description|Global climate cycles compared to periodic changes in Earth's orbit and attitude}}
+[[File:MilankovitchCyclesOrbitandCores.png|thumb|upright=2.3|Past and future Milankovitch cycles via [[VSOP (planets)|VSOP]] model
+<br>• Graphic shows variations in five orbital elements: 
+{{br}}{{legend2|#4848FF|border=1px solid #00289E|[[Axial tilt]] or obliquity (ε).}}
+{{br}}{{legend2|#229122|border=1px solid #00289E|[[Orbital eccentricity|Eccentricity]] (''e'').}}
+{{br}}{{legend2|#922392|border=1px solid #00289E|[[Longitude of the periapsis|Longitude of perihelion]] ( sin(ϖ) ).}}
+{{br}}{{legend2|#FF3232|border=1px solid #00289E|Precession index  ( ''e''&nbsp;sin(ϖ) )}}
+{{br}}• Precession index and obliquity control insolation at each latitude: 
+{{br}}{{legend2|#323232|border=1px solid #00289E|Daily-average insolation at top of atmosphere on summer solstice (<math> \overline{Q}^{\mathrm{day} } </math>) at 65° N }}
+{{br}}• Ocean sediment & Antarctic ice strata [[Proxy (climate)|record]] ancient sea levels & temperatures:
+{{br}}{{legend2|#AE3E3E|border=1px solid #00289E|[[Foraminifera|Benthic forams]] (57 widespread locations)}}
+{{br}}{{legend2|#026602|border=1px solid #00289E|Vostok ice core (Antarctica)}} 
+{{br}}• Vertical gray line shows present (2000&nbsp;A.D.)]]
+
+'''Milankovitch cycles''' describe the collective effects of changes in the [[Earth]]'s movements on its [[climate]] over thousands of years. 
+
+48. 
+
+===Orbital eccentricity===
+{{Main|Orbital eccentricity}}
+The Earth's orbit approximates an [[ellipse]]. 
+
+49. 
+The shape of the Earth's orbit varies between nearly circular (with the lowest eccentricity of 0.000055) and mildly elliptical (highest eccentricity of 0.0679).<ref>{{cite journal | last=Laskar| first=J| author2=Fienga, A. 
+
+50. 
+R.| author3-link=William Richard Peltier| title=An alternative astronomical calibration of the lower Pleistocene timescale based on ODP Site 677| journal=Transactions of the Royal Society of Edinburgh: Earth Sciences| date=3 November 2011| volume=81| issue=4| pages=251–261| doi=10.1017/S0263593300020782}}</ref><ref>{{cite journal | vauthors=Abe-Ouchi A, Saito F, Kawamura K, Raymo ME, Okuno J, Takahashi K, Blatter H |title=Insolation-driven 100,000-year glacial cycles and hysteresis of ice-sheet volume |journal=Nature |volume=500 |issue=7461 |pages=190–3 |date=August 2013 |pmid=23925242 |doi=10.1038/nature12374 |bibcode=2013Natur.500..190A }}</ref> has shown that [[ice age]] cycles of the [[Quaternary glaciation]] over the last million years have been at a period of 100,000 years, which matches the eccentricity cycle. 
+
+51. 
+In the 1920s, he hypothesized that variations in [[eccentricity (orbit)|eccentricity]], [[axial tilt]], and [[precession]] resulted in cyclical variation in the [[solar radiation]] reaching the Earth, and that this [[orbital forcing]] strongly influenced climatic patterns on Earth. 
+
+52. 
+
+Milankovitch studied changes in these movements of the Earth, which alter the amount and location of solar radiation reaching the Earth. 
+
+53. 
+|title=Northern Hemisphere forcing of climatic cycles in Antarctica over the past 360,000 years |journal=Nature |volume=448 |issue=7156 |pages=912–6 |date=August 2007 |pmid=17713531 |doi=10.1038/nature06015 |bibcode=2007Natur.448..912K }}</ref> 
+
+Analysis of deep-ocean cores and of lake depths,<ref>{{cite journal |vauthors=Kerr RA |title=Milankovitch Climate Cycles Through the Ages: Earth's orbital variations that bring on ice ages have been modulating climate for hundreds of millions of years |journal=Science |volume=235 |issue=4792 |pages=973–4 |date=February 1987 |pmid=17782244 |doi=10.1126/science.235.4792.973 |jstor=1698758| bibcode=1987Sci...235..973K }}/O</ref><ref>{{cite journal |vauthors=Olsen PE |title=A 40-million-year lake record of early mesozoic orbital climatic forcing |journal=Science |volume=234 |issue=4778 |pages=842–8 |date=November 1986 |pmid=17758107 |doi=10.1126/science.234.4778.842 |jstor=1698087|bibcode=1986Sci...234..842O }}</ref> and a seminal paper by [[James D. 
+
+54. 
+Ghil |author-link3=Michael Ghil |title=Successive Refinements in Long-Term Integrations of Planetary Orbits |journal=The Astrophysical Journal |volume=592 |issue=1 |year=2003 |pages=620–630 |url=http://astrobiology.ucla.edu/OTHER/SSO/SolarSysInt.pdf |doi=10.1086/375560 |bibcode=2003ApJ...592..620V |url-status=dead |archiveurl=https://web.archive.org/web/20071128074218/http://astrobiology.ucla.edu/OTHER/SSO/SolarSysInt.pdf |archivedate=2007-11-28 }}</ref> any model that relates orbital variations to climate can be run forward to predict future climate, with two caveats: the mechanism by which [[orbital forcing]] influences climate is not definitive; and non-orbital effects can be important (for example, [[Human impact on the environment]] principally increases in [[greenhouse gas]]es result in a warmer climate<ref>{{cite journal |last=Harshit |first=H. 
+
+55. 
+The variations are complex, but a few cycles are dominant.<ref>{{Cite thesis |degree=Master of Science |title=A Computational Study on the Evolution of the Dynamics of the Obliquity of the Earth |url=https://etd.ohiolink.edu/ap/10?6433295551748::NO:10:P10_ETD_SUBID:56397 |format=PDF |last=Girkin |first=Amy Negich |year=2005 |publisher=Miami University }}</ref>
+
+{{multiple image
+| align = 
+| image1 = Eccentricity zero.svg
+| width1 = 200
+| alt1 = 
+| caption1 = Circular orbit, no eccentricity
+| image2 = Eccentricity half.svg
+| width2 = 170
+| alt2 = 
+| caption2 = Orbit with 0.5 eccentricity, exaggerated for illustration; Earth's orbit is only slightly eccentric
+| footer = 
+}}
+The Earth's orbit varies between nearly circular and mildly [[Ellipse|elliptical]] (its eccentricity varies). 
+
+56. 
+
+An often-cited 1980 orbital model by [[John Imbrie|Imbrie]] predicted "the long-term cooling trend that began some 6,000 years ago will continue for the next 23,000 years."<ref name="Imbriel1980">{{cite journal |author1=J Imbrie |author2=J Z Imbrie |title=Modeling the Climatic Response to Orbital Variations |journal=Science |volume=207 |issue=4434 |year=1980 |pages=943–953 |doi=10.1126/science.207.4434.943 |pmid=17830447 |bibcode=1980Sci...207..943I|url=https://semanticscholar.org/paper/481b0c3f8f52812018e40d7ff668235e0f3c15ba }}</ref> More recent work suggests that orbital variations should gradually increase 65°&nbsp;N summer insolation over the next 25,000 years.<ref>{{cite web |url=http://www.ncdc.noaa.gov/paleo/milankovitch.html |title=NOAA Paleoclimatology Program – Orbital Variations and Milankovitch Theory |publisher=}}</ref> Earth's orbit will become less eccentric for about the next 100,000 years, so changes in this insolation will be dominated by changes in obliquity, and should not decline enough to permit a [[next glacial period|new glacial period]] in the next 50,000 years.<ref name="Berger2002">{{cite journal |vauthors=Berger A, Loutre MF |title=Climate: An exceptionally long interglacial ahead. 

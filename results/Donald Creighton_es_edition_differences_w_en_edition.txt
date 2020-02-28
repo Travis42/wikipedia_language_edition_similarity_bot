@@ -1,0 +1,27 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Donald Creighton
+
+es edition's differences with the en version: 
+
+
+1. 
+"Person's Tab"
+"Donald Grant Creighton"'' ([[Toronto]], [[Ontario]], [15 July]] of [[1902]] - [[Brooklin]], [[Ontario]], [[19 December]] [[1979]]] was a [historian]] and [educator]] [Canadian]]. 
+
+2. 
+He studied at [Victoria College] at [[University of Toronto]] and [Balliol College]. 
+
+3. 
+"list"
+
+NF-1902-1979 Creighton, Donald Grant
+[[Category:Torontonians]]
+[[Category:Canadian Historians]]
+[[Category:Members of the Royal Society of Canada]]
+[[Category:Members of the Order of Canada]]
+[[Category:University of Toronto Teachers]]
+[[Category:Honorary Doctors by the University of Manitoba]]
+[[Category:Honorary Doctors by the University of British Columbia]]
+[[Category:Honoris Doctors cause by Dalhousie University]]
+[[Category:Honorary graduates from the University of Western Ontario]]. 

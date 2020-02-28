@@ -1,0 +1,49 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Historical Dictionary of Switzerland
+
+en edition's differences with the id version: 
+
+
+1. 
+
+== Print edition ==
+[[File:DHS-fr-page.jpg|thumb|Example of one page (French version, volume 3, page 506).]]
+
+The encyclopedia is being edited simultaneously in three national languages of Switzerland: [[German language|German]] (''Historisches Lexikon der Schweiz'', HLS, in red), [[French language|French]] (''Dictionnaire Historique de la Suisse'', DHS, in blue) and [[Italian language|Italian]] (''Dizionario Storico della Svizzera'', DSS, in yellow). 
+
+2. 
+Besides a staff of 35 at the central offices, the contributors include 100 academic advisors, 2500 historians and 100 translators. 
+
+3. 
+
+The encyclopedia is published by a [[Foundation (charity)|foundation]] under the patronage of the [[Swiss Academy of Humanities and Social Sciences]] (SAGW/ASSH) and the [[Swiss Historical Society]] (SGG-SHH) and is financed by national research grants. 
+
+4. 
+{{unreferenced|date=March 2016}}
+{{italic title}}
+[[File:HLS Wortmarke mit grossen Abkürzungen.png|thumb]]
+[[File:HDS-books-123.jpg|thumb|The first three printed volumes, in German, French and Italian.]]
+
+The '''''Historical Dictionary of Switzerland''''' is an [[encyclopedia]] on the [[history of Switzerland]] that aims to take into account the results of modern historical research in a manner accessible to a broader audience. 
+
+5. 
+2: Macdonald à Zwingli)
+
+==External links==
+{{Commonscat-inline|Historical Dictionary of Switzerland|''Historical Dictionary of Switzerland''}}
+* [http://www.hls-dhs-dss.ch DHS/HLS/DSS] online edition in German, French and Italian
+* [http://www.e-lir.ch ''Lexicon Istoric Retic'' (LIR)] online edition in Romansh
+
+{{Authority files}}
+{{Portal bar|Books|History|Switzerland}}
+{{Authority control}}
+[[Category:2002 books]]
+[[Category:Historiography of Switzerland]]
+[[Category:Encyclopedias of history]]
+[[Category:German-language encyclopedias]]
+[[Category:French encyclopedias]]
+[[Category:Italian-language encyclopedias]]
+[[Category:Romansh-language websites]]
+[[Category:21st-century encyclopedias]]
+[[Category:Swiss online encyclopedias]]. 

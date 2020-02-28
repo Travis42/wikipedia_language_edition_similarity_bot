@@ -1,0 +1,47 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Molecular clock
+
+en edition's differences with the id version: 
+
+
+1. 
+Historical methods of clock calibration could only make use of a single fossil constraint (non-parametric rate smoothing),<ref>{{Cite journal|last=Sanderson|first=M.|date=1997|title=A nonparametric approach to estimating divergence times in the absence of rate constancy|url=https://pdfs.semanticscholar.org/2c97/b50950b72bd157c7a6685d6e38bd01a6d0c4.pdf|journal=Molecular Biology and Evolution|volume=14|issue=12|pages=1218–1231|doi=10.1093/oxfordjournals.molbev.a025731}}</ref> while modern analyses ([http://www.beast2.org/ BEAST]<ref>{{Cite journal|author1=Drummond, A. 
+
+2. 
+
+The '''genetic equidistance''' phenomenon was first noted in 1963 by [[Emanuel Margoliash]], who wrote: "It appears that the number of residue differences between [[cytochrome c]] of any two species is mostly conditioned by the time elapsed since the lines of evolution leading to these two species originally diverged. 
+
+3. 
+Sarich and Wilson's paper reported, for example, that human (''[[Homo sapiens]]'') and chimpanzee (''[[Common chimpanzee|Pan troglodytes]]'') albumin immunological cross-reactions suggested they were about equally different from [[New World monkey|Ceboidea]] (New World Monkey) species (within experimental error). 
+
+4. 
+For viral phylogenetics and [[ancient DNA]] studies—two areas of evolutionary biology where it is possible to sample sequences over an evolutionary timescale—the dates of the intermediate samples can be used to more precisely calibrate the molecular clock. 
+
+5. 
+Every generation, each individual can have new mutations, so there are <math>\mu</math>N new neutral mutations in the population as a whole. 
+
+6. 
+{{short description|Technique to deduce the time in prehistory when two or more life forms diverged}}
+{{distinguish|Chemical clock}}
+{{Use dmy dates|date=January 2020}}
+{{Evolutionary biology}}
+The '''molecular clock ''' is figurative term for a technique that uses the [[mutation rate]] of [[biomolecule]]s to [[Chronological dating|deduce the time]] in [[prehistory]] when two or more [[life form]]s [[Genetic divergence|diverged]]. 
+
+7. 
+|volume=6 |issue=8 |pages=654–62 |date=August 2005 |pmid=16136655 |doi=10.1038/nrg1659}}</ref>
+
+Similarly, [[Vincent Sarich]] and [[Allan Wilson]] in 1967 demonstrated that molecular differences among modern [[Primate]]s in [[albumin]] proteins showed that approximately constant rates of change had occurred in all the lineages they assessed.<ref>{{Cite journal|last=Sarich|first=V M|last2=Wilson|first2=A C|date=July 1967|title=Rates of albumin evolution in primates.|journal=Proceedings of the National Academy of Sciences of the United States of America|volume=58|issue=1|pages=142–148|issn=0027-8424|pmid=4962458|pmc=335609|doi=10.1073/pnas.58.1.142}}</ref> The basic logic of their analysis involved recognizing that if one species lineage had evolved more quickly than a sister species lineage since their common ancestor, then the molecular differences between an outgroup (more distantly related) species and the faster-evolving species should be larger (since more molecular changes would have accumulated on that lineage) than the molecular differences between the outgroup species and the slower-evolving species. 
+
+8. 
+
+==Early discovery and genetic equidistance==
+The notion of the existence of a so-called "molecular clock" was first attributed to [[Emile Zuckerkandl|Émile Zuckerkandl]] and [[Linus Pauling]] who, in 1962, noticed that the number of [[amino acid]] differences in [[hemoglobin]] between different lineages changes roughly [[Linear function|linearly]] with time, as estimated from fossil evidence.<ref name=Zuckerkand62>{{cite book | author = [[Emile Zuckerkandl|Zuckerkandl, E.]] and [[Linus Pauling|Pauling, L.B.]] | year = 1962 | title = Horizons in Biochemistry | chapter-url = https://archive.org/details/horizonsinbioche0000kash| chapter-url-access = registration| chapter = Molecular disease, evolution, and genic heterogeneity |editor=Kasha, M. 
+
+9. 
+Researchers such as Francisco Ayala have more fundamentally challenged the molecular clock hypothesis.<ref name=Ayala99>{{cite journal |author= Ayala, F.J.|year=1999 |title=Molecular clock mirages |journal=[[BioEssays]] |volume=21|issue=1 |pages=71–75|url=http://www3.interscience.wiley.com/cgi-bin/abstract/60000186/ABSTRACT?CRETRY=1&SRETRY=0 |archive-url=https://archive.today/20121216135641/http://www3.interscience.wiley.com/cgi-bin/abstract/60000186/ABSTRACT?CRETRY=1&SRETRY=0 |url-status=dead |archive-date=16 December 2012 |doi=10.1002/(SICI)1521-1878(199901)21:1<71::AID-BIES9>3.0.CO;2-B |pmid=10070256}}</ref><ref name=Schwartz06>{{cite journal |author1=Schwartz, J. 
+
+10. 
+|editor2=Vogel, H.J.| pages = 97–166 | publisher = Academic Press, New York|author2-link=Linus Pauling |author-link=Emile Zuckerkandl }}
+*{{cite journal| last = San Mauro| first = D.| title = Molecular systematics: a synthesis of the common methods and the state of knowledge| journal = Cellular & Molecular Biology Letters 
+|volume = 15| pages = 311–341| year = 2010|author2=Agorreta, A. 

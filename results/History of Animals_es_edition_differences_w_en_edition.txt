@@ -1,0 +1,51 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+History of Animals
+
+es edition's differences with the en version: 
+
+
+1. 
+
+<!--Series-->
+| Book Series . 
+
+2. 
+ISBN 2-88074-264-1</ref>
+
+Aristotle studied with some precision and [scientific method] the biological characteristics of [Sharks] around the year [[330 BC]] <ref name-yos/>
+
+• References
+"list"
+
+• External links
+*[http://www.hermanosdearmas.es/wp-content/uploads/2017/12/aristoteles-investigacion-sobre-los-animales-gredos.pdf Text in Spanish, GREDOS CLASIC LIBRARY.]
+*[http://etext.lib.virginia.edu/toc/modeng/public/AriHian.html Text] [[English language]], with electronic index. 
+
+3. 
+[http://remacle.org/bloodwolf/philosophes/Aristote/animaux1.htm I]: French text; each blue label is active and serves to switch to [[Ancient Greek Greek]]. 
+
+4. 
+Book Tab
+| Author [[Aristotle]]
+| Dimensioning to the author 
+| Image - Costantinopoli, aristotele, animalium history e altri scritti, xii sec., pluteo 87,4.JPG
+| Image caption "'History animalium et al.'', Costantinople, XII sec. 
+
+5. 
+
+| Book that precedes you in the series 
+| Book that follows you in the series 
+| Book Series 2 . 
+
+6. 
+
+| Book that precedes you in series 2 
+| Book that follows in series 2 
+| Book that precedes you in the chronology 
+| Year of the book that precedes you in the chronology 
+| Book that follows you in the chronology 
+| Year of the book that follows in the chronology 
+}}
+
+''''''History of animals'''' or '''''Animal Research'''' ('lang-grc'''''' "'''' , "lang-la"' Animalium History is a text from [[zoology]] written in [Greek-Greek Language]] around [[343 BC]] by [[Aristotle]]. 

@@ -1,0 +1,14 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+International Atomic Time
+
+en edition's differences with the vi version: 
+
+
+1. 
+Atomic timekeeping services started experimentally in 1955, using the first caesium atomic clock at the [[National Physical Laboratory (United Kingdom)|National Physical Laboratory, UK (NPL)]]. 
+
+2. 
+The [[United States Naval Observatory]] began the A.1 scale on 13 September 1956, using an [[Atomichron]] commercial atomic clock, followed by the NBS-A scale at the [[National Bureau of Standards]], [[Boulder, Colorado]] on 9 October 1957.{{sfn|McCarthy|Seidelmann|2009|pages=199–200}}
+
+The [[International Time Bureau]] (BIH) began a time scale, T<sub>m</sub> or AM, in July 1955, using both local caesium clocks and comparisons to distant clocks using the phase of [[VLF]] radio signals. 

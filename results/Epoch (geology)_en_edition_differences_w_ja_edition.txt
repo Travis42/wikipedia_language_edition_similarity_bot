@@ -1,0 +1,95 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Epoch (geology)
+
+en edition's differences with the ja version: 
+
+
+1. 
+& Smith, A.G.}}; 2004: ''A Geologic Time Scale 2004'', [[Cambridge University]] Press
+
+{{Clear}}
+{{Geological history|c}}
+
+[[Category:Geological epochs| ]]
+[[Category:Geochronology]]
+[[Category:Geologic time scales]]
+[[Category:Units of geologic time by rank]]. 
+
+2. 
+The current epoch is the [[Holocene]] Epoch of the [[Quaternary]] Period. 
+
+3. 
+
+[[Cenozoic]]
+
+*[[Quaternary]]
+**[[Holocene]]
+**[[Pleistocene]]
+*[[Neogene]]
+**[[Pliocene]]
+**[[Miocene]]
+*[[Paleogene]]
+**[[Oligocene]]
+**[[Eocene]]
+**[[Paleocene]]
+
+[[Mesozoic]]
+*[[Cretaceous]]
+**[[Late Cretaceous|Late (Upper)]]
+**[[Early Cretaceous|Early (Lower)]]
+*[[Jurassic]]
+**[[Late Jurassic|Late (Upper)]]
+**[[Middle Jurassic|Middle]]
+**[[Early Jurassic|Early (Lower)]]
+*[[Triassic]]
+**[[Late Triassic|Late (Upper)]]
+**[[Middle Triassic|Middle]]
+**[[Early Triassic|Early (Lower)]]
+
+[[Paleozoic]]
+
+*[[Permian]]
+**[[Lopingian]]
+**[[Guadalupian]]
+**[[Cisuralian]]
+*[[Carboniferous]]
+**[[Pennsylvanian (geology)|Pennsylvanian]]
+**[[Mississippian (geology)|Mississippian]]
+*[[Devonian]]
+**Late (Upper)
+**Middle
+**Early (Lower)
+*[[Silurian]]
+**[[Pridoli epoch|Pridoli]] 
+**[[Ludlow Group|Ludlow]]
+**[[Wenlock Group|Wenlock]]
+**[[Llandovery Group|Llandovery]]
+*[[Ordovician]]
+**Late (Upper)
+**Middle
+**Early (Lower)
+*[[Cambrian]]
+**[[Furongian|Late (Upper)/Furongian]]
+**Middle
+**Early (Lower)
+
+=== Geological Hierarchy of Chronological Periodization ===
+[[Geochronology]]: From largest to smallest:
+# [[Supereon]]
+# [[Eon (geology)|Eon]]
+# [[Era]]
+# [[Period (geology)|Period]]
+# [[Epoch]]
+# [[Age (geology)|Age]]
+# [[Polarity chron|Chron]]
+
+==References==
+<references/>
+*{{aut|Gradstein, F.M.; Ogg, J.G. 
+
+4. 
+{{short description|Subdivision of geological time; shorter than a period and longer than an age}}
+{{about||historical time|epoch (reference date)|astronomical usage|epoch (astronomy)}}
+
+In [[geochronology]], an '''epoch''' is a subdivision of the [[geologic timescale]] that is longer than an [[age (geology)|age]] but shorter than a [[period (geology)|period]]. 

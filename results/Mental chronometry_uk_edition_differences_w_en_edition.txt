@@ -1,0 +1,100 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Mental chronometry
+
+uk edition's differences with the en version: 
+
+
+1. 
+Dondersa connected primarily classification of arbitrary human reactions and attempt to measure the time of their own mental link of these reactions. 
+
+2. 
+He believed that the time of reactions is an indicator of biological intelligence, understood as the speed at which the brain processes the information supplied as part of the most elementary intellectual acts (implementation of reactions of distinction and choice in the test of "stimulus-response"). 
+
+3. 
+Hicka's law is also a measure of "the speed of information growth." Law is usually expressed by the formula
+ <math> RT = a + b \ log_2 (n + 1) </math> where <math> a </math> and <math> B </math> are constants representing slope functions, and <math> n </math> number of alternatives. 
+
+4. 
+The average indicator for young adults is about 160 milliseconds (for a sound stimulus), and approximately 190 milliseconds (for the visual). 
+
+5. 
+Link speed reactions of choice with indicators [[Cognitive test | Test intelligence]]: the higher the intellect, the faster the many reactions that require distinction, identification, finding similarities-differences of different kinds of incentive-objects. 
+
+6. 
+&nbsp; Hicks developed an experiment that consisted of nine Tests, during which determined the reaction time of the test on the basis of the number of possible options during any given test. 
+
+7. 
+The main conclusion of these studies is as follows: differences in IQ (psychometric intelligence) correlate with differences in the indicators speed or effectiveness of those brain processes that mediated the fulfillment of this or that cognitive task. 
+
+8. 
+To address the last task he built an experiment in which one case were carried out two different reactions to two different signals, with each time the test knew what signal to appear and what response he should do. 
+
+9. 
+The idea of the method is that the number of threads that process the brain increases with increasing number of shapes. 
+
+10. 
+However, as rightly noted Wundt, one of the greatest reaction time researchers after Eksner and DONDERSA, in this situation the element of choice is also present, as the examound should make a choice between movement and calmness. 
+
+11. 
+However, the Halton hypothesis of the relationship between the time of reaction and intelligence did not find confirmation in other early 20TH century studies due to the large number of methodological and technical shortcomings of these studies, among which: high measurement error, inadequate and unreliable criteria of evaluation of intellect level, absence of reliable methods of statistical analysis and description of results. 
+
+12. 
+And since the complex mental acts are additive and cartoative, then IQ can be described as the speed of nerve impulses on the brain neural circuits, the speed and efficiency with which the nervous system performs the "correct" unmistakable impulse of excitation, which caused by touch signals, and their "correct" error sending to the higher nervous centers. 
+
+13. 
+2001; 106:147 – 246
+</ref>
+Half a century later, thanks to the creation of the theory of information, the development of experimental psychology, as well as due to the formation on their basis the concept of individual differences in intelligence as reflected by the speed or efficiency of elementary information processes, conjecture [[Francis Galton | F. 
+
+14. 
+This is due to a broader change in the functioning of the brain, that is, with the gaining of experience, the brain operates more facts and can find a greater number of correct answers in tests, which is the cause of a decrease in reaction time. 
+
+15. 
+If one incentive is to be examined, press the button (form a
+Response to the stimulus), and the other &nbsp; do not react (inhibit the response)
+
+= = = Shtenberg Method = = =
+Based on the process of finding information in memory (you should click one button when you have a specified shape in a number of shapes and other &nbsp; — in the absence). 
+
+16. 
+A literature Review on reaction time//Clemson University-2008 </ref>
+
+= = = Go/No-Go = = =
+Method for measuring reaction time, which is related to action or inaction (Go/No-Go). 
+
+17. 
+There are also statistically significant differences in the speed of realizing various kinds of reactions of choice in children and adults with varying levels of mental abilities and academic performance, as well as correlation relationships (usually intermediate level) between the time of these reactions and mental abilities that are evaluated with different tests. 
+
+18. 
+
+= = Change of reaction time indicators with age = =
+Human reaction rate changes during the age and can serve as a criterion of nervous system. 
+
+19. 
+This type of reaction in which the distinction was one or more signals and the choice of one of two or more responses, donders in-called a reaction. 
+
+20. 
+
+= = = Simple Sensori reaction = = =
+The reaction time of the movement needed to respond to a stimulus. 
+
+21. 
+It consists of three phases: the time to pass nerve impulses from the receptor to the cortex [[Brain | brain |]]; Time required for perception, analysis, impulse handling [[Central nervous system | Higher nerve centers]] and the response to the stimulus in the central nervous system; Time to transmit a response (reaction) to the organs, which acted as irrigener. 
+
+22. 
+
+= = Mental timemetry and Intellect = =
+For the first time, the use of reaction time as a criterion for measuring the individual differences of mental abilities was proposed by Halton, who in 1862 put forward the hypothesis that the rate of reactions (along with sensory absolute and Differential sensitivity) is the biological basis of individual differences in the general [[Intelligence Coefficient of | Mental capacity]], later named [[General Intelligence Factor | G factor]], whose dimension is mandatory in any form [[intelligent | intelligent]] Test. 
+
+23. 
+
+= = Methods of reaction time measurement = =
+There are several basic methods to measure reaction time. 
+
+24. 
+[https://web.archive.org/web/20161222155505/http://documentslide.com/documents/-55cf9747550346d03390b848.html]
+Exner has introduced the term "reaction time", having defined it as the time needed to "conscious way to answer a certain sensual impression". 
+
+25. 
+Reaction time proved to be more time a-reaction and less time in-reaction. 

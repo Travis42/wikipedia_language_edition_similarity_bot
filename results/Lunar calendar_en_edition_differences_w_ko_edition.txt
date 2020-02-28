@@ -1,0 +1,40 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Lunar calendar
+
+en edition's differences with the ko version: 
+
+
+1. 
+Macey dates the earliest uses of the Moon as a time-measuring device back to 28,000-30,000 years ago.<ref>{{Cite book|url=https://books.google.fr/books/about/Encyclopedia_of_Time.html?id=F7wNQk219KMC|title=Encyclopedia of Time|last=Macey|first=Samuel L.|date=1994|publisher=Taylor & Francis|isbn=9780815306153|location=|pages=75|language=en}}</ref>
+
+== Lunisolar calendars ==
+{{main|Lunisolar calendar}}
+Most calendars referred to as "lunar" calendars are in fact [[lunisolar calendar]]s. 
+
+2. 
+A 49-month cycle was proposed as the basis of an alternative [[Computus|Easter computation]] by [[Isaac Newton]] around 1700.<ref>[http://www.cs.biu.ac.il/~belenka/Newton-calendar.pdf Reform of the Julian Calendar as Envisioned by Isaac Newton] by Ari Belenkiy and Eduardo Vila Echagüe (pdf); Notes and Records of the Royal Society of London (vol.&nbsp;59, no.&nbsp;3, pp.&nbsp;223–254).</ref> The [[tabular Islamic calendar]]'s 360-month cycle is equivalent to 24×15&nbsp;months, minus a correction of one day. 
+
+3. 
+In some lunisolar calendars, such as the [[Chinese calendar]], the first day of a month is the day when an astronomical [[new moon]] occurs in a particular time zone. 
+
+4. 
+
+[[Synodic month]]s are 29 or 30&nbsp;days in length, making a [[lunar year]] of 12 months about 11 days shorter than a [[solar year]]. 
+
+5. 
+Present-day lunisolar calendars include the [[Chinese calendar|Chinese]], [[Hindu calendar|Hindu]], and [[Thai lunar calendar|Thai]] calendars. 
+
+6. 
+Some lunar calendars do not use intercalation, such as most [[Islamic calendar]]s. 
+
+7. 
+In others, such as some [[Hindu calendar]]s, each month begins on the day after the full moon or the new moon. 
+
+8. 
+Since the period of 12 such lunations, a '''lunar year''', is only 354&nbsp;days, 8&nbsp;hours, 48&nbsp;minutes, 34&nbsp;seconds ({{val|354.367056}}&nbsp;days), purely lunar calendars lose around 11&nbsp;days per year relative to the [[Gregorian calendar]]. 
+
+9. 
+
+== Length of the lunar month ==
+The length of each lunar cycle varies slightly from the average value. 

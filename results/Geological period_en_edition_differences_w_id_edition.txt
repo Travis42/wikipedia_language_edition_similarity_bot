@@ -1,0 +1,34 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Geological period
+
+en edition's differences with the id version: 
+
+
+1. 
+
+[[Eon (geology)|Eons]] and [[Era (geology)|eras]] are larger subdivisions than periods while periods themselves may be divided into [[Epoch (geology)|epochs]] and [[Age (geology)|ages]]. 
+
+2. 
+* Even earlier in the history of the science, the Tertiary was considered to be an 'era' and its subdivisions ([[Paleocene]], [[Eocene]], [[Oligocene]], [[Miocene]] and [[Pliocene]]) were themselves referred to as 'periods' but they now enjoy the status of 'epochs' within the more recently delineated [[Paleogene]] and [[Neogene]] periods. 
+
+3. 
+
+== See also ==
+*[[Geologic time scale]]
+
+==References==
+<references/>
+
+{{Chronology}}
+
+{{DEFAULTSORT:Period}}
+[[Category:Geology]]
+[[Category:Geological periods| ]]
+[[Category:Geochronology]]
+[[Category:Geologic time scales]]
+[[Category:Units of geologic time by rank]]. 
+
+4. 
+
+A consequence of this approach to the Phanerozoic periods is that the ages of their beginnings and ends can change from time to time as the absolute age of the chosen rock sequences, which define them, is more precisely determined. 

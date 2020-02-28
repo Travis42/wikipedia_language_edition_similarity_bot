@@ -1,0 +1,36 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Human geography
+
+en edition's differences with the es version: 
+
+
+1. 
+Two main interests are site (how a settlement is positioned relative to the physical environment) and situation (how a settlement is positioned relative to other settlements). 
+
+2. 
+|author2=Crang, Phil |author3=Crang, Philip |author4=Goodwin, Mark | title=Introducing human geographies |edition=2nd| year=2005 | publisher=Hodder Arnold | location=London  | isbn=978-0-340-88276-4 | pages=}}
+* {{Cite book |last1= Crang|first1= Mike|authorlink1=Mike Crang|last2= Thrift|first2= Nigel J.|authorlink2=Nigel Thrift| title=Thinking space | year=2000 | publisher=Routledge | location=London  | isbn=978-0-415-16016-2 | pages=}}
+* {{Cite book |author1=Daniels, Peter |author2=Bradshaw, Michael |author3=Shaw, Denis J. 
+
+3. 
+
+The Association of American Geographers was founded in 1904 and was renamed the [[American Association of Geographers]] in 2016 to better reflect the increasingly international character of its membership. 
+
+4. 
+These are clearly not the only subfields that could be used to assist in the study of [[Urban geography]], but they are some major players.<ref name="Palm"/>
+
+==Philosophical and theoretical approaches==
+Within each of the subfields, various philosophical approaches can be used in research; therefore, an urban geographer could be a Feminist or Marxist geographer, etc. 
+
+5. 
+The first real geographical intellect to emerge in [[United Kingdom]]'s geographical minds was [[Halford John Mackinder]], appointed reader at [[University of Oxford|Oxford University]] in 1887. 
+
+6. 
+
+===Politics===
+[[Political geography]] is concerned with the study of both the spatially uneven outcomes of political processes and the ways in which political processes are themselves affected by spatial structures. 
+
+7. 
+
+The [[Royal Geographical Society]] was founded in [[England]] in 1830,<ref>{{cite web|last=Royal Geographical Society|title=History|url=http://www.rgs.org/AboutUs/History.htm|accessdate=9 March 2011}}</ref> although the United Kingdom did not get its first full Chair of geography until 1917. 

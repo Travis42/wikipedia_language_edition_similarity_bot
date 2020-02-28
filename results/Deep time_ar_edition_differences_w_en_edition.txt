@@ -1,0 +1,24 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Deep time
+
+ar edition's differences with the en version: 
+
+
+1. 
+<ref>{{{Web Reference=Path=http://www.scientificamerican.com/article/how-science-figured-out-the-age-of-the-earth/|title=How Science Figured Out the Last Age of Earth|=Braterman|I=Paul S.| Location=Scientific American|Arrival Date=2016-04-17| Archive Path = https://web.archive.org/web/20180110124110/https://www.scientificamerican.com/article/how-science-figured-out-the-age-of-the-earth/ | Archive Date = January 10, 2018 {</ref><ref> https://web.archive.org/web/20150903230852/http://www.academia.edu/1112014/The_Language_of_Mineralogy_John_Walker_Chemistry_and_the_Edinburgh_Medical_School_1750-1800_2008_ https://www.academia.edu/1112014/The_Language_of_Mineralogy_John_Walker_Chemistry_and_the_Edinburgh_Medical_School_1750-1800_2008_{===_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ Archive Date = September 3, 2015 }</ref>
+== References ==
+{{Reference}}
+
+{{Time Topics}}
+{{Time Standards and Standards}}
+{{Chrystological Science}}
+{{{Gatebar|Geography|Time}}
+
+{{Geographical seed}}
+
+[Classification:History of Earth Sciences]
+[Rating:Evolution]]
+[Classification:Historical Geology]
+[Rating:Time]]
+[Classification:Geotemporal Science]. 

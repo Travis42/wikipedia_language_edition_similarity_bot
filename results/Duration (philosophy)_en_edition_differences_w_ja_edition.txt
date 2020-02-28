@@ -1,0 +1,65 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Duration (philosophy)
+
+en edition's differences with the ja version: 
+
+
+1. 
+Thus, to grasp duration, one must reverse habitual modes of thought and place oneself within duration by intuition.<ref name="Henri Bergson pages 165"/>
+
+==Physics and Bergson's ideas==
+Bergson's ideas concerning the [[philosophy of time]] were somewhat rediscovered after a paper 
+on Zeno's paradox was published in ''Foundations of Physics Letters'' and generated interest in 2003. 
+
+2. 
+Hence Bergson decided to explore the inner life of man, which is a kind of duration, neither a unity nor a quantitative [[Multiplicity (philosophy)|multiplicity]].<ref name="The_Creative_Mind"/> Duration is ineffable and can only be shown indirectly through images that can never reveal a complete picture. 
+
+3. 
+Let us consider that this action, in spite of its duration, is indivisible if one supposes that it goes on without stopping; that, if we intercalate a stop in it, we make two actions of it instead of one and that each of these actions will then be the indivisible of which we speak; that it is not the moving act itself which is never indivisible, but the motionless line it lays down beneath it like a track in space. 
+
+4. 
+Yet even this image is inaccurate and incomplete, for it represents duration as a fixed and complete spectrum with all the shades spatially juxtaposed, whereas duration is incomplete and continuously growing, its states not beginning or ending but intermingling.<ref name="Creative_Mind">Henri Bergson, ''The Creative Mind: An Introduction to Metaphysics'', pages 164 to 165.</ref><ref>Henri Bergson, ''The Creative Mind: An Introduction to Metaphysics'', page 163: ''Strictly speaking they do not constitute multiple states until I have already got beyond them, and turn around to observe their trail. 
+
+5. 
+A person with no memory might experience two identical moments but, Bergson says, that person's consciousness would thus be in a constant state of death and rebirth, which he identifies with unconsciousness.<ref name="Creative_Mind"/> The image of two spools, however, is of a homogeneous and commensurable thread, whereas, according to Bergson, no two moments can be the same, hence duration is heterogeneous. 
+
+6. 
+Since space is a homogeneous, quantitative [[Multiplicity (philosophy)|multiplicity]], duration becomes juxtaposed and converted into a succession of distinct parts, one coming after the other and therefore "caused" by one another. 
+
+7. 
+It is used as a defense of [[free will]] in a response to [[Immanuel Kant]], who believed free will was only possible outside time and space.<ref>[http://plato.stanford.edu/entries/bergson/ The Stanford Encyclopedia of Philosophy] ''Time and Free Will has to be seen as an attack on Kant, for whom freedom belongs to a realm outside of space and time.''</ref>
+
+==Responses to Kant and Zeno==
+[[Image:Immanuel Kant (painted portrait).jpg|thumbnail|left|150px|Immanuel Kant, who believed [[free will]] was only a pragmatic belief.]]
+
+[[Zeno of Elea]] believed reality was an uncreated and indestructible immobile whole.<ref>Parmenides, ''On Nature''.</ref> He formulated [[Zeno's paradoxes|four paradoxes]] to present mobility as an impossibility. 
+
+8. 
+It can only be grasped through a simple [[Intuition (Bergson)|intuition]] of the imagination.<ref name="Henri Bergson pages 165">Henri Bergson, ''The Creative Mind: An Introduction to Metaphysics'', pages 165 to 168.</ref>
+
+Bergson first introduced his notion of duration in his essay ''[[Time and Free Will]]: An Essay on the Immediate Data of Consciousness''. 
+
+9. 
+One must accept time as it really is through placing oneself within duration where freedom can be identified and experienced as pure mobility.<ref>[http://plato.stanford.edu/entries/bergson/ The Stanford Encyclopedia of Philosophy] ''For Bergson — and perhaps this is his greatest insight — freedom is mobility.''</ref>
+
+==Images of duration==
+
+The first is of two spools, one unrolling to represent the continuous flow of ageing as one feels oneself moving toward the end of one's life-span, the other rolling up to represent the continuous growth of memory which, for Bergson, equals consciousness. 
+
+10. 
+Smart) are apparently unaware of his total precedence by Bergson"</ref>
+
+== References ==
+<references/>
+
+== External links ==
+*[https://web.archive.org/web/20060424080648/http://spartan.ac.brocku.ca/~lward/Bergson/Bergson_1910/Bergson_1910_toc.html 1910 English translation of ''Time and Free Will'']
+*[https://archive.org/details/timeandfreewilla00berguoft Multiple formats] at Internet Archive
+
+{{Time in philosophy}}
+
+[[Category:Henri Bergson]]
+[[Category:Free will]]
+[[Category:Philosophy of time]]
+[[Category:Concepts in metaphysics]]. 

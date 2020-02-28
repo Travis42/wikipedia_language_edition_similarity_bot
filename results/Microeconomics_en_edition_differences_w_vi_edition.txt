@@ -1,0 +1,280 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Microeconomics
+
+en edition's differences with the vi version: 
+
+
+1. 
+
+* [[Public economics]] examines the design of government [[tax]] and expenditure policies and economic effects of these policies (e.g., social insurance programs). 
+
+2. 
+It is also possible to more fully understand the impacts – both positive and negative – of agents seeking out or acquiring information.<ref name="Varian H.R. 
+
+3. 
+
+[[Market equilibrium]] occurs where quantity supplied equals quantity demanded, the intersection of the supply and demand curves in the figure above. 
+
+4. 
+At a price below equilibrium, there is a shortage of quantity supplied compared to quantity demanded. 
+
+5. 
+At a price above equilibrium, there is a surplus of quantity supplied compared to quantity demanded. 
+
+6. 
+
+=== Imperfect competition ===
+{{main|Imperfect competition}}
+
+Imperfect competition is a type of market structure showing some but not all features of competitive markets. 
+
+7. 
+
+=== Monopolistic competition ===
+{{main|Monopolistic competition}}
+
+Monopolistic competition is a situation in which many firms with slightly different products compete. 
+
+8. 
+Economists call the solution to the utility maximization problem a [[Marshallian demand function|Walrasian demand function]] or correspondence. 
+
+9. 
+
+[[File:Supply-demand-right-shift-demand.svg|thumb|The [[supply and demand]] model describes how prices vary as a result of a balance between product availability and demand. 
+
+10. 
+Other factors can change demand; for example an increase in income will shift the demand curve for a [[normal good]] outward relative to the origin, as in the figure. 
+
+11. 
+In: Palgrave Macmillan (eds) The New Palgrave Dictionary of Economics. 
+
+12. 
+
+=== Bilateral monopoly ===
+{{main|Bilateral monopoly}}
+
+A bilateral monopoly is a market consisting of both a monopoly (a single seller) and a monopsony (a single buyer). 
+
+13. 
+Here as well, the determinants of supply, such as price of substitutes, cost of production, technology applied and various factors inputs of production are all taken to be constant for a specific time period of evaluation of supply. 
+
+14. 
+[[natural monopoly|natural monopolies]]).<ref>{{Cite news|url=https://www.economicshelp.org/microessays/markets/monopoly/|title=Monopoly - Economics Help|work=Economics Help|access-date=2018-03-14|language=en-GB|url-status=live|archiveurl=https://web.archive.org/web/20180314104615/https://www.economicshelp.org/microessays/markets/monopoly/|archivedate=2018-03-14|df=}}</ref>{{citation needed|date=January 2018}}
+
+* Natural monopoly: A monopoly in an industry where one producer can produce output at a lower cost than many small producers. 
+
+15. 
+That is, the utility maximization problem is used by economists to not only explain ''what'' or ''how'' individuals make choices but ''why'' individuals make choices as well. 
+
+16. 
+
+== Microeconomic models ==
+
+=== Supply and demand ===
+{{main|Supply and demand}}
+
+Supply and demand is an [[economic model]] of [[price determination]] in a perfectly competitive [[Market (economics)|market]]. 
+
+17. 
+The graph depicts a right-shift in demand from D<sub>1</sub> to D<sub>2</sub> along with the consequent increase in price and quantity required to reach a new market-clearing equilibrium point on the supply curve (S).]]
+The theory of [[supply and demand]] usually assumes that markets are [[perfect competition|perfectly competitive]]. 
+
+18. 
+These distinctions translate to differences in the [[Price elasticity of supply|elasticity]] (responsiveness) of the supply curve in the short and long runs and corresponding differences in the price-quantity change from a shift on the supply or demand side of the market. 
+
+19. 
+
+=== Perfect competition ===
+{{main|Perfect competition}}
+
+Perfect competition is a situation in which numerous small firms producing identical products compete against each other in a given industry. 
+
+20. 
+* [[Jack Hirshleifer|Hirshleifer, Jack]]., Glazer, Amihai, and [[David Hirshleifer|Hirshleifer, David]], ''Price theory and applications: Decisions, markets, and information.'' Cambridge University Press, 7th Edition: 2005. 
+
+21. 
+The [[Model (economics)|model]] of supply and demand predicts that for given supply and demand curves, price and quantity will stabilize at the price that makes quantity supplied equal to quantity demanded. 
+
+22. 
+|date=28 April 2016 |title=Utility and Value |work=Encyclopædia Britannica |url=https://www.britannica.com/topic/utility-economics}}</ref> The corresponding point on the supply curve measures [[marginal cost]], the increase in total cost to the supplier for the corresponding unit of the good. 
+
+23. 
+A good example would be that of digital marketplaces, such as [[eBay]], on which many different sellers sell similar products to many different buyers. 
+
+24. 
+The "Law of Supply" states that, in general, a rise in price leads to an expansion in supply and a fall in price leads to a contraction in supply. 
+
+25. 
+The graph depicts an increase (that is, right-shift) in demand from D<sub>1</sub> to D<sub>2</sub> along with the consequent increase in price and quantity required to reach a new equilibrium point on the supply curve (S).|alt=A graph depicting Quantity on the X-axis and Price on the Y-axis]]
+
+[[Prices and quantities]] have been described as the most directly observable attributes of goods produced and exchanged in a [[market economy]].<ref>{{cite encyclopedia |last=Brody |first=A. 
+
+26. 
+
+=== Opportunity cost ===
+{{Main|Opportunity cost}}
+
+Opportunity cost is closely related to the idea of time constraints. 
+
+27. 
+[[Image:Supply-demand-right-shift-demand.svg|thumb|The [[supply and demand]] model describes how prices vary as a result of a balance between product availability at each price (supply) and the desires of those with purchasing power at each price (demand). 
+
+28. 
+
+In the mathematical model for the cost of production, the short-run total cost is equal to [[fixed cost]] plus total [[variable cost]]. 
+
+29. 
+The fixed cost refers to the cost that is incurred regardless of how much the firm produces. 
+
+30. 
+doi:10.1017/9781139565981 ]</ref> [[Production (economics)|Production]] uses [[resource]]s to create a [[good (economics)|good]] or [[service (economics)|service]] that is suitable for use, [[gift]]-giving in a [[gift economy]], or [[trade|exchange]] in a [[market economy]]. 
+
+31. 
+[http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=7640 Description]  {{webarchive|url=https://web.archive.org/web/20120125171634/http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=7640 |date=2012-01-25 }} and chapter-preview [https://books.google.com/books/p/harvard?id=7r484x3HVu4C&printsec=find&pg=PR5=#v=onepage&q&f=false links].</ref> The economics of information has recently become of great interest to many - possibly due to the rise of information based companies inside the technology industry.<ref name="Varian H.R. 
+
+32. 
+Palgrave Macmillan, London</ref> From a game theory approach, we can loosen the usual constraints that agents have complete information to further examine the consequences of having incomplete information. 
+
+33. 
+* [[Education economics]] examines the organization of education provision and its implication for efficiency and equity, including the effects of education on productivity. 
+
+34. 
+It concludes that in a [[perfect competition|perfectly competitive market]] with no [[externality|externalities]], [[excise|per unit taxes]], or [[price controls]], the [[unit price]] for a particular [[Good (economics)|good]] is the price at which the quantity demanded by consumers equals the quantity supplied by producers. 
+
+35. 
+
+''Supply'' is the relation between the price of a good and the quantity available for sale at that price. 
+
+36. 
+Firms in perfect competition are "price takers" (they do not have enough [[market power]] to profitably increase the price of their goods or services). 
+
+37. 
+In a [[perfect competition|perfectly competitive market]], supply and demand equate marginal cost and marginal utility at equilibrium.<ref name="Hicks">{{cite book |title=Value and Capital: An Inquiry into Some Fundamental Principles of Economic Theory |last=Hicks |first=J.R. 
+
+38. 
+Analogously, the producer compares [[marginal revenue]] (identical to price for the perfect competitor) against the [[marginal cost]] of a good, with ''marginal profit'' the difference. 
+
+39. 
+ https://assets.cambridge.org/97811070/36161/frontmatter/9781107036161_frontmatter.pdf
+* [[Hal Varian|Varian, Hal R.]] (1987). 
+
+40. 
+
+== Microeconomic theory ==
+
+=== Consumer demand theory ===
+{{main|Consumer choice}}
+
+Consumer demand theory relates [[Preference (economics)|preferences]] for the consumption of both [[good (economics)|goods]] and services to the consumption expenditures; ultimately, this relationship between preferences and consumption expenditures is used to relate preferences to [[supply and demand|consumer demand curves]]. 
+
+41. 
+
+* [[Economic history]] examines the evolution of the economy and economic institutions, using methods and techniques from the fields of economics, history, geography, sociology, psychology, and political science. 
+
+42. 
+
+=== Cost-of-production theory of value ===
+{{main|Cost-of-production theory of value}}
+
+The cost-of-production theory of value states that the price of an object or condition is determined by the sum of the cost of the resources that went into making it. 
+
+43. 
+
+=== Production theory ===
+{{main|Production theory}}
+
+Production theory is the study of production, or the economic process of converting inputs into outputs.<ref>[https://assets.cambridge.org/97811070/36161/frontmatter/9781107036161_frontmatter.pdf  Sickles, R., & Zelenyuk, V. 
+
+44. 
+|date=1963 |orig-year=1932 |edition=second |title=The Theory of Wages |publisher=Macmillan|title-link=The Theory of Wages }}</ref>
+
+Demand-and-supply analysis is used to explain the behaviour of perfectly competitive markets, but as a standard of comparison it can be extended to any type of market. 
+
+45. 
+[[Game theory]] can elucidate behavior in duopolies and oligopolies.<ref>
+{{Cite web
+ |url         = http://www.apeconreview.com/oligopoly.html
+ |title       = Oligopoly/Duopoly and Game Theory
+ |website     = AP Microeconomics Review
+ |last        = 
+ |first       = 
+ |date        = 2017
+ |publisher   = 
+ |access-date = 2017-06-11
+ |quote       = Game theory is the main way economists [sic] understands the behavior of firms within this market structure. 
+
+46. 
+"Information as an Economic Commodity," ''American Economic Review'', 80(2),  pp. 
+
+47. 
+* McGuigan, James R.; Moyer, R. 
+
+48. 
+
+== Game theory ==
+{{main|Game theory}}
+
+Game theory is a major method used in [[mathematical economics]] and business for [[economic model|modeling]] competing behaviors of interacting [[agent (economics)|agents]]. 
+
+49. 
+
+=== Oligopoly ===
+{{main|Oligopoly}}
+
+An oligopoly is a [[market form|market structure]] in which a [[Market (economics)|market]] or [[industry]] is dominated by a small number of firms (oligopolists). 
+
+50. 
+
+=== Monopoly ===
+{{main|Monopoly}}
+
+A monopoly is a market structure in which a market or industry is dominated by a single supplier of a particular good or service. 
+
+51. 
+Consumers in a perfect competitive market have perfect knowledge about the products that are being sold in this market. 
+
+52. 
+
+The concept of "market type" is different from the concept of "market structure." Nevertheless, it is worth noting here that there are a variety of [[Market (economics)#Types_of_markets|types of markets]]. 
+
+53. 
+This model of microeconomic theory is referred to as [[revealed preference]] theory. 
+
+54. 
+''Price Theory.'' Aldine Transaction: 1976
+* Hagendorf, Klaus: [http://ssrn.com/paper=1489383 Labour Values and the Theory of the Firm. 
+
+55. 
+In microeconomics, it applies to price and output determination for a market with [[perfect competition]], which includes the condition of no buyers or sellers large enough to have price-setting [[market power|power]]. 
+
+56. 
+
+Competition acts as a regulatory mechanism for market systems, with government providing regulations where the market cannot be expected to regulate itself. 
+
+57. 
+|date=1987 |work=The New Palgrave: A Dictionary of Economics  |edition=first |editor-first1=John |editor-last1=Eatwell |editor-first2=Murray |editor-last2=Milgate |editor-first3=Peter |editor-last3=Newman |url=http://www.dictionaryofeconomics.com/article?id=pde1987_X001748 |doi=10.1057/9780230226203.3325|title=The New Palgrave Dictionary of Economics |pages=1 |isbn=9780333786765 |chapter=Prices and quantities }}</ref> The theory of supply and demand is an organizing principle for explaining how prices coordinate the amounts produced and consumed. 
+
+58. 
+|date=October 1982 |title=The Competitive Allocation Process Is Informationally Efficient Uniquely |url= |journal=[[Journal of Economic Theory]] |volume=28 |issue=1 |pages=1–18 |doi=10.1016/0022-0531(82)90088-6}}</ref>
+
+== Market structure ==
+{{main|Market structure}}
+{{Unreferenced section|date=October 2018}}
+
+Market structure refers to features of a market, including the number of firms in the market, the distribution of market shares between them, product uniformity across firms, how easy it is for firms to enter and exit the market, and forms of competition in the market.<ref>{{Cite book| publisher = Thomson South-Western| isbn = 978-0-324-28860-5| last = McEachern| first = William A.| title = Economics: A Contemporary Introduction| date = 2006| pages = [https://archive.org/details/economicscontemp0000mcea/page/166 166]| url = https://archive.org/details/economicscontemp0000mcea/page/166}}</ref><ref>{{Cite encyclopedia| publisher = Oxford University Press| isbn = 978-0-19-875943-0| last1 = Hashimzade| first1 = Nigar| last2 = Myles| first2 = Gareth| last3 = Black| first3 = John| title = market structure| encyclopedia = A Dictionary of Economics| date = 2017| url = https://www.oxfordreference.com/view/10.1093/acref/9780198759430.001.0001/acref-9780198759430-e-1937}}</ref> A market structure can have several types of interacting [[market system]]s. 
+
+59. 
+
+== Economics of information ==
+{{main|Information economics}}
+
+Information economics is a branch of microeconomic theory that studies how information and information systems affect an [[economy]] and economic decisions. 
+
+60. 
+Shown is a marketplace in Delhi.]]
+
+'''Microeconomics''' (from Greek prefix ''mikro-'' meaning "small" + ''economics'') is a branch of [[economics]] that studies the behaviour of individuals and [[Theory of the firm|firms]] in making decisions regarding the allocation of [[scarcity|scarce resources]] and the interactions among these individuals and firms.<ref>{{cite web |url=http://www.ca.uky.edu/agc/pubs/aec/aec75/aec75.pdf |title=Macroeconomics and International Policy Terms |accessdate=2007-05-04 |last=Marchant |first=Mary A. 
+
+61. 
+|date=1987 |work=The New Palgrave: A Dictionary of Economics  |edition=first |editor-first1=John |editor-last1=Eatwell |editor-first2=Murray |editor-last2=Milgate |editor-first3=Peter |editor-last3=Newman |url=http://www.dictionaryofeconomics.com/article?id=pde1987_X001250 |doi=10.1057/9780230226203.2907|title=The New Palgrave Dictionary of Economics |pages=1 |isbn=9780333786765 |chapter=Labour economics }}<br />&nbsp;&nbsp; • {{cite encyclopedia |last1=Taber |first1=Christopher |title=The New Palgrave Dictionary of Economics |pages=787–791 |first2=Bruce A. 

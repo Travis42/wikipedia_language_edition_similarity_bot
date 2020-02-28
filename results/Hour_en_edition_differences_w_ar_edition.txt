@@ -1,0 +1,233 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Hour
+
+en edition's differences with the ar version: 
+
+
+1. 
+
+{{anchor|Etymology|Names|Time of Day|Time of day}}
+
+==Name==
+''Hour'' is a development of the [[Anglo-Norman language|Anglo-Norman]] ''{{lang|xno|houre}}'' and [[Middle English]] ''{{lang|enm|ure}}'', first attested in the 13th century.<ref name=hoed>{{harvnb|''OED''|loc=hour, ''n.''}}</ref>{{efn|From the {{c.|1250}} [[sermon]] for [[Sexagesima Sunday]]: {{lang|ang|...Þos laste on ure habbeþ i-travailed...}}<ref>{{citation |title=An Old English Miscellany |url=https://archive.org/stream/anoldenglishmis00sullgoog#page/n5/mode/2up |editor-last=Morris |editor-first=Richard |location=London |publisher=N. 
+
+2. 
+By the [[Egyptian New Kingdom|New Kingdom]], each hour was conceived as a specific region of the sky or [[Egyptian underworld|underworld]] through which [[Ra (god)|Ra]]'s [[Atet|solar barge]] travelled.{{sfnp|Wilkinson|2003|p=83}} Protective deities were assigned to each and were used as the names of the hours.{{sfnp|Wilkinson|2003|p=83}} As the protectors and resurrectors of the sun, the goddesses of the night hours were considered to hold power over all lifespans{{sfnp|Wilkinson|2003|p=83}} and thus became part of Egyptian funerary rituals. 
+
+3. 
+
+=== Counting from midnight ===
+In the modern [[12-hour clock]], counting the hours starts at midnight and restarts at noon. 
+
+4. 
+
+=== Counting from dawn ===
+In ancient and medieval cultures, the counting of hours generally started with sunrise. 
+
+5. 
+| date = 2018 | title = Scandalous Error: Calendar Reform and Calendrical Astronomy in Medieval Europe | publisher = Oxford University Press | place = Oxford | page = 126 | isbn = 9780198799559}}</ref>, subsequently divided the hour into 60 [[minute]]s, each of 60 [[second]]s. 
+
+6. 
+There are 60 ''pe'' per day, 60 minutes per ''pe'' and 60 ''kshana'' (snap of a finger or instant) per minute. 
+
+7. 
+* {{citation |last=Parker |first=Richard Anthony |authorlink=Richard Anthony Parker |title=The Calendars of Ancient Egypt |series=''Studies in Ancient Oriental Civilization'', No. 
+
+8. 
+Fifteen minutes before the hour may be expressed as "a quarter to", "of", "till", or "before" the hour.{{sfn|''OED''|loc=quarter, ''n''}} (9:45 may be read "nine forty-five" or "a quarter till ten".)
+
+==History==
+{{Further|History of timekeeping devices}}
+
+===Egypt===
+{{Further|Egyptian calendar|Decans|History of timekeeping devices in Egypt}}
+The [[ancient Egypt]]ians began dividing the night into ''{{lang|egy|wnwt}}'' at some time before the compilation of the [[Dynasty V]] [[Pyramid Texts]]<ref name=comeandlisten>{{harvp|Clagett|1995|p=[https://books.google.com.hk/books?id=xKKPUpDOTKAC&pg=PA49 49]}}</ref> in the 24th{{nbsp}}century{{nbsp}}{{sc|bc}}.<ref name=toastory>{{harvp|Clagett|1995|p=[https://books.google.com.hk/books?id=xKKPUpDOTKAC&pg=PA50 50]}}</ref> By 2150{{nbsp}}{{sc|bc}} ([[Dynasty IX]]), diagrams of stars inside Egyptian [[coffin]] lids—variously known as "diagonal calendars" or "star clocks"—attest that there were exactly 12 of these.<ref name=toastory/> [[Marshall Clagett|Clagett]] writes that it is "certain" this duodecimal division of the night followed the adoption of the [[Egyptian civil calendar]],<ref name=comeandlisten/> usually placed {{c.|2800}}{{nbsp}}{{sc|bc}} on the basis of analyses of the [[Sothic cycle]], but a [[Egyptian lunar calendar|lunar calendar]] presumably long predated this{{sfnp|Parker|1950|pp=30-2}} and also would have had twelve [[month]]s in each of its years. 
+
+9. 
+Its [[Proto-Indo-European]] [[root (linguistics)|root]] has been [[linguistic reconstruction|reconstructed]] as ''{{PIE|[[wikt:Reconstruction:Proto-Indo-European/yeh₁-|*yeh₁-]]}}'' ("year, [[summer]]"), making ''hour'' distantly [[cognate (etymology)|cognate]] with ''[[year]]''. 
+
+10. 
+It was already widely used in [[Italy]] by the 14th century and lasted until the mid-18th century; it was officially abolished in 1755, or in some regions customary until the mid-19th century.{{efn|There is a trace of that system, for instance, in [[Verdi]]'s [[opera]]s where in ''[[Rigoletto]]'' or in ''[[Un ballo in maschera]]'' midnight is announced by the bell striking 6 times, not 12. 
+
+11. 
+However, on rare occasions an hour may incorporate a positive or negative [[leap second]],{{efn|Since 1972, the 27 [[leap second]]s added to UTC have all been additions.}} making it last 3,599 or 3,601 seconds, in order to keep it within 0.9 seconds of [[UT1]], which is based on measurements of the [[Mean solar time|mean solar day]]. 
+
+12. 
+This was variously divided into 30 ''muhūtras'' of 48 minutes each or 60 ''dandas''{{fact|date=March 2017}} or ''nadís'' of 24 minutes each.<ref name=dersh>{{harvp|Dershowitz & al.|2008|p=[https://books.google.co.uk/books?id=DPbx0-qgXu0C&pg=PA207 207]}}</ref> The [[solar day]] was later similarly divided into 60 ''ghaṭikás'' of about the same duration, each divided in turn into 60 ''vinadis''.<ref name=dersh/> The [[Sinhalese people|Sinhalese]] followed a similar system but called their sixtieth of a day a ''peya''. 
+
+13. 
+The [[hour record]] for the greatest distance travelled by a cyclist within the span of an hour is one of [[cycling]]'s greatest honours. 
+
+14. 
+The Egyptian word for [[astronomy|astronomer]], used as a synonym for priest, was ''{{lang|egy|wnwty}}'', "One of the Hours" or "Hour-Watcher".{{efn|''{{lang|egy|Wnwty}}'' is written variously as <hiero>E34:N35-G43-X1:Z4-N14</hiero>,{{sfnp|Vygus|2015|p=400}} <hiero>E34:N35-W24*X1-D4</hiero>, <hiero>E34:N35-W24*X1-N14</hiero>,{{sfnp|Vygus|2015|p=408}} <hiero>E34:N35-W24:X1-N14-A24-A1:Z2</hiero>, <hiero>E34:N35-W24:X1-N14-N5:D4</hiero>,{{sfnp|Vygus|2015|p=409}} <hiero>E34:N35-W24:X1-Z4-A1</hiero>, <hiero>E34:N35-W24:X1-Z4-N11:N14-D6</hiero>, <hiero>E34:N35-W24:X1-Z4-N14</hiero>, <hiero>E34:N35-W24:X1-Z4-N14-A1</hiero>, <hiero>E34:N35-W24:X1-Z4-N2-A24</hiero>,{{sfnp|Vygus|2015|p=410}} <hiero>E34:N35-X1:Z4-N14:N5</hiero>,{{sfnp|Vygus|2015|p=412}} <hiero>N14</hiero>,{{sfnp|Vygus|2015|p=1235}} <hiero>N14:W24-X1:Z4</hiero>,{{sfnp|Vygus|2015|p=1239}} and <hiero>N14:X1*Z4</hiero>.{{sfnp|Vygus|2015|p=1240}}}} The earliest forms of ''{{lang|egy|wnwt}}'' include one or three stars, with the later solar hours including the [[determinative#Egyptian|determinative]] [[Egyptian hieroglyphs|hieroglyph]] for "sun".<ref name=comeandlisten/>
+
+===East Asia===
+[[File:Clock Tower from Su Song's Book.JPG|thumb|right|200px|A Chinese diagram from [[Su Song]]'s {{sc|ad}}{{nbsp}}1092 ''Xinyi Xiangfa Yao'' illustrating his clocktower at [[Kaifeng]].]]
+[[File:Beijing_2006_1-14.jpg|thumb|right|200px|A reconstruction of another kind of Chinese [[Water clock|clepsydra]] in [[Beijing]]'s [[Beijing Drum Tower|Drum Tower]]]]
+{{main|Traditional  Chinese timekeeping}}
+[[Ancient China]] divided its day into 100 "marks"{{sfnp|Stephenson|1997}}{{sfnp|Steele|2000}} {{nowrap|([[Chinese language|Chinese]]: {{lang|zh|{{linktext|刻}}}},}} {{nowrap|<small>[[Old Chinese|oc]]</small> [[linguistic reconstruction|*]]''kʰək'',{{sfnp|Baxter & al.|2014}}}} {{nowrap|<small>[[pinyin|p]]</small> ''kè'')}} running from midnight to midnight.{{sfnp|Sōma & al.|2004|p=887}} The system is said to have been used since [[prehistoric China|remote antiquity]],{{sfnp|Sōma & al.|2004|p=887}} credited to the legendary [[Yellow Emperor]],{{sfnp|Petersen|1992|p=129}} but is first attested in [[Western Han|Han]]-era [[water clock]]s{{sfnp|Petersen|1992|p=125}} and in the [[Book of Han|2nd-century history]] of that [[list of Chinese dynasties|dynasty]].{{sfnp|Sōma & al.|2004|p=889}} It was measured with sundials{{sfnp|Stephenson & al.|2002|pp=15–16}} and [[water clock]]s.{{efn|According to the 2nd-century ''[[Shuowen Jiezi]]'', "A water clock holds the water in a copper pot and notes the marks [''kè''] by a rule. 
+
+15. 
+These were filled to the brim at sunset and the hour determined by comparing the water level against one of its twelve gauges, one for each month of the year.{{sfnp|Parker|1950|p=40}} During the [[New Kingdom]], another system of decans was used, made up of 24 stars over the course of the year and 12 within any one night. 
+
+16. 
+The coffin diagrams show that the Egyptians took note of the [[heliacal rising]]s of 36 stars or [[Asterism (astronomy)|constellations]] (now known as "[[decans]]"), one for each of the ten-day "weeks" of their civil calendar.<ref name=amannamedjed>{{harvp|Clagett|1995|p=[https://books.google.com.hk/books?id=xKKPUpDOTKAC&pg=PA50 50–1]}}</ref>  (12 sets of alternate "triangle decans" were used for the 5 [[Egyptian intercalary month|epagomenal days]] between years.)<ref name=poormountaineer>{{harvp|Clagett|1995|p=[https://books.google.com.hk/books?id=xKKPUpDOTKAC&pg=PA218 218]}}</ref> Each night, the rising of eleven of these decans were noted, separating the night into twelve divisions whose middle terms would have lasted about 40{{nbsp}}[[minute]]s each. 
+
+17. 
+
+The 12 ''shi'' supposedly began to be divided into 24 hours under the [[Tang dynasty|Tang]],{{sfnp|Sōma & al.|2004|p=888}} although they are first attested in the [[Ming dynasty|Ming]]-era [[Book of Yuan]].{{sfnp|Sōma & al.|2004|p=887}} In that work, the hours were known by the same [[earthly branches]] as the ''shi'', with the first half noted as its "starting" and the second as "completed" or "proper" ''shi''.{{sfnp|Sōma & al.|2004|p=887}} In modern China, these are instead simply numbered and described as "little ''shi''". 
+
+18. 
+7 am was the first hour of the first half of daytime; 1 pm the first hour of the latter half of daytime; 7 pm the first hour of the first half of nighttime; and 1 am the first hour of the latter half of nighttime. 
+
+19. 
+
+===Modernity===
+{{main|Decimal time|Metric system}}
+The minor irregularities of the apparent solar day were smoothed by measuring time using the [[mean solar day]], using the Sun's movement along the [[celestial equator]] rather than along the [[ecliptic]]. 
+
+20. 
+on a 24-hour clock with a digital face]]
+[[File:AnalogClockAnimation1 2hands 1h in 6sec.gif|thumb|Midnight (or [[noon]]) to 1 on a 12-hour clock with an analog face]]
+An '''hour''' ([[metric symbol|symbol]]: '''h''';<ref>{{citation |contribution-url=http://www.bipm.org/en/CGPM/db/9/7/ |contribution=Resolution 7 |date=October 1948 |url=http://www.bipm.org/en/CGPM/db/9/ |title=Resolutions of the CGPM: 9th Meeting |publisher=International Bureau of Weights and Measures |location=Paris }}</ref> also abbreviated '''hr'''.) is a [[unit of measurement|unit]] of [[time]] conventionally reckoned as {{frac|24}} of a [[day]] and scientifically reckoned as 3,599–3,601 [[second]]s, depending on conditions. 
+
+21. 
+{{in lang|th}}</ref>
+
+===Other ancient cultures===
+[[File:Drei Horen.jpg|thumb|200px|right|Two of the [[Horae|deified Hours]] of the Greeks and Romans]]
+
+{{main|Hindu units of time}}
+The [[Vedas]] and [[Puranas]] employed [[Hindu units of time|units of time]] based on the [[sidereal day]] (''nakṣatra ahorātram''). 
+
+22. 
+In the Northern hemisphere, particularly in the more northerly latitudes, summer daytime hours were longer than winter daytime hours, each being one twelfth of the time between sunrise and sunset. 
+
+23. 
+There are 100 marks which represent the day".}} Into the [[Eastern Han Dynasty|Eastern Han]], the Chinese measured their day schematically, adding the 20-''ke'' difference between the solstices evenly throughout the year, one every nine days.{{sfnp|Petersen|1992|p=125}} During the night, time was more commonly reckoned during the night by the "watches" {{nowrap|([[Chinese language|Chinese]]: {{lang|zh|{{linktext|更}}}},}} {{nowrap|<small>[[Old Chinese|oc]]</small> [[linguistic reconstruction|*]]''kæŋ'',{{sfnp|Baxter & al.|2014}}}} {{nowrap|<small>[[pinyin|p]]</small> ''gēng'')}} of the guard, which were reckoned as a fifth of the time from [[sunset]] to [[sunrise]].{{sfnp|Stephenson|1997}}{{sfnp|Sōma & al.|2004|p=888}}
+
+[[Imperial China]] continued to use ''ke'' and ''geng'' but also began to divide the day into 12 "double hours" {{nowrap|(<small>[[traditional characters|t]]</small> {{lang|zh|{{linktext|時}}}},}} {{nowrap|<small>[[simplified characters|s]]</small> {{lang|zh|{{linktext|时}}}},}} {{nowrap|<small>[[Old Chinese|oc]]</small> [[linguistic reconstruction|*]]''də'',{{sfnp|Baxter & al.|2014}}}} {{nowrap|<small>[[pinyin|p]]</small> ''shí'',}} {{nowrap|{{abbr|lit.|literally}} "time[s]")}} named after the [[earthly branches]] and sometimes also known by the name of the corresponding animal of the [[Chinese zodiac]].{{sfnp|Sōma & al.|2004|p=904}} The first ''shi'' originally ran from 11{{nbsp}}pm to 1{{nbsp}}am but was reckoned as starting at midnight by the time of the [[History of Song]], compiled during the early [[Yuan Dynasty|Yuan]].{{sfnp|Sōma & al.|2004|p=896}} These apparently began to be used during the [[Eastern Han Dynasty|Eastern Han]] that preceded the [[Three Kingdoms]] era, but the sections that would have covered them are missing from their official histories; they first appear in official use in the [[Tang dynasty|Tang]]-era [[Book of Sui]].{{sfnp|Sōma & al.|2004|p=889}} Variations of all these units were subsequently adopted by [[ancient Japan|Japan]]{{sfnp|Sōma & al.|2004|p=888}} and the other countries of the [[Sinosphere]]. 
+
+24. 
+Until 1968 Saudi Arabia used the system of counting 24 equal hours with the first hour starting at sunset.<ref>{{cite web|url=http://archive.aramcoworld.com/issue/196902/dinner.at.when.htm|title=Saudi Aramco World : Dinner At When?|website=archive.aramcoworld.com}}</ref>
+
+=== Counting from noon ===
+For many centuries, up to 1925, astronomers counted the hours and days from noon, because it was the easiest solar event to measure accurately. 
+
+25. 
+Whole hours on a [[12-hour clock]] are expressed using the contracted phrase ''o'clock'', from the older ''of clock''.{{sfn|''OED''|loc=clock, ''n.¹'', & o'clock, ''adv.'' (and ''n.'')}} (10 am and 10 pm are both read as "ten o'clock".) 
+
+Hours on a [[24-hour clock]] ("military time") are expressed as "hundred" or "hundred hours".{{sfn|''OED''|loc=hundred, ''n{{}}.'' and ''adj.''}} (1000 is read "ten hundred" or "ten hundred hours"; 10 pm would be "twenty-two hundred".) 
+
+Fifteen and thirty minutes past the hour is expressed as "a quarter past" or "after"{{sfn|''OED''|loc=quarter, ''n''}} and "half past", respectively, from their fraction of the hour. 
+
+26. 
+In present terms, the Babylonian "minute" of time was four minutes long and the "second" four seconds.<ref>{{cite journal |last=Correll |first=Malcolm |journal=The Physics Teacher |volume=15 |pages=476–479 |issue=8 |date=November 1977 |title=Early Time Measurements}}</ref>) '''Equal''' or '''equinoctial hours''' were taken as {{frac|24}} of the day as measured from noon to noon; the minor seasonal variations of this unit were eventually smoothed by making it {{frac|24}} of the [[mean solar day]]. 
+
+27. 
+The time was measured based on the length of the shadow at day time. 
+
+28. 
+
+== External links ==
+{{Wiktionary|hour|stound}}
+{{Commons|Hour}}
+* [http://www.worldtimezone.net/index24.php World time zones]
+* [http://www.centralx.com/time/index.en.html Accurate time vs. 
+
+29. 
+PC Clock Difference]
+
+{{Time topics}}
+{{Time measurement and standards}}
+{{SI units}}
+{{Authority control}}
+
+[[Category:Orders of magnitude (time)]]
+[[Category:Units of time]]. 
+
+30. 
+[[solar time|Solar noon]] is always close to 12 noon (ignoring artificial adjustments due to [[time zone]]s and [[daylight saving time]]), differing according to the [[equation of time]] by as much as fifteen minutes either way. 
+
+31. 
+
+===Middle Ages===
+[[Image:Bishopstone sundial.jpg|right|thumb|200px|A 7th-century Saxon [[tide dial]] on the porch at [[Bishopstone, East Sussex|Bishopstone]] in [[Sussex]], with larger crosses marking the [[canonical hours]].{{sfnp|Wall|1912|p=67}}]]
+{{main|Canonical hours}}
+During Europe's [[Middle Ages]], the Roman hours continued to be marked on [[sundial]]s but the more important units of time were the [[canonical hours]] of the [[Greek Orthodox Church|Orthodox]] and [[Catholic Church]]. 
+
+32. 
+|title=Taoism and Science |publisher=Ultravisum |date=2015 }}</ref> and Babylonian reckoning of the zodiac.{{sfnp|Rogers|1998|pp=9–28}}{{efn|The late classical Indians also began to reckon [[Samvatsara|years based on the Jovian cycle]], but this was much later than their lunar calendar and initially named after it.{{sfnp|Sewell|1924|p=[https://books.google.co.uk/books?id=LQffS160KxEC&pg=PR12 xii]}}}}
+
+===Southeast Asia===
+{{main|Thai six-hour clock}}
+In [[Thailand]], [[Laos]], and [[Cambodia]], the traditional system of noting hours is the [[Thai six-hour clock|six-hour clock]]. 
+
+33. 
+Its hours are a secondary unit computed as precisely 3,600 seconds.<ref name=sportsillustrated>{{citation |url=http://www.bipm.org/en/publications/si-brochure/ |title=The International System of Units (SI), ''8th ed.'' |contribution-url=http://www.bipm.org/en/publications/si-brochure/table6.html |contribution=Non-SI Units Accepted for Use with the SI, and Units Based on Fundamental Constants (contd.) |publisher=International Bureau of Weights and Measures |date=2014 |location=Paris }}</ref> However, an hour of [[Coordinated Universal Time]] (UTC), used as the basis of most civil time, has lasted 3,601 seconds 27 times since 1972 in order to keep it within 0.9 seconds of [[UT1|universal time]], which is based on measurements of the [[Mean solar time|mean solar day]] at [[0° longitude]]. 
+
+34. 
+For example, in Lugano, the sun rose in December during the 14th hour and noon was during the 19th hour; in June the sun rose during the 7th hour and noon was in the 15th hour. 
+
+35. 
+
+The [[ancient Greeks]] and [[ancient Romans|Romans]] originally divided the day into 12 hours and the night into 3 or 4 night watches. 
+
+36. 
+
+== Derived measures==
+* [[air changes per hour]] (ACH), a measure of the replacements of air within a defined space used for [[indoor air quality]]
+* [[ampere-hour]] (Ah), a measure of [[electrical charge]] used in [[electrochemistry]]
+* [[British thermal unit|BTU]]-hour, a measure of power used in the [[electrical power industry|power industry]] and for air conditioners and heaters
+* [[credit hour]], a measure of an academic [[course (education)|course]]'s contracted instructional time per week for a semester
+* [[horsepower-hour]] (hph), a measure of energy used in the railroad industry
+* [[hour angle]], a measure of the angle between the [[meridian (astronomy)|meridian plane]] and the [[hour circle]] passing through a certain point used in the [[equatorial coordinate system]]
+* [[kilometer per hour]] (km/h), a measure of land speed
+* [[kilowatt-hour]] (kWh), a measure of energy commonly used as an electrical billing unit
+* [[knot (unit)|knot]] (kn), a measure of [[nautical mile]]s per hour, used for maritime and aerial speed
+* [[man-hour]], an averaged amount of work performed per person per hour used in productivity analysis
+* [[meter per hour]] (m/h), a measure of slow speeds
+* [[mile per hour]] (mph), a measure of land speed
+* [[passengers per hour per direction]] (p/h/d), a measure of the capacity of [[public transport]]ation systems
+* [[pound per hour]] (PPH), a measure of [[mass flow]] used for engines' fuel flow
+* [[working hours|work or working hour]], a measure of working time used in various regulations, such as those distinguishing [[Part-time job|part-]] and [[Full-time job|full-time]] employment and those limiting [[truck driver]]s' [[Drivers' working hours|working hours]] or [[hours of service]]
+
+==See also==
+* [[Horology]]
+* [[Horae]], the deified hours of ancient Greece and Rome
+* [[Hexadecimal time|Hexadecimal hour]], a proposed unit lasting 1{{nbsp}}h 30{{nbsp}}min
+* [[Decimal time|Decimal hour]] or deciday, a French Revolutionary unit lasting 2{{nbsp}}h 24{{nbsp}}min
+* [[Golden Hour (photography)|Golden Hour]] & [[Blue hour|Blue Hour]] in photography
+* [[Metric time]]
+
+==Notes==
+{{noteslist}}
+
+==References==
+===Citations===
+{{Reflist|30em}}
+
+===Bibliography===
+* {{citation |title=The Oxford English Dictionary |ref={{harvid|''OED''}} |location=Oxford |publisher=Oxford University Press |title-link=Oxford English Dictionary }}. 
+
+37. 
+This system existed in the [[Ayutthaya Kingdom]], deriving its current phrasing from the practice of publicly announcing the daytime hours with a [[gong]] and the nighttime hours with a [[drum]].{{sfnp|Thongprasert|1985|pp=229–237}} It was abolished in Laos and Cambodia during their [[French Indochina|French occupation]] and is uncommon there now. 
+
+38. 
+The use of 24 hours for the entire day meant hours varied much less and the clocks needed to be adjusted only a few times a month. 
+
+39. 
+Informal [[rush hour]]s and [[happy hour]]s cover the times of day when commuting slows down due to congestion or alcoholic drinks are available at discounted prices. 
+
+40. 
+These variable-length hours were variously known as temporal, unequal, or seasonal hours and were in use until the appearance of the mechanical clock, which furthered the adoption of equal length hours.{{sfnp|Landes|1983|p=76}}
+
+This is also the system used in [[Halakha|Jewish law]] and frequently called "Talmudic hour" (''Sha'a Zemanit'') in a variety of texts. 
+
+41. 
+The Talmudic hour is one twelfth of time elapsed from sunrise to sunset, day hours therefore being longer than night hours in the summer; in winter they reverse. 
+
+42. 
+
+In the modern [[24-hour clock]], counting the hours starts at midnight, and hours are numbered from 0 to 23. 

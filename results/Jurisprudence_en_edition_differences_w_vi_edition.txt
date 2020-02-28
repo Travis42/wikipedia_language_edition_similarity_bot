@@ -1,0 +1,157 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Jurisprudence
+
+en edition's differences with the vi version: 
+
+
+1. 
+
+Hart claimed that law is the union primary rules and secondary rules.<ref>{{Cite book|title=The Concept of Law|last=Hart|first=HLA|publisher=Oxford University Press|year=2012|isbn=|edition=3rd|location=Oxford|pages=79–99}}</ref> Primary rules require individuals to act or not act in certain ways and create duties for the governed to obey.<ref name="Hart 2012 81">{{Cite book|title=The Concept of Law|last=Hart|first=HLA|publisher=Oxford University Press|year=2012|isbn=|edition=3rd|location=Oxford|pages=81}}</ref> Secondary rules are rules that confer authority to create new primary rules or modify existing ones.<ref name="Hart 2012 81"/> Secondary rules are divided into rules of adjudication (how to resolve legal disputes), rules of change (how laws are amended), and the rule of recognition (how laws are identified as valid). 
+
+2. 
+DOI, 10.1093/ojls/6.1.1.</ref> It holds that the law is largely contradictory, and can be best analyzed as an expression of the policy goals of a dominant social group.<ref>Moore, "Critical Legal Studies", ''Cambridge Dictionary of Philosophy''</ref>
+
+===Critical rationalism===
+[[Karl Popper]] originated the theory of [[Jurisprudence#critical rationalism|critical rationalism]]. 
+
+3. 
+[[Therapeutic jurisprudence]] ("TJ") studies law as a social force (or agent) and uses [[social science]] methods and data to study the extent to which a legal rule or practice affects the psychological well-being of the people it impacts.<ref>{{cite journal |last1=Wexler |first1=David B |author-link1=David B. 
+
+4. 
+According to him, law is not entirely based on social facts, but includes the best moral justification for the institutional facts and practices that form a society's legal tradition. 
+
+5. 
+All other precepts of the natural law are based on this&nbsp;...''<ref>{{cite web|url=http://www.ccel.org/a/aquinas/summa/FS/FS094.html#FSQ94A2THEP1|title=Summa Theologica}}</ref></blockquote>
+
+The desires to live and to procreate are counted by Aquinas among those basic (natural) human values on which all other human values are based. 
+
+6. 
+
+====Joseph Raz====
+{{Main|Joseph Raz}}
+
+Joseph Raz's theory of legal positivism argues against the incorporation of moral values to explain law's validity. 
+
+7. 
+American legal realism grew out of the writings of [[Oliver Wendell Holmes Jr.|Oliver Wendell Holmes]]. 
+
+8. 
+What sorts of acts should be subject to [[sanctions (law)|punishment]], and what sorts of punishment should be permitted. 
+
+9. 
+Indeed, his treatment of what he calls "political justice" derives from his discussion of "the just" as a moral virtue derived as the mean between opposing vices, just like every other virtue he describes.<ref>"Nicomachean Ethics" Bk. 
+
+10. 
+Contemporary virtue jurisprudence is inspired by philosophical work on virtue ethics. 
+
+11. 
+Rev.'' 593</ref> [[David Hume]] argued, in ''[[A Treatise of Human Nature]]'',<ref>David Hume, ''A Treatise of Human Nature'' (1739) [http://etext.library.adelaide.edu.au/h/hume/david/h92t/ Etext] {{webarchive|url=https://web.archive.org/web/20060820100015/http://etext.library.adelaide.edu.au/h/hume/david/h92t/ |date=20 August 2006 }}</ref> that people invariably slip from describing what the world ''is'' to asserting that we therefore ''ought'' to follow a particular course of action. 
+
+12. 
+''Nicomachean Ethics, 2nd Ed.'', Hackett Publishing</ref><ref name="ReferenceA">''Nicomachean Ethics'', Bk. 
+
+13. 
+(revised by Hugh Tedennick), ''Nicomachean Ethics'', Penguin Classics.</ref> though more recent translations render them more literally.<ref>Joe Sachs, trans., ''Nicomachean Ethics'', Focus Publishing</ref>
+
+Aristotle's theory of justice is bound up in his idea of the [[golden mean (philosophy)|golden mean]]. 
+
+14. 
+Bentham's views about law and jurisprudence were popularized by his student [[John Austin (legal philosopher)|John Austin]]. 
+
+15. 
+
+===Utilitarianism===
+[[File:JohnStuartMill.JPG|thumb|200px|right|[[John Stuart Mill|Mill]] believed law should create happiness]]
+{{Main|Utilitarianism}}
+{{See also|Lysander Spooner}}
+
+Utilitarianism is the view that the laws should be crafted so as to produce the best consequences for the greatest number of people. 
+
+16. 
+Identifying a particular theorist as a positivist or a natural law theorist sometimes involves matters of emphasis and degree, and the particular influences on the theorist's work. 
+
+17. 
+6</ref> In his book ''[[Law's Empire]]'',<ref>Ronald Dworkin, ''Law's Empire'' (1986) [[Harvard University Press]]</ref> Dworkin argued that law is an "interpretive" concept that requires barristers to find the best-fitting and most just solution to a legal dispute, given their constitutional traditions. 
+
+18. 
+He argues that the term "justice" actually refers to two different but related ideas: general justice and particular justice.<ref>Terrence Irwin, trans. 
+
+19. 
+3</ref> When a person's actions toward others are completely virtuous in all matters, Aristotle calls them "just" in the sense of "general justice"; as such, this idea of justice is more or less coextensive with virtue.<ref>"Nicomachean Ethics", Bk. 
+
+20. 
+1</ref> "Particular" or "partial justice", by contrast, is the part of "general justice" or the individual virtue that is concerned with treating others equitably.<ref name="ReferenceA"/>
+
+Aristotle moves from this unqualified discussion of justice to a qualified view of political justice, by which he means something close to the subject of modern jurisprudence. 
+
+21. 
+His theory of justice uses a method called "original position" to ask us which principles of justice we would choose to regulate the basic institutions of our society if we were behind a "veil of ignorance". 
+
+22. 
+
+===Aristotle===
+[[File:Francesco Hayez 001.jpg|thumb|[[Aristotle]], by [[Francesco Hayez]]]]
+Aristotle is often said to be the father of natural law.<ref>Shellens, "Aristotle on Natural Law."</ref> Like his philosophical forefathers [[Socrates]] and Plato, Aristotle posited the existence of [[natural justice]] or natural right (''dikaion physikon'', ''δικαίον φυσικόν'', Latin ''[[ius naturale]]''). 
+
+23. 
+
+==Further reading==
+* {{cite book |last=Austin |first=John |authorlink=John Austin (legal philosopher) |title=The Province of Jurisprudence Determined |year=1831|title-link=The Province of Jurisprudence Determined }}
+* Cotterrell, R. 
+
+24. 
+295–360''.]</ref>
+
+===Critical legal studies===
+[[Critical legal studies]] are a new theory of jurisprudence that has developed since the 1970s. 
+
+25. 
+It is consistent with Dworkin's view—in contrast with the views of legal positivists or legal realists—that {{em|no-one}} in a society may know what its laws are, because no-one may know the best moral justification for its practices. 
+
+26. 
+John Stuart Mill was a pupil of Bentham's and was the torch bearer for [[Utilitarianism (book)|utilitarian]] philosophy throughout the late nineteenth century.<ref>see, [http://metalibri.incubadora.fapesp.br/portal/authors/m/john-stuart-mill/utilitarianism/ Utilitarianism] {{webarchive|url=https://web.archive.org/web/20070505231025/http://metalibri.incubadora.fapesp.br/portal/authors/m/john-stuart-mill/utilitarianism/ |date=5 May 2007 }} at Metalibri Digital Library</ref> In contemporary legal theory, the utilitarian approach is frequently championed by scholars who work in the law and economics tradition.<ref name="ssrn.com"/>
+
+===John Rawls===
+{{Main|John Rawls|A Theory of Justice}}
+
+John Rawls was an [[United States|American]] philosopher; a [[professor]] of [[political philosophy]] at [[Harvard University]]; and author of ''[[A Theory of Justice]]'' (1971), ''[[Political Liberalism]]'', ''[[Justice as Fairness: A Restatement]]'', and ''[[The Law of Peoples]]''. 
+
+27. 
+
+===Sociological jurisprudence===
+{{Main|Sociology of Law}}
+
+An effort to systematically to inform jurisprudence from sociological insights developed from the beginning of the twentieth century, as sociology began to establish itself as a distinct social science, especially in the United States and in continental Europe. 
+
+28. 
+
+===Virtue jurisprudence===
+[[File:Sanzio 01 Plato Aristotle.jpg|thumb|200px|right|[[Plato]] (left) and [[Aristotle]] (right), a detail of ''[[The School of Athens]]'']]
+{{Main|Virtue jurisprudence}}
+
+Aretaic moral theories, such as contemporary [[virtue ethics]], emphasize the role of character in morality. 
+
+29. 
+[[Joseph Raz|Joseph Raz's]] legal positivism is an example of exclusive legal positivism. 
+
+30. 
+Kelsen contends that the extent to which legal norms are binding, their specifically "legal" character, can be understood without tracing it ultimately to some suprahuman source such as God, personified Nature or—of great importance in his time—a personified State or Nation. 
+
+31. 
+
+There are two separate schools of legal realism: American legal realism and Scandinavian legal realism. 
+
+32. 
+</ref>
+
+The Scandinavian school of legal realism argued that law can be explained through the empirical methods used by social scientists.<ref>{{Cite book|url=https://books.google.com/?id=xZVw0EcmYh8C&printsec=frontcover&dq=thinking+like+a+lawyer#v=onepage&q=thinking%20like%20a%20lawyer&f=false|title=Thinking Like a Lawyer|last=Schauer|first=Frederick|publisher=Harvard University Press|year=2009|isbn=9780674032705|location=Cambridge|pages=124 n.1|language=en}}</ref> Prominent Scandinavian legal realists are [[Alf Ross]], [[Axel Hägerström]], and [[Karl Olivecrona]]. 
+
+33. 
+Legal positivists who argue that law's validity can be explained by incorporating moral values are labeled inclusive (or soft) legal positivists. 
+
+34. 
+His association with natural law is largely due to how he was interpreted by [[Thomas Aquinas]].<ref>Jaffa, ''Thomism and Aristotelianism''.</ref> This was based on Aquinas' conflation of natural law and natural right, the latter of which Aristotle posits in Book V of the ''[[Nicomachean Ethics]]'' (Book IV of the ''[[Eudemian Ethics]]''). 
+
+35. 
+The theory can generally be traced to American legal realism and is considered "the first movement in legal theory and legal scholarship in the United States to have espoused a committed Left political stance and perspective".<ref name = Hunt86>Alan Hunt, "The Theory of Critical Legal Studies," Oxford Journal of Legal Studies, Vol. 

@@ -1,0 +1,26 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Historical geographic information system
+
+ru edition's differences with the en version: 
+
+
+1. 
+'''Историко-географические информационные системы''', также пишется как '''исторические ГИС''', — [[Геоинформационная система|географические информационные системы]], которые могут отображать, хранить и анализировать данные прошлых географических эпох и отслеживать изменения во времени. 
+
+2. 
+Используются в истории, палеобиологии и её подразделах, геологии, палеоклиматологии и палеоокеанологии, археологии, средствах массовой информации и в деле массового просвещения. 
+
+3. 
+* В версиях 4+ [[Google Планета Земля]] добавлена тайм-линии функция, которая позволяет осуществить простой временной просмотр пространственных данных<ref>Объявление функции [http://www.gearthblog.com/blog/archives/2006/09/google_earth_4_time.html в Google Планета Земля блог]</ref>
+
+== Примечания ==
+{{примечания}}
+
+== Ссылки ==
+
+* [http://www.hgis.org.uk/ The Historical GIS Research Network]
+* [http://www.friedrichiii.his-gis.net/ Joachim Laczny: The late medieval ruler Frederick III (1440—1493) on the journey. 
+
+4. 
+Wahrnehmung und Deutung im Mittelalter und in der Moderne (Nova Mediaevalia Quellen und Studien zum europäischen Mittelalter, 12), Göttingen: V&R unipress 2014, p. 

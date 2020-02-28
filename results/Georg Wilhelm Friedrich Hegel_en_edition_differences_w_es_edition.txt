@@ -1,0 +1,656 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Georg Wilhelm Friedrich Hegel
+
+en edition's differences with the es version: 
+
+
+1. 
+So he, too, sometimes spoke of God and, more often, of the divine; and because he occasionally took pleasure in insisting that he was really closer to this or that Christian tradition than some of the theologians of his time, he has sometimes been understood to have been a Christian.<ref>[[Walter Kaufmann (philosopher)|Walter Kaufmann]], ''Hegel: Reinterpretation, Texts, and Commentary'', Garden City, New York: Doubleday & Company, 1965, p. 
+
+2. 
+
+The philosopher [[Walter Kaufmann (philosopher)|Walter Kaufmann]] has argued that there was great stress on the sharp criticisms of traditional Christianity appearing in Hegel's so-called early theological writings. 
+
+3. 
+
+Late 20th-century literature in Western [[Theology]] that is friendly to Hegel includes works by such writers as [[Walter Kaufmann (philosopher)|Walter Kaufmann]] (1966), [[Dale M. 
+
+4. 
+122–24.</ref>
+|The [[Negative liberty|negative]]/[[positive liberty]] distinction
+|The [[civil society]]/state distinction
+|''[[Volksgeist]]''}}
+| influences        = {{hlist
+|[[Aristotle]]
+|[[Jakob Böhme|Böhme]]
+|[[Denis Diderot|Diderot]]<ref>{{cite book |last1=Lom |first1=Petr |title=The Limits of Doubt: The Moral and Political Implications of Skepticism |date=2001 |publisher=SUNY Press |pages=65–66}}</ref>
+|[[Adam Ferguson|Ferguson]]<ref>{{cite book |last1=MacGregor |first1=David |title=Hegel and Marx: After the Fall of Communism |date=2014 |publisher=University of Wales Press |page=69}}</ref>
+|[[Johann Gottlieb Fichte|Fichte]]
+|[[Heraclitus]]
+|[[Johann Gottfried Herder|Herder]]<ref>Michael N. 
+
+5. 
+Cambridge: Cambridge University Press. 
+
+6. 
+Cambridge: Cambridge University Press. 
+
+7. 
+ Cambridge and New York: Cambridge University Press. 
+
+8. 
+Cambridge: Cambridge University Press. 
+
+9. 
+Just as humans continually correct their concepts of reality through a [[dialectic|dialectical process]], so God himself becomes more fully manifested through the dialectical process of becoming. 
+
+10. 
+It is from this table that Kant derives in turn his table of categories, the twelve pure concepts of the understanding that structure all experience irrespective of its content. 
+
+11. 
+''The Journal of Speculative Philosophy'' (in print from 1867–1893) was the official journal of the St. 
+
+12. 
+Hegel, ''[[Phenomenology of Spirit|Phänomenologie des Geistes]]'' (1807), "Vorrede": "Das Wahre ist das Ganze."</ref>
+|"[[Rationality]] alone is real"<ref>G. 
+
+13. 
+
+The "thesis–antithesis–synthesis" approach gives the sense that things or ideas are contradicted or opposed by things that come from outside them. 
+
+14. 
+76.</ref>
+
+=== Career years ===
+==== Jena, Bamberg and Nuremberg (1801–1816) ====
+In 1801, Hegel came to [[Jena]] with the encouragement of his old friend Schelling, who held the position of Extraordinary Professor at the [[University of Jena|University]] there. 
+
+15. 
+His studies at the ''Gymnasium'' were concluded with his ''[[Abitur]]rede'' ("graduation speech") entitled "The abortive state of art and scholarship in Turkey"<ref name=pinkard/>{{rp|16}} ("den verkümmerten Zustand der Künste und Wissenschaften unter den Türken").<ref>[[Karl Rosenkranz]], ''Hegels Leben'', Duncker und Humblot, 1844, p. 
+
+16. 
+Philosophie+des+Heraklit | accessdate=2008-07-01}}</ref> One to which he attributes great significance is the fragment he translates as "Being is not more than Non-being", which he interprets to mean the following: <blockquote>''Sein und Nichts sei dasselbe''<br>Being and non-being are the same.</blockquote>
+
+Heraclitus does not form any abstract nouns from his ordinary use of "to be" and "to become" and in that fragment seems to be opposing any identity A to any other identity B, C and so on, which is not-A. 
+
+17. 
+
+=== Triads ===
+{{main|Thesis, antithesis, synthesis}}
+In previous modern accounts of Hegelianism (to undergraduate classes, for example), especially those formed prior to the Hegel renaissance, Hegel's [[dialectic]] was most often characterized as a three-step process, "[[thesis, antithesis, synthesis]]"; namely, that a "thesis" (e.g. 
+
+18. 
+He achieved wide recognition in his day and—while primarily influential within the [[Continental philosophy|continental]] tradition of philosophy—has become increasingly influential in the [[Analytic philosophy|analytic]] tradition as well.<ref>{{cite encyclopedia|url=http://plato.stanford.edu/archives/spr2014/entries/hegel/|title=Georg Wilhelm Friedrich Hegel|first=Redding|last=Paul|authorlink=Paul Redding|date= 1997|encyclopedia=[[Stanford Encyclopedia of Philosophy]]}}</ref> Although Hegel remains a divisive figure, his canonical stature within [[Western philosophy]] is universally recognized. 
+
+19. 
+It is indeed a wonderful sensation to see such an individual, who, concentrated here at a single point, astride a horse, reaches out over the world and masters it.<ref>''{{lang|de|den Kaiser—diese Weltseele—sah ich durch die Stadt zum Rekognoszieren hinausreiten; es ist in der Tat eine wunderbare Empfindung, ein solches Individuum zu sehen, das hier auf einen Punkt kontentriert, auf einem Pferde sitzend, über die Welt übergreift und sie beherrscht.}}''Hegel, letter of  13 October 1806  to F. 
+
+20. 
+The [[Young Hegelians|Left Hegelians]], also known as the Young Hegelians, interpreted Hegel in a [[revolutionary]] sense, leading to an advocation of [[atheism]] in religion and [[liberal democracy]] in politics. 
+
+21. 
+The physicians pronounced the cause of death as cholera, but it is likely he died from a different gastrointestinal disease.<ref name="pinkard" /><ref>{{Cite book|title=Of men and manners : essays historical and philosophical|last=Quinton|first=Anthony|date=2011|publisher=Oxford University Press|isbn=9780199694556|editor-last=Kenny|editor-first=Kenny|location=Oxford|page=63|chapter=Hegel Made Visible|oclc=751726196|quote=Most reference books say that Hegel died of cholera. 
+
+22. 
+Miller [Atlantic Highlands, NJ: Humanities, 1989]</ref>{{rp|133–136, 138}} the universal going beyond the particular (in the Concept) and Spirit going beyond Nature. 
+
+23. 
+In other words, it is not enough to consider propositions, or even the content of consciousness; "it is worthwhile to ask in every instance what kind of spirit would entertain such propositions, hold such views, and have such a consciousness. 
+
+24. 
+Merklinger]] (1991), [[Stephen Rocker]] (1995) and [[Cyril O'Regan]] (1995). 
+
+25. 
+For these scholars, fairly well represented by the Hegel Society of America and in cooperation with German scholars such as Otto Pöggeler and Walter Jaeschke, Hegel's works should be read without preconceptions. 
+
+26. 
+Some American philosophers associated with this movement include [[Lawrence Stepelevich]], [[Rudolf Siebert]], Richard Dien Winfield and Theodore Geraets.{{citation needed|date=May 2017}}
+
+=== Criticism ===
+Criticism of Hegel has been widespread in the 19th and the 20th centuries. 
+
+27. 
+2.</ref>
+
+== Selected works ==
+{{main|Georg Wilhelm Friedrich Hegel bibliography}}
+
+=== Published during Hegel's lifetime ===
+* ''Differenz des Fichteschen und Schellingschen Systems der Philosophie'', 1801
+:''[[The Difference Between Fichte's and Schelling's Systems of Philosophy]]'', tr. 
+
+28. 
+For a more complete listing, see the [[Georg Wilhelm Friedrich Hegel#External links | external links]] section or the library resources box to the right. 
+
+29. 
+{{ISBN|1-55753-257-5}}
+* [[Jean Hyppolite|Hyppolite, Jean]], 1946. 
+
+30. 
+* [[Charles Taylor (philosopher)|Taylor, Charles]], 1975. 
+
+31. 
+Green, New York: Columbia University Press, 1964.</ref> No Hegelians of the period ever referred to themselves as "Right Hegelians", which was a term of insult originated by [[David Strauss]], a self-styled Left Hegelian. 
+
+32. 
+According to Hegel, Heraclitus's "obscurity" comes from his being a true (in Hegel's terms "speculative") philosopher who grasped the ultimate philosophical truth and therefore expressed himself in a way that goes beyond the abstract and limited nature of common sense and is difficult to grasp by those who operate within common sense. 
+
+33. 
+The limitations represent fetters, which it must constantly be casting off as it becomes freer and more self-determining.<ref>The notable Introduction to ''Philosophy of History'' expresses the historical aspects of the dialectic.</ref>
+
+Although Hegel began his philosophizing with commentary on the Christian religion and often expresses the view that he is a Christian, his ideas of God are not acceptable to some Christians even though he has had a major influence on 19th- and 20th-century theology. 
+
+34. 
+[[:s:On the Fourfold Root of the Principle of Sufficient Reason|On the Fourfold Root of the Principle of Sufficient Reason]]</ref> However, only five students ended up attending Schopenhauer's lectures so he dropped out of [[academia]]. 
+
+35. 
+It would come to have a profound impact on many future philosophical schools, including schools that opposed Hegel's specific [[dialectical idealism]], such as [[existentialism]], the [[historical materialism]] of Marx, [[historism]] and [[British idealism|British Idealism]]. 
+
+36. 
+* [[Herbert Marcuse|Marcuse, Herbert]], 1941. 
+
+37. 
+-->
+[[File:Georg Wilhelm Friedrich Hegel - Dorotheenstädtischer Friedhof - Berlin, Germany - DSC00377.JPG|thumb|left|Hegel's tombstone in Berlin]]
+{{see also|Hegelianism}}
+There are views of Hegel's thought as a representation of the summit of early 19th-century Germany's movement of philosophical [[idealism]]. 
+
+38. 
+Instead, I argue that we ''must'' understand Hegel as a Hermetic thinker, if we are to truly understand him at all." Magee 2001, p. 
+
+39. 
+His father, Georg Ludwig, was ''Rentkammersekretär'' (secretary to the revenue office) at the court of [[Karl Eugen, Duke of Württemberg]].<ref name=pinkard/>{{rp|2–3, 745}} Hegel's mother, Maria Magdalena Louisa (née Fromm), was the daughter of a lawyer at the High Court of Justice at the Württemberg court. 
+
+40. 
+(ed.); 1984; ''The State and Civil Society''; Cambridge University Press</ref> Broadly speaking, the term was split, like Hegel's followers, to the [[political left]] and [[political right|right]]. 
+
+41. 
+In a Hegelian State, citizens both know their place and choose their place. 
+
+42. 
+Mueller|editor=Jon Stewart|title=The Hegel Myths and Legends|url=https://archive.org/details/hegelmythslegend0000unse/page/301|accessdate=|year=1996|publisher=Northwestern University Press|isbn=978-0-8101-1301-5|page=[https://archive.org/details/hegelmythslegend0000unse/page/301 301]}}</ref>
+
+=== Renaissance ===
+In the last half of the 20th century, Hegel's philosophy underwent a major renaissance. 
+
+43. 
+''Genèse et structure de la Phénoménologie de l'esprit''. 
+
+44. 
+* [[Alexandre Kojève|Kojève, Alexandre]], 1947. 
+
+45. 
+Furthermore, in Hegel's language the "dialectical" aspect or "moment" of thought and reality, by which things or thoughts turn into their opposites or have their inner contradictions brought to the surface, what he called ''[[Aufheben|Aufhebung]]'', is only preliminary to the "speculative" (and not "synthesizing") aspect or "moment", which grasps the unity of these opposites or contradiction. 
+
+46. 
+Hegel, ''[[Elements of the Philosophy of Right|Grundlinien der Philosophie des Rechts]]'' (1821), "Vorrede": "Was vernünftig ist, das ist Wirklich; und was wirklich ist, das ist vernünftig." ["What is rational is real; And what is real is rational."]</ref>
+|"The truth of [[being]] is [[essence]]"<ref>G. 
+
+47. 
+In 1802, Schelling and Hegel founded a journal, the ''Kritische Journal der Philosophie'' (''Critical Journal of Philosophy''), to which they each contributed pieces until the collaboration was ended when Schelling left for [[Würzburg]] in 1803. 
+
+48. 
+{{ISBN|0-19-519879-4}}
+* Francke, Kuno, Howard, William Guild, Schiller, Friedrich, 1913–1914 {{cite book|title=''The German classics of the nineteenth and twentieth centuries:'' masterpieces of German literature translated into English Vol 7, Jay Lowenberg, The Life of Georg Wilhelm Freidrich Hegel |url=https://archive.org/stream/germanclassicsof07franuoft#page/n25/mode/2up|accessdate=2010-09-24|publisher=New York : German Publication Society}}
+* [[Harris, H. 
+
+49. 
+In 1831, [[Frederick William III of Prussia|Frederick William III]] decorated him with the [[Order of the Red Eagle]], 3rd Class for his service to the Prussian state.<ref name="Siep xxii"/> In August 1831, a [[cholera]] epidemic reached Berlin and Hegel left the city, taking up lodgings in [[Kreuzberg]]. 
+
+50. 
+
+==== Heidelberg and Berlin (1816–1831) ====
+Having received offers of a post from the Universities of [[University of Erlangen-Nuremberg|Erlangen]], [[Humboldt University of Berlin|Berlin]] and [[Heidelberg University|Heidelberg]], Hegel chose Heidelberg, where he moved in 1816. 
+
+51. 
+For example, while it seems to be the case that he felt that a civil society such as the German society in which he lived was an inevitable movement of the dialectic, he made way for the crushing of other types of "lesser" and not fully realized types of civil society as these societies were not fully conscious or aware—as it were—as to the lack of progress in their societies. 
+
+52. 
+It is rational because the same, underlying, [[logic]]al, developmental order underlies every domain of reality and is ultimately the order of self-conscious rational thought, although only in the later stages of development does it come to full self-consciousness. 
+
+53. 
+What all these thinkers share, which distinguishes them from [[materialists]] like [[Epicurus]] and [[Thomas Hobbes]] and from [[empiricists]] like [[David Hume]], is that they regard freedom or self-determination both as real and as having important [[ontology|ontological]] implications for soul or mind or divinity. 
+
+54. 
+Whatever the nous thinks at any time is actual [[Substance theory|substance]] and is identical to limited being, but more remains to be thought in the substrate of non-being, which is identical to pure or unlimited thought. 
+
+55. 
+Christened Georg Wilhelm Friedrich, he was known as Wilhelm to his close family. 
+
+56. 
+
+For his god, Hegel does not take the logos of Heraclitus but refers rather to the [[nous]] of [[Anaxagoras]], although he may well have regarded them the same as he continues to refer to god's plan, which is identical to God. 
+
+57. 
+100</ref> He espouses that "God is not an abstraction but a concrete God&nbsp;[...] God, considered in terms of his eternal Idea, has to generate the Son, has to distinguish himself from himself; he is the process of differentiating, namely, love and Spirit". 
+
+58. 
+This means that Jesus as the Son of God is posited by God over against himself as other. 
+
+59. 
+a (July–August 196r), 234, cited in Editor's Introduction (vii) on the extent of their influence.</ref> Of special importance is his concept of spirit (''[[Geist]]'', sometimes also translated as "mind") as the historical manifestation of the logical concept – and the [[Aufheben|"sublation"]] (''Aufhebung'', integration without [[Reduction (philosophy)|elimination or reduction]]) – of seemingly contradictory or opposing factors: examples include the apparent opposition between necessity and [[Freedom of will|freedom]] and between [[immanence]] and [[Transcendence (philosophy)|transcendence]]. 
+
+60. 
+This liberal distinction between [[political society]] and [[civil society]] was followed by [[Alexis de Tocqueville]].<ref name="glob" /> In fact, Hegel's distinctions as to what he meant by civil society are often unclear. 
+
+61. 
+the subjective side of knowledge and will, with its life, movement, and activity" (thesis and antithesis), he does not use "synthesis", but instead speaks of the "Whole": "We then recognised the State as the moral Whole and the Reality of Freedom, and consequently as the objective unity of these two elements". 
+
+62. 
+Duke University Press Books
+* [[Georg Lukács|Lukács, Georg]], 1948. 
+
+63. 
+Finite things do not determine themselves because as "finite" things their essential character is determined by their boundaries over against other finite things, so in order to become "real" they must go beyond their finitude ("finitude is only as a transcending of itself").<ref name=miller/>{{rp|145}}
+
+The result of this argument is that finite and infinite—and by extension, particular and universal, nature and freedom—do not face one another as two independent realities, but instead the latter (in each case) is the self-transcending of the former.<ref name=miller/>{{rp|146}} Rather than stress the distinct singularity of each factor that complements and conflicts with others—without explanation—the relationship between finite and infinite (and particular and universal and nature and freedom) becomes intelligible as a progressively developing and self-perfecting whole. 
+
+64. 
+On the left, it became the foundation for [[Karl Marx]]'s civil society as an [[base and superstructure|economic base]];<ref name="glob">{{cite journal | last = Zaleski | first = Pawel | authorlink = | title = Tocqueville on Civilian Society. 
+
+65. 
+A Romantic Vision of the Dichotomic Structure of Social Reality | journal = Archiv für Begriffsgeschichte | volume = 50 | issue = | pages = | year = 2008 | url = | doi = | id = | accessdate = }}</ref> to the right, it became a description for all non-state (and the state is the peak of the objective spirit) aspects of society, including culture, society and politics. 
+
+66. 
+Since human thought is the image and fulfillment of God's thought, God is not [[Ineffability|ineffable]] (so incomprehensible as to be unutterable), but can be understood by an analysis of thought and reality. 
+
+67. 
+Hegel further attests that God (as Jesus) not only died, but "[...]&nbsp;rather, a reversal takes place: God, that is to say, maintains himself in the process, and the latter is only the death of death. 
+
+68. 
+This is because as Hegel suggests by his introduction of the concept of "reality",<ref name=miller/>{{rp|111}} what determines itself—rather than depending on its relations to other things for its essential character—is more fully "real" (following the Latin etymology of "real", more "thing-like") than what does not. 
+
+69. 
+Göschel's book on this subject was titled ''Von den Beweisen für die Unsterblichkeit der menschlichen Seele im Lichte der spekulativen Philosophie: eine Ostergabe'' (Berlin: Verlag von Duncker und Humblot, 1835).<ref>{{cite web|url=http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10043317_00005.html|title=MDZ-Reader – Band – Von den Beweisen für die Unsterblichkeit der menschlichen Seele im Lichte der spekulativen Philosophie / Göschel, Carl Friedrich|website=reader.digitale-sammlungen.de}}</ref><ref>In the 1870s and 1880s, Rev. 
+
+70. 
+Contradiction and negation have a dynamic quality that at every point in each domain of [[reality]]—[[consciousness]], history, philosophy, art, nature and society—leads to further development until a [[rationality|rational]] unity is reached that preserves the contradictions as phases and sub-parts by lifting them up (''[[Aufheben|Aufhebung]]'') to a higher unity. 
+
+71. 
+Hegel sees both a relational unity and a metaphysical unity between Jesus and God the Father. 
+
+72. 
+His is the persistent Idea that is the same in all philosophers up to the present day, as it was the Idea of Plato and Aristotle".<ref>{{cite web|author=Hegel, G. 
+
+73. 
+Miller, 1977
+:[http://terrypinkard.weebly.com/phenomenology-of-spirit-page.html ''Phenomenology of Spirit'', translated by Terry Pinkard, 2012]
+* ''[[Science of Logic|Wissenschaft der Logik]]'', 1812, 1813, 1816, "Doctrine of Being" revised 1831
+:''Science of Logic'', tr. 
+
+74. 
+
+Hegel's contemporary Schopenhauer was particularly critical and wrote of Hegel's philosophy as "a pseudo-philosophy paralyzing all mental powers, stifling all real thinking".<ref>On the Basis of Morality.</ref> In 1820, Schopenhauer became a lecturer at the [[Humboldt University of Berlin|University of Berlin]] and he scheduled his lectures to coincide with those of Hegel, whom Schopenhauer had also described as a "clumsy charlatan".<ref>Schopenhauer, Arthur. 
+
+75. 
+
+=== Heraclitus ===
+According to Hegel, "[[Heraclitus]] is the one who first declared the nature of the infinite and first grasped nature as in itself infinite, that is, its essence as process. 
+
+76. 
+276–77</ref> Kaufmann also points out that Hegel's references to God or to the divine—and also to spirit—drew on classical Greek as well as Christian connotations of the terms. 
+
+77. 
+Each is avowedly influenced by the late [[Wilfred Sellars]], also of Pittsburgh, who referred to his seminal work ''Empiricism and the Philosophy of Mind'' (1956) as a series of "incipient ''Méditations Hegeliennes''" (in homage to [[Edmund Husserl]]'s 1931 work, ''[[Cartesian Meditations|Méditations cartésiennes]]''). 
+
+78. 
+This contradiction leads to the dissolution of the thing or idea in the simple form in which it presented itself and to a higher-level, more complex thing or idea that more adequately incorporates the contradiction. 
+
+79. 
+Hegel's main philosophical project was to take these contradictions and tensions and interpret them as part of a comprehensive, evolving, rational unity that in different contexts he called "the absolute Idea" (''[[Science of Logic]]'', sections 1781–1783) or "absolute knowledge" (''[[Phenomenology of Spirit]]'', "(DD) Absolute Knowledge"). 
+
+80. 
+9.</ref>
+|[[Immanuel Kant|Kant]]
+|[[Jean-Jacques Rousseau|Rousseau]]
+|[[Baruch Spinoza|Spinoza]]
+|[[Friedrich Wilhelm Joseph Schelling|Schelling]]
+|[[Friedrich Schiller|Schiller]]
+|[[Adam Smith]]<ref>{{cite journal |last1=Henderson |first1=James P. 
+
+81. 
+Kierkegaard criticized Hegel's "absolute knowledge" unity.<ref>Søren Kierkegaard Concluding Unscientific Postscriptt</ref> The physicist and philosopher [[Ludwig Boltzmann]] also criticized the obscure complexity of Hegel's works, referring to Hegel's writing as an "unclear thoughtless flow of words".<ref>Ludwig Boltzmann, ''Theoretical physics and philosophical problems: Selected writings'', p. 
+
+82. 
+* {{cite book|last1=Hegel|first1=Georg Wilhelm Friedrich|authorlink=Georg Hegel|editor-last= Haldane|editor-first=Elizabeth Sanderson|editor-link=Elizabeth Haldane|title=Vorlesungen über die Geschichte der Philosophie|trans-title=Hegel's Lectures on the history of philosophy|url=https://books.google.com/books?id=P1oQAQAAIAAJ|date= 1996|origyear=1892 Kegan Paul|publisher=[[Humanities Press International]]|isbn=978-0-391-03957-5|ref=harv}} ([https://archive.org/details/lecturesonhisto00hegegoog full text at] [[Internet Archive]]) (see also [[Lectures on the History of Philosophy]])
+
+== Legacy ==
+{{more citations needed|section|date=August 2017}}<!-- Lots of paragraphs that have no citations. 
+
+83. 
+# ''[[Encyclopedia of the Philosophical Sciences]]'', a summary of his entire philosophical system, which was originally published in 1816 and revised in 1827 and 1830. 
+
+84. 
+Harris and Walter Cerf, 1977
+* ''[[Phenomenology of Spirit|Phänomenologie des Geistes]]'', 1807
+:''Phenomenology of Mind'', tr. 
+
+85. 
+Pinkard (2000:228).</ref></blockquote>
+
+Pinkard (2000) notes that Hegel's comment to Niethammer "is all the more striking since at that point he had already composed the crucial section of the ''Phenomenology'' in which he remarked that the [[French Revolution|Revolution]] had now officially passed to another land (Germany) that would complete 'in thought' what the Revolution had only partially accomplished in practice".<ref>Pinkard (2000:228f).</ref> Although Napoleon chose not to close down Jena as he had other universities, the city was devastated and students deserted the university in droves, making Hegel's financial prospects even worse. 
+
+86. 
+In Hegel's early philosophy of nature (draft manuscripts written during his time at the University of Jena), Hegel's notion of "Geist" was tightly bound to the notion of "[[Aether (classical element)|Aether]]", from which Hegel also derived the concepts of [[space]] and [[time]], but in his later works (after Jena) he did not explicitly use his old notion of "Aether" anymore.<ref>Stefan Gruner: "Hegel's Aether Doctrine", [[VDM Publishing|VDM Publ]]., 2010, {{ISBN|978-3-639-28451-5}}</ref>
+
+Central to Hegel's [[Conception (idea)|conception]] of [[knowledge]] and mind (and therefore also of reality) was the notion of [[Identity (philosophy)|identity]] in [[Subtraction|difference]]—that is, that mind [[Externalization|externalizes]] itself in various forms and [[object (philosophy)|objects]] that stand outside of it or opposed to it; and that through recognizing itself in them, is "with itself" in these external manifestations so that they are at one and the same time mind and other-than-mind. 
+
+87. 
+''The Logic of Hegel's Logic: An Introduction''. 
+
+88. 
+502 and 514.</ref> and speculative metaphysics of [[Reason]]<ref>[[George Kline]], ''On Hegel'', Gegensatz Press, 2015; Rugard Otto Gropp, ''Zu Fragen der Geschichte der Philosophie und des dialektischen Materialismus'', Deutscher Verlag der Wissenschaften, 1958, p. 
+
+89. 
+Baur in ''Reden gehalten in der Aula der Universität Leipzig beim Rectoratswechsel am 31. 
+
+90. 
+
+=== State ===
+Hegel's State is the final culmination of the embodiment of freedom or right (''Rechte'') in the ''[[Elements of the Philosophy of Right]].'' The State subsumes family and civil society and fulfills them. 
+
+91. 
+
+== Philosophical work ==
+{{Hegelianism}}
+
+=== Critique of Kant ===
+
+==== Logic ====
+Kant bases his account of reason on a table of judgments inspired by Aristotelian syllogistic or [[term logic]]. 
+
+92. 
+The State is "objective spirit" so "it is only through being a member of the state that the individual himself has objectivity, truth, and ethical life" (section 258). 
+
+93. 
+Members of a Hegelian State are happy even to sacrifice their lives for the State. 
+
+94. 
+
+Hegel's principal achievement was his development of a distinctive articulation of [[idealism]], sometimes termed ''[[absolute idealism]]'',<ref>This term is actually quite rare in Hegel's writings. 
+
+95. 
+
+Hegel's son Ludwig Fischer had died shortly before while serving with the Dutch army in [[Jakarta|Batavia]] and the news of his death never reached his father.<ref name=pinkard/>{{rp|548}} Early the following year, Hegel's sister Christiane committed suicide by drowning. 
+
+96. 
+23.</ref>
+| notable_students  = [[Johann Eduard Erdmann]]
+}}
+'''Georg Wilhelm Friedrich Hegel''' ({{IPAc-en|ˈ|h|eɪ|g|əl}};<ref>{{cite web|url=http://dictionary.reference.com/browse/hegel|title=Hegel|work=[[Random House Webster's Unabridged Dictionary]]}}</ref><ref name="LPD">{{citation|last=Wells|first=John C.|year=2008|title=Longman Pronunciation Dictionary|edition=3rd|publisher=Longman|isbn=9781405881180}}</ref> {{IPA-de|ˈɡeːɔʁk ˈvɪlhɛlm ˈfʁiːdʁɪç ˈheːɡl̩|lang}};<ref name="LPD"/><ref>{{cite web|url=https://de.langenscheidt.com/deutsch-franzoesisch/georg|title=Georg – Französisch-Übersetzung – Langenscheidt Deutsch-Französisch Wörterbuch|publisher=[[Langenscheidt]]|accessdate=2018-10-18|language=de, fr}}</ref><ref>{{cite web|url=https://de.langenscheidt.com/deutsch-franzoesisch/wilhelm#Wilhelm|title=Wilhelm – Französisch-Übersetzung – Langenscheidt Deutsch-Französisch Wörterbuch|publisher=Langenscheidt|accessdate=2018-10-18|language=de, fr}}</ref><ref>{{cite web|url=https://de.langenscheidt.com/deutsch-franzoesisch/friedrich|title=Friedrich – Französisch-Übersetzung – Langenscheidt Deutsch-Französisch Wörterbuch|publisher=Langenscheidt|accessdate=2018-10-18|language=de, fr}}</ref><ref>{{cite web|url=https://www.duden.de/rechtschreibung/Hegel|title=Duden {{!}} He-gel {{!}} Rechtschreibung, Bedeutung, Definition|quote=H<u>e</u>gel|work=[[Duden]]|accessdate=2018-10-18|language=de}}</ref> August 27, 1770 – November 14, 1831) was a  [[German philosophy|German philosopher]] and an important figure of [[German idealism]]. 
+
+97. 
+F.|website=www.marxists.org}}</ref> In this work, civil society (Hegel used the term "''bürgerliche Gesellschaft''" though it is now referred to as ''Zivilgesellschaft'' in German to emphasize a more inclusive community) was a stage in the [[dialectical|dialectical relationship]] that occurs between Hegel's perceived opposites, the macro-community of the [[State (polity)|state]] and the micro-community of the family.<ref>Pelczynski, A.Z.; 1984; 'The Significance of Hegel's separation of the state and civil society' pp1-13 in Pelczynski, A.Z. 
+
+98. 
+For example, one year he was Professor of Philosophy and the Greek Language and Literature, and another year he was Professor of Belles-Lettres and Philosophy. 
+
+99. 
+Hegel's thought is revolutionary to the extent that it is a philosophy of absolute negation—as long as absolute negation is at the center, systematization remains open, and makes it possible for human beings to become subjects.<ref name="Schroeder2000">{{cite book|author=Steven Schroeder|title=Between Freedom and Necessity: An Essay on the Place of Value|url=https://books.google.com/books?id=JfT6aQvkVfAC&pg=PA104|accessdate=2012-12-17|year=2000|publisher=Rodopi|isbn=978-90-420-1302-5|page=104}}</ref>
+
+"Mind" and "Spirit" are the common English translations of Hegel's use of the German "[[Geist]]". 
+
+100. 
+The direct and indirect influence of Kojève's lectures and writings (on ''The Phenomenology of Spirit'' in particular) mean that it is not possible to understand most French philosophers from [[Jean-Paul Sartre]] to [[Jacques Derrida]] without understanding Hegel.<ref>French philosopher [[Vincent Descombes]] introduced the term "post-Kojèvian discourse" to designate the period of French philosophy after the 1930s (Vincent Descombes, ''Modern French Philosophy'', Cambridge University Press, 1980, pp. 
+
+101. 
+Throughout the 19th century many chairs of philosophy around Europe were held by Hegelians and [[Søren Kierkegaard]], [[Ludwig Feuerbach]], [[Karl Marx]] and [[Friedrich Engels]]—among many others—were all deeply influenced by, but also strongly opposed to many of the central themes of Hegel's philosophy. 
+
+102. 
+This notion of identity in difference, which is intimately bound up with his conception of contradiction and negativity, is a principal feature differentiating Hegel's thought from that of other philosophers.{{Citation needed|date=June 2016}}
+
+=== Civil society ===
+{{see also|Civil society}}
+Hegel made the distinction between civil society and state in his ''[[Elements of the Philosophy of Right]]''.<ref>{{cite web|url=http://www.marxists.org/reference/archive/hegel/works/pr/preface.htm|title=Hegel's Philosophy of Right: Preface|last=Hegel, G. 
+
+103. 
+|title=The Descent of Ideas: The History of Intellectual History |date=2017 |publisher=Routledge |page=29}}</ref>
+|[[Benedetto Croce|Croce]]
+|[[Jacques Derrida|Derrida]]
+|[[Wilhelm Dilthey|Dilthey]]
+|[[Friedrich Engels|Engels]]
+|[[Ludwig Feuerbach|Feuerbach]]
+|[[Kuno Fischer|Fischer]]
+|[[Francis Fukuyama|Fukuyama]]
+|[[Giovanni Gentile|Gentile]]
+|[[Charles Gore|Gore]]
+|[[Thomas Hill Green|Green]]
+|[[Jean Hyppolite|Hyppolite]]
+|[[Walter Kaufmann (philosopher)|Kaufmann]]
+|[[Søren Kierkegaard|Kierkegaard]]
+|[[Alexandre Kojève|Kojève]]
+|[[Hans Küng|Küng]]
+|[[Vladimir Ilyich Lenin|Lenin]]
+|[[György Lukács|Lukács]]
+|[[Herbert Marcuse|Marcuse]]
+|[[Karl Marx|Marx]]
+|[[Edgar Morin|Morin]]
+|[[John McDowell|McDowell]]
+|[[Friedrich Nietzsche|Nietzsche]]
+|[[Robert B. 
+
+104. 
+98.</ref>
+* [[University of Jena]] <small>([[PhD]], 1801)</small>}}
+| institutions      = {{plainlist|
+* University of Jena<br>(1801–1806)
+* [[University of Heidelberg]]<br>(1816–1818)
+* [[Humboldt University of Berlin|University of Berlin]]<br>(1818–1831)}}
+| residence         = Germany
+| nationality       = German
+| era               = [[19th-century philosophy]]
+| region            = [[Western philosophy]]
+| school_tradition  = {{ublist|class=nowrap
+|[[Continental philosophy]]
+|[[German idealism]]
+|[[Objective idealism]]
+|[[Absolute idealism]]
+|[[Hegelianism]]
+|[[Historicism]]<ref>Brian K. 
+
+105. 
+2007 by Michael Inwood
+* ''[[Elements of the Philosophy of Right|Grundlinien der Philosophie des Rechts]]'', 1821
+:''Elements of the Philosophy of Right'', tr. 
+
+106. 
+
+In 1805, the University promoted Hegel to the position of Extraordinary Professor (unsalaried) after he wrote a letter to the poet and minister of culture [[Johann Wolfgang Goethe]] protesting at the promotion of his philosophical adversary [[Jakob Friedrich Fries]] ahead of him.<ref name=pinkard>{{cite book|last=Pinkard|first=Terry|title=Hegel: A Biography|url=https://archive.org/details/hegelbiography0000pink|url-access=registration|date=2000|publisher=Cambridge University Press|isbn=978-0-521-49679-7}}</ref>{{rp|223}} Hegel attempted to enlist the help of the poet and translator [[Johann Heinrich Voß]] to obtain a post at the newly renascent [[University of Heidelberg]], but he failed; to his chagrin, Fries was later in the same year made Ordinary Professor (salaried) there.<ref name=pinkard/>{{rp|224–25}}
+
+[[File:Hegel-and-Napoleon-in-Jena-1806.jpg|thumb|upright=0.9|"Hegel and Napoleon in Jena" (illustration from ''Harper's Magazine'', 1895), whose meeting became proverbial due to Hegel's notable use of ''[[Weltseele]]'' ("world-soul") in reference to Napoleon ("the world-soul on horseback", ''{{lang|de|die Weltseele zu Pferde}}'')<ref>Note that ''Weltseele zu Pferde'' is a shortened paraphrase of Hegel's words in the letter. 
+
+107. 
+Modern philosophy, culture and society seemed to Hegel fraught with contradictions and tensions, such as those between the subject and object of knowledge, mind and nature, [[Philosophy of self|self]] and [[Other (philosophy)|Other]], freedom and authority, knowledge and faith, or the [[Age of Enlightenment|Enlightenment]] and [[Romanticism]]. 
+
+108. 
+In short, he adopts a view very similar to Kant's empirical realism."</ref>
+|[[Coherence theory of truth]]<ref>[https://plato.stanford.edu/entries/truth-coherence/ The Coherence Theory of Truth (Stanford Encyclopedia of Philosophy)]</ref>}}
+| main_interests    = {{ublist|class=nowrap
+|[[Metaphysics]]
+|[[Epistemology]]
+|''[[Naturphilosophie]]''
+|[[Philosophy of history]]
+|[[Political philosophy]]
+|[[Logic]]
+|[[Aesthetics]]}}
+| notable_ideas     = {{ublist
+|[[Absolute idealism]]
+|[[Hegelian dialectic]]
+|[[Master–slave dialectic]]
+|''[[Aufheben]]'' ("sublation")
+|''[[Geist]]'' ("mind/spirit")
+|''[[Sittlichkeit]]'' ("ethical order")
+|[[Social alienation#17th century|Alienation]]<ref>''[[Routledge Encyclopedia of Philosophy]]'' (1998): [https://www.rep.routledge.com/articles/thematic/alienation/v-1 "Alienation"].</ref>
+|[[Dialectical phenomenology]]
+|The three [[wikt:moment#Noun|moments]] of the [[concept]]: [[Universal (metaphysics)|universality]], [[particular]]ity, and [[Individual#Hegel|individuality]]<ref>John Grier Hibben, Eric v. 
+
+109. 
+
+==== Things-in-themselves ====
+For both Hegel and Kant, "we arrive at the concept of the thing in itself by removing, or abstracting from, everything in our experiences of objects of which we can become conscious."<ref>{{Cite book|url=https://www.worldcat.org/oclc/864849733|title=Understanding Hegel's mature critique of Kant|last=McCumber, John,|first=|publisher=|year=|isbn=0-8047-8853-7|location=Stanford, California|pages=54|oclc=864849733}}</ref> Surprisingly, Hegel faults Kant for not carrying this abstracting procedure far enough; the thing-in-itself is an arbitrary pitstop on the way to ''nothing'', pure indeterminacy: "If we abstract 'Ding' [''thing''] from 'Ding-an-sich' [''thing-in-itself''], we get one of Hegel's standard phrases: 'an sich.' [''in itself'']....A child, in Hegel's example, is thus 'in itself' the adult it will become: to know what a 'child' is means to know that it is, in some respects, a vacancy which will only gain content after it has grown out of childhood."<ref>{{Cite book|url=https://www.worldcat.org/oclc/864849733|title=Understanding Hegel's mature critique of Kant|last=McCumber, John,|first=|publisher=|year=|isbn=0-8047-8853-7|location=Stanford, California|pages=58|oclc=864849733}}</ref> The thing as it is in itself is indeed knowable: it is the indeterminate, "futural" aspect of the thing we experience––it is what we ''will come to'' know. 
+
+110. 
+However, Hegel interprets not-A as not existing at all, not nothing at all, which cannot be conceived, but indeterminate or "pure" [[being]] without [[particular]]ity or specificity.<ref>{{cite book | first=Frederick Charles | last=Copleston | pages=Chapter X | year=2003 | publisher=Continuum International Publishing Group | isbn=978-0-8264-6901-4 | nopp=true | title=A History of Philosophy: Volume 7: 18th and 19th century German philosophy}}</ref> Pure being and pure non-being or nothingness are for Hegel pure abstractions from the reality of becoming and this is also how he interprets Heraclitus. 
+
+111. 
+Here, Hölderlin exerted an important influence on Hegel's thought.<ref name=pinkard/>{{rp|80}} While in Frankfurt, Hegel composed the essay "Fragments on Religion and Love".<ref>{{cite web |url=http://www3.documenta.de/research/assets/Uploads/Hegel-Fragment-on-Love.pdf |title=Archived copy |accessdate=2013-08-09 |url-status=dead |archiveurl=https://web.archive.org/web/20131008103100/http://www3.documenta.de/research/assets/Uploads/Hegel-Fragment-on-Love.pdf |archivedate=2013-10-08 }}</ref> In 1799, he wrote another essay entitled "The Spirit of Christianity and Its Fate",<ref>[http://www.sunypress.edu/pdf/60921.pdf The Spirit of Christianity and Its Fate"]</ref> unpublished during his lifetime. 
+
+112. 
+translated by Terry Pinkard (2012)]
+
+{{Navboxes
+|title=Articles related to Georg Wilhelm Friedrich Hegel
+|list=
+{{Continental philosophy}}
+{{Romanticism}}
+{{Metaphysics}}
+{{Philosophy of religion}}
+{{Ethics}}
+{{Aesthetics}}
+{{Social and political philosophy}}
+{{Jurisprudence}}
+{{Conservatism footer}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Hegel, Georg Wilhelm Friedrich}}
+[[Category:Georg Wilhelm Friedrich Hegel| ]]
+[[Category:1770 births]]
+[[Category:1831 deaths]]
+[[Category:18th-century German philosophers]]
+[[Category:18th-century German writers]]
+[[Category:18th-century philosophers]]
+[[Category:19th-century German philosophers]]
+[[Category:19th-century German writers]]
+[[Category:19th-century philosophers]]
+[[Category:Continental philosophers]]
+[[Category:Death of God theologians]]
+[[Category:Deaths from cholera]]
+[[Category:Epistemologists]]
+[[Category:Ethicists]]
+[[Category:Founders of philosophical traditions]]
+[[Category:German ethicists]]
+[[Category:German historians of philosophy]]
+[[Category:German idealism]]
+[[Category:German logicians]]
+[[Category:German Lutherans]]
+[[Category:German political philosophers]]
+[[Category:Hegelian philosophers| ]]
+[[Category:Heidelberg University alumni]]
+[[Category:History of ideas]]
+[[Category:History of philosophy]]
+[[Category:Humboldt University of Berlin faculty]]
+[[Category:Idealists]]
+[[Category:Infectious disease deaths in Germany]]
+[[Category:Metaphysicians]]
+[[Category:Moral philosophers]]
+[[Category:Mystics]]
+[[Category:Neo-Spinozism]]
+[[Category:Ontologists]]
+[[Category:People from Stuttgart]]
+[[Category:People from the Duchy of Württemberg]]
+[[Category:Philosophers of art]]
+[[Category:Philosophers of education]]
+[[Category:Philosophers of ethics and morality]]
+[[Category:Philosophers of history]]
+[[Category:Philosophers of law]]
+[[Category:Philosophers of logic]]
+[[Category:Philosophers of mind]]
+[[Category:Philosophers of religion]]
+[[Category:Political philosophers]]
+[[Category:Rationalists]]
+[[Category:Romanticism]]
+[[Category:Social philosophers]]
+[[Category:Spinoza scholars]]
+[[Category:Spinozist philosophers]]
+[[Category:Spinozists]]
+[[Category:Theories of history]]
+[[Category:Western philosophy]]. 
+
+113. 
+Pippin, ''Hegel's Idealism: The Satisfaction of Self-Consciousness (Cambridge: Cambridge University Press, 1989), 5</ref> Russell wrote in ''[[A History of Western Philosophy]]'' (1945) that Hegel was "the hardest to understand of all the great philosophers".<ref>{{cite book|last=Russell|first=Bertrand|title=A History of Western Philosophy|date=1972|page=730}}</ref> Karl Popper quoted Schopenhauer as stating, "Should you ever intend to dull the wits of a young man and to incapacitate his brains for any kind of thought whatever, then you cannot do better than give Hegel to read...A guardian fearing that his ward might become too intelligent for his schemes might prevent this misfortune by innocently suggesting the reading of Hegel."<ref>{{cite book |last=Popper |first=Karl|title=The Open Society And Its Enemies |url=https://books.google.com/?id=_M_E5QczOBAC |publisher=Routledge |page=287 |isbn=9784624010522|date=2012-11-12}}</ref>
+
+[[Karl Popper]] wrote that "there is so much philosophical writing (especially in the Hegelian school) which may justly be criticised as meaningless verbiage".<ref>Karl Popper, ''Conjectures and Refutations: The Growth of Scientific Knowledge'' (New York: Routledge, 1963), 94.</ref> Popper also makes the claim in the second volume of ''[[The Open Society and Its Enemies]]'' (1945) that Hegel's system formed a thinly veiled justification for the [[Absolute monarchy|absolute rule]] of [[Frederick William III of Prussia|Frederick William III]] and that Hegel's idea of the ultimate goal of history was to reach a [[sovereign state|state]] approximating that of 1830s [[Prussia]]. 
+
+114. 
+418--451 (1972)</ref> This concept of Hegel as a hermetic thinker was elaborated by Glenn Alexander Magee,<ref>Magee, Glenn Alexander (2001), ''Hegel and the Hermetic Tradition'', Ithaca: Cornell University Press</ref> who argued that interpreting Hegel's body of work as an expression of mysticism and hermetic ideas leads to a more accurate understanding of Hegel.<ref>"I do not argue that merely that we ''can'' understand Hegel as a Hermetic thinker, just as we can understand him as a German or a Swabian or an idealist thinker. 
+
+115. 
+His philosophy of spirit conceptually integrates psychology, the state, history, art, religion and philosophy. 
+
+116. 
+# ''[[Elements of the Philosophy of Right]]'', his political philosophy, published in 1820. 
+
+117. 
+
+=== Religion ===
+As a graduate of a Protestant seminary, Hegel's theological concerns were reflected in many of his writings and lectures.<ref>"[T]he task that touches the interest of philosophy most nearly at the present moment: to put God back at the peak of philosophy, absolutely prior to all else as the one and only ground of everything." (Hegel, "How the Ordinary Human Understanding Takes Philosophy as displayed in the works of Mr. 
+
+118. 
+Hegel devoted himself primarily to delivering his lectures; and his lecture courses on aesthetics, the philosophy of religion, the philosophy of history and the history of philosophy were published posthumously from lecture notes taken by his students. 
+
+119. 
+Critiques of Hegel offered from the Left Hegelians radically diverted Hegel's thinking into new directions and eventually came to form a disproportionately large part of the literature on and about Hegel.<ref name="ReferenceA">''The Universal Mind: The Evolution of Machine Intelligence and Human Psychology'', by Xiphias Press</ref>
+
+The Left Hegelians also influenced Marxism, which has in turn inspired global movements, from the [[Russian Revolution (1917)|Russian Revolution]], the [[Chinese Revolution (1949)|Chinese Revolution]] and myriad of practices up until the present moment.<ref name="ReferenceA"/>
+
+20th-century interpretations of Hegel were mostly shaped by [[British idealism]], [[logical positivism]], [[Marxism]] and [[Fascism]]. 
+
+120. 
+Hegel thinks that Kant's account is quite accurate; however, he faults Kant for proceeding to derive the table of categories without first deriving the table of judgments.<ref>{{Cite book|url=https://www.worldcat.org/oclc/864849733|title=Understanding Hegel's mature critique of Kant|last=McCumber, John,|first=|publisher=|year=|isbn=0-8047-8853-7|location=Stanford, California|pages=50|oclc=864849733}}</ref> Kant's transcendental logic is consequently rendered historically contingent, having been reconstructed from the "modern compendiums of logic" whose subject matter is in need of "total reconstruction."<ref>{{Cite book|url=https://www.worldcat.org/oclc/40500731|title=Hegel's Science of Logic|last=Hegel, Georg Wilhelm Friedrich, 1770-1831.|first=|date=[1998]|publisher=Humanity Books|others=Miller, Arnold V.|year=|isbn=1-57392-280-3|location=Amherst, N.Y.|pages=51|oclc=40500731}}</ref> Concepts such as universality and necessity, and laws such as [[Law of noncontradiction|non-contradiction]], are simply taken for granted by Kant––they ''do'' ''in fact'' hold for thinking as Kant says, Hegel thinks, but philosophy demands that they be given a genetic (i.e. 
+
+121. 
+Kaufmann and [[Shlomo Avineri]] have criticized Popper's theories about Hegel.<ref>See for instance Walter Kaufmann (1959), [http://www.marxists.org/reference/subject/philosophy/works/us/kaufmann.htm ''The Hegel Myth and Its Method'']</ref>
+
+[[Isaiah Berlin]] listed Hegel as one of the six architects of modern [[authoritarianism]] who undermined [[liberal democracy]], along with Rousseau, [[Claude Adrien Helvétius]], Fichte, [[Claude Henri de Rouvroy, comte de Saint-Simon|Saint-Simon]] and [[Joseph de Maistre]].<ref>Berlin, Isaiah, ''Freedom and Betrayal: Six Enemies of Human Liberty'' (Princeton University Press, 2003)</ref>
+
+Voegelin argued that Hegel should be understood not as a philosopher, but as a "sorcerer", i.e. 
+
+122. 
+A number of other works on the [[philosophy of history]], [[Philosophy of religion|religion]], [[aesthetics]] and the [[history of philosophy]]{{sfn|Hegel|1996}} were compiled from the lecture notes of his students and published posthumously. 
+
+123. 
+
+For Hegel, the inner movement of reality is the process of God thinking as manifested in the evolution of the universe of nature and thought; that is, Hegel argued that when fully and properly understood, [[reality]] is being [[Idealism|thought]] by God as manifested in a person's comprehension of this process in and through philosophy. 
+
+124. 
+85–86.</ref>
+
+Hegel continued to develop his thoughts on religion both in terms of how it was to be given a 'wissenschaftlich', or "theoretically rigorous," account in the context of his own "system," and, most importantly, with how a fully modern religion could be understood.<ref>{{Cite book|title=Hegel – A Biography|last=Pinkard|first=Terry|publisher=Cambridge University Press|year=2000|isbn=0521-49679-9|location=United States|page=576}}</ref>
+
+== Works ==
+
+Hegel published four works during his lifetime:
+
+# ''[[The Phenomenology of Spirit]]'' (or ''The Phenomenology of Mind''), his account of the evolution of consciousness from sense-perception to absolute knowledge, published in 1807. 
+
+125. 
+His account of the [[master–slave dialectic]] has been highly influential, especially in 20th-century France.<ref>Overwhelmingly due to [[Alexandre Kojève]]'s influential lectures published as ''Introduction à la lecture de Hegel'' (Paris, 1947), selections translated into English by James Nichols as ''Introduction to the Reading of Hegel'' (New York, 1969). 
+
+126. 
+Wood, 1991
+
+=== Published posthumously ===
+* ''[[Lectures on Aesthetics]]''
+* ''[[Lectures on the Philosophy of History]]'' (also translated as ''Lectures on the Philosophy of World History''), 1837
+* ''[[Lectures on the Philosophy of Religion]]''
+* ''[[Lectures on the History of Philosophy]]''
+
+== See also ==
+{{Portal|Philosophy}}
+{{div col}}
+* [[Dialectical idealism]]
+* "[[God is dead]]"
+* [[Hegel-Archiv]]
+* [[Political consciousness]]
+* [[Process theology]]
+* [[Pure thought]]
+* [[Rudy Rucker]], the great-great-great-grandson of Hegel
+{{div col end}}
+
+== Notes ==
+{{reflist|30em}}
+
+== Further reading ==
+The secondary literature on Hegel is vast. 

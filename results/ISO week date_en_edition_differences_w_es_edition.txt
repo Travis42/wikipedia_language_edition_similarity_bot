@@ -1,0 +1,595 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+ISO week date
+
+en edition's differences with the es version: 
+
+
+1. 
+then week} = \text{week}</math>
+-->
+
+Friday 26 September 2008
+* Ordinal day: 244 + 26 = 270
+* Weekday: Friday = 5
+* 270 − 5 + 10 = 275
+* 275 ÷ 7 = 39.28…
+* Result: Week 39
+
+The week date can also be given by
+:[[ceil]] ((''od'' + ''c'')/7) = week number
+:(''od'' + ''c'') mod 7 = weekday number
+for ''od'' and ''c'' look up the table above or use the algorithm to calculate. 
+
+2. 
+The first week of the year, hence, always [[ISO week date#First week|contains 4 January]]. 
+
+3. 
+the 52nd or 53rd one, is the week before week 01. 
+
+4. 
+
+When it is necessary to allocate a week to a single month, the rule for first week of the year might be applied, although ISO 8601 does not consider this case. 
+
+5. 
+If a week number of 53 is obtained, one must check that the date is not actually in week 1 of the following year. 
+
+6. 
+
+The US [[broadcast calendar]] counts the week containing 1 January as the first of the year, but otherwise works like ISO week numbering without partial weeks. 
+
+7. 
+The extra week is sometimes referred to as a ''[[Leap week calendar|leap week]]'', although ISO 8601 does not use this term. 
+
+8. 
+The following definitions based on properties of this week are mutually equivalent, since the ISO week starts with Monday:
+* It is the first week with a majority (4 or more) of its days in January. 
+
+9. 
+
+{|class="wikitable" style="text-align:right"
+|+ Examples of contemporary dates around New Year’s Day
+|-
+!colspan=3|Date
+!rowspan=2|Notes
+|-
+!style="width:18ex"|Gregorian
+!style="width:24ex" colspan=2|ISO
+|-
+|Sat 1 Jan 2005
+|{{nowrap|2005-01-01}}
+|bgcolor=lightgrey|{{nowrap|2004-W53-6}}
+|rowspan=8|
+|-
+|Sun 2 Jan 2005
+|2005-01-02
+|bgcolor=lightgrey|2004-W53-7
+|-
+|colspan=3|
+|-
+|Sat 31 Dec 2005
+|2005-12-31
+|2005-W52-6
+|-
+|bgcolor=lightgrey|Sun 1 Jan 2006
+|bgcolor=lightgrey|2006-01-01
+|2005-W52-7
+|-
+|bgcolor=lightgrey|Mon 2 Jan 2006
+|bgcolor=lightgrey|2006-01-02
+|bgcolor=lightgrey|2006-W01-1
+|-
+|colspan=3 bgcolor=lightgrey|
+|-
+|bgcolor=lightgrey|Sun 31 Dec 2006
+|bgcolor=lightgrey|2006-12-31
+|bgcolor=lightgrey|2006-W52-7
+|-
+|Mon 1 Jan 2007
+|2007-01-01
+|2007-W01-1
+|align=left|Both years 2007 start with the same day. 
+
+10. 
+In the US and in most of Latin America, although the work week is usually defined to start on Monday, the week itself is often considered to start on Sunday. 
+
+11. 
+Hence the earliest possible last week extends from Monday 22 December to Sunday 28 December, the latest possible last week extends from Monday 28 December to Sunday 3 January. 
+
+12. 
+Hence the earliest possible first week extends from Monday 29 December (previous Gregorian year) to Sunday 4 January, the latest possible first week extends from Monday 4 January  to Sunday 10 January. 
+
+13. 
+For example, as above: 2008W396
+:''od'' = 7 (39 - 1) + 6 - <span style="background-color:#9F9">1</span> = 271
+:''d'' = 271 - 244 = 27 September
+:&emsp;
+:''m'' = floor (271/30) + 1 = 10
+:''d'' = 271 mod 30 - floor (0.6 (10 + 1)) + 2 = -3
+October -3 = September 27 (30 - 3). 
+
+14. 
+Letters both in day columns and a month row (d, m) are day letters for days of the month. 
+
+15. 
+Letters both in a century column (<span style="color:blue;">A C E G</span>) and  year rows (c, y) are dominical letters for years of the century. 
+
+16. 
+For example, the Gregorian date Monday 23 December 2019 corresponds to Monday in the 52nd week of 2019, and is written 2019-W52-1 (in extended form) or 2019W521 (in compact form). 
+
+17. 
+*For 1980–W40–1
+:c = 19, y = 80 mod 28 = 24, n = 40, w = 1 = Mon;
+:DL = (19, 24/<span style="color:red;">24</span>) = FE, D = 4 Oct (40);
+:E = Sun, D = Sat (40), F = Mon 6 (41) = Mon 29 Sep (40);
+:CD = Monday 29 September 1980. 
+
+18. 
+If it is on a Wednesday, it is in week 01 of the next year in common years and week 53 in leap years. 
+
+19. 
+
+The dates listed in the table are all one day after the Doomsdays, except that in January and February of leap years the dates themselves are Doomsdays. 
+
+20. 
+
+=== Last week ===
+The last week of the ISO week-numbering year, i.e. 
+
+21. 
+|-
+|bgcolor=lightgrey|Fri 1 Jan 2010
+|bgcolor=lightgrey|2010-01-01
+|2009-W53-5
+|-
+|bgcolor=lightgrey|Sat 2 Jan 2010
+|bgcolor=lightgrey|2010-01-02
+|2009-W53-6
+|-
+|bgcolor=lightgrey|Sun 3 Jan 2010
+|bgcolor=lightgrey|2010-01-03
+|2009-W53-7
+|}
+
+=== First week ===
+The ISO 8601 definition for week 01 is the week with the Gregorian year's first Thursday in it. 
+
+22. 
+
+The Gregorian years corresponding to the other 329 short ISO years (neither starting nor ending with Thursday) can also be subdivided as follows:
+* 70 are Gregorian leap years. 
+
+23. 
+: <math>\begin{align}
+\text{week}(\text{date}) &= \left\lfloor \frac{\text{ordinal}(\text{date}) - \text{weekday}(\text{date}) + 10}{7} \right\rfloor \\
+\text{week} &= \begin{cases}
+  \text{lastWeek}(\text{year}-1), & \text{week}<1 \\
+  1,  & \text{week}>\text{lastWeek}(\text{year})
+\end{cases}
+\end{align}
+</math>
+<!--
+: <math>\text{if week} < 1\text{ then week} = \text{lastWeek}(\text{year}-1)</math>
+: <math>\text{if week} > \text{lastWeek}(\text{year}) \text{ then week} = 1</math>
+: <math>\text{if o.w. 
+
+24. 
+|-
+|colspan=3 bgcolor=lightgrey|
+|-
+|bgcolor=lightgrey|Sun 28 Dec 2008
+|bgcolor=lightgrey|2008-12-28
+|bgcolor=lightgrey|2008-W52-7
+|-
+|bgcolor=lightgrey|Mon 29 Dec 2008
+|bgcolor=lightgrey|2008-12-29
+|2009-W01-1
+|rowspan=5 align=left valign=top|ISO year 2009 begins three days before the end of Gregorian 2008. 
+
+25. 
+style="text-align:left" | January
+| [[January 4|04]] || [[January 11|11]] || [[January 18|18]] || [[January 25|25]] || 
+| align=center | 01 – 04 || rowspan=2 | Also fixed week numbers in<br />leap years starting on Thursday. 
+
+26. 
+
+{| class="wikitable" style="text-align:center"
+|-
+!colspan="3"|Week number!!colspan="3"|Calendar date
+| 01<br />08<br />15<br />22<br />29 || 02<br />09<br />16<br />23<br />30 || 03<br />10<br />17<br />24<br />31 || 04<br />11<br />18<br />25<br />-- || 05<br />12<br />19<br />26<br />-- || 06<br />13<br />20<br />27<br />-- || 07<br />14<br />21<br />28<br />--
+!colspan="5"|Week table<br/><span style="color:red;">Jan</span> & <span style="color:red;">Feb</span> <br/>for <span style="color:red;">leap years</span>
+|-
+| 01–04||40–43|| ||Jan ||Oct || || style="background:#9F9;|<span style="color:blue;">A</span> ||<span style="color:blue;">B</span> || <span style="color:blue;">C</span> || <span style="color:blue;">'''D'''</span> || <span style="color:blue;">E</span> ||<span style="color:blue;">F</span> || <span style="color:blue;">G</span> || <span style="color:red;">0</span>0|| 06|| 12||17||23
+|-
+| 01–04||14–17||27–30||<span style="color:red;">Jan</span> ||Apr || Jul|| {{yes|G}} || A || B ||  C || '''D''' || E || <span style="color:blue;">F</span> || 01|| 07||<span style="color:red;">12</span>||18||24
+|-
+| 36–39||49–52|| ||Sep ||Dec|| || {{yes|F}} || G || A || B || C || '''D''' || <span style="color:blue;">E</span> || 02|| 08||13||19||<span style="color:red;">24</span>
+|-
+|23–26|| || ||Jun || || || {{yes|E}} || F || G || A || B || C || <span style="color:blue;">'''D'''</span> || 03||<span style="color:red;">08</span>||14|| 20||25
+|-
+| 05–<span style="color:black;">08</span>||09–13||44–<span style="color:black;">48</span>||Feb ||Mar ||Nov || {{yes|'''D'''}} || E || F || | G || A || B ||<span style="color:blue;">C</span> || {{yes|04}}|| {{yes|09}}||{{yes|15}}|| style="background:#9F9;|<span style="color:red;">20</span>||{{yes|26}}
+|-
+|05–08||05–<span style="color:red;">09</span>||31–35||<span style="color:red;">Feb</span> || 29th/<span style="color:red;">Sun</span> || Aug||  {{yes|C}} || '''D''' || E || F || G || A || <span style="color:blue;">B</span> || <span style="color:red;">'''04'''</span>|| 10||16 ||21||27
+|-
+| 18–22|| || ||May|| || || {{yes|B}} || C || '''D''' || E || F || G || <span style="color:blue;">A</span> ||05||11||<span style="color:red;">16</span>||22||00
+|-
+!colspan="6"|Year's first 2-digit mod 4
+|{{yes|20}}<br/>00<br/>16|| ||21<br/>01<br/>17|| ||22<br/>02<br/>18|| ||23<br/>03<br/>19
+!colspan="5"|Year's last 2-<br/>digit mod 28
+|}
+Months in the same row are corresponding months and the dates with the same day letter fall on the same weekday. 
+
+27. 
+|| colspan=7 | Weekdays and dates at<br />the beginning of January || colspan=4 | Effect || colspan=7 | Weekdays and dates at the end of<br />December (when [[common year]]<sup>1</sup>)
+|-
+. 
+
+28. 
+That is 364 or 371 days instead of the usual 365 or 366 days. 
+
+29. 
+This table can be used to look up dominical letters (DL), day letters (dl), weekdays (w), week numbers (n), and the ISO week date (WD). 
+
+30. 
+ISO year 2008 is 2 days shorter: 1 day longer at the start, 3 days shorter at the end. 
+
+31. 
+The only 4 months (or 5 in a long year) of 5 weeks would be those with at least 29 days starting on Thursday, those with at least 30 days starting on Wednesday, and those with 31 days starting on Tuesday. 
+
+32. 
+*For 1 October 2032 (CD)
+:c = 20, y = 32 mod 28 = 4, d = 1, m = Oct;
+:DL = (<span style="background:#9F9;">20</span>, <span style="background:#9F9;">04</span>/<span style="color:red;">'''04'''</span>) = DC, dl = (1, Oct) = A, D = 4 Oct (40 + 1);
+:C = Sun, A = Fri, D = Mon (41);
+:n = 41 - 1 = 40, w = 5;
+:WD = 2032–W40–5. 
+
+33. 
+
+==Other week numbering systems==
+For an overview of week numbering systems see [[Seven-day week#Week numbering|week number]]. 
+
+34. 
+colspan="1"|Algorithm
+| colspan="13"| ''od'' = 30 (''m'' - 1) + floor (0.6 (''m'' + 1)) - ''i'' + ''d''
+|-
+!colspan="7" rowspan="5"|Year's last 2–digit mod 28 (''y'')
+|01||02||03||04||||05||06
+|-
+|07||08||||09||10||11||12
+|-
+|||13||14||15||16||||17
+|-
+|18||19||20||||21||22||23
+|-
+|24||||25||26||27||00||
+|-
+!colspan="6" rowspan="4"|Correction (''c'')<br>Year's first 2–digit mod 4 (''C'')!!{{yes|00}}
+|{{yes|00}}||{{yes|01}}||{{yes|02}}||{{yes|03}}||{{yes|- 3}}||{{yes|- 2}}||{{yes|- 1}}
+|-
+!01
+| - 2||- 1||00||01||02||03||- 3
+|-
+!02
+|03||- 3||- 2||- 1||00||01||02
+|-
+!03
+||01||02||03||- 3||- 2||- 1||00
+|-
+!colspan="1"|Algorithm
+|colspan="13"|''c'' = (''y'' + floor ((''y'' - 1)/4) + 5 ''C'' - 1) mod 7 - 7 if the result > 3
+|}
+
+Method: Using ISO weekday numbers (running from 1 for Monday to 7 for Sunday), subtract the weekday from the ordinal date, then add 10. 
+
+35. 
+
+The day of the week for these days are related to [[Doomsday (weekday)|the “Doomsday” algorithm]] because for any year, the “Doomsday” that the algorithm calculates is the weekday that the last day of February falls on. 
+
+36. 
+style="text-align:left" | September
+| [[September 6|06]] || [[September 13|13]] || [[September 20|20]] || [[September 27|27]] ||
+| align=center | 36 – 39
+|-
+. 
+
+37. 
+
+Ceiling the quotient equals the week number and the remainder is the weekday number (0 = Sunday = 7). 
+
+38. 
+
+For 26 September 2008
+:ceil ((244 + 26 + <span style="background-color:#9F9">01</span>)/7) = 39
+:(244 + 26 + <span style="background-color:#9F9">01</span>) mod 7 = 5
+:&emsp;
+:''od'' = 30 (9 - 1) + floor (0.6 (9 + 1)) - 2 + 26 = 244 + 26 = 270
+:''c'' = (8 + floor ((8 - 1)/4) + 5 x <span style="background-color:#9F9">00</span> - 1) mod 7 = 1
+:ceil ((270 + 1)/7) = 39
+:271 mod 7 = 5
+the week date is 2008W395. 
+
+39. 
+
+===Dates with fixed week number===
+For all years, 8 days have a fixed ISO week number (between 01 and 08) in January and February. 
+
+40. 
+In every cycle there are 71 years with an additional 53rd week (corresponding to the Gregorian years that contain 53 Thursdays). 
+
+41. 
+
+Thus, within a 400-year cycle:
+* 27 week years are ''5 days longer'' than the month years (371 − 366). 
+
+42. 
+* 44 week years are ''6 days longer'' than the month years (371 − 365). 
+
+43. 
+* 70 week years are ''2 days shorter'' than the month years (364 − 366). 
+
+44. 
+* 259 week years are ''1 day shorter'' than the month years (364 − 365). 
+
+45. 
+* When used by itself without using the concept of month, all week-numbering years are the same except that some years have a week 53 at the end. 
+
+46. 
+style="text-align:left" | December
+| [[December 6|06]] || [[December 13|13]] || [[December 20|20]] || [[December 27|27]] ||
+| align=center | 49 – 52
+|}
+During leap years starting on Thursday (i.e. 
+
+47. 
+
+The Gregorian [[leap cycle]], which has 97 leap days spread across 400 years, contains a whole number of weeks ({{val|20871}}). 
+
+48. 
+Most [[calendar reform]] proposals using [[leap week calendar]]s are simpler in this regard, although they may choose a different [[leap year|leap cycle]]. 
+
+49. 
+For the current century letters in column <span style="color:blue;">A</span> are  domimical letters and years in row <span style="color:blue;">C</span> are leap week years (long years). 
+
+50. 
+In leap years the week number is [[Doomsday (weekday)#Overview of all Doomsdays|the rank number of its Doomsday]]. 
+
+51. 
+
+A precise date is specified by the ISO week-numbering year in the format <var>YYYY</var>, a '''week number''' in the format <var>ww</var> prefixed by the letter 'W', and the '''weekday number''', a digit <var>d</var> from 1 through 7, beginning with Monday and ending with Sunday. 
+
+52. 
+For example, 29&nbsp;December 2014 is ISO&nbsp;2015-W01-1, i.e., it is in year&nbsp;2015 instead of 2014. 
+
+53. 
+|last=Gent}}</ref>
+:<math>\begin{align}
+\text{weeks}(\text{year}) &= 52 + \begin{cases}
+1 \text{ (long)} & \text{if } p(\text{year}) = 4 \\ 
+ & \text{or } p(\text{year}-1) = 3 \\
+0 \text{ (short)} & \text{otherwise}
+\end{cases} \\
+p(\text{year}) &= \left( \text{year} + \left\lfloor\frac{\text{year}}4\right\rfloor - \left\lfloor\frac{\text{year}}{100}\right\rfloor + \left\lfloor\frac{\text{year}}{400} \right\rfloor \right) \bmod 7\end{align}</math>
+
+The following 71 years in a 400-year cycle have 53 weeks (371 days); years not listed have 52 weeks (364 days); add 2000 for current years:
+{|class="wikitable" style="text-align:right"
+|-
+|'''004'''|| 009|| 015|| '''020'''|| 026
+|-
+|'''032'''|| 037|| 043|| '''048'''|| 054
+|-
+|'''060'''|| 065|| 071|| '''076'''|| 082
+|-
+|'''088'''|| 093|| 099|| ||
+|-
+| ||105||111||'''116'''|| 122 
+|-
+|'''128'''|| 133|| 139|| '''144'''|| 150
+|-
+|'''156'''|| 161|| 167|| '''172'''|| 178
+|-
+|'''184'''|| 189|| 195|| || 
+|-
+| || 201|| 207|| '''212'''|| 218 
+|-
+|'''224'''|| 229|| 235|| '''240'''|| 246 
+|-
+|'''252'''|| 257|| 263|| '''268'''|| 274 
+|-
+|'''280'''|| 285|| 291|| '''296'''||
+|-
+| || || 303|| '''308'''|| 314
+|-
+| '''320'''|| 325|| 331|| '''336'''|| 342 
+|-
+|'''348'''|| 353|| 359|| '''364'''|| 370 
+|-
+|'''376'''|| 381|| 387|| '''392'''|| 398
+|}
+
+On average, a year has 53 weeks every {{frac|400|71}} = 5.6338… years, and these long ISO years are 43 × 6 years apart, 27 × 5 years apart, and once 7 years apart (between years 296 and 303). 
+
+54. 
+The Gregorian years corresponding to these 71 long years can be subdivided as follows:
+* 27 Gregorian leap years, emphasized in the list above:
+** 14 [[Leap year starting on Thursday|starting on Thursday, hence ending on Friday]], and
+** 13 [[Leap year starting on Wednesday|starting on Wednesday, hence ending on Thursday]];
+* 44 Gregorian common years [[Common year starting on Thursday|starting, hence also ending on Thursday]]. 
+
+55. 
+|-
+|bgcolor=lightgrey|Tue 30 Dec 2008
+|bgcolor=lightgrey|2008-12-30
+|2009-W01-2
+|-
+|bgcolor=lightgrey|Wed 31 Dec 2008
+|bgcolor=lightgrey|2008-12-31
+|2009-W01-3
+|-
+|Thu 1 Jan 2009
+|2009-01-01
+|2009-W01-4
+|-
+|colspan=3|
+|-
+|Thu 31 Dec 2009
+|2009-12-31
+|2009-W53-4
+|rowspan=4 align=left valign=top|ISO year 2009 has 53 weeks and ends three days into Gregorian year 2010. 
+
+56. 
+And with the exception of leap years starting on Thursday, dates with fixed week numbers occur in all months of the year (for 1 day of each ISO week 01 to 52):
+
+{| class="wikitable"
+| colspan=7 align=center | '''Overview of dates with a fixed week number in any year<br />other than a [[leap year starting on Thursday]]'''
+|-
+. 
+
+57. 
+|-
+| '''G'''<small><small> </small></small>F || 1<sup>st</sup> || 2<sup>nd</sup> || 3<sup>rd</sup> || 4<sup>th</sup> || 5<sup>th</sup> || 6<sup>th</sup> || 7<sup>th</sup> || 1<sup>st</sup> January || 01 |||| '''01''' next year || 31<sup>st</sup> ||  ||  ||  ||  ||  ||
+|-
+| '''F'''<small><small> </small></small>E ||  || 1<sup>st</sup> || 2<sup>nd</sup> || 3<sup>rd</sup> || 4<sup>th</sup> || 5<sup>th</sup> || 6<sup>th</sup> || '''31<sup>st</sup> December'''<br />last year || 01 |||| '''01''' next year  || 30<sup>th</sup> || 31<sup>st</sup> ||  ||  ||  ||  ||
+|-
+| '''E'''<br />D ||  ||  || 1<sup>st</sup> || 2<sup>nd</sup> || 3<sup>rd</sup> || 4<sup>th</sup> || 5<sup>th</sup> || '''30th&nbsp;December'''<br />last year || 01 |||| '''01''' next year,<br />53 when leap year<sup>1</sup>  || valign=top | 29<sup>th</sup> || valign=top | 30<sup>th</sup> || valign=top | 31<sup>st</sup> ||  ||  ||  ||
+|-
+| '''D'''<small> </small>C ||  ||  ||  || 1<sup>st</sup> || 2<sup>nd</sup>|| 3<sup>rd</sup> || 4<sup>th</sup> || '''29<sup>th</sup> December'''<br />last year || 01 |||| 53  || 28<sup>th</sup> || 29<sup>th</sup> || 30<sup>th</sup> || 31<sup>st</sup> ||  ||  ||
+|-
+| '''C'''<small><small> </small></small>B ||  ||  ||  ||  || 1<sup>st</sup> || 2<sup>nd</sup> || 3<sup>rd</sup> || 4<sup>th</sup> January || '''53''' last year |||| 52  || 27<sup>th</sup> || 28<sup>th</sup> || 29<sup>th</sup> || 30<sup>th</sup> || 31<sup>st</sup> ||  ||
+|-
+| '''B'''<small><small> </small></small>A ||  ||  ||  ||  ||  || 1<sup>st</sup> || 2<sup>nd</sup> || 3<sup>rd</sup> January || '''53''' when leap year last year,<br />'''52''' when common year last year |||| 52 || 26<sup>th</sup> || 27<sup>th</sup> || 28<sup>th</sup> || 29<sup>th</sup> || 30<sup>th</sup> || 31<sup>st</sup> ||
+|-
+| valign=top | '''A'''<br />G ||  || || || || || || 1<sup>st</sup> || 2<sup>nd</sup> January || '''52''' last year |||| 52,<br />'''01''' next year<br />when leap year<sup>1</sup>  || valign=top | 25<sup>th</sup> || valign=top | 26<sup>th</sup> || valign=top | 27<sup>th</sup> || valign=top | 28<sup>th</sup> || valign=top | 29<sup>th</sup> || valign=top | 30<sup>th</sup> || valign=top | 31<sup>st</sup>
+|}
+<sup>1</sup> Apply the date(s) in the next line when leap year.<br />
+<sup>2</sup> The second dominical letter is used in leap years only from [[February 29|leap day]] to the end of the year.<br />
+<sup>3</sup> First date of the last week of the year. 
+
+58. 
+: <math>\begin{align}
+\text{ordinal}(\text{date}) = {} & \text{week}(\text{date}) \times 7 + \text{weekday}(\text{date}) \\
+& {} - (\text{weekday}(\text{year}(\text{date}), 1, 4) + 3) \\[4pt]
+\text{if ordinal} < {} & \text{1 then ordinal} = \text{ordinal} + \text{daysInYear}(\text{year}-1) \\[4pt]
+\text{if ordinal} > {} & \text{daysInYear}(\text{year}) \text{then ordinal} \\
+= {} & \text{ordinal} - \text{daysInYear}(\text{year})
+\end{align}</math>
+
+Example: year 2008, week 39, Saturday (day 6)
+* Correction for 2008: 5 + 3 = 8
+* (39 &times; 7) + 6 = 279
+* 279 &minus; 8 = 271
+* Ordinal day 271 of a leap year is day 271 &minus; 244 = 27 September
+* Result: 27 September 2008
+
+The ordinal date (''od'') can also be given by
+:7 (week number - 1) + weekday number - c
+which can be converted into a calendar date,  the day (''d'') of the month (''m''), using the table above or by the algorithm below:
+:''m'' = floor (''od''/30) + 1
+:''d'' = ''od'' mod 30 - floor (0.6 (''m'' + 1)) + ''i''. 
+
+59. 
+|-
+|colspan=3|
+|rowspan=3|
+|-
+|Sun 30 Dec 2007
+|2007-12-30
+|2007-W52-7
+|-
+|Mon 31 Dec 2007
+|2007-12-31
+|bgcolor=lightgrey|2008-W01-1
+|-
+|bgcolor=lightgrey|Tue 1 Jan 2008
+|bgcolor=lightgrey|2008-01-01
+|bgcolor=lightgrey|2008-W01-2
+|rowspan=3 align=left|Gregorian year 2008 is a leap year. 
+
+60. 
+
+==Disadvantages==
+Solar astronomic phenomena, such as [[equinox]]es and [[solstice]]s, vary in the Gregorian calendar over a range spanning three days, over the course of each 400-year cycle, while the ISO Week Date calendar has a range spanning 9 days. 
+
+61. 
+
+The number of weeks in a given year is equal to the corresponding week number of 28 December, because it is the only date that is always in the last week of the year since it is a week before 4 January which is always in the first week of the year. 
+
+62. 
+
+A variant of this US scheme groups the possible 1 to 6 days of December remaining in the last week of the Gregorian year within week 1 in January of the next Gregorian year, to make it a full week, bringing a system with accounting years having also 52 or 53 weeks and only the last 6 days of December may be counted as part of another year than the Gregorian year. 
+
+63. 
+These exceptions are happening between years that are most often 28 years apart, or 40 years apart for 3 pairs of successive years: from year 088 to 128, from year 184 to 224, and from year 280 to 320. 
+
+64. 
+
+{{ISOCALENDAR|cdow=}}
+
+==Relation with the Gregorian calendar==
+The ISO week year number deviates from the Gregorian year number in one of three ways. 
+
+65. 
+If on a Sunday, it is in week 52 of the year just ending in common years and week 01  of the next year in leap years. 
+
+66. 
+If it is on a Thursday, it is in week 53 of the year just ending; if on a Friday or Saturday it is in week 52 of the year just ending. 
+
+67. 
+
+===Calculating a date given the year, week number and weekday===
+This method requires that one know the weekday of 4 January of the year in question.{{efn|Either see [[calculating the day of the week]], or use this quick-and-dirty method: Subtract 1965 from the year. 
+
+68. 
+Therefore, in practice usually a fixed length of 13 weeks per [[fiscal quarter|quarter]] is chosen which is then subdivided into 5 + 4 + 4 weeks, [[Sym454|4 + 5 + 4 weeks]] or [[4-4-5 Calendar|4 + 4 + 5 weeks]]. 
+
+69. 
+In the period 4 January to 28 December the ISO week year number is always equal to the Gregorian year number. 
+
+70. 
+01<br />begins || First week number<br />of the year || … || Last week number of the year || 1<br />Mon.<sup>3</sup> || 2<br />Tue. 
+
+71. 
+Using only the ordinal year number, the number of weeks in that year can be determined:<ref name="Gent3">{{cite web |url=http://www.staff.science.uu.nl/~gent0113/calendar/isocalendar.htm |title=The Mathematics of the ISO 8601 Calendar |first=Robert H. 
+
+72. 
+
+The year number of the ISO week very often differs from the Gregorian year number for dates close to 1&nbsp;January. 
+
+73. 
+A programming bug confusing these two year numbers is probably the cause of some [[Android (operating system)|Android]] users of [[Twitter]] being unable to log in around midnight of 29&nbsp;December 2014 [[UTC]].<ref name="theg_Twit">{{Cite web |title=Twitter kicks Android app users out for five hours due to 2015 date bug |last=Hern |first=Alex |work=the Guardian |date=29 December 2014 |access-date=29 May 2019 |url=https://www.theguardian.com/technology/2014/dec/29/twitter-2015-date-bug}}</ref>
+
+The ISO week calendar relies on the [[Gregorian calendar]], which it augments, to define the new year day (Monday of week&nbsp;01). 
+
+74. 
+{|class="wikitable" style="text-align:center"
+|+Summary
+!Year start<br/> on (G/W)!!Common year<br/>365 &minus; 1 or + 6!!Leap year<br/>366 &minus; 2 or + 5
+|-
+|Mon/01 Jan||G +0&emsp;&minus;1||GF +0&emsp;&minus;2
+|-
+|Tue/31 Dec||F +1&emsp;&minus;2||FE +1&emsp;&minus;3
+|-
+|Wed/30 Dec||E +2&emsp;&minus;3||ED +'''2'''&emsp;+'''3'''
+|-
+|Thu/29 Dec||D +'''3'''&emsp;+'''3'''||DC +'''3'''&emsp;+'''2'''
+|-
+|Fri/04 Jan||C &minus;3&emsp;+2||CB &minus;3&emsp;+1
+|-
+|Sat/03 Jan||B &minus;2&emsp;+1||BA &minus;2&emsp;+0
+|-
+|Sun/02 Jan||A &minus;1&emsp;+0||AG &minus;1&emsp;&minus;1
+|}
+
+=== Weeks per year ===
+The ''long years'', with 53 weeks in them, can be described by any of the following equivalent definitions:
+* any year starting on Thursday ([[dominical letter]] [[Common year starting on Thursday|D]] or [[Leap year starting on Thursday|DC]]) and any [[leap year starting on Wednesday]] (ED)
+* any year ending on Thursday (D, ED) and any leap year ending on Friday (DC)
+* years in which 1 January and/or 31 December are Thursdays
+All other week-numbering years are ''short years'' and have 52 weeks. 
+
+75. 
+
+==Calculation==
+
+===Calculating the week number of a given date===
+The week number of any date can be calculated, given its [[ordinal date]] (i.e. 

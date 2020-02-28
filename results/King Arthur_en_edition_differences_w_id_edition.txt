@@ -1,0 +1,301 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+King Arthur
+
+en edition's differences with the id version: 
+
+
+1. 
+He incorporates Arthur's father [[Uther Pendragon]], his magician advisor [[Merlin]], and the story of Arthur's conception, in which Uther, disguised as his enemy [[Gorlois]] by Merlin's magic, sleeps with Gorlois's wife [[Igraine|Igerna]] (Igraine) at [[Tintagel]], and she conceives Arthur. 
+
+2. 
+
+{{s-start}}
+{{s-reg | leg }}
+{{s-bef | before = [[Uther Pendragon]] }}
+{{s-ttl | title  = [[List of legendary kings of Britain|King of Britain]] }}
+{{s-aft | after  = [[Constantine (Briton)|Constantine III]] }}
+{{s-end}}
+
+{{Arthurian Legend|state=expanded}}
+{{Celtic mythology (Welsh)}}
+{{Culture of Cornwall}}
+{{Geoffrey of Monmouth}}
+
+{{Authority control}}
+
+{{featured article}}
+
+{{DEFAULTSORT:Arthur, King}}
+[[Category:Arthurian characters| ]]
+[[Category:Arthurian legend| ]]
+[[Category:Burials at Glastonbury Abbey]]
+[[Category:Characters in works by Geoffrey of Monmouth]]
+[[Category:Children of Uther Pendragon]]
+[[Category:Holy Grail]]
+[[Category:Legendary British kings]]
+[[Category:Knights of the Round Table| ]]
+[[Category:Legendary rulers]]
+[[Category:Male characters in animation]]
+[[Category:Male characters in film]]
+[[Category:Male characters in literature]]
+[[Category:Male characters in television]]
+[[Category:Medieval Cornish people]]
+[[Category:Medieval legends]]
+[[Category:Monarchs of Cornwall]]
+[[Category:Mythological kings]]
+[[Category:Mythological swordsmen]]
+[[Category:People whose existence is disputed]]
+[[Category:Sub-Roman Britons]]
+[[Category:Sub-Roman monarchs]]
+[[Category:Welsh mythology]]
+[[Category:King Arthur's family]]. 
+
+3. 
+During this period, Arthur was made one of the [[Nine Worthies]], a group of three pagan, three Jewish and three Christian exemplars of chivalry. 
+
+4. 
+Neither the ''Historia'' nor the ''Annales'' calls him "''rex''": the former calls him instead  "''[[dux]] bellorum''" (leader of battles) and "''miles''" (soldier).<ref>''Historia Brittonum'' [[s:History of the Britons#Arthuriana|56]], [[s:History of the Britons#Wonders of Britain|73]]; ''[[Annales Cambriae]]'' [[s:Welsh Annals|516, 537]].</ref>
+
+Historical documents for the post-Roman period are scarce, so a definitive answer to the question of Arthur's historical existence is unlikely. 
+
+5. 
+|editor1-first= John |editor1-last= Carey |editor2-first= John T. 
+
+6. 
+Even so, he found little to say about a historical Arthur.<ref>{{Harvnb|Morris|1973}}</ref>
+
+Partly in reaction to such theories, another school of thought emerged which argued that Arthur had no historical existence at all. 
+
+7. 
+
+Although the themes, events and characters of the Arthurian legend varied widely from text to text, and there is no one canonical version, Geoffrey's version of events often served as the starting point for later stories. 
+
+8. 
+On the Glastonbury tale and its Otherworldly antecedents, see {{Harvnb|Sims-Williams|1991|pp= 58–61}}.</ref> In the ''Life of Saint [[Cadoc]]'', written around 1100 or a little before by Lifris of Llancarfan, the saint gives protection to a man who killed three of Arthur's soldiers, and Arthur demands a herd of cattle as ''[[wergeld]]'' for his men. 
+
+9. 
+The cycle continued the trend towards reducing the role played by Arthur in his own legend, partly through the introduction of the character of Galahad and an expansion of the role of Merlin. 
+
+10. 
+|title= The English Settlements |place= Oxford |publisher= Oxford University Press |year= 1986 |isbn= 978-0-19-282235-2}}. 
+
+11. 
+*{{Citation| author  = BNF| author-link  = Bibliothèque nationale de France| author-mask = Bibliothèque nationale de France [French National Library]| others   = Illuminated by [[Évrard d'Espinques]]. 
+
+12. 
+In both the earliest materials and Geoffrey he is a great and ferocious warrior, who laughs as he personally slaughters witches and giants and takes a leading role in all military campaigns,<ref>For example, Geoffrey of Monmouth, ''Historia Regum Britanniae'' [[s:History of the Kings of Britain/Book 10#3|Book 10.3]].</ref> whereas in the continental romances he becomes the ''roi fainéant'', the "do-nothing king", whose "inactivity and acquiescence constituted a central flaw in his otherwise ideal society".<ref>{{Harvnb|Padel|2000|p= 81}}</ref> Arthur's role in these works is frequently that of a wise, dignified, even-tempered, somewhat bland, and occasionally feeble monarch. 
+
+13. 
+|editor1-last= Lacy |title= The New Arthurian Encyclopedia |place= New York |publisher= Garland |year= 1996 |pages= 152–155 |isbn= 978-1-56865-432-4}}. 
+
+14. 
+|editor1-last= Lacy |title= The New Arthurian Encyclopedia |place= New York |publisher= Garland |year= 1996a |pages= 16–17 |isbn= 978-1-56865-432-4}}. 
+
+15. 
+|editor1-last= Lacy |title= The New Arthurian Encyclopedia |place= New York |publisher= Garland |year= 1996b |pages= 88–91 |isbn= 978-1-56865-432-4}}. 
+
+16. 
+|editor1-last= Lacy |title= The New Arthurian Encyclopedia |place= New York |publisher= Garland |year= 1996c |page= 344 |isbn= 978-1-56865-432-4}}. 
+
+17. 
+|editor1-last= Lacy |title= The New Arthurian Encyclopedia |place= New York |publisher= Garland |year= 1996d |pages= 363–364 |isbn= 978-1-56865-432-4}}. 
+
+18. 
+|editor1-last= Lacy |title= The New Arthurian Encyclopedia |place= New York |publisher= Garland |year= 1996 |page= 57 |isbn= 978-1-56865-432-4}}. 
+
+19. 
+|editor1-last= Lacy |title= The New Arthurian Encyclopedia |place= New York |publisher= Garland |year= 1996 |page= 478 |isbn= 978-1-56865-432-4}}. 
+
+20. 
+|editor1-last= Lacy |title= The New Arthurian Encyclopedia |place= New York |publisher= Garland |year= 1996 |pages= 446–449 |isbn= 978-1-56865-432-4}}. 
+
+21. 
+|editor1-last= Lacy |title= The New Arthurian Encyclopedia |place= New York |publisher= Garland |year= 1996 |pages= 324–326 |isbn= 978-1-56865-432-4}}. 
+
+22. 
+|editor1-last= Lacy |title= The New Arthurian Encyclopedia |place= New York |publisher= Garland |year= 1996 |pages= 136–144 |isbn= 978-1-56865-432-4}}. 
+
+23. 
+1475| title    = ''Français 116: ''Lancelot en prose''|trans-title=French MS 116: ''The Prose Lancelot''| language = French|url=http://gallica.bnf.fr/ark:/12148/btv1b6000093b/f78.item}}
+*{{citation|last= Binyon |first=Laurence| title=Arthur: A Tragedy |place=London |publisher= Heinemann |year= 1923 |oclc=17768778}}. 
+
+24. 
+By [[Howard Pyle]] (1903)<ref>{{Harvnb|Pyle|1903}}</ref>|alt=]]
+
+Arthur and his retinue appear in some of the ''[[Lais of Marie de France|Lais]]'' of [[Marie de France]],<ref>{{Harvnb|Burgess|Busby|1999}}</ref> but it was the work of another French poet, [[Chrétien de Troyes]], that had the greatest influence with regard to the development of Arthur's character and legend.<ref>{{Harvnb|Lacy|1996b}}</ref> Chrétien wrote five Arthurian romances between {{c.|lk=no|1170}} and 1190. 
+
+25. 
+A less obviously legendary account of Arthur appears in the ''[[Goeznovius|Legenda Sancti Goeznovii]]'', which is often claimed to date from the early 11th century (although the earliest manuscript of this text dates from the 15th century and the text is now dated to the late 12th to early 13th century).<ref>Bourgès, André-Yves, "Guillaume le Breton et l'hagiographie bretonne aux XIIe et XIIIe siècles", in: Annales de Bretagne et des pays de l'Ouest, 1995, 102–1, pp. 
+
+26. 
+This patronym is unattested, but the root, ''*arto-rīg'', "bear/warrior-king", is the source of the Old Irish personal name ''Artrí''.<ref name=zimmer09>{{Harvnb|Zimmer|2009}}</ref> Some scholars have suggested it is relevant to this debate that the legendary King Arthur's name only appears as ''Arthur'' or ''Arturus'' in early Latin Arthurian texts, never as ''Artōrius'' (though Classical Latin Artōrius became Arturius in some Vulgar Latin dialects). 
+
+27. 
+Many elements and incidents that are now an integral part of the Arthurian story appear in Geoffrey's ''Historia'', including Arthur's father [[Uther Pendragon]], the magician [[Merlin]], Arthur's wife [[Guinevere]], the sword [[Excalibur]], Arthur's conception at [[Tintagel Castle|Tintagel]], his final battle against [[Mordred]] at [[Camlann]], and final rest in [[Avalon]]. 
+
+28. 
+The most significant of these 13th-century prose romances was the [[Lancelot-Grail|Vulgate Cycle]] (also known as the Lancelot-Grail Cycle), a series of five Middle French prose works written in the first half of that century.<ref name="lacy-1992">{{Harvnb|Lacy|1992–96}}</ref> These works were the ''Estoire del Saint Grail'', the ''Estoire de Merlin'', the ''Lancelot propre'' (or Prose ''Lancelot'', which made up half the entire Vulgate Cycle on its own), the ''Queste del Saint Graal'' and the ''Mort Artu'', which combine to form the first coherent version of the entire Arthurian legend. 
+
+29. 
+White's novel was adapted into the [[Lerner and Loewe]] stage musical ''[[Camelot (musical)|Camelot]]'' (1960) and [[Walt Disney]]'s animated film ''[[The Sword in the Stone (1963 film)|The Sword in the Stone]]'' (1963); ''Camelot'', with its focus on the love of Lancelot and Guinevere and the cuckolding of Arthur, was itself made into a [[Camelot (film)|film of the same name]] in 1967. 
+
+30. 
+*{{citation|editor1-last=Vinaver |editor1-first= Sir Eugène |title= The Works of Sir Thomas Malory |place= Oxford | publisher= Oxford University Press |year= 1990 |isbn= 978-0-19-812346-0}}. 
+
+31. 
+The textual sources for Arthur are usually divided into those written before Geoffrey's ''Historia'' (known as pre-Galfridian texts, from the Latin form of Geoffrey, ''Galfridus'') and those written afterwards, which could not avoid his influence (Galfridian, or post-Galfridian, texts). 
+
+32. 
+Notably, a Brittonic compound name ''*Arto-uiros'' should produce Old Welsh ''*Artgur'' (where ''u'' represents the short vowel /u/) and Middle/Modern Welsh ''*Arthwr'', rather than ''Arthur'' (where ''u'' is a long vowel /ʉː/). 
+
+33. 
+The 9th-century ''Historia Brittonum'' also refers to this tale, with the boar there named Troy(n)t.<ref>For a discussion of the tale, see {{Harvnb|Bromwich|Evans|1992}}; see also {{Harvnb|Padel|1994|pp =2–4}}; {{Harvnb|Roberts|1991a}}; and {{Harvnb|Green|2007b|pp= 67–72}} and chapter three.</ref> Finally, Arthur is mentioned numerous times in the [[Welsh Triads]], a collection of short summaries of Welsh tradition and legend which are classified into groups of three linked characters or episodes to assist recall. 
+
+34. 
+|title= Sub-Roman Britain: History and Legend |journal= History |issue= 205 |year= 1977 |pages= 173–192|doi= 10.1111/j.1468-229X.1977.tb02335.x|volume= 62}}. 
+
+35. 
+Even in these, however, Arthur's court has started to embody legendary Britain as a whole, with "Arthur's Court" sometimes substituted for "The Island of Britain" in the formula "Three XXX of the Island of Britain".<ref>{{Harvnb|Barber|1986|pp=17–18, 49}}; {{Harvnb|Bromwich|1978}}</ref> While it is not clear from the ''Historia Brittonum'' and the ''Annales Cambriae'' that Arthur was even considered a king, by the time ''Culhwch and Olwen'' and the Triads were written he had become ''Penteyrnedd yr Ynys hon'', "Chief of the Lords of this Island", the overlord of Wales, Cornwall and the North.<ref>{{Harvnb|Roberts|1991a|pp= 78, 81}}</ref>
+
+In addition to these pre-Galfridian Welsh poems and tales, Arthur appears in some other early Latin texts besides the ''Historia Brittonum'' and the ''Annales Cambriae''. 
+
+36. 
+*{{citation|last=Heroic Age |url=https://www.mun.ca/mst/heroicage/issues/1/hati.htm |title=Early Medieval Tintagel: An Interview with Archaeologists Rachel Harry and Kevin Brady |journal=The Heroic Age |issue=1 |date=Spring–Summer 1999 |url-status=dead |archiveurl=https://web.archive.org/web/20140821232929/http://www.mun.ca/mst/heroicage/issues/1/hati.htm |archivedate=21 August 2014 }}. 
+
+37. 
+He hands the crown to his kinsman [[Constantine III of Britain|Constantine]] and is taken to the isle of [[Avalon]] to be healed of his wounds, never to be seen again.<ref>Geoffrey of Monmouth, ''Historia Regum Britanniae'' [[s:History of the Kings of Britain/Book 8#19|Book 8.19–24]], [[s:History of the Kings of Britain/Book 9|Book 9]], [[s:History of the Kings of Britain/Book 10|Book 10]], [[s:History of the Kings of Britain/Book 11|Book 11.1–2]]</ref>
+
+[[File:The Death of King Arthur by John Garrick.jpg|thumb|''The Death of Arthur'' by [[John Garrick]] (1862), depicting a boat arriving to take the dying Arthur to [[Avalon]] after the [[Battle of Camlann]]|alt=]]
+
+How much of this narrative was Geoffrey's own invention is open to debate. 
+
+38. 
+8–19.</ref> Myrddin's disappearance at the end of the novel is "in the tradition of magical hibernation when the king or mage leaves his people for some island or cave to return either at a more propitious or more dangerous time" (see [[King Arthur's messianic return]]).<ref>C. 
+
+39. 
+{{Refend}}
+
+===Further reading===
+*{{cite journal|journal=Northern History|first=Andrew|last=Breeze|authorlink=Andrew Breeze|title=The Historical Arthur and Sixth-Century Scotland|date=September 2015 |volume=LII|number=2|pages=158–181|doi=10.1179/0078172x15z.00000000085}}
+*{{cite journal|journal=Northern History|first=Andrew|last=Breeze|title=Arthur's Battles and the Volcanic Winter of 536-7|pages=161–172|volume=LIII|number=2|date=September 2016|doi=10.1080/0078172x.2016.1195600}}
+*{{cite book|first=Guy|last=Halsall|authorlink=Guy Halsall|title=Worlds of Arthur: Facts & Fictions of the Dark Ages|publisher=Oxford University Press|location=Oxford, UK|year=2013|isbn=978-0-19-870084-5}}
+* {{cite book|first=Nicholas J. 
+
+40. 
+Sherriff|Robert Sherriff's]] play ''The Long Sunset'' (1955) saw Arthur rallying Romano-British resistance against the Germanic invaders.<ref>{{Harvnb|Thompson|1996|p= 141}}</ref> This trend towards placing Arthur in a historical setting is also apparent in historical and fantasy novels published during this period.<ref>For example: [[Rosemary Sutcliff]]'s ''[[The Lantern Bearers (Sutcliff novel)|The Lantern Bearers]]'' (1959) and ''[[Sword at Sunset]]'' (1963); [[Mary Stewart (novelist)|Mary Stewart]]'s ''[[The Crystal Cave]]'' (1970) and its sequels; [[Parke Godwin]]'s ''[[Firelord (novel)|Firelord]]'' (1980) and its sequels; [[Stephen R. 
+
+41. 
+The romance tradition of Arthur is particularly evident and in critically respected films like [[Robert Bresson]]'s ''[[Lancelot du Lac (film)|Lancelot du Lac]]'' (1974), [[Éric Rohmer]]'s ''[[Perceval le Gallois]]'' (1978) and [[John Boorman]]'s ''[[Excalibur (film)|Excalibur]]'' (1981); it is also the main source of the material used in the Arthurian spoof ''[[Monty Python and the Holy Grail]]'' (1975).<ref>{{Harvnb|Harty|1996}}; {{Harvnb|Harty|1997}}</ref>
+
+Retellings and reimaginings of the romance tradition are not the only important aspect of the modern legend of King Arthur. 
+
+42. 
+Morris's ''Age of Arthur'' prompted the archaeologist [[Nowell Myres]] to observe that "no figure on the borderline of history and mythology has wasted more of the historian's time".<ref>{{Harvnb|Myres|1986|p= 16}}</ref> [[Gildas]]' 6th-century polemic ''[[De Excidio et Conquestu Britanniae]]'' (''On the Ruin and Conquest of Britain''), written within living memory of Badon, mentions the battle but does not mention Arthur.<ref>Gildas, ''[[s:The Ruin of Britain|De Excidio et Conquestu Britanniae]]'', chapter 26.</ref> Arthur is not mentioned in the ''[[Anglo-Saxon Chronicle]]'' or named in any surviving manuscript written between 400 and 820.<ref>{{Harvnb|Pryor|2004|pp= 22–27}}</ref> He is absent from [[Bede]]'s early-8th-century ''[[Historia ecclesiastica gentis Anglorum|Ecclesiastical History of the English People]]'', another major early source for post-Roman history that mentions Badon.<ref>Bede, ''[[Historia ecclesiastica gentis Anglorum]]'', [[s:Ecclesiastical History of the English People/Book 1#16|Book 1.16]].</ref> The historian [[David Dumville]] wrote: "I think we can dispose of him [Arthur] quite briefly. 
+
+43. 
+One stanza praises the bravery of a warrior who slew 300 enemies, but says that despite this, "he was no Arthur" – that is, his feats cannot compare to the valour of Arthur.<ref>{{Harvnb|Williams|1937|p= 64}}, line 1242</ref> ''Y Gododdin'' is known only from a 13th-century manuscript, so it is impossible to determine whether this passage is original or a later interpolation, but John Koch's view that the passage dates from a 7th-century or earlier version is regarded as unproven; 9th- or 10th-century dates are often proposed for it.<ref>{{Harvnb|Charles-Edwards|1991|p= 15}}; {{Harvnb|Koch|1996|pp= 242–245}}; {{Harvnb|Green|2007b|pp= 13–15, 50–52}}.</ref> Several poems attributed to [[Taliesin]], a poet said to have lived in the 6th century, also refer to Arthur, although these all probably date from between the 8th and 12th centuries.<ref>See, for example, {{Harvnb|Haycock|1983–84}} and {{Harvnb|Koch|1996|pp= 264–265}}.</ref> They include "Kadeir Teyrnon" ("The Chair of the Prince"),<ref>Online translations of this poem are out-dated and inaccurate. 
+
+44. 
+He seems to have made use of the list of Arthur's twelve battles against the Saxons found in the 9th-century ''Historia Brittonum'', along with the battle of Camlann from the ''Annales Cambriae'' and the idea that Arthur was [[King Arthur's messianic return|still alive]].<ref>{{Harvnb|Roberts|1991b|p= 106}}; {{Harvnb|Padel|1994|pp =11–12}}</ref> Arthur's status as the king of all Britain seems to be borrowed from pre-Galfridian tradition, being found in ''Culhwch and Olwen'', the Welsh Triads, and the saints' lives.<ref>{{Harvnb|Green|2007b|pp= 217–219}}</ref> Finally, Geoffrey borrowed many of the names for Arthur's possessions, [[King Arthur's family|close family]], and companions from the pre-Galfridian Welsh tradition, including Kaius (Cei), Beduerus (Bedwyr), Guenhuuara (Gwenhwyfar), Uther (Uthyr) and perhaps also Caliburnus (Caledfwlch), the latter becoming [[Excalibur]] in subsequent Arthurian tales.<ref>{{Harvnb|Roberts|1991b|pp= 109–110, 112}}; {{Harvnb|Bromwich|Evans|1992|pp= 64–65}}</ref> However, while names, key events, and titles may have been borrowed, Brynley Roberts has argued that "the Arthurian section is Geoffrey's literary creation and it owes nothing to prior narrative."<ref>{{Harvnb|Roberts|1991b|p= 108}}</ref> Geoffrey makes the Welsh Medraut into the villainous Modredus, but there is no trace of such a negative character for this figure in Welsh sources until the 16th century.<ref>{{Harvnb|Bromwich|1978|pp= 454–455}}</ref> There have been relatively few modern attempts to challenge the notion that the ''Historia Regum Britanniae'' is primarily Geoffrey's own work, with scholarly opinion often echoing [[William of Newburgh]]'s late-12th-century comment that Geoffrey "made up" his narrative, perhaps through an "inordinate love of lying".<ref>See, for example, {{Harvnb|Brooke|1986|p= 95}}.</ref> [[Geoffrey Ashe]] is one dissenter from this view, believing that Geoffrey's narrative is partially derived from a lost source telling of the deeds of a 5th-century British king named [[Riothamus|Riotamus]], this figure being the original Arthur, although historians and Celticists have been reluctant to follow Ashe in his conclusions.<ref>{{Harvnb|Ashe|1985|p=6}}; {{Harvnb|Padel|1995|p= 110}}; {{Harvnb|Higham|2002|p= 76}}.</ref>
+
+Whatever his sources may have been, the immense popularity of Geoffrey's ''Historia Regum Britanniae'' cannot be denied. 
+
+45. 
+*{{citation|last=Loomis|first=Roger Sherman |chapter=The Arthurian Legend before 1139| editor-first=Roger Sherman| editor-last= Loomis |title=Wales and the Arthurian Legend| place=Cardiff|publisher= University of Wales Press |year=1956 |pages=179–220|oclc=2792376}}. 
+
+46. 
+On his possessions and wife, see also {{Harvnb|Ford|1983}}.</ref>
+
+[[File:Gododdin1.jpg|thumb|upright|A facsimile page of ''[[Y Gododdin]]'', one of the most famous early Welsh texts featuring Arthur ({{c.|lk=no|1275}})|alt=|left]]
+
+One of the most famous Welsh poetic references to Arthur comes in the collection of heroic death-songs known as ''[[Y Gododdin]]'' (''The Gododdin''), attributed to 6th-century poet [[Aneirin]]. 
+
+47. 
+Wyeth]]'s illustration for ''The Boy's King Arthur'' (1922), a modern edition of [[Thomas Malory]]'s 1485 ''[[Le Morte d'Arthur]]''|alt=]]
+
+The development of the medieval Arthurian cycle and the character of the "Arthur of romance" culminated in ''[[Le Morte d'Arthur]]'', [[Thomas Malory]]'s retelling of the entire legend in a single work in English in the late 15th century. 
+
+48. 
+While it was not the only creative force behind Arthurian romance, many of its elements were borrowed and developed (e.g., Merlin and the final fate of Arthur), and it provided the historical framework into which the romancers' tales of magical and wonderful adventures were inserted.<ref>As noted by, for example, {{Harvnb|Ashe|1996}}.</ref>
+
+===Romance traditions===
+[[File:John william waterhouse tristan and isolde with the potion.jpg|thumb|During the 12th century, Arthur's character began to be marginalised by the accretion of "Arthurian" side-stories such as that of [[Tristan and Iseult]], here pictured in a painting by [[John William Waterhouse]] (1916)|alt=|left]]
+
+The popularity of Geoffrey's ''Historia'' and its other derivative works (such as [[Wace]]'s ''[[Roman de Brut]]'') gave rise to a significant numbers of new Arthurian works in continental Europe during the 12th and 13th centuries, particularly in France.<ref>For example, {{Harvnb|Thorpe|1966|p= 29}}</ref> It was not, however, the only Arthurian influence on the developing "[[Matter of Britain]]". 
+
+49. 
+The so-called "[[Arthur stone]]", discovered in 1998 among the ruins at [[Tintagel Castle]] in [[Cornwall]] in securely dated 6th-century contexts, created a brief stir but proved irrelevant.<ref>{{Harvnb|Heroic Age|1999}}</ref> Other inscriptional evidence for Arthur, including the [[Glastonbury Abbey#Medieval era|Glastonbury cross]], is tainted with the suggestion of forgery.<ref>Modern scholarship views the Glastonbury cross as the result of a probably late-12th-century fraud. 
+
+50. 
+{{Other uses|King Arthur (disambiguation)|Arthur Pendragon (disambiguation)}}
+{{pp-semi|small=yes}}
+{{pp-move-indef}}
+{{Use dmy dates|date=April 2019}}
+{{short description|legendary British leader of the late 5th and early 6th centuries}}
+{{EngvarB|date=April 2019}}
+[[File:Arth tapestry2.jpg|thumb|Tapestry showing Arthur as one of the [[Nine Worthies]], wearing a [[coat of arms]] often attributed to him<ref>{{Harvnb|Neubecker|1998–2002}}</ref> ({{c.|lk=no|1385}})]]
+
+'''King Arthur''', also called '''Arthur Pendragon''', was a legendary [[Celtic Britons|British]] leader who, according to medieval histories and [[Romance (heroic literature)|romances]], led the defence of Britain against [[Saxon]] invaders in the late 5th and early 6th centuries. 
+
+51. 
+The legendary Arthur developed as a figure of international interest largely through the popularity of [[Geoffrey of Monmouth]]'s fanciful and imaginative 12th-century ''[[Historia Regum Britanniae]]'' (''History of the Kings of Britain'').<ref>{{Harvnb|Thorpe|1966}}, but see also {{Harvnb|Loomis|1956}}</ref> In some [[Welsh people|Welsh]] and [[Breton people|Breton]] tales and poems that date from before this work, Arthur appears either as a great warrior defending Britain from human and supernatural enemies or as a magical figure of folklore, sometimes associated with the Welsh otherworld [[Annwn]].<ref>See {{Harvnb|Padel|1994}}; {{Harvnb|Sims-Williams|1991}}; {{Harvnb|Green|2007b}}; and {{Harvnb|Roberts|1991a}}</ref> How much of Geoffrey's ''Historia'' (completed in 1138) was adapted from such earlier sources, rather than invented by Geoffrey himself, is unknown. 
+
+52. 
+This renewed interest first made itself felt in 1816, when Malory's ''Le Morte d'Arthur'' was reprinted for the first time since 1634.<ref>{{Harvnb|Parins|1995|pp= 8–10}}</ref> Initially, the medieval Arthurian legends were of particular interest to poets, inspiring, for example, [[William Wordsworth]] to write "The Egyptian Maid" (1835), an allegory of the [[Holy Grail]].<ref>{{Harvnb|Wordsworth|1835}}</ref> Pre-eminent among these was [[Alfred, Lord Tennyson|Alfred Tennyson]], whose first Arthurian poem "[[The Lady of Shalott]]" was published in 1832.<ref>See {{Harvnb|Potwin|1902}} for the sources that Tennyson used when writing this poem</ref> Arthur himself played a minor role in some of these works, following in the medieval romance tradition. 
+
+53. 
+[[Sites and places associated with Arthurian legend|Sites and places have been identified as "Arthurian"]] since the 12th century,<ref>For example, {{Harvnb|Ashley|2005}}.</ref> but archaeology can confidently reveal names only through inscriptions found in secure contexts. 
+
+54. 
+It also made Mordred the result of an [[King Arthur's family|incestuous relationship]] between Arthur and his sister [[Morgause]] and established the role of [[Camelot]], first mentioned in passing in Chrétien's ''Lancelot'', as Arthur's primary court.<ref>For a study of this cycle, see {{Harvnb|Burns|1985}}.</ref> This series of texts was quickly followed by the [[Post-Vulgate Cycle]] ({{c.|lk=no|1230–40}}), of which the ''Suite du Merlin'' is a part, which greatly reduced the importance of Lancelot's affair with Guinevere but continued to sideline Arthur, and to focus more on the Grail quest.<ref name="lacy-1992" /> As such, Arthur became even more of a relatively minor character in these French prose romances; in the Vulgate itself he only figures significantly in the ''Estoire de Merlin'' and the ''Mort Artu''. 
+
+55. 
+In Welsh poetry the name is always spelled ''Arthur'' and is exclusively rhymed with words ending in ''-ur''—never words ending in ''-wr''—which confirms that the second element cannot be ''[g]wr'' "man".<ref>See {{Harvnb|Higham|2002|p= 74}}.</ref><ref>See {{Harvnb|Higham|2002|p= 80}}.</ref>
+
+An alternative theory, which has gained only limited acceptance among professional scholars, derives the name Arthur from [[Arcturus]], the brightest star in the constellation [[Boötes]], near [[Ursa Major]] or the Great Bear.<ref>{{Harvnb|Chambers|1964|page= 170}}; {{Harvnb|Bromwich|1978|page= 544}}; {{Harvnb|Johnson|2002|pp= 38–39}}; {{Harvnb|Walter|2005|page= 74}}; {{Harvnb|Zimmer|2006|page= 37}}; {{Harvnb|Zimmer|2009}}</ref> Classical Latin ''Arcturus'' would also have become ''Art(h)ur'' when borrowed into Welsh, and its brightness and position in the sky led people to regard it as the "guardian of the bear" (which is the meaning of the name in Ancient Greek) and the "leader" of the other stars in Boötes.<ref>{{Harvnb|Anderson|2004|pp= 28–29}}; {{Harvnb|Green|2007b|pp= 191–194}}.</ref>
+
+==Medieval literary traditions==
+The familiar literary persona of Arthur began with [[Geoffrey of Monmouth]]'s pseudo-historical ''[[Historia Regum Britanniae]]'' (''History of the Kings of Britain''), written in the 1130s. 
+
+56. 
+It was first published in 1859 and sold 10,000 copies within the first week.<ref>{{Harvnb|Taylor|Brewer|1983|p= 127}}</ref> In the ''Idylls'', Arthur became a symbol of ideal manhood who ultimately failed, through human weakness, to establish a perfect kingdom on earth.<ref>See {{Harvnb|Rosenberg|1973}} and {{Harvnb|Taylor|Brewer|1983|pp= 89–128}} for analyses of ''The Idylls of the King''.</ref> Tennyson's works prompted a large number of imitators, generated considerable public interest in the legends of Arthur and the character himself, and brought Malory's tales to a wider audience.<ref>See, for example, {{Harvnb|Simpson|1990}}.</ref> Indeed, the first modernisation of Malory's great compilation of Arthur's tales was published in 1862, shortly after ''Idylls'' appeared, and there were six further editions and five competitors before the century ended.<ref>{{Harvnb|Staines|1996|p= 449}}</ref>
+
+{{multiple image
+| width = 
+| align = right
+| image1 = Charles Ernest Butler - King Arthur.jpg
+| image2 = Boys King Arthur - N. 
+
+57. 
+35–45.</ref><ref>See {{Harvnb|Ashe|1985}} for an attempt to use this ''vita'' as a historical source.</ref> Also important are the references to Arthur in [[William of Malmesbury]]'s ''De Gestis Regum Anglorum'' and Herman's ''De Miraculis Sanctae Mariae Laudensis'', which together provide the first certain evidence for a belief that Arthur was not actually dead and would at some point [[King Arthur's messianic return|return]], a theme that is often revisited in post-Galfridian folklore.<ref>{{Harvnb|Padel|1994|pp =8–12}}; {{Harvnb|Green|2007b|pp =72–75, 259, 261–262}}; {{Harvnb|Bullock-Davies|1982}}</ref>
+
+===Geoffrey of Monmouth===
+[[File:History of the Kings (f.75.v) King Arthur.jpg|thumb|upright|King Arthur in a crude illustration from a 15th-century Welsh version of ''[[Historia Regum Britanniae]]''|alt=|left]]
+
+Geoffrey of Monmouth's ''Historia Regum Britanniae'', completed {{c.|lk=no|1138}}, contains the first narrative account of Arthur's life.<ref>{{Harvnb|Wright|1985}}; {{Harvnb|Thorpe|1966}}</ref> This work is an imaginative and fanciful account of British kings from the legendary Trojan exile [[Brutus of Troy|Brutus]] to the 7th-century Welsh king [[Cadwaladr|Cadwallader]]. 
+
+58. 
+Wyeth's title page illustration for ''The Boy's King Arthur'' (1922)
+}}
+
+This interest in the "Arthur of romance" and his associated stories continued through the 19th century and into the 20th, and influenced poets such as [[William Morris]] and [[Pre-Raphaelite]] artists including [[Edward Burne-Jones]].<ref>{{Harvnb|Taylor|Brewer|1983|pp= 127–161}}; {{Harvnb|Mancoff|1990}}.</ref> Even the humorous tale of [[Tom Thumb]], which had been the primary manifestation of Arthur's legend in the 18th century, was rewritten after the publication of ''Idylls''. 
+
+59. 
+The historian [[John Morris (historian)|John Morris]] made the putative reign of Arthur the organising principle of his history of sub-Roman Britain and Ireland, ''The Age of Arthur'' (1973). 
+
+60. 
+In particular, Arthur features in a number of well-known ''vitae'' ("[[hagiography|Lives]]") of post-Roman [[saint]]s, none of which are now generally considered to be reliable historical sources (the earliest probably dates from the 11th century).<ref>{{Harvnb|Roberts|1991a}}</ref> According to the ''Life of Saint [[Gildas]]'', written in the early 12th century by [[Caradoc of Llancarfan]], Arthur is said to have killed Gildas' brother Hueil and to have rescued his wife [[Gwenhwyfar]] from Glastonbury.<ref>Translated in {{Harvnb|Coe|Young|1995|pp= 22–27}}. 
+
+61. 
+L'orso e il re|publisher=Edizioni Arkeios (Original French publisher: Imago)|year=2005|origyear=2002|language=Italian|trans-title=''Original French title: ''Arthur: l'ours et le roi;'' English: ''Arthur: The Bear and the King}}. 
+
+62. 
+
+The consensus among academic historians today is that there is no solid evidence for his historical existence.<ref name="shippey"/>
+
+==Name==
+{{Main|Arthur}}
+[[File:Nuremberg chronicles f 143v 2.jpg|thumb|upright|"Arturus rex" (King Arthur), a 1493 illustration from the ''[[Nuremberg Chronicle]]'']]
+
+The origin of the Welsh name "Arthur" remains a matter of debate. 

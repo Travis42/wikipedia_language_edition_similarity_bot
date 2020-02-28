@@ -1,0 +1,200 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Coordinated Universal Time
+
+en edition's differences with the vi version: 
+
+
+1. 
+Vertical segments correspond to leap seconds.]]
+
+Earth's [[rotational speed]] is very slowly decreasing because of [[Tidal acceleration|tidal deceleration]]; this increases the length of the [[Solar time|mean solar day]]. 
+
+2. 
+IEEE |volume=79 |issue=7 |pages=915–920 |date=July 1991 |doi=10.1109/5.84967 |url=http://www.cl.cam.ac.uk/~mgk25/volatile/astronomical-time.pdf | authorlink = Dennis McCarthy (scientist)}}
+* {{Cite book | ref=harv | last1 = McCarthy | first1 = Dennis D. 
+
+3. 
+(The slope became shallower in the 2000s (decade), because of a slight acceleration of Earth's crust temporarily shortening the day.) Vertical position on the graph corresponds to the accumulation of this difference over time, and the vertical segments correspond to leap seconds introduced to match this accumulated difference. 
+
+4. 
+This would be a practical change in civil timekeeping, but would take effect slowly over several centuries. 
+
+5. 
+|title=Time and Frequency: Theory and Fundamentals |url=https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph140.pdf |publisher=National Bureau of Standards, National Institute of Standards and Technology since 1988 |year=1974 |page=32}}</ref> and a whole number of seconds thereafter. 
+
+6. 
+It was thought better for time signals to maintain a consistent frequency, and that this frequency should match the SI&nbsp;second. 
+
+7. 
+|title=Long-term fluctuations in the Earth's rotation: 700 BC to AD 1990 | journal = Philosophical Transactions of the Royal Society A | year = 1995 | pages = 165–202 | bibcode = 1995RSPTA.351..165S | volume = 351 | doi = 10.1098/rsta.1995.0028 | issue = 1695}}
+* {{cite web| ref={{sfnref|Standard time|2010}} | title = Standard time | year = 2010 | url = https://www.law.cornell.edu/uscode/html/uscode15/usc_sup_01_15_10_6_20_IX.html | work = U.S. 
+
+8. 
+* {{cite web| ref=harv |url=http://www.cl.cam.ac.uk/~mgk25/volatile/ITU-R-TF.460-4.pdf | title = TF.460-4: Standard-frequency and time-signal emissions | publisher = International Telecommunication Union | at = Annex I | year=1986}}
+* {{cite web | ref = {{sfnRef|Time|n.d.}} |url = http://www.bipm.org/en/scientific/tai/ |date = n.d. 
+
+9. 
+J.}}
+* {{cite web | ref = {{SfnRef|Aviation Time|2006}} | title = Aviation Time | year = 2006 | accessdate = 17 July 2011 | work = AOPA's Path to Aviation | publisher = Aircraft Owners and Pilots Association | url = http://www.aopa.org/path/time.html | archive-url = https://web.archive.org/web/20061127230424/http://www.aopa.org/path/time.html | url-status=dead | archive-date = 27 November 2006 }}
+* {{cite web |ref = {{SfnRef| Bulletin C| 2019}}|url=http://hpiers.obspm.fr/iers/bul/bulc/bulletinc.dat |title=Bulletin C |publisher=[[International Earth Rotation and Reference Systems Service]] | date = 4 July 2019}}
+*{{cite journal | ref=harv | last=Essen |first=L. 
+
+10. 
+| date = August 2011 | volume = 48 | issue = 4 | title = Time scales, their users, and leap seconds | journal = Metrologia | pages = S186–S194 | url = http://www.agi.com/resources/user-resources/downloads/white-paper.aspx?id=158 | doi = 10.1088/0026-1394/48/4/S09 | bibcode = 2011Metro..48S.186S | url-status=dead | archiveurl = https://web.archive.org/web/20121019144359/http://www.agi.com/resources/user-resources/downloads/white-paper.aspx?id=158 | archivedate = 19 October 2012 | df = dmy-all }}
+* {{cite web | ref = harv | last1 = Seaman | first1 = Rob | url = http://iraf.noao.edu/~seaman/leap/ | title = A Proposal to Upgrade UTC | accessdate = 18 July 2011 | year = 2003 | url-status=dead | archiveurl = https://web.archive.org/web/20110723140249/http://iraf.noao.edu/~seaman/leap/ | archivedate = 23 July 2011 | df = dmy-all }}
+* {{Cite book | ref=harv | url=https://archive.org/stream/131123ExplanatorySupplementAstronomicalAlmanac/131123-explanatory-supplement-astronomical-almanac#page/n56/mode/1up |editor-last=Seidelmann |editor-first=P Kenneth |title=Explanatory Supplement to the Astronomical Almanac |publisher=University Science Books |edition=2nd |location=Mill Valley, CA |year=1992 |isbn=0-935702-68-7}}
+* {{Cite journal | ref = harv | last1 = Stephenson | first1 = F. 
+
+11. 
+| date = 20 January 1999}}
+* {{cite web | ref={{sfnref|Leap decision postponed|2012}} |url=https://www.bbc.co.uk/news/science-environment-16625614 | publisher = BBC News| title = Leap second decision is postponed | date = 19 January 2012}}
+* {{cite journal |ref = harv|last=Markowitz |first=W. 
+
+12. 
+| title = The Earth's Rotation and Reference Frames for Geodesy and Geophysics: Proceedings of the 128th Symposium of the International Astronomical Union, held in Coolfont, West Virginia, U.S.A., 20–24 October 1986 | journal = The Earth's Rotation and Reference Frames for Geodesy and Geodynamics | volume = 128 | chapter = Comparisons of ET (Solar), ET (Lunar), UT and TDT | publisher = Kluwer Academic Publishers | location = Dordrecht | bibcode=1988IAUS..128..413M | pages = 413–418}}
+* {{Cite journal | ref=harv | author=McCarthy, Dennis D. 
+
+13. 
+Near the end of the 20th century, the length of the mean solar day (also known simply as "length of day" or "LOD") was approximately 86,400.0013&nbsp;s.{{sfn|McCarthy|Seidelmann|2009|p=54}} For this reason, UT is now "slower" than TAI by the difference (or "excess" LOD) of 1.3&nbsp;ms/day. 
+
+14. 
+(Average for period from 1 January 1991 through 1 January 2009. 
+
+15. 
+In 1968, [[Louis Essen]], the inventor of the caesium atomic clock, and G.&nbsp;M.&nbsp;R.&nbsp;Winkler both independently proposed that steps should be of 1&nbsp;second only.{{sfn| Essen| 1968| pp=161–5}} This system was eventually approved, along with the idea of maintaining the UTC second equal to the TAI second. 
+
+16. 
+The ephemeris second is a unit in the system of time that, when used as the independent variable in the laws of motion that govern the movement of the planets and moons in the solar system, enables the laws of motion to accurately predict the observed positions of solar system bodies. 
+
+17. 
+The extra second is called a leap second. 
+
+18. 
+The length of second so defined was practically equal to the second of ephemeris time.{{sfn|Markowitz|1988}} This was the frequency that had been provisionally used in TAI since 1958. 
+
+19. 
+It was soon recognised that having two types of second with different lengths, namely the UTC second and the SI second used in TAI, was a bad idea. 
+
+20. 
+Since the [[NATO phonetic alphabet]] word for ''Z'' is "Zulu", UTC is sometimes known as "Zulu time". 
+
+21. 
+While the rate due to [[tidal friction]] alone is about 2.3&nbsp;ms/cy, the [[Post-glacial rebound|uplift]] of [[Canada]] and [[Scandinavia]] by several metres since the last [[Ice Age]] has temporarily reduced this to 1.7&nbsp;ms/cy over the last 2,700&nbsp;years.{{sfn | Stephenson | Morrison | 1995}} The correct reason for leap seconds, then, is not the current difference between actual and nominal LOD, but rather the ''accumulation'' of this difference over a period of time: Near the end of the 20th&nbsp;century, this difference was about 1/800 of a second per day; therefore, after about 800 days, it accumulated to 1&nbsp;second (and a leap second was then added). 
+
+22. 
+
+Just as adding a leap day every four years does not mean the year is getting longer by one day every four years, the insertion of a leap second every 800 days does not indicate that the mean solar day is getting longer by a second every 800 days. 
+
+23. 
+In contrast, astronomical GMT began at mean noon, 12 hours ''after'' mean midnight of the same date until 1 January 1925, whereas nautical GMT began at mean noon, 12&nbsp;hours ''before'' mean midnight of the same date, at least until 1805 in the [[Royal Navy]], but persisted much later elsewhere because it was mentioned at the 1884 conference. 
+
+24. 
+
+In April 2001, Rob Seaman of the [[National Optical Astronomy Observatory]] proposed that leap seconds be allowed to be added monthly rather than twice yearly.<ref>{{cite web|first=Rob |last=Seaman |title=Upgrade, don't degrade |date=9 April 2001 |accessdate=10 September 2015 |url=http://iraf.noao.edu/~seaman/leap/leapsec.txt |url-status=dead |archiveurl=https://web.archive.org/web/20130602095155/http://iraf.noao.edu/~seaman/leap/leapsec.txt |archivedate=2 June 2013 }}</ref>
+
+There is a proposal to redefine UTC and abolish leap seconds, so that [[sundial]]s would very slowly get further out of sync with civil time.{{sfn | Allen | 2011b}} The resulting gradual shift of the sun's movements relative to civil time is analogous to the shift of [[season]]s relative to the yearly calendar that results from the calendar year not precisely matching the [[tropical year]] length. 
+
+25. 
+The current use of only the leap second opportunities in June and December will be insufficient to maintain a difference of less than 1 second, and it might be decided to introduce leap seconds in March and September. 
+
+26. 
+As a result, the SI&nbsp;second is close to 1/86400 of a mean solar day in the mid‑19th century.{{sfn|McCarthy|Seidelmann|2009|p=87}} In earlier centuries, the mean solar day was shorter than 86,400 SI seconds, and in more recent centuries it is longer than 86,400 seconds. 
+
+27. 
+By extension, it is not possible to compute the precise duration of a time interval that ends in the future and may encompass an unknown number of leap seconds (for example, the number of TAI seconds between "now" and 2099-12-31 23:59:59). 
+
+28. 
+| 2016}} Leap seconds are inserted as necessary to keep UTC within 0.9&nbsp;seconds of [[Universal time#Versions|the UT1 variant of universal time]].{{sfn | National Institute of Standards and Technology | 2012}} See the "[[#Current number of leap seconds|Current number of leap seconds]]" section for the number of leap seconds inserted to date. 
+
+29. 
+UTC is within about one second of [[Solar time#Mean solar time|mean solar time]] at [[Prime meridian|0° longitude]],{{sfn|Guinot|2011|page=S181}} so that, because the [[mean solar day]] is slightly longer than 86,400 SI seconds, occasionally the last minute of a UTC day is adjusted to have 61&nbsp;seconds. 
+
+30. 
+  The letter also refers to the "zone description" of zero hours, which has been used since 1920 (see [[time zone#History|time zone history]]). 
+
+31. 
+* {{cite web| ref = {{SfnRef|Iceland|2011}}| title = Iceland | year = 2011 | url = http://wwp.greenwichmeantime.com/time-zone/europe/iceland/}}
+* {{cite journal | ref = {{SfnRef|International Bureau of Weights and Measures|2011}} | author = International Bureau of Weights and Measures | authorlink = International Bureau of Weights and Measures | title = Circular T | issue = 285 | date = 10 October 2011 | url = ftp://ftp2.bipm.org/pub/tai/publication/cirt.285}}
+* {{cite web | ref=harv | author =International Earth Rotation and Reference Systems Service| authorlink = International Earth Rotation and Reference Systems Service| title = IERS Bulletins | date = 19 July 2011 | url = http://www.iers.org/IERS/EN/Publications/Bulletins/bulletins.html}}
+* {{cite news | last1 = Irvine | first1 = Chris | title = Scientists propose 'leap hour' to fix time system| date = 18 December 2008 | newspaper = The Telegraph | url = https://www.telegraph.co.uk/science/science-news/3817096/Scientists-propose-leap-hour-to-fix-time-system.html | ref=harv }}
+* {{cite web | ref={{sfnref|ITU Radiocommunication Assembly|2002}} |author= ITU Radiocommunication Assembly |url= http://www.itu.int/dms_pubrec/itu-r/rec/tf/R-REC-TF.460-6-200202-I!!PDF-E.pdf |title= Standard-frequency and time-signal emissions |year= 2002 |publisher= International Telecommunications Union |accessdate=2 August 2011}}
+* {{cite web|ref=harv |url=http://www.apparent-wind.com/gmt-explained.html|title=A Few Facts Concerning GMT, UT, and the RGO|accessdate=17 July 2011| last1 = Langley | first1 = Richard B. 
+
+32. 
+Over several centuries, the frequency of leap seconds will become problematic.{{dubious|date=August 2018}}
+
+Some time in the 22nd century, two leap seconds will be required every year. 
+
+33. 
+[[GPS time]] always remains exactly 19 seconds behind TAI (neither system is affected by the leap seconds introduced in UTC). 
+
+34. 
+Within the limits of observable accuracy, ephemeris seconds are of constant length, as are atomic seconds. 
+
+35. 
+At the end of 1971, there was a final irregular jump of exactly 0.107758 TAI seconds, making the total of all the small time steps and frequency shifts in UTC or TAI during 1958–1971 exactly ten seconds, so that {{nowrap|1 January 1972 00:00:00 UTC}} was {{nowrap|1 January 1972 00:00:10 TAI}} exactly,<ref name=ten>{{citation |editor-last=Blair |editor-first=Byron E. 
+
+36. 
+Kenneth | publisher = University Science Books | location = Mill Valley, CA | date = 2013}}
+* {{cite web | ref = {{SfnRef|Military & Civilian Time Designations|n.d.}} | url = http://wwp.greenwichmeantime.com/info/timezone.htm | publisher = wwp | title = Military & Civilian Time Designations}}
+* {{cite web|ref=harv| author=National Institute of Standards and Technology | authorlink = National Institute of Standards and Technology | accessdate = 17 July 2011 | url = https://www.nist.gov/pml/div688/utcnist.cfm#cut | date = 18 January 2011 | title = Frequently asked questions (FAQ) }}
+* {{cite web |ref=harv| author=National Institute of Standards and Technology | authorlink = National Institute of Standards and Technology | url = https://www.nist.gov/pml/div688/leapseconds.cfm#often | date = 19 March 2012 | title = Frequently asked questions (FAQ)}}
+* {{cite web |ref=harv |last1=Nelson |first1=G.K. 
+
+37. 
+This abbreviation arose from a desire by the [[International Telecommunication Union]] and the [[International Astronomical Union]] to use the same abbreviation in all languages. 
+
+38. 
+Decisions to introduce a leap second are announced at least six months in advance in "Bulletin&nbsp;C" produced by the [[International Earth Rotation and Reference Systems Service]].{{sfn|International Earth Rotation and Reference Systems Service|2011}}{{sfn|McCarthy|Seidelmann|2009|p=229}} The leap seconds cannot be predicted far in advance due to the unpredictable rate of rotation of the Earth.{{sfn|McCarthy|Seidelmann|2009|loc=chapter 4}}
+
+Nearly all UTC days contain exactly 86,400 [[International System of Units|SI]] [[second]]s with exactly 60&nbsp;seconds in each minute. 
+
+39. 
+Some time signals started to broadcast the DUT1 correction (UT1 − UTC) for applications requiring a closer approximation of UT1 than UTC now provided.{{sfn |Seidelmann| 1992| pp=85–87}}{{sfn|Nelson|Lombardi|Okayama|2005|p=46}}
+
+===Current number of leap seconds===
+The first leap second occurred on 30 June 1972. 
+
+40. 
+* {{cite web |ref = harv | last = Allen | first = Steve |url = http://www.ucolick.org/~sla/leapsecs/utcdoomed |title=UTC is doomed|accessdate=18 July 2011 | year = 2011a}}
+* {{cite web| ref = harv | last1 = Allen | first1 = Steve |url = http://www.ucolick.org/~sla/leapsecs/ |title=UTC might be redefined without Leap Seconds|accessdate=18 July 2011 | year = 2011b}}
+* {{Cite conference | ref = harv | conference = ITU-R Special Rapporteur Group Colloquium on the UTC Time Scale | date = 29 May 2003 | url = http://www.ucolick.org/~sla/leapsecs/torino/arias_3.pdf | title = Rotation of the Earth and Time scales | last1 = Arias | first1 = E. 
+
+41. 
+2009}}{{sfn|McCarthy|Seidelmann|2009|pp=217, 227–231}} The International Earth Rotation and Reference Systems Service (IERS) tracks and publishes the difference between UTC and Universal Time, [[DUT1]] = UT1 − UTC, and introduces discontinuities into UTC to keep DUT1 in the [[interval (mathematics)|interval]] (−0.9&nbsp;s, +0.9&nbsp;s). 
+
+42. 
+As of July 2019, there have been 27&nbsp;leap seconds in total, all positive, putting UTC 37&nbsp;seconds behind TAI.{{sfn|Bulletin C| 2019}}
+
+==Rationale==
+[[File:Leapsecond.ut1-utc.svg|thumb|left|250px|Graph showing the difference [[DUT1]] between UT1 and UTC (in seconds). 
+
+43. 
+2009 |archive-url=https://web.archive.org/web/20110719193539/http://maia.usno.navy.mil/ser7/tai-utc.dat |archive-date=19 July 2011 |url-status=dead }}
+* {{cite web|ref=harv|last1=Horzepa | first1 = Stan | title = Surfin': Time for Ham Radio | publisher = American Radio Relay League | date = 17 September 2010 | url = http://www.arrl.org/news/surfin-time-for-ham-radio| accessdate = 24 October 2011}}
+* {{cite book |ref=harv |last1=Howse|first1=Derek|title=Greenwich Time and the Longitude|year=1997|publisher=Philip Wilson|location=London|isbn=0-85667-468-0}}
+* {{cite web | ref = {{sfnRef|How NTP Works|2011}} |url = http://www.eecis.udel.edu/~mills/ntp/html/warp.html | title = How NTP Works | date = 28 July 2011 | work = NTP: The Network Time Protocol }} See heading "NTP Timescale and Data Formats". 
+
+44. 
+Assuming that there are no major events affecting civilisation over the coming centuries, the difference between UTC and UT could reach 0.5 hour after the year 2600 and 6.5 hours around 4600.{{sfn | Allen | 2011a}}
+
+[[ITU-R|ITU‑R]] Study Group&nbsp;7 and Working Party&nbsp;7A were unable to reach consensus on whether to advance the proposal to the 2012 Radiocommunications Assembly; the chairman of Study Group&nbsp;7 elected to advance the question to the 2012 Radiocommunications Assembly (20 January 2012),{{sfn|Seidelmann|Seago|2011|p=S190}} but consideration of the proposal was postponed by the ITU until the World Radio Conference in 2015.{{sfn |Leap decision postponed|2012}}  This conference, in turn, considered the question,<ref>{{cite web | title = ITU World Radiocommunication Conference set for Geneva, 2–27 November 2015 | publisher = International Telecommunications Union |year = 2015 | accessdate = 3 November 2015 | url = http://www.itu.int/net/pressoffice/press_releases/2015/Advisory-08.aspx}}</ref> but no permanent decision was reached; it only chose to engage in further study with the goal of reconsideration in 2023.<ref>{{cite web | title = Coordinated Universal Time (UTC) to retain 'leap second' | publisher = International Telecommunications Union | date = 19 November 2015 | accessdate = 19 November 2015 | url = https://www.itu.int/net/pressoffice/press_releases/2015/53.aspx}}</ref> {{update after|2023|12|31}}
+
+==See also==
+{{Portal|Geography}}
+* [[Ephemeris time]]
+* [[IERS Reference Meridian]]
+* [[ISO 8601]]
+* [[List of UTC timing centers]]
+* [[Coordinated Mars Time]] (MTC)
+* [[Terrestrial Time]]
+* [[World Radiocommunication Conference]]
+
+==References==
+=== Citations ===
+{{Reflist}}
+
+=== Sources ===
+{{refbegin|30em}}
+* {{Cite book|ref=harv |last1 = Allan |first1=David W. 

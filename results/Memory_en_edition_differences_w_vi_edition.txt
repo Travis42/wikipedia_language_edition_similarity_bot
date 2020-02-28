@@ -1,0 +1,313 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Memory
+
+en edition's differences with the vi version: 
+
+
+1. 
+| year = 2009 | title = Memory and brain systems: 1969–2009 | url = | journal = The Journal of Neuroscience | volume = 29 | issue = 41| pages = 12711–12716 | doi = 10.1523/JNEUROSCI.3575-09.2009 | pmid = 19828780 | pmc = 2791502 }}
+* {{cite journal | author = Szpunar K.K. 
+
+2. 
+* {{cite journal |vauthors=Eysenck MW, Eysenck MC | year = 1980 | title = Effects of processing depth, distinctiveness, and word frequency on retention | url = | journal = British Journal of Psychology | volume = 71 | issue = 2| pages = 263–274 | doi = 10.1111/j.2044-8295.1980.tb01743.x | pmid = 7378660 }}
+* Fivush, Robyn and Neisser, Ulric (1994). 
+
+3. 
+| year = 2002 | title = simulations of the role of the muscarinic-activated calcium-sensitive non-specific cation current I(NCM) in entorhinal neuronal activity during delayed matching tasks | url = | journal = Journal of Neuroscience | volume = 22 | issue = 3| pages = 1081–1097 |doi=10.1523/JNEUROSCI.22-03-01081.2002 | doi-access = free }}
+* {{cite journal |author1=Jensen O. 
+
+4. 
+| year = 1983 | title = Elaboration and the recall of main ideas in prose | url = | journal = Journal of Educational Psychology | volume = 75 | issue = 6| pages = 898–907 | doi=10.1037/0022-0663.75.6.898}}
+* {{cite journal |author1=Ranganath C. 
+
+5. 
+| year = 1964 | title = Acoustic Confusions in Immediate Memory | url = http://step.psy.cmu.edu/articles/Conrad64.doc | journal = British Journal of Psychology | volume = 55 | issue =  | pages = 75–84 | doi = 10.1111/j.2044-8295.1964.tb00899.x | url-status=dead | archiveurl = https://web.archive.org/web/20070628193757/http://step.psy.cmu.edu/articles/Conrad64.doc | archivedate = 2007-06-28 }}</ref> found that test subjects had more difficulty recalling collections of letters that were acoustically similar (e.g. 
+
+6. 
+| year = 2007 | title = The cognitive neuroscience of constructive memory: Remembering the past and imagining the future | url = | journal = Philosophical Transactions of the Royal Society B: Biological Sciences | volume = 362 | issue = 1481| pages = 773–786 | doi = 10.1098/rstb.2007.2087 | pmid = 17395575 | pmc = 2429996 }}
+* {{cite journal | author = Squire L.R. 
+
+7. 
+| year = 2010 | title = Episodic future thought: An emerging concept | url = https://semanticscholar.org/paper/9ce4f7ab2cd683f2ca61af0eb12053237dfc400a| journal = Perspectives on Psychological Science | volume = 5 | issue = 2| pages = 142–162 | doi = 10.1177/1745691610362350 | pmid = 26162121 }}
+* {{cite journal | author = Tulving E., Schacter D.L. 
+
+8. 
+| year = 1990 | title = Priming and human memory systems | url = https://semanticscholar.org/paper/48cd9ac64957992b572621f75a716b39c8fdfeef| journal = Science | volume = 247 | issue = 4940| pages = 301–306 | doi = 10.1126/science.2296719 | pmid=2296719| bibcode = 1990Sci...247..301T }}
+* {{cite journal | author = Alberini C.M. 
+
+9. 
+* {{cite journal | doi = 10.1177/1354067X09353212 | author = Brockmeier Jens | year = 2010 | title = After the Archive: Remapping memory | url = | journal = Culture & Psychology | volume = 16 | issue = 1| pages = 5–35 }}
+* Byrne, J.H. 
+
+10. 
+* {{cite journal | author = Mandler G | year = 2011 | title = From association to organization | url = http://www.escholarship.org/uc/item/93v3m9ms| journal = Current Directions in Psychological Science | volume = 20 | issue = 4| pages = 232–235 | doi=10.1177/0963721411414656| type = Submitted manuscript }}
+* Middleton, David and Brown, Steven (2005). 
+
+11. 
+| year = 2009 | title = The context counts: Congruent learning and testing environments prevent memory retrieval impairment following stress | url = | journal = Affective & Behavioral Neuroscience | volume = 9 | issue = 3| pages = 229–236 | doi = 10.3758/CABN.9.3.229 |pmid=19679758 }}
+* {{cite journal |author1=Schwabe L. 
+
+12. 
+
+However, memory performance can be enhanced when material is linked to the learning context, even when learning occurs under stress. 
+
+13. 
+* {{cite journal |vauthors=Craik FI, Lockhart RS | year = 1972 | title = Levels of processing: A framework for memory research | url = | journal = Journal of Verbal Learning and Verbal Behavior | volume = 11 | issue = 6| pages = 671–684 | doi=10.1016/s0022-5371(72)80001-x}}
+* Danziger, Kurt (2008). 
+
+14. 
+For example, the hippocampus is believed to be involved in spatial learning and [[declarative learning]], while the amygdala is thought to be involved in [[Emotion and memory|emotional memory]].<ref>{{cite journal |author1=LaBar K.S. 
+
+15. 
+In 2000 this model was expanded with the multimodal episodic buffer ([[Baddeley's model of working memory]]).<ref name="Baddeley 2000">{{Cite journal | doi = 10.1016/S1364-6613(00)01538-2 | author = Baddeley, A.D. 
+
+16. 
+One of the primary functions of sleep is thought to be the improvement of the consolidation of information, as several studies have demonstrated that memory depends on getting sufficient sleep between training and test.<ref name="Ellenbogen 2006">{{cite journal|author1=Ellenbogen, J.M. 
+
+17. 
+ There was also a marked increase in [[DNA damage (naturally occurring)|DNA damage]], likely [[DNA oxidation|oxidative damage]], in the [[promoter (genetics)|promoters]] of those genes with reduced expression. 
+
+18. 
+The hippocampus receives input from different parts of the cortex and sends its output out to different parts of the brain also. 
+
+19. 
+Visual short-term memory was unaffected, suggesting a dichotomy between visual and audial memory.<ref>{{cite journal|pmid=3952419 | volume=75 | issue=7 | title=A case from practice (49). 
+
+20. 
+It has been shown that trap closure can be blocked using uncouplers and inhibitors of [[Voltage-gated ion channel|voltage-gated channels]].<ref name=":2" /> After trap closure, these electrical signals stimulate glandular production of [[jasmonic acid]] and [[hydrolase]]s, allowing for digestion of the prey.<ref>{{Cite journal|last=Stokstad|first=Erik|date=2016-05-13|title=How the Venus flytrap acquired its taste for meat|journal=Science|language=en|volume=352|issue=6287|pages=756|doi=10.1126/science.352.6287.756|issn=0036-8075|pmid=27174967|bibcode=2016Sci...352..756S}}</ref>
+
+The field of plant neurobiology has gained a large amount of interest over the past decade, leading to an influx of research regarding plant memory. 
+
+21. 
+
+Stimulation of brain activity in memory formation is often accompanied by the generation of [[DNA damage|damage in neuronal DNA]] that is followed by repair associated with persistent epigenetic alterations. 
+
+22. 
+|title=Topographical disorientation: a synthesis and taxonomy |journal=Brain |volume=122 |issue= 9|pages=1613–28 |date=September 1999|pmid=10468502 |doi= 10.1093/brain/122.9.1613 |doi-access=free }}</ref>
+
+'''Flashbulb memories''' are clear [[episodic memories]] of unique and highly emotional events.<ref>T.L. 
+
+23. 
+
+This new research into the concept of reconsolidation has opened the door to methods to help those with unpleasant memories or those that struggle with memories. 
+
+24. 
+The latter calcium rise superimposes on the initial one, creating an action potential that passes threshold, resulting in trap closure.<ref name=":1" /> Researchers, to prove that an electrical threshold must be met to stimulate trap closure, excited a single trigger hair with a constant mechanical stimulus using Ag/AgCl electrodes.<ref name=":2">{{Cite journal|last=Volkov|first=Alexander G.|last2=Carrell|first2=Holly|last3=Baldwin|first3=Andrew|last4=Markin|first4=Vladislav S.|date=2009|title=Electrical memory in Venus flytrap|journal=Bioelectrochemistry|volume=75|issue=2|pages=142–147|doi=10.1016/j.bioelechem.2009.03.005|pmid=19356999|issn=1567-5394}}</ref> The trap closed after only a few seconds. 
+
+25. 
+ Retention testing took place the following day, either in the same room with the vanilla scent again present, or in a different room without the fragrance. 
+
+26. 
+Native to the subtropical wetlands of the eastern United States, Venus Fly Traps have evolved the ability to obtain meat for sustenance, likely due to the lack of nitrogen in the soil.<ref name=":1">{{Cite journal|last=Hedrich|first=Rainer|last2=Neher|first2=Erwin|year=2018|title=Venus Flytrap: How an Excitable, Carnivorous Plant Works|journal=Trends in Plant Science|volume=23|issue=3|pages=220–234|doi=10.1016/j.tplants.2017.12.004|pmid=29336976|issn=1360-1385}}</ref> This is done by two trap-forming leaf tips that snap shut once triggered by a potential prey. 
+
+27. 
+New advances in the field have identified the presence of [[neurotransmitter]]s in plants, adding to the hypothesis that plants are capable of remembering.<ref name=":02">{{Cite journal|last=Baluška|first=František|last2=Mancuso|first2=Stefano|date=2009-02-01|title=Plant neurobiology: from sensory biology, via plant communication, to social plant behavior|journal=Cognitive Processing|language=en|volume=10|issue=1|pages=3–7|doi=10.1007/s10339-008-0239-6|pmid=18998182|issn=1612-4782}}</ref> [[Action potential]]s, a physiological response characteristic of [[neuron]]s, have been shown to have an influence on plants as well, including in wound responses and [[photosynthesis]].<ref name=":02" /> In addition to these homologous features of memory systems in both plants and animals, plants have also been observed to encode, store and retrieve basic short-term memories. 
+
+28. 
+
+Research reported in 2013 revealed that it is possible to artificially stimulate prior memories and artificially implant false memories in mice. 
+
+29. 
+ The researchers found that the people who were asked, "How fast were the cars going when they ''smashed'' into each other?" gave higher estimates than those who were asked, "How fast were the cars going when they ''hit'' each other?"  Furthermore, when asked a week later whether they had seen broken glass in the film, those who had been asked the question with ''smashed'' were twice more likely to report that they had seen broken glass than those who had been asked the question with ''hit''. 
+
+30. 
+ The pattern of induced and repressed genes in brain neurons subsequent to an intense learning event likely provides the molecular basis for a long-term memory of the event. 
+
+31. 
+ To illustrate, consider a classic study conducted by Elizabeth Loftus and John Palmer (1974)<ref>{{cite journal |vauthors=Loftus EF, Palmer JC|title=Reconstruction of automobile destruction: An example of the interaction between language and memory |journal=Journal of Verbal Learning & Verbal Behavior |volume=13 |issue=5 |pages=585–589 |year=1974 |doi=10.1016/s0022-5371(74)80011-3}}</ref> in which people were instructed to watch a film of a traffic accident and then asked about what they saw. 
+
+32. 
+ The researchers found that one-fourth of the students asked to imagine the four events reported that they had actually experienced such events as children. 
+
+33. 
+ That is, when asked to imagine the events they were more confident that they experienced the events. 
+
+34. 
+* '''Recognition''' – subjects are asked to remember a list of words or pictures, after which point they are asked to identify the previously presented words or pictures from among a list of alternatives that were not presented in the original list.<ref name="Encyclopædia Britannica 3">{{cite web |url=http://www.britannica.com/EBchecked/topic/493614/recognition |title=Recognition (memory) |encyclopedia=Encyclopædia Britannica }}</ref> This is similar to multiple choice assessments. 
+
+35. 
+ Importantly, the wording of the question led people to construct different memories of the event – those who were asked the question with ''smashed'' recalled a more serious car accident than they had actually seen. 
+
+36. 
+Neville|editor2=Husén, Torsten |encyclopedia=International Encyclopedia of Education |edition=2 |publisher=Pergamon |location=Oxford  |year=1992 |isbn=978-0-08-041046-3 |oclc=749308019 |url=http://learnweb.harvard.edu/alps/thinking/docs/traencyn.htm }}</ref>
+
+==Stress==
+Stress has a significant effect on memory formation and learning. 
+
+37. 
+ For instance, Goff and Roediger<ref>{{cite journal |vauthors=Goff LM, Roediger HL|title=Imagination inflation for action events: Repeated imaginings lead to illusory recollections |journal=Memory and Cognition |volume=26 |pages=20–33 |year=1998 |doi=10.3758/bf03211367|doi-access=free }}</ref> (1998) asked participants to imagine that they performed an act (e.g., break a toothpick) and then later asked them whether they had done such a thing. 
+
+38. 
+ Twenty-four hours later, both groups were tested to see how many words they could remember (free recall) as well as how many they could recognize from a larger list of words (recognition performance). 
+
+39. 
+ Similarly, Garry and her colleagues (1996)<ref>{{cite journal |vauthors=Garry M, Manning CG, Loftus EF, Sherman SJ |title=Imagination inflation: Imagining a childhood event inflates confidence that it occurred |journal=Psychonomic Bulletin & Review |volume=3 |issue=2 |pages=208–214 |year=1996 |doi=10.3758/bf03212420|pmid=24213869 |doi-access=free }}</ref> asked college students to report how certain they were that they experienced a number of events as children (e.g., broke a window with their hand) and then two weeks later asked them to imagine four of those events. 
+
+40. 
+Although the stress is applied prenatally, the offspring show increased levels of glucocorticoids when they are subjected to stress later on in life.<ref>{{cite book|last=Carlson|first=N.|year=2013|title=Physiology of Behavior, eleventh edition|location=Upper Saddle River, NJ |publisher=Pearson}}</ref>
+
+==Sleep==
+Making memories occurs through a three-step process, which can be enhanced by [[sleep]]. 
+
+41. 
+(2007) Plasticity: new concepts, new challenges. 
+
+42. 
+ Studies using the elicited imitation technique have shown that 20-month-olds can recall the action sequences twelve months later.<ref name="Bauer 2002">{{cite journal|last1=Bauer|first1=Patricia J.| title=Long-Term Recall Memory: Behavioral and Neuro-Developmental Changes in the First 2 Years of Life|journal=Current Directions in Psychological Science|volume=11| issue=4|year=2002| pages=137–141|issn=0963-7214|doi=10.1111/1467-8721.00186}}</ref><ref name="Bauer 2007">{{cite book |author=Bauer, Patricia J. 
+
+43. 
+Encoding of [[working memory]] involves the spiking of individual neurons induced by sensory input, which persists even after the sensory input disappears (Jensen and Lisman 2005; Fransen et al. 
+
+44. 
+
+Short-term memory is supported by transient patterns of neuronal communication, dependent on regions of the [[frontal lobe]] (especially dorsolateral [[prefrontal cortex]]) and the [[parietal lobe]]. 
+
+45. 
+ Key epigenetic mechanisms involved in memory include the [[DNA methylation|methylation]] and [[DNA demethylation|demethylation]] of neuronal DNA, as well as modifications of [[histone]] proteins including [[histone methylation|methylations]], [[histone acetylation and deacetylation|acetylations and deacetylations]]. 
+
+46. 
+
+==Study techniques==
+===To assess infants===
+
+Infants do not have the language ability to report on their memories and so verbal reports cannot be used to assess very young children's memory. 
+
+47. 
+A.|last3=Hänggi|first3=Jürgen|last4=Aerni|first4=Amanda|last5=Vrticka|first5=Pascal|last6=Luechinger|first6=Roger|last7=Boesiger|first7=Peter|last8=Hock|first8=Christoph|last9=Nitsch|first9=Roger M.|date=2008|title=Prion protein M129V polymorphism affects retrieval-related brain activity|journal=Neuropsychologia|volume=46|issue=9|pages=2389–2402|doi=10.1016/j.neuropsychologia.2008.03.002|issn=0028-3932|pmid=18423780}}</ref>
+
+===Multi-store model===
+{{See also|Memory consolidation}}
+[[File:multistore model.png|right]]
+The multi-store model (also known as [[Atkinson–Shiffrin memory model]]) was first described in 1968 by [[Richard C. 
+
+48. 
+  All participants in the experiment, both stressed and unstressed, performed faster when the learning and retrieval contexts were similar.<ref>{{cite journal|last1=Schwabe|first1=L.|last2=Bohringer|first2=A.|last3=Wolf|first3=O.T.|title=Stress disrupts context-dependent memory|journal=[[Learning and Memory]]|year=2009|volume=16|issue=2|pages=110–113|doi=10.1101/lm.1257509|pmid=19181616|doi-access=free}}</ref>
+
+This research on the [[effects of stress on memory]] may have practical implications for education, for eyewitness testimony and for psychotherapy:  students may perform better when tested in their regular classroom rather than an exam room, eyewitnesses may recall details better at the scene of an event than in a courtroom, and persons suffering from [[post-traumatic stress]] may improve when helped to situate their [[memories of a traumatic event]] in an appropriate context. 
+
+49. 
+Progress | url = | journal = Neuro-Psychopharmacology & Biological Psychiatry | volume = 34 | issue = 5| pages = 742–755 | doi = 10.1016/j.pnpbp.2009.11.003 | pmid = 19903505 }}
+* {{cite journal | last = Costa-Mattioli | first = M| year = 2007 | url = http://www.cell.com/content/article/abstract?uid=PIIS0092867407003248 | title = eIF2α Phosphorylation Bidirectionally Regulates the Switch from Short- to Long-Term Synaptic Plasticity and Memory | journal = [[Cell (journal)|Cell]] | volume = 129 | pages = 195–206 | pmid = 17418795 | pmc = 4149214| doi = 10.1016/j.cell.2007.01.050 | issue = 1 |display-authors=etal}}
+* Cowan, Nelson. 
+
+50. 
+* {{cite journal | author = Dudai Y | year = 2006 | title = Reconsolidation: the advantage of being refocused | url = | journal = Current Opinion in Neurobiology | volume = 16 | issue = 2| pages = 174–178 | doi=10.1016/j.conb.2006.03.010 | pmid=16563730}}
+* Dudai, Y. 
+
+51. 
+| year = 2005 | title = Doubts about double dissociations between short- and long-term memory | url = | journal = Trends in Cognitive Sciences | volume = 9 | issue = 8| pages = 374–380 | doi=10.1016/j.tics.2005.06.009|pmid=16002324 }}
+* {{cite book |author1=Russell, Julia|author2=Cardwell, Mike |author3= Flanagan, Cara |title=Angels on Psychology: Companion Volume |publisher= Nelson Thornes |location=Cheltenham, U.K |year= 2005|pages= |isbn=978-0-7487-9463-8 |doi= }}
+* {{cite journal | author = Sara S.J. 
+
+52. 
+In order to maximize the benefit to cost ratio, the plant enables a rudimentary form of memory in which two trigger hairs must be stimulated within 30 seconds in order to result in trap closure.<ref name=":1" /> This system ensures that the trap only closes when potential prey is within grasp. 
+
+53. 
+ The findings of this experiment were replicated around the world, and researchers consistently demonstrated that when people were provided with misleading information they tended to misremember, a phenomenon known as the [[misinformation effect]].<ref>{{cite journal |author=Loftus GR |title=When a lie becomes memory's truth: Memory distortion after exposure to misinformation |journal=Current Directions in Psychological Science |volume=1 |issue=4 |pages=121–123 |year=1992 |doi=10.1111/1467-8721.ep10769035}}</ref>
+
+Research has revealed that asking individuals to repeatedly imagine actions that they have never performed or events that they have never experienced could result in false memories. 
+
+54. 
+This is stimulus and response.<ref name="Encyclopædia Britannica 1">{{cite web |url=http://www.britannica.com/EBchecked/topic/438701/paired-associate-learning |title=Paired-associate learning |encyclopedia=Encyclopædia Britannica }}</ref><ref name="Kesner 2013">{{cite journal |author=Kesner RP |title=A process analysis of the CA3 subregion of the hippocampus |journal=Front Cell Neurosci |volume=7 |issue= |pages=78 |year=2013 |pmid=23750126 |pmc=3664330 |doi=10.3389/fncel.2013.00078 }}</ref>
+* '''Free recall''' – during this task a subject would be asked to study a list of words and then later they will be asked to recall or write down as many words that they can remember, similar to free response questions.<ref name="Encyclopædia Britannica 2">{{cite web |url=http://www.britannica.com/EBchecked/topic/493353/recall |title=Recall (memory) |encyclopedia=Encyclopædia Britannica }}</ref> Earlier items are affected by retroactive interference (RI), which means the longer the list, the greater the interference, and the less likelihood that they are recalled. 
+
+55. 
+|title=When the event is more than the sum of its parts: 9-month-olds' long-term ordered recall |journal=Memory |volume=7 |issue=2 |pages=147–174 |date=March 1999 |pmid=10645377 |doi=10.1080/741944070 }}</ref> In other words, when asked to imitate a two-step action sequence (such as putting a toy car in the base and pushing in the plunger to make the toy roll to the other end), 9-month-olds tend to imitate the actions of the sequence in the correct order (step 1 and then step 2). 
+
+56. 
+ Whereas 2- to 3-month-olds can retain an operant response (such as activating the mobile by kicking their foot) for a week, 6-month-olds can retain it for two weeks, and 18-month-olds can retain a similar operant response for as long as 13 weeks.<ref name="Rovee-Collier 1999">{{cite journal|last1=Rovee-Collier|first1=Carolyn|title=The Development of Infant Memory|journal=Current Directions in Psychological Science|volume=8| issue=3|year=1999| pages=80–85| issn=0963-7214|doi=10.1111/1467-8721.00019 |url=http://bernard.pitzer.edu/~dmoore/psych199s03articles/R-Collier_memory.pdf}}</ref><ref name="Rovee-Collier 1993">{{cite book |author=Rovee-Collier, C.K., Bhatt, R.S. 
+
+57. 
+ It is only by 9 months of age that infants can recall the actions of a two-step sequence in the correct temporal order – that is, recalling step 1 and then step 2.<ref name="Bauer 2003">{{cite journal |author1=Bauer, P.J. 
+
+58. 
+For example, when given a word such as  "safe" one must learn to say another specific word, such as "green". 
+
+59. 
+* '''Savings method''' – compares the speed of originally learning to the speed of relearning it. 
+
+60. 
+
+Techniques used to assess infants' recognition memory include the following:
+* '''Visual paired comparison procedure (relies on habituation)''': infants are first presented with pairs of visual stimuli, such as two black-and-white photos of human faces, for a fixed amount of time; then, after being familiarized with the two photos, they are presented with the "familiar" photo and a new photo. 
+
+61. 
+The amount of attention given new stimuli can diminish the amount of information that becomes encoded for storage.<ref name="Eysenck 2012" /> Also, the storage process can become corrupted by physical damage to areas of the brain that are associated with memory storage, such as the hippocampus.<ref name="Squire pp. 
+
+62. 
+Some examples are:
+* '''Paired associate learning''' – when one learns to associate one specific word with another. 
+
+63. 
+
+Short-term memory is believed to rely mostly on an acoustic code for storing information, and to a lesser extent a visual code. 
+
+64. 
+It is revealed when one does better in a given task due only to repetition – no new explicit memories have been formed, but one is [[Unconscious mind|unconsciously]] accessing aspects of those previous experiences. 
+
+65. 
+Eight subjects were asked to follow a "brain healthy" diet, relaxation, physical, and mental exercise (brain teasers and verbal memory training techniques). 
+
+66. 
+|title=The magical number seven plus or minus two: some limits on our capacity for processing information |journal=Psychol Rev |volume=63 |issue=2 |pages=81–97 |date=March 1956 |pmid=13310704 |doi=10.1037/h0043158|citeseerx=10.1.1.308.8071 }}</ref> For example, in recalling a ten-digit [[telephone number]], a person could chunk the digits into three groups: first, the area code (such as 123), then a three-digit chunk (456) and lastly a four-digit chunk (7890). 
+
+67. 
+This method of remembering telephone numbers is far more effective than attempting to remember a string of 10 digits; this is because we are able to chunk the information into meaningful groups of numbers. 
+
+68. 
+ This may be reflected in some countries in the tendency to display telephone numbers as several chunks of two to four numbers. 
+
+69. 
+
+The working memory model explains many practical observations, such as why it is easier to do two different tasks (one verbal and one visual) than two similar tasks (e.g., two visual), and the aforementioned word-length effect. 
+
+70. 
+1920), when working at [[Bell Labs|Bell Laboratories]], conducted experiments showing that the store of short-term memory was 7±2 items (the title of his famous paper, "[[The Magical Number Seven, Plus or Minus Two|The magical number 7±2]]"). 
+
+71. 
+| journal=Science | volume=247 | issue=4940 | date=1990-01-19 | issn=0036-8075 | pmid=2296719 | pages=301–6| doi=10.1126/science.2296719 | bibcode=1990Sci...247..301T | url=https://semanticscholar.org/paper/48cd9ac64957992b572621f75a716b39c8fdfeef }}</ref> whereas procedural memory is the slow and gradual learning of skills that often occurs without conscious attention to learning.<ref name="Eysenck 2012" /><ref name="Foerde Knowlton Poldrack pp. 
+
+72. 
+| journal=Annual Review of Neuroscience | publisher=Annual Reviews | volume=34 | issue=1 | date=2011-07-21 | issn=0147-006X | pmid=21456960 | pmc=3192650 | doi=10.1146/annurev-neuro-061010-113720 | pages=259–288}}</ref> Finally, the retrieval of information from long-term memory can be disrupted because of decay within long-term memory.<ref name="Eysenck 2012" /> Normal functioning, decay over time, and brain damage all affect the accuracy and capacity of the memory.<ref name="Li Zhong Lu Wang p=e0146356">{{cite journal | last=Li | first=Mi | last2=Zhong | first2=Ning | last3=Lu | first3=Shengfu | last4=Wang | first4=Gang | last5=Feng | first5=Lei | last6=Hu | first6=Bin | editor-last=Branchi | editor-first=Igor | title=Cognitive Behavioral Performance of Untreated Depressed Patients with Mild Depressive Symptoms | journal=PLoS ONE | publisher=Public Library of Science (PLoS) | volume=11 | issue=1 | date=2016-01-05 | issn=1932-6203 | pmid=26730597 | pmc=4711581 | doi=10.1371/journal.pone.0146356 | page=e0146356| bibcode=2016PLoSO..1146356L }}</ref><ref name="Bennett Rivera Rypma 2013 pp. 
+
+73. 
+ | title = BDNF is essential to promote persistence of long-term memory storage
+ | journal = [[Proceedings of the National Academy of Sciences of the USA]]
+ | doi = 10.1073/pnas.0711863105
+ | date = February 2008
+ | volume = 105
+ | issue = 7
+ | pages = 2711–2716
+ | pmid = 18263738
+ | pmc = 2268201
+| bibcode = 2008PNAS..105.2711B }}</ref>
+
+The long-term stabilization of synaptic changes is also determined by a parallel increase of pre- and postsynaptic structures such as [[Bouton (synapse)|axonal bouton]], [[dendritic spine]] and [[postsynaptic density]].<ref name="stabilization_plasticity">
+{{cite journal
+  |last=Meyer
+  |first=D. 
+
+74. 
+PKMζ maintains the activity-dependent enhancement of synaptic strength and inhibiting [[PKMζ]] erases established long-term memories, without affecting short-term memory or, once the inhibitor is eliminated, the ability to encode and store new long-term memories is restored. 
+
+75. 
+Although the Venus flytrap is one of the more highly studied, many other plants exhibit the capacity to remember, including the ''[[Mimosa pudica]]'' through an experiment conducted by Monica Gagliano and colleagues in 2013.<ref>{{Cite journal|last=Gagliano|first=Monica|last2=Renton|first2=Michael|last3=Depczynski|first3=Martial|last4=Mancuso|first4=Stefano|date=2014-05-01|title=Experience teaches plants to learn faster and forget slower in environments where it matters|journal=Oecologia|language=en|volume=175|issue=1|pages=63–72|doi=10.1007/s00442-013-2873-7|pmid=24390479|issn=0029-8549|bibcode=2014Oecol.175...63G}}</ref> As the field expands, it is likely that we will learn more about the capacity of a plant to remember. 
+
+76. 
+Learning and memory are usually attributed to changes in neuronal [[synapse]]s, thought to be mediated by [[long-term potentiation]] and [[long-term depression]]. 
+
+77. 
+There is [[Interference theory|retroactive interference]], when learning new information makes it harder to recall old information<ref>{{cite journal |author=Underwood BJ |title=Interference and forgetting |journal=Psychological Review |volume=64 |issue=1 |pages=49–60 |year=1957 |doi=10.1037/h0044616|pmid=13408394 }}</ref> and '''proactive interference''', where prior learning disrupts recall of new information. 
+
+78. 
+Amnesia can result from extensive damage to: (a) the regions of the medial temporal lobe, such as the hippocampus, dentate gyrus, subiculum, amygdala, the parahippocampal, entorhinal, and perirhinal cortices<ref>{{cite journal |author=Corkin S, Amaral DG, Gonzalez RG, Johnson KA, Hyman, BT |title=H.M.'s medial temporal lobe lesion: Findings from magnetic resonance imaging |journal=The Journal of Neuroscience |volume=17 |issue=10 |pages=3964–3979 |year=1997|doi=10.1523/JNEUROSCI.17-10-03964.1997 |doi-access=free }}</ref> or the (b) midline diencephalic region, specifically the dorsomedial nucleus of the thalamus and the mammillary bodies of the hypothalamus.<ref>{{cite journal |vauthors=Zola-Morgan S, Suire LR |title=Neuroanatomy of memory |journal=Annual Review of Neuroscience |volume=16 |pages=547–563 |year=1993 |doi=10.1146/annurev.ne.16.030193.002555 |pmid=8460903|url=https://semanticscholar.org/paper/23d0c1c2b78c4fd73a5004a95bfe36697fdd6c87 }}</ref>  There are many sorts of amnesia, and by studying their different forms, it has become possible to observe apparent defects in individual sub-systems of the brain's memory systems, and thus hypothesize their function in the normally working brain. 
+
+79. 
+   The memory performance of subjects who experienced stress during the object-location task decreased significantly when they were tested in an unfamiliar room without the vanilla scent (an incongruent context);  however, the memory performance of stressed subjects showed no impairment when they were tested in the original room with the vanilla scent (a congruent context). 
+
+80. 
+|title=Developmental changes in deferred imitation by 6- to 24-month-old infants |journal=Infant Behavior and Development |volume=19 |issue=2 |pages=159–170 |year=1996 |doi=10.1016/s0163-6383(96)90015-6}}</ref>  Furthermore, research has revealed that as infants grow older they can store information for longer periods of time; 6-month-olds can recall information after a 24-hour period, 9-month-olds after up to five weeks, and 20-month-olds after as long as twelve months.<ref>{{cite journal |author=Bauer P.J. 
+
+81. 
+Attention plays a key role in storing information into long-term memory; without proper attention, the information might not be stored, making it impossible to be retrieved later. 

@@ -1,0 +1,33 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Amino acid dating
+
+en edition's differences with the ja version: 
+
+
+1. 
+D.| title = Amino Acid Racemization on Mars: Implications for the Preservation of Biomolecules from an Extinct Martian Biota| journal = Icarus| volume = 114| pages = 139–143| year = 1995 | doi = 10.1006/icar.1995.1049| bibcode=1995Icar..114..139B| url= http://astrobiology.berkeley.edu/PDFs_articles/Bada_Icarus1995.pdf| pmid=11539479}}</ref><ref name = applications >{{Cite journal| last1 = Johnson | first1 = B. 
+
+2. 
+| issue=9|bibcode = 2005Geo....33..729K }}</ref><ref>{{cite journal | author=Kosnik | year=2009 | journal= Paleobiology | volume=35 | pages=565–586 | display-authors=1 | doi= 10.1666/0094-8373-35.4.565 | title=Taphonomic bias and time-averaging in tropical molluscan death assemblages: Differential shell half-lives in Great Barrier Reef sediment | last2=Hua | first2= Quan | last3=Kaufman | first3=Darrell S. 
+
+3. 
+D.| title = Kinetics of amino acid racemization (epimerization) in the dentine of fossil and modern bear teeth| journal = International Journal of Chemical Kinetics| volume = 35| issue = 11| pages = 576| year = 2003 | doi = 10.1002/kin.10153}}</ref><ref>{{Cite journal| last1 = Bada | first1 = J.| last2 = McDonald | first2 = G. 
+
+4. 
+
+[[Forensic science]] can use this technique to estimate the age of a cadaver<ref name="OginoOgino1988">{{cite journal|vauthors = Ogino T, Ogino H|title=Application to Forensic Odontology of Aspartic Acid Racemization in Unerupted and Supernumerary Teeth|journal=Journal of Dental Research|volume=67|issue=10|year=1988|pages=1319–1322|issn=0022-0345|doi=10.1177/00220345880670101501}}</ref> or an [[objet d'art]] to determine authenticity. 
+
+5. 
+L.| title = Amino Acid Racemization Dating of Fossil Bones| journal = Annual Review of Earth and Planetary Sciences| volume = 13| pages = 241–268| year = 1985 | doi = 10.1146/annurev.ea.13.050185.001325|bibcode = 1985AREPS..13..241B }}</ref><ref>{{Cite journal| last4 = Ort z | first1 = L.| last2 = Garc a-Mart Nez| last5 = Torres| last3 = Llamas | first2 = M. 
+
+6. 
+Their applications include dating correlation, relative dating, sedimentation rate analysis, sediment transport studies,<ref>{{cite journal | author=Kosnik | year=2007 | journal=Geology | volume=35 | pages=811–814 | display-authors= 1 | doi=10.1130/G23722A.1 | title=Sediment mixing and stratigraphic disorder revealed by the age-structure of Tellina shells in Great Barrier Reef sediment | last2=Hua | first2=Quan | last3= Jacobsen | first3=Geraldine E. 
+
+7. 
+As a rule of thumb, sites with a mean annual temperature of 30&nbsp;°C have a maximum range of 200 ka{{Definition needed|date=April 2017}} and resolution of about 10 ka; sites at 10&nbsp;°C have a maximum age range of ~2 m.y.{{Definition needed|date=April 2017}}, and resolution generally about 20% of the age; at -10&nbsp;°C the reaction has a maximum age of ~10 m.y., and a correspondingly coarser resolution.<ref name = method/>
+
+Strong acidity and mild to strong alkalinity induce greatly increased racemization rates. 
+
+8. 
+'''Amino acid dating''' is a [[Dating methodology (archaeology)|dating technique]]<ref>{{Cite journal| last1 = Bada | first1 = J. 

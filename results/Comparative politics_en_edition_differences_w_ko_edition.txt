@@ -1,0 +1,62 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Comparative politics
+
+en edition's differences with the ko version: 
+
+
+1. 
+*[[Theda Skocpol]]
+: In ''States and Social Revolutions: A Comparative Analysis of France, Russia, and China'' Theda Skocpol compares the major revolutions of France, Russia and China: three basically similar events which took place in three very different contexts. 
+
+2. 
+ His thesis is that mass-led revolutions dispossess the landed elite and result in Communism, and that revolutions by the elite result in Fascism. 
+
+3. 
+
+==Notable Works in Comparative Politics== 
+*[[Gabriel Almond]] and [[Sidney Verba]]
+: In their work, ''The Civic Culture'', Almond and Verba embark on the first major cross-national survey of attitudes to determine the role of political culture in maintaining the stability of democratic regimes. 
+
+4. 
+M.}}</ref> 
+
+Sometimes, especially in the United States, the term "comparative politics" is used to refer to "the politics of foreign countries." This usage of the term is disputed.<ref>Hopkin, J. 
+
+5. 
+"On the Applicability of the Most Similar Systems Design and the Most Different Systems Design in Comparative Research." International Journal of Social Research Methodology 11.5 (2008): 389–401. 
+
+6. 
+{{Politics sidebar|Disciplines}}
+
+'''Comparative politics''' is a field in [[political science]] characterized either by the use of the ''[[Mill's Methods|comparative method]]'' or other empirical methods to explore politics within (as opposed to between) countries. 
+
+7. 
+Researchers choose a methodological approach in comparative politics driven by two concerns: ontological orientation<ref>{{cite book|editor1-last = Mahoney|editor1-first = James|editor2-last = Rueschemeyer|editor2-first = Dietrich|title = "Comparative Historical Analysis in the Social Sciences|date = 2003|publisher = Cambridge University Press|location = New York,NY|isbn = 0-521-81610-6|chapter = Aligning Ontology and Methodology in Comparative Politics|author1-last = Hall|author1-first = Peter|url-access = registration|url = https://archive.org/details/comparativehisto0000unse_e0r8}}</ref> and the type of question or phenomenon of interest.<ref>{{cite book|author1-last = King|author1-first= Gary|author2-last = Keohane |author2-first = Robert|author3-last = Verba|author3-first = Sidney|title = Designing Social Inquiry: Scientific Inference in Qualitative Research|date = 1994|publisher = Princeton University Press|location = Princeton, NJ|isbn = 0-691-03470-2}}</ref>
+
+===(Mill's) Comparative Method===
+{{Main article|Mill's Methods}}
+
+* [[Most Similar Systems Design]]/[[Mill's Method of Difference]]: This method consists in comparing very similar cases which only differ in the ''dependent variable'', on the assumption that this would make it easier to find those ''independent variables'' which explain the presence/absence of the dependent variable.<ref name="Anckar, Carsten 2008">Anckar, Carsten. 
+
+8. 
+20 June 2011.</ref>
+
+* [[Most Different Systems Design]]/[[Mill's Method of Similarity]]: This method consists in comparing very different cases, all of which however have in common the same ''dependent variable'', so that any other circumstance which is present in all the cases can be regarded as the ''independent variable''.<ref name="Anckar, Carsten 2008"/>
+
+==Substantive areas of research in comparative politics==
+
+By some definitions, comparative politics can be traced back to [[Ancient Greek philosophy|Greek philosophy]], as [[Plato]]'s [[Republic (Plato)|Republic]] and [[Aristotle]]'s ''[[Politics (Aristotle)|The Politics]]''. 
+
+9. 
+Norton and Company|isbn = 978-0393979954}}</ref> comparative historical analysis,<ref>{{cite encyclopedia|title = Advances in Comparative-Historical Analysis|editor-last1 = Mahoney|editor-first1 = James|editor-last2 = Thelen| editor-first2 = Kathleen|date = 2015|publisher = Cambridge University Press}}</ref> case studies,<ref>{{cite book|last = Geddes|first = Barbara|date = 2010|title = Paradigms and Sand Castles: Theory Building and Research Design in Comparative Politics|location = Ann Arbor,MI|publisher = University of Michigan Press|isbn = 978-0-472-09835-4}}</ref> [[survey research|survey methodology]], ethnography,<ref>{{cite journal |last1=Simmons |first1=Erica |last2=Rush Smith |first2=Nicholas |date=2017 |title=Comparison with an Ethnographic Sensibility |journal=PS:Political Science & Politics |volume=50 |issue=1 |pages=126–130 |doi=10.1017/S1049096516002286 }}</ref> and others. 
+
+10. 
+*[https://web.archive.org/web/20090202160444/http://www.politicacomparada.com.ar/ Comparative Politics in Argentina & Latin America]: Site dedicated to the development of comparative politics in Latin America. 
+
+11. 
+249–250</ref><ref name="vanBiezen">{{cite journal|last=van Biezen|first=Ingrid|authorlink=Ingrid van Biezen|author2=Caramani, Daniele|year=2006|title=(Non)comparative politics in Britain|journal=Politics|volume=26|issue=1|pages=29–37|url=http://www3.interscience.wiley.com/journal/118602277/abstract?CRETRY=1&SRETRY=0|archive-url=https://archive.today/20130105101016/http://www3.interscience.wiley.com/journal/118602277/abstract?CRETRY=1&SRETRY=0|url-status=dead|archive-date=2013-01-05|doi=10.1111/j.1467-9256.2006.00248.x}}</ref>
+
+==Methodology==
+
+While the name of the subfield suggests one methodological approach (''[[Mill's Methods|the comparative method]]''), political scientists in comparative politics use the same diversity of social scientific methods as scientists elsewhere in the field, including experiments,<ref>{{cite book|last1 = Gerber|first1 = Alan|last2 = Green|first2 = Donald|date = 2012|title = Field Experiments: Design, Analysis, and Interpretation|location = New York, NY|publisher = W.W. 

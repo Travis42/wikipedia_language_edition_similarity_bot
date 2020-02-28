@@ -1,0 +1,287 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+History of writing
+
+en edition's differences with the vi version: 
+
+
+1. 
+
+====Egyptian hieroglyphs====
+{{Main|Egyptian hieroglyphs}}
+[[File:Design of the Abydos token glyphs dated to 3400-3200 BCE.jpg|thumb|left|Designs on some of the labels or token from [[Abydos, Egypt|Abydos]], carbon-dated to circa 3400-3200 BC and among the earliest form of writing in Egypt.<ref name="CS">{{cite book |last1=Scarre |first1=Chris |last2=Fagan |first2=Brian M. 
+
+2. 
+
+The rise of [[Islam]] in the 7th century led to the rapid rise of [[Arabic language|Arabic]] as a major literary language in the region. 
+
+3. 
+ | year = 1986
+ | title = The Infancy of the Alphabet
+ | journal = World Archaeology
+ | volume = 17
+ | issue = 3
+ | pages = 390–398
+ | ref = harv
+ | postscript = <!--None-->
+}}
+*{{Cite journal
+ | doi = 10.1080/00438243.1986.9979977
+ | last = Olivier
+ | first = J.-P. 
+
+4. 
+
+====Anatolian hieroglyphs====
+{{Main|Anatolian hieroglyphs}}
+Anatolian hieroglyphs are an indigenous hieroglyphic script native to western [[Anatolia]], used to record the [[Hieroglyphic Luwian]] language. 
+
+5. 
+The tablets of the Chaldeans are among the most remarkable of their remains.{{According to whom|date=January 2017}} There are small pieces of clay, somewhat rudely shaped into a form resembling a pillow, and thickly inscribed with cuneiform characters.<ref>These documents have been in general enveloped, after they were baked, in a cover of moist clay, upon which their contents have been again inscribed, so as to present externally a duplicate of the writing within; and the tablet in its cover has then been baked afresh. 
+
+6. 
+
+Geoffrey Sampson stated that Egyptian hieroglyphs "came into existence a little after [[Sumerian script]], and, probably [were], invented under the influence of the latter",<ref name=b1>{{cite book|author=Geoffrey Sampson|title=Writing Systems: A Linguistic Introduction|url=https://books.google.com/books?id=tVcdNRvwoDkC&pg=PA78|accessdate=31 October 2011|date=1 January 1990|publisher=Stanford University Press|isbn=978-0-8047-1756-4|pages=78–}}</ref> and that it is "probable that the general idea of expressing words of a language in writing was brought to Egypt from Sumerian [[Mesopotamia]]".<ref>{{cite book|author=Geoffrey W. 
+
+7. 
+<ref name="China">{{Cite journal | journal = China Daily | date = 12 June 2003 | title = Archaeologists Rewrite History | url = http://www.china.org.cn/english/2003/Jun/66806.htm|ref = harv}}</ref> Most archaeologists consider these not directly linked to the earliest true writing.<ref>{{cite book | first = Stephen D. 
+
+8. 
+
+====Cretan and Greek scripts====
+{{Main|Cretan hieroglyphs|Linear A|Linear B}}
+Cretan hieroglyphs are found on artifacts of [[Crete]] (early-to-mid-2nd millennium BC, MM I to MM III, overlapping with Linear A from MM IIA at the earliest). 
+
+9. 
+Once established, writing systems on the whole change more slowly than their spoken counterparts and often preserve features and expressions that no longer exist in the spoken language. 
+
+10. 
+([https://www.pbs.org/wgbh/nova/mayacode/time-flash.html Timeline (flash)])
+*[http://news.bbc.co.uk/2/hi/science/nature/2956925.stm BBC on tortoise shells discovered in China]
+*[http://news.bbc.co.uk/1/hi/sci/tech/334517.stm Fragments of pottery discovered in modern Pakistan]
+*[http://news.bbc.co.uk/1/hi/sci/tech/235724.stm Egyptian hieroglyphs c. 
+
+11. 
+Examples are the [[cuneiform]] writing of the [[Sumer]]ians, Egyptian [[hieroglyphs]], [[Cretan hieroglyphs]], Chinese logographs, [[Indus script]], and the [[Olmec script]] of Mesoamerica. 
+
+12. 
+55–56.</ref> 
+Since the 1990s, the discoveries of [[Scorpion I|glyphs]] at [[Abydos, Egypt|Abydos]], dated to between 3400 and 3200 BCE, may challenge the classical notion according to which the Mesopotamian symbol system predates the Egyptian one, although Egyptian writing does make a sudden appearance at that time, while on the contrary Mesopotamia has an evolutionary history of sign usage in tokens dating back to circa 8000 BCE.<ref name=Mitchell1999Quote>"The seal impressions, from various tombs, date even further back, to 3400 B.C. 
+
+13. 
+An Introduction to the History of History. 
+
+14. 
+Pages 990–997.</ref> In all ages it has been customary to engrave on stone or metal, or other durable material, with the view of securing the permanency of the record; and accordingly, in the very commencement of the national history of Israel, it is read of the two tables of the law written in stone, and of a subsequent writing of the law on stone. 
+
+15. 
+The other variation, known as [[History of the Greek alphabet|Eastern Greek]], was used in present-day [[Turkey]] and by the Athenians, and eventually the rest of the world that spoke Greek adopted this variation. 
+
+16. 
+15-25.</ref> 
+
+Regarding China, [[Oracle bone script|ancient Chinese characters]] are an independent invention because there is no evidence of contact between ancient China and the literate civilizations of the Near East,<ref>David N. 
+
+17. 
+In Italy, about 500 years passed from the early [[Old Italic alphabet]] to [[Plautus]] (750 to 250 BC), and in the case of the [[Germanic peoples]], the corresponding time span is again similar, from the first [[Elder Futhark]] inscriptions to early texts like the ''[[Abrogans]]'' (c. 
+
+18. 
+It is believed to have evolved into [[Linear Elamite]] by the later 3rd millennium and then replaced by [[Elamite Cuneiform]] adopted from Akkadian. 
+
+19. 
+That this material was in use in Egypt from a very early period is evidenced by still existing papyrus of the earliest Theban dynasties.<ref>{{cite web|url=https://www.ancient.eu/Egyptian_Papyrus/|title=Egyptian Papyrus|last=Mark|first=Joshua J.|website=Ancient History Encyclopedia}}</ref> As the papyrus, being in great demand, and exported to all parts of the world, became very costly, other materials were often used instead of it, among which is mentioned leather, a few leather mills of an early period having been found in the tombs.<ref name="McClintock1885" /> [[Parchment]], using sheepskins left after the wool was removed for cloth, was sometimes cheaper than papyrus, which had to be imported outside Egypt. 
+
+20. 
+The earliest literary authors known by name are [[Ptahhotep]] (who wrote in [[Old Egyptian language|Egyptian]]) and [[Enheduanna]] (who wrote in [[Sumerian language|Sumerian]]), dating to around the [[24th century BC|24th]] and [[23rd century BC|23rd]] centuries BC, respectively. 
+
+21. 
+
+==External links==
+;Cuneiform
+* [http://cdli.ox.ac.uk/wiki/doku.php?id=start cdli:wiki]: Assyriological tools for specialists in cuneiform studies
+;General
+* [http://www.historian.net/hxwrite.htm History of Writing]. 
+
+22. 
+Pg 3.</ref> 
+
+Debate surrounds the [[Indus script]] of the [[Bronze Age]] [[Indus Valley civilization]], the [[Rongorongo]] script of [[Easter Island]], and the [[Vinča symbols]] dated around 5,500 BCE. 
+
+23. 
+The Origins of Chinese civilization [https://books.google.com/books?id=4-vdP2aZWhUC&pg=PA415 Page 415-416]</ref> and because of the distinct differences between the Mesopotamian and Chinese approaches to [[logogram|logography]] and phonetic representation.<ref>[https://books.google.com/books/about/Sex_and_Eroticism_in_Mesopotamian_Litera.html?id=Fn67_Rid51EC Sex and Eroticism in Mesopotamian Literature]. 
+
+24. 
+Written communication can also be delivered with minimal time delay ([[e-mail]], [[SMS]]), and in some cases, with an imperceptible time delay ([[instant messaging]]). 
+
+25. 
+| last = Houston | title = The First Writing: Script Invention as History and Process | publisher = Cambridge University Press | year = 2004 | pages = 245–6 | isbn = 978-0-521-83861-0 }}</ref> 
+
+* [[Vinča symbols]], sometimes called the "Danube script" - are a set of symbols found on [[Neolithic Europe|Neolithic era]] (6th to 5th millennia BC) artifacts from the [[Vinča culture]] of [[Central Europe]] and [[Southeastern Europe]].<ref>Haarmann 2010, 10: 5300 - 3200 BC.</ref>
+
+* The [[Dispilio Tablet]] of the late 6th millennium may also be an example of proto-writing. 
+
+26. 
+The earliest inscriptions which are identifiably Maya date to the 3rd century BC, and writing was in continuous use until shortly after the arrival of the Spanish conquistadores in the 16th century AD. 
+
+27. 
+For its part the Greek alphabet introduced for the first time explicit symbols for vowel sounds.<ref>{{harvnb|Millard|1986|p=396}}</ref> The Greek and Latin alphabets in the early centuries of the Common Era gave rise to several European scripts such as the [[Runes]] and the [[Gothic alphabet|Gothic]] and [[Cyrillic script|Cyrillic]] alphabets while the Aramaic alphabet evolved into the [[Hebrew alphabet|Hebrew]], [[Syriac alphabet|Syriac]] and [[Arabic alphabet|Arabic]] abjads and the [[South Arabian alphabet]] gave rise to the [[Ge'ez abugida]], with other adaptations leading as far as [[Mongolian script]]. 
+
+28. 
+It is thought that the first true alphabetic writing was developed around 2000 BC for [[Semitic people|Semitic]] workers in the Sinai by giving mostly Egyptian [[hieratic]] glyphs Semitic values (see [[History of the alphabet]] and [[Proto-Sinaitic alphabet]]). 
+
+29. 
+[[Mortimer Wheeler]] recognises the style of writing as [[boustrophedon]], where "this stability suggests a precarious maturity."
+
+====Early Semitic alphabets====
+{{Main|Middle Bronze Age alphabets}}
+The first pure [[alphabet]]s (properly, "[[abjad]]s", mapping single symbols to single phonemes, but not necessarily each phoneme to a symbol) emerged around 1800 BC in [[Ancient Egypt]], as a representation of language developed by [[Semitic people|Semitic]] workers in Egypt, but by then alphabetic principles had a slight possibility of being inculcated into [[Egyptian hieroglyph]]s for upwards of a millennium.{{clarify|date=September 2013}} These early abjads remained of marginal importance for several centuries, and it is only towards the end of the Bronze Age that the [[Proto-Sinaitic script]] splits into the [[Proto-Canaanite alphabet]] (c. 
+
+30. 
+Krebs|title=Groundbreaking scientific experiments, inventions, and discoveries of the ancient world|url=https://books.google.com/books?id=0H0fjBeseVEC&pg=PA91|accessdate=31 October 2011|date=December 2003|publisher=Greenwood Publishing Group|isbn=978-0-313-31342-4|pages=91–}}</ref> Instead, it is pointed out and held that "the evidence for such direct influence remains flimsy” and that “a very credible argument can also be made for the independent development of writing in Egypt..."<ref>Simson Najovits, ''Egypt, Trunk of the Tree: A Modern Survey of an Ancient Land'', Algora Publishing, 2004, pp. 
+
+31. 
+
+====Chinese writing====
+{{Main|Chinese writing|Chinese characters}}
+The earliest confirmed evidence of the Chinese script yet discovered is the body of inscriptions on oracle bones and bronze from the late Shang dynasty. 
+
+32. 
+page 62.</ref> The letters of the Greek alphabet are more or less the same as those of the Phoenician alphabet, and in modern times both alphabets are arranged in the same order.<ref name="McCarter, P. 
+
+33. 
+The revival of literary development in Western Europe led to many innovations in the Latin alphabet and the diversification of the alphabet to codify the phonologies of the various languages. 
+
+34. 
+
+The best known picture writing system of [[ideogram|ideographic]] or early [[mnemonic]] symbols are:
+* [[Jiahu symbols]], carved on [[tortoise]] [[Animal shell|shells]] in [[Jiahu]], c. 
+
+35. 
+The [[pen]], the [[printing press]], the [[computer]] and the [[mobile phone]] are all technological developments which have altered what is written, and the medium through which the written word is produced. 
+
+36. 
+
+The nature of the written word has recently evolved to include an informal, colloquial written style, in which an everyday conversation can occur through writing rather than speaking. 
+
+37. 
+
+* The [[Indus script]], which from 2600 BCE to 1900 BCE was used for extremely short inscriptions. 
+
+38. 
+[[Arabic script]] was adopted as the primary script of the Persian language and the [[Turkish language]]. 
+
+39. 
+However the development of writing systems, and their partial supplantation of traditional [[orality|oral]] systems of communication, have been sporadic, uneven, and slow. 
+
+40. 
+|title=The World's Writing Systems |date=1996 |publisher=Oxford University Press |isbn=9780195079937 |page=45 |url=https://books.google.com/books?id=ospMAgAAQBAJ&pg=PA45 |language=en}}</ref><ref name="Boudreau 2004 p71">{{cite book |last1=Boudreau |first1=Vincent |title=The First Writing: Script Invention as History and Process |date=2004 |publisher=Cambridge University Press |isbn=9780521838610 |page=71 |url=https://books.google.com/books?id=jsWL_XJt-dMC&pg=PA71 |language=en}}</ref>}}
+
+Scholars make a reasonable distinction between [[prehistory]] and [[history]] of early writing<ref name="Shotwell1922">Shotwell, James Thomson. 
+
+41. 
+Every human community possesses language, a feature regarded by many as an innate and defining condition of humanity (see [[Origin of language]]). 
+
+42. 
+
+====Cuneiform script====
+[[File:P1150884 Louvre Uruk III tablette écriture précunéiforme AO19936 rwk.jpg|thumb|Tablet with proto-cuneiform pictographic characters (end of 4th millenium BC), [[Uruk period|Uruk III]].]]
+{{Main|Cuneiform script}}
+The original Sumerian writing system derives from a [[History of writing ancient numbers#Clay tokens|system of clay tokens]] used to represent commodities. 
+
+43. 
+In the latter case there is this peculiarity, that plaster ([[sic]], lime or gypsum) was used along with stone, a combination of materials which is illustrated by comparison of the practice of the Egyptian engravers, who, having first carefully smoothed the stone, filled up the faulty places with gypsum or cement, in order to obtain a perfectly uniform surface on which to execute their engravings.<ref name="McClintock1885" /> Metals, such as stamped [[coin]]s, are mentioned as a material of writing; they include lead,<ref>though whether to writing on lead, or filling up the hollow of the letters with lead, is not certain.</ref> brass, and gold. 
+
+44. 
+1450−1200 BC
+|}
+
+====Mesoamerica====
+{{Main|Mesoamerican writing systems}}
+A stone slab with 3,000-year-old writing, the [[Cascajal Block]], was discovered in the Mexican state of Veracruz, and is an example of the oldest script in the Western Hemisphere, preceding the oldest [[Zapotec civilization|Zapotec]] writing dated to about 500 BC.<ref>{{cite news |first= |last= |authorlink= |title=Writing May Be Oldest in Western Hemisphere. 
+
+45. 
+
+====Indus script====
+{{Main|Indus script}}
+[[File:Indus script recovered from Khirsara, Indus Valley Civilization.jpg|thumb|upright=1.7|[[Indus script]] tablet recovered from [[Khirasara]], Indus Valley Civilization]]
+The [[Middle Bronze Age]] [[Indus script]], which dates back to the early [[Indus Valley Civilisation|Harappa]]n phase of around 3000 BCE in the [[Indian subcontinent]] corresponding to northwestern [[India]] and what is now [[Pakistan]], has not yet been deciphered.<ref>Whitehouse, David (1999) ''[http://news.bbc.co.uk/1/hi/sci/tech/334517.stm 'Earliest writing' found]'' BBC</ref> It is unclear whether it should be considered an example of proto-writing or whether it is actual writing of the logographic-syllabic type of the other Bronze Age writing systems. 
+
+46. 
+These dates challenge the commonly held belief that early logographs, pictographic symbols representing a specific place, object, or quantity, first evolved into more complex phonetic symbols in Mesopotamia." {{cite web|last=Mitchell|first=Larkin|title=Earliest Egyptian Glyphs|url=https://archive.archaeology.org/9903/newsbriefs/egypt.html|work=Archaeology|publisher=Archaeological Institute of America|accessdate=29 February 2012}}</ref> These glyphs, found in tomb U-J at Abydos are written on ivory and are likely labels for other goods found in the grave.<ref>{{Cite book|title=Visual and Written Culture in Ancient Egypt|last=Baines|first=J.|publisher=|year=2007|isbn=|location=Oxford|pages=118}}</ref>
+
+====Elamite script====
+{{Main|Proto-Elamite script}}
+The undeciphered Proto-Elamite script emerges from as early as 3100 BC. 
+
+47. 
+
+===Iron Age writing===
+{{Main|History of the alphabet}}
+[[File:Cippo perugino, con iscrizione in lingua etrusca su un atto giuridico tra le famiglie dei velthina e degli afuna, 02.jpg|thumbnail|[[Cippus Perusinus]], [[Etruscan civilization|Etruscan]] writing near [[Perugia]], [[Italy]], the precursor of the [[Latin alphabet]]]]
+[[File:Interpretation of Queen Maya's dream.jpg|thumb|left|The sculpture depicts a scene where three soothsayers are interpreting to King [[Suddhodana]] the dream of Queen [[Maya (mother of Buddha)|Maya]], mother of [[Gautama Buddha]]. 
+
+48. 
+
+
+===Literature and writing===
+The [[history of literature]] begins with the history of writing, but literature and writing, though obviously connected, are not synonymous. 
+
+49. 
+Wooden tablets are found pictured on the monuments; but the material which was in common use, even from very ancient times, was the [[papyrus]], having recorded use as far back as 3,000 B.C.E.<ref>{{cite web|url=http://www.historyworld.net/wrldhis/PlainTextHistories.asp?historyid=aa92|title=HISTORY OF WRITING MATERIALS|last=Gascolgne|first=Arthur Bamber|accessdate=2019-02-18}}</ref> This reed, found chiefly in Lower Egypt, had various economic means for writing, the pith was taken out, and divided by a pointed instrument into the thin pieces of which it is composed; it was then flattened by pressure, and the strips glued together, other strips being placed at right angles to them, so that a roll of any length might be manufactured. 
+
+50. 
+
+== Writing materials ==
+{{Main|Writing material}}
+There is no very definite statement as to the material which was in most common use for the purposes of writing at the start of the early writing systems.<ref name="McClintock1885">McClintock, J., & Strong, J. 
+
+51. 
+The [[Brahmic family]] of [[Indian subcontinent|India]] is believed by some scholars to have derived from the Aramaic alphabet as well.<ref name="Salomon 1996">{{cite journal | author=Salomon, Richard | title=Brahmi and Kharoshthi | journal=The World's Writing Systems | publisher=Oxford University Press | year=1996 | isbn=978-0-19-507993-7 | url=https://archive.org/details/isbn_9780195079937 }}</ref>
+
+===Writing in the Greco-Roman civilizations===
+[[File:NAMA Alphabet grec.jpg|thumb|right|Early Greek alphabet on pottery in the [[National Archaeological Museum of Athens]]]]
+
+The [[history of the Greek alphabet]] started when the Greeks borrowed the Phoenician alphabet and adapted it to their own language.<ref name="McCarter, P. 
+
+52. 
+6000 BC, like [[Jiahu Script]], [[Banpo Script]], but whether or not the carvings are complex enough to qualify as writing is under debate.<ref name="China"/> At [[Damaidi]] in the [[Ningxia|Ningxia Hui Autonomous Region]], 3,172 cliff carvings dating to 6000–5000 BC have been discovered, featuring 8,453 individual characters, such as the sun, moon, stars, gods, and scenes of hunting or grazing. 
+
+53. 
+
+==See also==
+;Main:[[Phonetics]], [[Palaeography]], [[logograms]], [[Brahmi]], [[Devanagari]], [[logographic]], [[Vinča signs]], [[Asemic writing]]
+;General: [[Alphabet]], [[Palaeography]], [[Inscriptions]], [[Book]], [[Manuscript]], [[Shorthand]], [[Latin alphabet]], [[writing system]], [[ogham]], [[Indus script]], [[Mixtec]], [[uncial]]s, [[Zapotec civilization|Zapotec]], [[Aurignacian]], [[Chinese character]]s ([[Kanji]], [[Hanja]]), [[Ugarit]], [[Katakana]], [[Hiragana]], [[Acheulean]], [[Ethnoarchaeology]], [[Hoabinhian]], [[Gravettian]], [[Oldowan]], [[Uruk]], [[Etruscan alphabet|Etruscan]], [[Cretan hieroglyphs]], [[Nabataean]], [[Luwian]], [[Olmec]], [[Busra]], [[Tamil language|Tamil]], [[Kannada]], [[Grakliani Hill]]
+;Other: [[History of numbers]], [[History of art]] ([[Ancient art]]), [[Oral literature]], [[History of developmental dyslexia]], [[Protoscholastic writing]]
+
+==Citations==
+{{reflist|colwidth=30em}}
+
+==References==
+*{{Cite journal
+ | doi = 10.1080/00438243.1986.9979978
+ | last = Millard
+ | first = A. 
+
+54. 
+{{Writing systems sidebar}}
+{{Human history}}
+The '''history of writing'''  traces the development of expressing language by letters or other marks<ref>Peter T. 
+
+55. 
+[[Ashmolean Museum]]]]
+
+The invention of writing was long thought to have one single origin, a theory named "monogenesis".<ref name=":1">{{Cite book|url=https://books.google.com/?id=8TyOC9nqEokC&pg=PA59=false|title=The Cambridge Handbook of Literacy|last=Olson|first=David R.|last2=Torrance|first2=Nancy|date=2009-02-16|publisher=Cambridge University Press|isbn=9780521862202|language=en}}</ref> Scholars believed that all writing originated in ancient [[Sumer]] (in [[Mesopotamia]]) and spread throughout the world from there via a process of [[cultural diffusion]].<ref name=":1" /> According to this theory, the concept of representing language by using writing, though not necessarily the specifics of how such a system worked, was passed on by traders or merchants traveling between geographical regions.<ref>More recent examples of this include [[Pahawh Hmong]] and the [[Cherokee syllabary]]</ref><ref>Peter T. 
+
+56. 
+These systems emerged in the early [[Neolithic]] period, as early as the [[7th millennium BC]], and include:
+
+* The [[Jiahu symbols]] found carved in [[tortoise]] shells in 24 Neolithic graves excavated at [[Jiahu]], [[Henan]] province, northern China, with [[radiocarbon date]]s from the 7th millennium BC. 
+
+57. 
+"Visible language: the earliest writing systems." Visible Language: Inventions of Writing in the Ancient Middle East and Beyond. 
+
+58. 
+
+===Bronze Age writing===
+{{further|History of the alphabet}}
+Writing emerged in many different cultures in the [[Bronze Age]]. 

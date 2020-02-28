@@ -1,0 +1,89 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Historicism
+
+en edition's differences with the es version: 
+
+
+1. 
+While post-structural historicism is relativist in its orientation, that is, it sees each culture as its own frame of reference, a large number of thinkers have embraced the need for historical context, not because culture is self-referential, but because there is no more compressed means of conveying all of the relevant information except through history. 
+
+2. 
+
+===Leo Strauss===
+[[Leo Strauss]] used the term ''historicism'' and reportedly termed it the single greatest threat to intellectual freedom insofar as it denies any attempt to address injustice-pure-and-simple (such is the significance of historicism's rejection of "natural right" or "right by nature"). 
+
+3. 
+ The [[Right Hegelians]], working from Hegel's opinions about the organicism and historically determined nature of human societies, interpreted Hegel's historicism as a justification of the unique destiny of national groups and the importance of stability and institutions. 
+
+4. 
+This understanding of Marxism is strongly criticised by the [[structural Marxist]] [[Louis Althusser]],<ref name=McLellan1></ref><ref name=Althusser>{{cite book |last1=Althusser |first1=Louis |last2=Balibar |first2=Etienne |date=1970 |title=Lire le Capital |trans-title=Reading Capital |url= |url-status= |format= |language=French |location= |publisher=New Left Books |isbn=0-902308-56-4 | pages=119–45}}</ref> who affirms that Marxism is an objective science, autonomous from interests of society and class. 
+
+5. 
+ This may take the form of conservatism (former might is right), positivism (might is right) or futurism (presumed coming might is right). 
+
+6. 
+ Countering Collingwood's arguments, Strauss warned against historicist social scientists' failure to address real-life problems—most notably that of tyranny—to the extent that they relativize (or "subjectivize") all ethical problems by placing their significance strictly in function of particular or ever-changing socio-material conditions devoid of inherent or "objective" "value." Similarly, Strauss criticized [[Eric Voegelin]]'s abandonment of ancient political thought as guide or vehicle in interpreting modern political problems. 
+
+7. 
+"They add that the history of dogmas consists in the reporting of the various forms in which revealed truth has been clothed, forms that have succeeded one another in accordance with the different teachings and opinions that have arisen over the course of the centuries."<ref name=":0">{{cite web|author=Pius XII |url=http://www.vatican.va/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis_en.html |title=Humani generis, 15 |publisher=[[Vatican.va]] |accessdate=2012-05-21 |url-status=dead |archiveurl=https://web.archive.org/web/20120419021937/http://www.vatican.va/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis_en.html |archivedate=2012-04-19 }}</ref>
+
+==Critics==
+
+===Karl Marx===
+The social theory of Karl Marx, with respect to modern scholarship, has an ambiguous relation to historicism. 
+
+8. 
+However, the issue of historicism also finds itself important to many debates within Marxism itself; the charge of historicism has been made against various types of Marxism, typically disparaged by Marxists as "vulgar" Marxism. 
+
+9. 
+
+===Karl Popper===
+
+[[Karl Popper]] used the term ''historicism'' in his influential books ''[[The Poverty of Historicism]]'' and ''[[The Open Society and Its Enemies]]'', to mean: "an approach to the social sciences which assumes that ''historical prediction'' is their primary aim, and which assumes that this aim is attainable by discovering the 'rhythms' or the 'patterns', the 'laws' or the 'trends' that underlie the evolution of history".<ref name = "Poverty 3">POPPER, Karl, p. 
+
+10. 
+ Strauss argued that historicism "rejects political philosophy" (insofar as this stands or falls by questions of permanent, trans-historical significance) and is based on the belief that "all human thought, including scientific thought, rests on premises which cannot be validated by human reason and which came from historical epoch to historical epoch." Strauss further identified [[R. 
+
+11. 
+ Strauss makes use of Nietzsche's own critique of progress and historicism, although Strauss refers to Nietzsche himself (no less than to Heidegger) as a "radical historicist" who articulated a philosophical (if only untenable) justification for historicism. 
+
+12. 
+In his ''[[Poverty of Historicism]]'', he identified historicism with the opinion that there are "inexorable laws of historical destiny", which opinion he warned against. 
+
+13. 
+
+===New===
+{{main|New Historicism}}
+Since the 1950s, when [[Jacques Lacan]] and Foucault argued that each epoch has its own knowledge system, within which individuals are inexorably entangled, many [[post-structuralist]]s have used ''historicism'' to describe the opinion that all questions must be settled within the cultural and social context in which they are raised. 
+
+14. 
+ (Hegel did not use these terms, although [[Johann Gottlieb Fichte|Johann Fichte]] did.) Hegel's famous [[aphorism]], "Philosophy is the history of philosophy," describes it bluntly. 
+
+15. 
+ ''[[Lectures on the Philosophy of History|The Philosophy of History]]''. 
+
+16. 
+{{about|philosophical theories known collectively as "historicism"|the school of historiography known as "historicism" or "historism"|historism|the school of art and architecture|Historicism (art)|the method of interpreting the [[Book of Revelation]]|Historicism (Christianity)|historicism in music|Musical historicism}}
+{{more citations needed|date=May 2013}}{{summarize|to|Philosophy of history|better=y|date=November 2019}}
+
+'''Historicism''' is the idea of attributing meaningful significance to space and time, such as historical period, geographical place, and local culture. 
+
+17. 
+
+===Anthropological<!--'Anthropological historicism'-->===
+In the context of [[anthropology]] and other sciences which study the past, historicism has a different meaning. 
+
+18. 
+ In Popperian terms, the "[[New Historicism]]" is an example of historism rather than of historicism proper. 
+
+19. 
+In this opinion, grand theories are unprovable, and instead intensive field work would determine the most likely explanation and history of a culture, and hence it is named "historicism."
+
+This opinion would produce a wide range of definition of what, exactly, constituted culture and history, but in each case the only means of explaining it was in terms of the historical particulars of the culture itself. 
+
+20. 
+ Karl Marx's doctrine of "historical inevitabilities" and [[historical materialism]] is one of the more influential reactions to this part of Hegel's thought. 
+
+21. 
+Yet Hegel makes clear that the spirit is a mere abstraction, and only comes into existence "through the activity of finite agents." Thus, Hegel's philosophy of history is not necessarily metaphysical, despite the fact that many of Hegel's opponents and interpreters have understood Hegel's philosophy of history as a metaphysical and determinist view of history.<ref>{{Cite book|title=The Cambridge Companion to Hegel|last=Beiser|first=Frederick C.|publisher=Cambridge University Press|year=1993|isbn=|location=Cambridge|pages=289–91}}</ref> For example, Karl Popper in his book ''The Poverty of Historicism'' interpreted Hegel's philosophy of history as metaphysical and deterministic. 

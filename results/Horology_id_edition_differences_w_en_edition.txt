@@ -1,0 +1,17 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Horology
+
+id edition's differences with the en version: 
+
+
+1. 
+In today's usage, horology refers primarily to a mechanical study of the device for timing, while [[Chronometry]] More broadly includes electronic devices that have largely been replaced by mechanical clocks due to better accuracy and precision. 
+
+2. 
+term = horology & allowed_in_frame = 0 | title = horology | publisher = [[Online Etymology Dictionary]]}} </ref> <ref> {{LSJ | w (Rolo/Gion | ὡρολόγιον}}, {{LSJ | w (/ra2 | ὥρα | ref}}. 
+
+3. 
+JPG | jmpl | ka | " "Universal Clock" in Museum Jam, Zacatlán, [[Puebla]], [Mexico]]
+
+' ' ' Horology ' ' ("study of the time", related to [[Latin]] ' ' Horologium ' ' and [Greek]] {{lang | grc | ὡρολόγιον}}, "Tool to tell Time", from {{lang | grc | [ [Wikt: Ὥρα | ὥρα]]}} ' ' Hṓra ' ' "hours; Time "and [Interfix]]-O-and [[suffixes]] ' '-logy ' ') <ref> {{cite web | url = http://www.etymonline.com/index.php. 

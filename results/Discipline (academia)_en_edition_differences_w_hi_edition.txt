@@ -1,0 +1,75 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Discipline (academia)
+
+en edition's differences with the hi version: 
+
+
+1. 
+With rare exceptions, practitioners of science tended to be amateurs and were referred to as "natural historians" and "natural philosophers"—labels that date back to Aristotle—instead of "scientists".<ref>{{cite web |title=How The Word 'Scientist' Came To Be |url=https://www.npr.org/templates/story/story.php?storyId=127037417 |website=npr.org |publisher=National Public Radio |accessdate=November 3, 2014}}</ref> Natural history referred to what we now call life sciences and natural philosophy referred to the current physical sciences. 
+
+2. 
+
+==Terminology==
+Also known as a '''field of study''', '''field of inquiry''', '''research field''' and '''branch of knowledge'''. 
+
+3. 
+Many academic disciplines designed as preparation for careers and professions, such as [[nursing]], [[Hospitality management studies|hospitality management]], and [[corrections]], also emerged in the universities. 
+
+4. 
+{{short description|Academic field of study or profession}}
+{{redirect-distinguish|Academic discipline|School discipline}}
+{{outline|Outline of academic disciplines}}
+{{Use mdy dates|date=April 2017}}
+An '''academic discipline''' or '''academic field''' is a subdivision of [[knowledge]] that is [[teaching|taught]] and [[research]]ed at the college or university level. 
+
+5. 
+"Disciplines, History of, in the Social Sciences."  ''International Encyclopedia of the Social & Behavioral Sciences'', pp.&nbsp;3721–28. 
+
+6. 
+
+While academic disciplines in and of themselves are more or less focused practices, scholarly approaches such as [[Interdisciplinarity|multidisciplinarity/interdisciplinarity]], [[transdisciplinarity]], and [[cross-disciplinarity]] integrate aspects from multiple academic disciplines, therefore addressing any problems that may arise from narrow concentration within specialized fields of study. 
+
+7. 
+Foucault asserts that academic disciplines originate from the same social movements and mechanisms of control that established the modern prison and penal system in eighteenth-century [[France]], and that this fact reveals essential aspects they continue to have in common: "The disciplines characterize, classify, specialize; they distribute along a scale, around a norm, hierarchize individuals in relation to one another and, if necessary, disqualify and invalidate." (Foucault, 1975/1979, p. 
+
+8. 
+Eventually, academia's identified disciplines became the foundations for scholars of specific specialized interests and expertise.<ref>{{cite web |last1=Cohen |first1=E |last2=Lloyd |first2=S |title=Disciplinary Evolution and the Rise of Transdiscipline |url=http://www.inform.nu/Articles/Vol17/ISJv17p189-215Cohen0702.pdf |publisher=Informing Science: the International Journal of an Emerging Transdiscipline}}</ref>
+
+==Functions and criticism==
+An influential critique of the concept of academic disciplines came from [[Michel Foucault]] in his 1975 book, ''[[Discipline and Punish]]''. 
+
+9. 
+While interdisciplinary teams may be creating new knowledge that lies between several existing disciplines, a transdisciplinary team is more holistic and seeks to relate all disciplines into a coherent whole. 
+
+10. 
+(ed.), ''Interactive Historical Atlas of the Disciplines'', University of Geneva]
+
+{{Authority control}}
+
+[[Category:Academic disciplines| ]]
+[[Category:Teaching]]
+[[Category:Main topic articles|Aca]]. 
+
+11. 
+[Paris] : Gallimard, 1975).</ref>
+
+==Communities of academic disciplines==
+Communities of academic disciplines can be found outside academia within corporations, government agencies, and independent organizations, where they take the form of associations of professionals with common interests and specific knowledge. 
+
+12. 
+
+==Bibliometric studies of disciplines==
+[[Bibliometrics]] can be used to map several issues in relation to disciplines, for example the flow of ideas within and among disciplines (Lindholm-Romantschuk, 1998)<ref>Lindholm-Romantschuk, Y. 
+
+13. 
+However, these designations differed between various countries.<ref>{{cite book |author1=Jacques Revel |authorlink1=History and the Social Sciences |editor1-last=Porter |editor1-first=Theodore |editor2-last=Ross |editor2-first=Dorothy |title=Cambridge History of Science: The Modern Social Sciences |date=2003 |publisher=Cambridge University Press |location=Cambridge |isbn=0521594421 |pages=391–404 |chapter=21}}</ref> In the twentieth century, the natural science disciplines included: [[physics]], [[chemistry]], [[biology]], [[geology]], and [[astronomy]]. 
+
+14. 
+
+Most academic disciplines have their roots in the mid-to-late-nineteenth century [[secularization]] of universities, when the traditional [[curriculum|curricula]] were supplemented with non-classical languages and [[literatures]], [[social sciences]] such as [[political science]], [[economics]], [[sociology]] and [[public administration]], and [[natural science]] and [[technology]] disciplines such as [[physics]], [[chemistry]], [[biology]], and [[engineering]]. 
+
+15. 
+[http://aserenko.com/papers/Serenko_Bontis_2013_JKM_KM_Core.pdf The intellectual core and impact of the knowledge management academic discipline.] Journal of Knowledge Management, 17(1), 137–55.</ref>
+
+The Bibliometrics approach is described as straightforward because it is based on simple counting. 

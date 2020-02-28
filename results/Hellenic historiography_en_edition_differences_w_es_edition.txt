@@ -1,0 +1,46 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Hellenic historiography
+
+en edition's differences with the es version: 
+
+
+1. 
+By the 5th century BC, it became an integral part of [[ancient Greek literature]] and held a prestigious place in later [[Byzantine literature]]. 
+
+2. 
+Written between the 450s and 420s BC, the scope of Herodotus's work reaches about a century in the past, discussing 6th century historical figures such as [[Darius I of Persia]], [[Cambyses II]], and [[Psamtik III]] and alludes to some 8th century ones such as [[Candaules]]. 
+
+3. 
+{{See also|Roman historiography}}
+'''Greek historiography''' refers to Hellenic efforts to track and record [[history]]. 
+
+4. 
+''Rhetoric in Classical Historiography: Four Studies.'' London: Routledge
+
+{{Historiography}}
+
+[[Category:Historiography of Greece| ]]. 
+
+5. 
+
+==See also==
+{{Library resources box |by=no |onlinebooks=yes |others=yes |about=yes 
+  |viaf= |lccn= |lcheading= |wikititle= }}
+*[[List of Graeco-Roman geographers]]
+*[[List of Greek historiographers]]
+*[[List of historians]]
+*[[Modern Greek literature]]
+*[[Roman historiography]]
+*[[Chinese historiography]]
+
+== References ==
+{{Reflist}}
+
+== Further reading ==
+* Barcelo, P. 
+
+6. 
+
+==Overview==
+The historical period of [[ancient Greece]] is unique in world history as the first period attested directly in proper [[historiography]], while earlier ancient history or [[proto-history]] is known by much more circumstantial evidence, such as [[annal]]s, [[chronicle]]s, [[List of lists of ancient kings|king lists]], and pragmatic [[epigraphy]]. 

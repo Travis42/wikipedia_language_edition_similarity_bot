@@ -2,7 +2,6 @@
 
 # -*- coding: utf-8 -*-
 import configparser
-import logging
 import os, requests, uuid, json
 
 from utils import chunkstring, read_txt_to_string_in_chunks, write_string_to_txt_file
@@ -45,8 +44,8 @@ def translate(text):
                                          ensure_ascii=False, 
                                          separators=(',', ': ')))[0]['translations'][0]['text']
         except KeyError: # doesn't seem to be critical.
-            logging.debug('skipping these many characters: ', len(chunk))
-            logging.debug('keyerror, whatever that means.')
+            print('skipping these many characters: ', len(chunk))
+            print('keyerror, whatever that means.')
             continue
     return translated_text
 

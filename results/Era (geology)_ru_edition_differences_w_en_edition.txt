@@ -1,0 +1,31 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Era (geology)
+
+ru edition's differences with the en version: 
+
+
+1. 
+Most geological epochs are divided into geological periods. 
+
+2. 
+
+In the "stratigraphy" the geological era corresponds to the "erathema" Eratem, that is, the geological era, is a period of time in the geological history of the Earth during which the Eratem was formed. 
+
+3. 
+
+Literature
+The web
+ http://www.stratigraphy.org/ICSchart/ChronostratChart2017-02.pdf
+ "International Chronostratigraphic Chart"
+ qdate q2017-02
+ "International Commission on Stratigraphy"
+ "lang"en
+ https://web.archive.org/web/20170515202116/http://www.stratigraphy.org/ICSchart/ChronostratChart2017-02.pdf
+ archivedate 2017-05-15
+}}
+
+"Navigation"
+The era of the geological
+The title of Eratema
+"http://dic.academic.ru/dic.nsf/enc_geolog/20524 Era" is an article from the Geological Encyclopedia. 

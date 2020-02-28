@@ -1,0 +1,37 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Digital clock
+
+ru edition's differences with the en version: 
+
+
+1. 
+"Don't confuse" electric clocks
+File:Radiocontrolledclock.jpg
+The "Electric Clock" is used to count down the periodic vibrations of the "quartz generator" and converted into discrete signals that are repeated after 1 c, 1 min, 1 tsp, and so on; signals are displayed on a digital scoreboard showing the current time, and in some models also the number, month, year, day of the week. 
+
+2. 
+1:20 p.m., or 12-hour time format) 1:20 PM. 
+
+3. 
+There are electronic clocks that are constructively combined (based on a common chip) with a "microcalculator" as well as an electronic clock, and other technical devices. 
+
+4. 
+In computers, electronic clocks are part of the motherboard and can be configured through "BIOS" or "Operating System"; they use a power cell installed on the motherboard (battery, battery, or ionistor) to run smoothly while the computer is off. 
+
+5. 
+
+Electronic watches can be with their own display (mostly "liquid crystal indicator" - in models with self-powered galvanic elements, or "vacuum fluorescent indicator" - in models powered by the electrical grid) or can display data on the screen of the device, which they are included. 
+
+6. 
+
+Notes
+"Navigation"
+"Notes"
+
+Links
+"http://www.leningrad.su/museum/surf.php?start=219 Photos of domestic electronic watches"
+The https://web.archive.org/web/20180928121648/http://raredigitalwatches.com/ Museum of Vintage rare digital LCD watches since the 1970s, 1980s and 1990s. 
+
+7. 
+Digital cameras and tv have built-in watches, but they are usually designed not to show time, but to record the time of the frame and to work functions tied to the time of day, such as disabling at a given time. 

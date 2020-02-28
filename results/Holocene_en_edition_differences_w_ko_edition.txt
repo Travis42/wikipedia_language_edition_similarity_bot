@@ -1,0 +1,143 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Holocene
+
+en edition's differences with the ko version: 
+
+
+1. 
+|last16=Lowe |first17=Takeshi |last17=Nakagawa |first18=Rewi |last18=Newnham |first19=Jakob |last19=Schwander |year=2009 |title=Formal definition and dating of the GSSP (Global Stratotype Section and Point) for the base of the Holocene using the Greenland NGRIP ice core, and selected auxiliary records |url=http://www.stratigraphy.org/GSSP/Holocene.pdf |journal=[[Journal of Quaternary Science]] |volume=24 |issue=1  |pages=3–17 |doi=10.1002/jqs.1227|bibcode=2009JQS....24....3W }}</ref> The Holocene and the preceding [[Pleistocene]]<ref>{{cite web|url=http://www.stratigraphy.org/index.php/ics-chart-timescale|title=International Chronostratigraphic Chart|last=Fan|first=Junxuan|last2=Hou|first2=Xudong|work=[[International Commission on Stratigraphy]]|access-date=June 18, 2016}}</ref> together form the [[Quaternary]] period. 
+
+2. 
+|journal=[[Nature (journal)|Nature]] |volume=434 |issue=7036 |pages=975–979 |doi=10.1038/nature03421 |pmid=15846336 |bibcode=2005Natur.434..975R }}</ref>
+
+==Human developments==
+{{close paraphrasing|section|source=http://boletinsgm.igeolcu.unam.mx/bsgm/vols/epoca04/7001/%284%29Franco.pdf|free=no|date=May 2018}}
+
+{{see|Timeline of human prehistory|History of the world|Human history|Anthropocene}}
+[[File:Collier de Penne.jpg|thumb|Bronze bead necklace, [[Muséum de Toulouse]]]]
+The beginning of the Holocene corresponds with the beginning of the [[Mesolithic]] age in most of [[Europe]], but in regions such as the [[Middle East]] and [[Anatolia]] with a very early [[neolithisation]], [[Epipaleolithic]] is preferred in place of Mesolithic. 
+
+3. 
+According to some scholars, a third division, the [[Anthropocene]], has now begun.<ref>{{cite book |last=Pearce |first=Fred |author-link=Fred Pearce |date=March 15, 2007 |title=With Speed and Violence |url=https://books.google.com/books?id=rimrkFlTHn4C&pg=PT21 |page=21 |publisher=[[Beacon Press]] |isbn=978-0-8070-8576-9}}</ref> The International Commission on Stratigraphy Subcommission on Quaternary Stratigraphy's working group on the 'Anthropocene' (a term coined by Paul Crutzen and Eugene Stoermer in 2000) note this term is used to denote the present time interval in which many geologically significant conditions and processes have been profoundly altered by human activities. 
+
+4. 
+Human impacts on modern-era [[Earth]] and its [[ecosystem]]s may be considered of global significance for future evolution of living species, including approximately synchronous [[lithosphere|lithospheric]] evidence, or more recently [[Hydrosphere|hydrospheric]] and [[Atmosphere|atmospheric]] evidence of human impacts. 
+
+5. 
+413:] ''"On pourrait aussi appeler ''Holocènes'', ceux de l'époque historique, ou dont le dépôt n'est pas antérieur à la présence de l'homme ; … "'' (One could also call "Holocene" those [deposits] of the historic era, or the deposit of which is not prior to the presence of man ; … )</ref><ref name="EtOn_Holocene">{{cite web|title=Origin and meaning of Holocene|website=[[Online Etymology Dictionary]]|url=https://www.etymonline.com/word/holocene|access-date=2019-08-08}}</ref>
+
+==Etymology==
+The word is formed from two words. 
+
+6. 
+A [[Pleistocene megafauna|number of large animals]] including [[mammoth]]s and [[mastodon]]s, [[saber-toothed cat]]s like ''[[Smilodon]]'' and ''[[Homotherium]]'', and [[giant sloth]]s disappeared in the late Pleistocene and early Holocene—especially in North America, where animals that survived elsewhere (including horses and camels) became extinct. 
+
+7. 
+Therefore 11,650 BP.--> [[radiocarbon calibration|cal]] years [[Before Present|before present]], after the [[last glacial period]], which concluded with the [[Holocene glacial retreat]].<ref name="Walker, M. 
+
+8. 
+|title = Global change in the Holocene |year = 2003 |publisher = Arnold |location = London |isbn = 978-0-340-76223-3 }}
+* {{Cite book |last = Roberts |first = Neil |title = The Holocene: an environmental history |year = 2014 |edition = 3rd |publisher = Wiley-Blackwell |location = Malden, MA |isbn = 978-1-4051-5521-2 }}
+
+==External links==
+{{wiktionary|Holocene}}
+{{Commons category|Holocene}}
+{{Wikisource portal|Cenozoic#Quaternary}}
+{{Wikisource1911Enc|Holocene}}
+* [https://web.archive.org/web/20180118215702/http://www.bbc.co.uk/nature/history_of_the_earth/Holocene The Holocene epoch explained by the BBC]
+* [http://ghkclass.com/ghkC.html?Holocene ghK Classification]
+* [http://www.dandebat.dk/eng-klima7.htm History of Earth's Climate 7. 
+
+9. 
+However, the time periods referenced by these terms vary with the emergence of those technologies in different parts of the world.{{Citation needed|date=May 2012}}
+
+Climatically, the Holocene may be divided evenly into the [[Holocene Climatic Optimum|Hypsithermal]] and [[Neoglaciation|Neoglacial]] periods; the boundary coincides with the start of the [[Bronze Age]] in Europe. 
+
+10. 
+- Cenozoic IV - Holocene]
+
+{{Template group
+|title = Articles related to the Holocene
+|list  =
+{{Holocene footer}}
+{{Quaternary footer}}
+{{Geological history|p|c}}
+{{Prehistoric technology|state=expanded}}
+}}
+{{Authority control}}
+
+[[Category:Holocene| ]]
+[[Category:Geological epochs]]
+[[Category:Quaternary geochronology]]
+[[Category:Interglacials]]
+[[Category:Historical eras]]. 
+
+11. 
+It is considered by some to be an [[interglacial]] period within the Pleistocene Epoch.<ref name="geography">Oxford University Press - Why Geography Matters: More Than Ever (book) - "Holocene Humanity" section https://books.google.com/books?id=7P0_sWIcBNsC</ref>
+
+The Holocene corresponds with rapid proliferation, growth and impacts of the [[human species]] worldwide, including [[Recorded history|all of its written history]], [[technological revolution]]s, development of major [[civilization]]s, and overall significant transition towards [[urban culture|urban living]] in the present. 
+
+12. 
+|title=The human impact imprint on modern pollen spectra of the Mayan lands |year=2018 |journal=[[Boletín de la Sociedad Geológica Mexicana]] |volume=70 |pages=61–78 |doi=10.18268/BSGM2018v70n1a4 }}</ref>
+
+==See also==
+{{div col|colwidth=18em}}
+* [[8.2 kiloyear event]]
+* [[10th millennium BCE]]
+* [[Blytt–Sernander system]]
+* [[Holocene calendar]]
+* [[Holocene extinction]]
+* [[Neolithic Subpluvial]]
+* [[Older Peron]]
+* [[Outburst flood]]
+* [[Piora Oscillation]]
+* [[Quaternary extinction event]]
+{{div col end}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{cite journal | title=Holocene landscape intervention and plant food production strategies in island and mainland Southeast Asia | first1=C.O. 
+
+13. 
+In July 2018, the [[International Union of Geological Sciences]] split the Holocene epoch into three distinct subsections, [[Greenlandian]] (11,700 years ago to 8,326 years ago), [[Northgrippian]] (8,326 years ago to 4,200 years ago) and [[Meghalayan]] (4,200 years ago to the present), as proposed by [[International Commission on Stratigraphy]].<ref>{{cite news|url=https://www.bbc.com/news/science-environment-44868527|title=Welcome to the Meghalayan Age a new phase in history|work=BBC News|date=2018-07-18|last1=Amos|first1=Jonathan}}</ref> The boundary [[stratotype]] of [[Meghalayan]] is a [[speleothem]] in [[Caves of Meghalaya#List of twenty longest caves in Meghalaya|Mawmluh cave]] in India,<ref>{{cite web|url=http://www.stratigraphy.org/index.php/ics-news-and-meetings/119-collapse-of-civilizations-worldwide-defines-youngest-unit-of-the-geologic-time-scale|title=Collapse of civilizations worldwide defines youngest unit of the Geologic Time Scale}}</ref> and the global auxiliary stratotype is an [[ice core]] from [[Mount Logan]] in Canada.<ref>[https://www.qpg.geog.cam.ac.uk/news/formalsubdivisionoftheholoceneseriesgeogr18.pdf  Formal subdivision of the Holocene Series/Epoch]</ref>
+
+The name ''Holocene'' comes from the [[Ancient Greek]] words {{lang|grc|ὅλος}} (''holos'', whole or entire) and {{lang|grc|καινός}} (''kainos'', new), meaning "entirely recent".<ref>The name "Holocene" was proposed in 1850 by the French palaeontologist and entomologist [[Paul Gervais]] (1816–1879): {{cite journal |last1=Gervais |first1=Paul |title=Sur la répartition des mammifères fossiles entre les différents étages tertiaires qui concourent à former le sol de la France |journal=Académie des Sciences et Lettres de Montpellier. 
+
+14. 
+{{about|the geological epoch|dating the Holocene Era|Holocene calendar|the Bon Iver song|Holocene (song)}}
+{{short description|The current geological epoch, covering the last 11,700 years}}
+{{Quaternary (period)}}
+{{Human history}}
+{{Holocene|270|image=[[File:Holocene Temperature Variations.png|220px]]|caption=Holocene temperature variations}}
+The '''Holocene''' ({{IPAc-en|pron|ˈ|h|ɒ|l|.|ə|ˌ|s|iː|n|,_|ˈ|h|ɒ|l|.|oʊ|-|,_|ˈ|h|oʊ|.|l|ə|-|,_|ˈ|h|oʊ|.|l|oʊ|-}} {{respell|HOL|ə|seen|,_|HOL|oh|-|,_|HOH|lə|-|,_|HOH|loh|-}})<ref>{{MerriamWebsterDictionary|Holocene|access-date=February 11, 2018}}</ref><ref>{{Dictionary.com|Holocene|access-date=February 11, 2018}}</ref> is the current [[Geologic time scale|geological]] [[Epoch (geology)|epoch]]. 
+
+15. 
+3"/> The Subcommission on Quaternary Stratigraphy quotes Gibbard and van Kolfschoten in Gradstein Ogg and Smith in stating the term 'Recent' as an alternative to Holocene is invalid and should not be used and also observe that the term Flandrian, derived from marine transgression sediments on the Flanders coast of Belgium has been used as a synonym for Holocene by authors who consider the last 10,000 years should have the same stage-status as previous interglacial events and thus be included in the Pleistocene.<ref>{{Cite web |url=https://quaternary.stratigraphy.org/history/chronostratigraphy/ |title=History of the stratigraphical nomenclature of the glacial period |work=Subcommission on Quaternary Stratigraphy |access-date=June 18, 2017 |date=January 4, 2016 |publisher=[[International Commission on Stratigraphy]] |last=Gibbard |first=P.L.}}</ref> The [[International Commission on Stratigraphy]], however, considers the Holocene an epoch following the [[Pleistocene]] and specifically the [[last glacial period]]. 
+
+16. 
+|last11=Gagnon |date=July 22, 1999 |title=Forcing of the cold event of 8,200 years ago by catastrophic drainage of Laurentide lakes |journal=[[Nature (journal)|Nature]] |volume=400 |issue=6742 |pages=344–348 |doi=10.1038/22504 |bibcode=1999Natur.400..344B }}</ref> Subsequent research, however, suggested that the discharge was probably superimposed upon a longer episode of cooler climate lasting up to 600 years and observed that the extent of the area affected was unclear.<ref>{{cite journal |last=Rohling |first=Eelco J. 
+
+17. 
+A controversial new idea suggests that a big space rock exploded on or above North America at the end of the last ice age |url=http://www.geo.arizona.edu/~reiners/blackmat.pdf |journal=[[Nature (journal)|Nature]] |volume=447 |issue=7142 |pages=256–257 |doi=10.1038/447256a |pmid=17507957 |date=May 17, 2007 |archive-url=https://web.archive.org/web/20171201041026/http://www.geo.arizona.edu/~reiners/blackmat.pdf |archive-date=December 1, 2017|bibcode=2007Natur.447..256D }}</ref>
+
+Throughout the world, ecosystems in cooler climates that were previously regional have been isolated in higher altitude ecological "islands".<ref>{{Cite book |url=https://books.google.com/books?id=TXAnHwHd0XgC&pg=PA2 |title=One Planet, Many People: Atlas of Our Changing Environment |last=Singh |first=Ashbindu |publisher=[[United Nations Environment Programme]] |year=2005 |page=4 |isbn=9789280725711}}</ref>
+
+The ''[[8.2 kiloyear event|8.2 ka event]]'', an abrupt cold spell recorded as a negative excursion in the {{delta|18|O|link}} record lasting 400 years, is the most prominent climatic event occurring in the Holocene epoch, and may have marked a resurgence of ice cover. 
+
+18. 
+In addition, many areas above about [[40th parallel north|40 degrees north]] latitude had been depressed by the weight of the Pleistocene glaciers and rose as much as {{convert|180|m|ft|abbr=on}} due to [[post-glacial rebound]] over the late Pleistocene and Holocene, and are still rising today.<ref>{{cite newspaper |url=https://www.telegraph.co.uk/news/earth/earthnews/6226537/England-is-sinking-while-Scotland-rises-above-sea-levels-according-to-new-study.html |title=England is sinking while Scotland rises above sea levels, according to new study |newspaper=[[The Daily Telegraph]] |date=October 7, 2009 |accessdate=June 10, 2014 |last=Gray |first=Louise}}</ref>
+
+The sea level rise and temporary land depression allowed temporary marine incursions into areas that are now far from the sea. 
+
+19. 
+Holocene marine deposits along low-latitude coastlines are rare because the rise in sea levels during the period exceeds any likely [[tectonic uplift]] of non-glacial origin.{{Citation needed|date=May 2012}}
+
+Post-glacial rebound in the [[Scandinavia]] region resulted in the formation of the [[Baltic Sea]]. 
+
+20. 
+1,000 years before 1950 (non-calibrated [[Radiocarbon dating|C14 dates]])''
+
+[[File:Evolution of temperature in the Post-Glacial period according to Greenland ice cores.jpg|thumb|upright=2|Evolution of temperatures in the Post-Glacial period, after the [[Last Glacial Maximum]], according to [[Greenland ice cores]].<ref>{{cite journal |last1=Zalloua |first1=Pierre A. 

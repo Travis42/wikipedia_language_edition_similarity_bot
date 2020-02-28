@@ -1,0 +1,72 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Coordinated Universal Time
+
+vi edition's differences with the en version: 
+
+
+1. 
+
+UTC is written in the following four digits:
+
+* Two numbers only hours from 00 to 23
+* Two numbers only minutes from 00 to 59
+
+There is no sign between these numbers. 
+
+2. 
+Including — the first correction in [[1972]] — all such adjustments were added and applied to the 30 June or December 31, of which the leap second added was written as T23:59:60. 
+
+3. 
+[[NATO Phonetic Alphabet]] and assembly [[Amateur radio]] once called ' Z ' ' ' ' Zulu ', so UT is sometimes called ' ' ' Zulu time '. 
+
+4. 
+"UTC" is not necessarily an acronym, but from a compromise between the English abbreviation "CUT" ("Coordinated Universal Time") and the French abbreviation "TUC" ("Temps universel coordonné"). 
+
+5. 
+For this reason, UT slows down against [[International Atomic Time | Atomic hours]] measured in the [[Atomic clock]]. 
+
+6. 
+The announcement of leap seconds is assumed by the [Earth Rotation system service and international collation]], based on the correct astronomical forecasts of the Earth's rotation. 
+
+7. 
+
+* International hours have the problem is because it defines a date as the time [[Earth]] turns around its own axis, however, this speed is not fixed, the length of day in the [[International Hour | UT]] is not always the same. 
+
+8. 
+* To solve this problem, in the middle [[1980]] it was switched to UTC as the International Atomic Time Standard (TAI), which was [[] the International Bureau of Weights and Measures]] (French: ' ' Bureau International des Poids et Mesures ' ', [[French]]) set in [[The Pavillon de Breteuil]] ([[France]]) defines based on hundreds [[atomic clocks]] [[caesium | xezi]] around the world. 
+
+9. 
+
+Sometimes there are 60 seconds and sometimes no 59 seconds. 
+
+10. 
+As the SI units recognize the atomic seconds, the speed of atomic seconds is usually faster than the average speed of UT during the second half of the 20th century. 
+
+11. 
+
+= = Details = =
+UTC differs from [[International Atomic Time | Atomic hours]] some [[seconds]] raw and with [[International hours | International hours UT1]] some odd seconds. 
+
+12. 
+
+For use in rules-trade and day life, the difference between UTC and UT (or, GMT) is extremely small, not to be considered as UTC is sometimes called the GMT, although this is technically completely wrong. 
+
+13. 
+5em" > ' ' ' International Time Conversion < br/> To standard local time (winter) ' ' ' </caption>
+<tr> <th> [[Pacific Time Zone | Pacific Standard Time]] </th> <td> UT-8 </td> </tr>
+<tr> <th> [[Mountain Time Zone | America Mountain Standard Time]] </th> <td> UT-7 </td> </tr>
+<tr> <th> [[Central Time Zone (North America) | Central America Standard Time]] </th> <td> UT-6 </td> </tr>
+<tr> <th> [[Eastern Time Zone (North America) | Eastern American Standard Time]] </th> <td> UT-5 </td> </tr>
+<tr> <th> [[Atlantic Standard Time]] </th> <td> UT-4 </td> </tr>
+<tr> <th> [[GMT | Greenwich average Time]] </th> <td> UT </td> </tr>
+<tr> <th> [[Central European Standard Time | Central European Time]] </th> <td> UT + 1 </td> </tr>
+<tr> <th> [[Eastern European Time] </th> <td> UT + 2 </td> </tr>
+<tr> <th> [[Moscow time]] </th> <td> UTC + 3 </td> </tr>
+<tr> <th> Standard Time [[India]] </th> <td> UT + 5:30 </td> </tr>
+<tr> <th> [Vietnam Standard Time] </th> <td> UT + 7 </td> </tr>
+<tr> <th> Western Standard Time [[Australia]] < br/> [[Hong Kong Time]] < br/> Standard time [[Chinese]] </th> <td> UT + 8 </td> </tr>
+<tr> <th> Standard Time [[Japan | Japanese]]/[[weld]] </th> <td> UT + 9 </td> </tr>
+<tr> <th> Eastern Standard Time [[Australia]] </th> <td> UT + 10 </td> </tr>
+</table>
+<center> ' ' See more at [[Time Zone]]. 

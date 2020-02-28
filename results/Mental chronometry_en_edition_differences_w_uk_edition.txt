@@ -1,0 +1,251 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Mental chronometry
+
+en edition's differences with the uk version: 
+
+
+1. 
+-->
+
+There are several commonly used paradigms for measuring RT:
+
+*''Simple'' RT is the motion required for an observer to respond to the presence of a stimulus. 
+
+2. 
+
+=== Cognitive ability ===
+
+Researchers have reported medium-sized [[correlation]]s between RT and measures of [[intelligence]]: There is thus a tendency for individuals with higher IQ to be faster on RT tests.<ref>{{cite journal |last=Sheppard|first=Leah D. 
+
+3. 
+Donders found that simple RT is shorter than recognition RT, and that choice RT is longer than both.<ref name=Kosinski>{{cite web | url = http://biae.clemson.edu/bpc/bp/Lab/110/reaction.htm#Type%20of%20Stimulus | vauthors = Kosinski RJ | year = 2008 | title = A literature review on reaction time | publisher = Clemson University | archive-url = https://web.archive.org/web/20100611222125/http://biae.clemson.edu/bpc/bp/Lab/110/reaction.htm | archive-date=11 June 2010 }}</ref>
+
+<!-- Deleted image removed: [[File:Comparative chart of cognitive methods (after Donders).jpg|400px|thumb|Donders (1868s): method of subtraction. 
+
+4. 
+While clearly spanning the domains of perception and movement, it is challenging to define which of these planning processes involve perceptual decision making and which are motor (i.e., “motor planning”). 
+
+5. 
+[[Demetriou]] and colleagues, using various methods of measuring speed of processing, showed that it is closely associated with changes in working memory and thought (Demetriou, Mouyi, & Spanoudis, 2009). 
+
+6. 
+This assumption—that the incremental effect on RT was strictly additive—was not able to hold up to later experimental tests, which showed that the insertions were able to interact with other portions of the RT paradigm. 
+
+7. 
+
+In the 1980s, neuroimaging experiments allowed researchers to detect the activity in localized brain areas by injecting [[radionuclides]] and using [[positron emission tomography]] (PET) to detect them. 
+
+8. 
+
+=== Health and mortality ===
+Performance on simple and choice reaction time tasks is associated with a variety of health-related outcomes, including general, objective health composites<ref name="healthRT">{{cite journal|last1=Milligan|first1=W. 
+
+9. 
+
+Current medical reviews indicate that [[signal transduction|signaling]] through the [[dopamine pathway]]s originating in the [[ventral tegmental area]] is strongly positively correlated with improved (shortened) RT;<ref name="Amph-DA reaction time">{{cite journal | vauthors = Parker KL, Lamichhane D, Caetano MS, Narayanan NS | title = Executive dysfunction in Parkinson's disease and timing deficits | journal = Frontiers in Integrative Neuroscience | volume = 7 | pages = 75 | date = October 2013 | pmid = 24198770 | pmc = 3813949 | doi = 10.3389/fnint.2013.00075 | quote = The neurotransmitter dopamine is released from projections originating in the midbrain. 
+
+10. 
+The RTs of low-''g'' individuals are more spread-out than those of high-''g'' individuals.<ref name="ravenzwaaij">{{cite journal | vauthors = van Ravenzwaaij D, Brown S, Wagenmakers EJ | title = An integrated perspective on the relation between response speed and intelligence | journal = Cognition | volume = 119 | issue = 3 | pages = 381–93 | date = June 2011 | pmid = 21420077 | doi = 10.1016/j.cognition.2011.02.002 | url = http://www.donvanravenzwaaij.com/Papers_files/van%20Ravenzwaaij,%20Brown,%20%26%20Wagenmakers,%202011.pdf }}</ref>
+
+The cause of the relationship is unclear. 
+
+11. 
+For instance, amphetamine, which increases concentrations of dopamine at the synaptic cleft (Maricq and Church, 1983; Zetterström et al., 1983) advances the start of responding during interval timing (Taylor et al., 2007), whereas antagonists of D2 type dopamine receptors typically slow timing (Drew et al., 2003; Lake and Meck, 2013).&nbsp;... 
+
+12. 
+ So if the subject has 4 items in [[short-term memory]] (STM), then after encoding the information from the probe stimulus the subject needs to compare the probe to each of the 4 items in memory and then make a decision. 
+
+13. 
+Depletion of dopamine in healthy volunteers impairs timing (Coull et al., 2012), while amphetamine releases synaptic dopamine and speeds up timing (Taylor et al., 2007). 
+
+14. 
+ According to the data from Clark and Chase (1972) and Just and Carpenter (1971), the TA sentences are the simplest and take the least time, than FA, FN, and TN sentences.<ref>{{cite journal | doi = 10.1016/0010-0285(72)90019-9 | vauthors = Clark HH, Chase WG | year = 1972 | title = On the process of comparing sentences against pictures | url = | journal = Cognitive Psychology | volume = 3 | issue = 3| pages = 472–517 }}</ref><ref>{{Cite journal | doi = 10.1016/S0022-5371(71)80051-8 | vauthors = Just MA, Carpenter PA | year = 1971 | title = Comprehension of negation with quantification | url = | journal = Journal of Verbal Learning and Verbal Behavior | volume = 10 | issue = 3| pages = 244–253 }}</ref>
+
+===Models of memory===
+
+Hierarchical network models of memory were largely discarded due to some findings related to mental chronometry. 
+
+15. 
+According to Sternberg's additive theory, each of the stages involved in performing this task includes: encoding, comparing against the stored representation for five, selecting a response, and then checking for error in the response.<ref>{{Cite journal | doi = 10.1080/14640747508400459 | vauthors = Sternberg S | year = 1975 | title = Memory scanning: New findings and current controversies | url = | journal = Quarterly Journal of Experimental Psychology | volume = 27 | issue = | pages = 1–32 }}</ref> The fMRI image presents the specific locations where these stages are occurring in the brain while performing this simple mental chronometry task. 
+
+16. 
+ The time taken to perform the rule match task was longer than the name match task which was longer than the physical match task. 
+
+17. 
+Galton hypothesized that differences in [[intelligence]] would be reflected in variation of sensory discrimination and speed of response to stimuli, and he built various machines to test different measures of this, including RT to visual and auditory stimuli. 
+
+18. 
+Collins|Collins]] and Quillian (1969) had a hierarchical structure indicating that recall speed in memory should be based on the number of levels in memory traversed in order to find the necessary information. 
+
+19. 
+Principles of Design | publisher = Rockport | location = Gloucester, MA | date = 2003 }}</ref>
+
+===Sternberg's memory-scanning task===
+
+[[Saul Sternberg]]<!-- full name so as not to confuse him with Robert Sternberg--> (1966) devised an experiment wherein subjects were told to remember a set of unique digits in [[short-term memory]]. 
+
+20. 
+Mean RT for college-age individuals is about 160 [[millisecond]]s to detect an auditory stimulus, and approximately 190 milliseconds to detect visual stimulus.<ref name=Kosinski /><ref>{{cite journal | last1 = Taoka | first1 = George T. 
+
+21. 
+Mental chronometry is one of the core methodological paradigms of human [[experimental psychology|experimental]] and [[cognitive psychology]], but is also commonly analyzed in [[Physiological psychology|psychophysiology]], [[cognitive neuroscience]], and [[behavioral neuroscience]] to help elucidate the biological mechanisms underlying perception, attention, and decision-making across species. 
+
+22. 
+ The simplest task was the physical match task, in which subjects were shown a pair of letters and had to identify whether the two letters were physically identical or not. 
+
+23. 
+ The next task was the name match task where subjects had to identify whether two letters had the same name. 
+
+24. 
+ The task involving the most cognitive processes was the rule match task in which subjects had to determine whether the two letters presented both were vowels or not vowels. 
+
+25. 
+For example, the subject may have to press the button when a green light appears and not respond when a blue light appears. 
+
+26. 
+The pistols fire when the brake pedal is depressed]]
+
+===Galton and differential psychology===
+Sir [[Francis Galton]] is typically credited as the founder of [[differential psychology]], which seeks to determine and explain the mental differences between individuals. 
+
+27. 
+ The idea is that as the size of the set of digits increases the number of processes that need to be completed before a decision can be made increases as well. 
+
+28. 
+Uncertainty is measured in "bits", which are defined as the quantity of information that reduces uncertainty by half in [[information theory]]. 
+
+29. 
+| location = Amsterdam | publisher = Elsevier | isbn = 978-0-08-044939-5 }})</ref>
+
+===Hick's law===
+{{Main|Hick's law}}
+
+[[W. 
+
+30. 
+The law is usually expressed by the formula <math>RT = a + b\log_2(n + 1)</math>, where <math>a</math> and <math>b</math> are constants representing the intercept and slope of the function, and <math>n</math> is the number of alternatives.<ref>[http://www.encyclopedia.com/doc/1O87-Hickslaw.html Hick's Law at Encyclopedia.com] Originally from Colman, A. 
+
+31. 
+| location = Hillsdale, NJ | publisher = Erlbaum | date = 1978 }}</ref>
+
+== Predictive validity ==
+
+===Cognitive development===
+{{Main|Neo-Piagetian theories of cognitive development}}
+There is extensive recent research using mental chronometry for the study of [[cognitive development]]. 
+
+32. 
+For example, the subject might be asked to press one button if a red light appears and a different button if a yellow light appears. 
+
+33. 
+This promised to link intelligence directly to the resolution of information even in very basic information tasks. 
+
+34. 
+ This supported the idea that a subject did a serial exhaustive search through memory rather than a serial self-terminating search.<ref>{{cite journal | vauthors = Sternberg S | title = High-speed scanning in human memory | journal = Science | volume = 153 | issue = 3736 | pages = 652–4 | date = August 1966 | pmid = 5939936 | doi = 10.1126/science.153.3736.652 | bibcode = 1966Sci...153..652S }}</ref> Sternberg (1969) developed a much-improved method for dividing RT into successive or serial stages, called the additive factor method.<ref>{{Cite journal | doi = 10.1016/0001-6918(69)90055-9 | vauthors = Sternberg S | year = 1969 | title = The discovery of processing stages: Extensions of Donders' method | url = | journal = Acta Psychologica | volume = 30 | issue = | pages = 276–315 }}</ref>
+
+===Shepard and Metzler's mental rotation task===
+{{Main|Mental rotation}}
+
+[[Roger Shepard|Shepard]] and Metzler (1971) presented a pair of three-dimensional shapes that were identical or mirror-image versions of one another. 
+
+35. 
+Several studies have reported association between simple RT and intelligence of around (''r''=−.31), with a tendency for  larger associations between choice RT and intelligence (''r''=−.49).<ref>{{Cite journal | doi = 10.1016/S0160-2896(01)00062-9 | vauthors = Deary IJ, Der G, Ford G | year = 2001 | title = Reaction times and intelligence differences: A population-based cohort study | url = http://eprints.gla.ac.uk/2590/ | journal = Intelligence | volume = 29 | issue = 5| pages = 389–399 }}</ref> Much of the theoretical interest in RT was driven by [[Hick's law|Hick's Law]], relating the slope of RT increases to the complexity of decision required (measured in units of uncertainty popularized by [[Claude Shannon]] as the basis of information theory). 
+
+36. 
+They concluded that the observers performed a constant-rate mental rotation to align the two objects so they could be compared.<ref>{{cite journal | vauthors = Shepard RN, Metzler J | title = Mental rotation of three-dimensional objects | journal = Science | volume = 171 | issue = 3972 | pages = 701–3 | date = February 1971 | pmid = 5540314 | doi = 10.1126/science.171.3972.701 | bibcode = 1971Sci...171..701S }}</ref> Cooper and Shepard (1973) presented a letter or digit that was either normal or mirror-reversed, and presented either upright or at angles of rotation in units of 60 degrees. 
+
+37. 
+These relations are extensively discussed in the [[neo-Piagetian theories of cognitive development]].<ref name=Demetriou>{{Cite journal | vauthors = Demetriou A, Mouyi A, Spanoudis G | year = 2008 | title = Modeling the structure and development of g | url = | journal = Intelligence | volume = 36 | issue = 5| pages = 437–454 |doi = 10.1016/j.intell.2007.10.002 }}</ref>
+
+During senescence, RT deteriorates (as does [[fluid intelligence]]), and this deterioration is systematically associated with changes in many other cognitive processes, such as executive functions, working memory, and inferential processes.<ref name=Demetriou /> In the theory of [[Andreas Demetriou]],<ref>{{cite book | vauthors = Demetriou A, Mouyi A, Spanoudis G | chapter = The development of mental processing. 
+
+38. 
+| volume = 1 | date = September 2010 | doi = 10.1002/9780470880166.hlsd001010 | veditors = Overton WF | location = Hoboken, NJ | publisher = Wiley| isbn = 9780470390139 }}</ref> one of [[the neo-Piagetian theories of cognitive development]], change in speed of processing with age, as indicated by decreasing RT, is one of the pivotal factors of cognitive development. 
+
+39. 
+*''Recognition'' or ''go/no-go'' RT tasks require that the subject press a button when one stimulus type appears and withhold a response when another stimulus type appears. 
+
+40. 
+Specifically, various measures of [[speed of processing]] were used to examine changes in the speed of information processing as a function of age. 
+
+41. 
+Kail (1991) showed that speed of processing increases exponentially from early childhood to early adulthood.<ref>{{cite journal | vauthors = Kail R | title = Developmental change in speed of processing during childhood and adolescence | journal = Psychological Bulletin | volume = 109 | issue = 3 | pages = 490–501 | date = May 1991 | pmid = 2062981 | doi = 10.1037/0033-2909.109.3.490 }}</ref> Studies of RTs in young children of various ages are consistent with common observations of children engaged in activities not typically associated with chronometry.<ref name=Jensen /> This includes speed of counting, reaching for things, repeating words, and other developing vocal and motor skills that develop quickly in growing children.<ref>{{cite book | last = Case | first = Robbie | name-list-format = vanc |title=Intellectual development: birth to adulthood |publisher=Academic Press |location=Boston |year=1985 |pages= |isbn=0-12-162880-9 |url-access=registration |url=https://archive.org/details/intellectualdeve00case }}</ref> Once reaching early maturity, there is then a long period of stability until speed of processing begins declining from middle age to senility (Salthouse, 2000).<ref>{{cite journal | vauthors = Salthouse TA | title = Aging and measures of processing speed | journal = Biological Psychology | volume = 54 | issue = 1–3 | pages = 35–54 | date = October 2000 | pmid = 11035219 | doi = 10.1016/S0301-0511(00)00052-1 }}</ref> In fact, cognitive slowing is considered a good index of broader changes in the functioning of the brain and [[intelligence]]. 
+
+42. 
+ This led to the development of spreading activation models of memory (e.g., Collins & Loftus, 1975), wherein links in memory are not organized hierarchically but by importance instead.<ref>{{Cite journal | doi = 10.1037/0033-295X.82.6.407 | vauthors = Collins AM, Loftus EF | year = 1975 | title = A spreading activation theory of semantic processing | url = | journal = Psychological Review | volume = 82 | issue = 6| pages = 407–428 }}</ref><ref>{{cite journal | vauthors = Collins AM, Quillian MR | year = 1969 | title = Retrieval time from semantic memory |journal = Journal of Verbal Learning and Verbal Behavior | volume = 8 | issue = 2| pages = 240–247 | doi = 10.1016/S0022-5371(69)80069-1 }}</ref>
+
+===Posner's letter matching studies===
+
+[[Michael Posner (psychologist)|Michael Posner]] (1978) used a series of letter-matching studies to measure the mental processing time of several tasks associated with recognition of a pair of letters. 
+
+43. 
+His tests involved a selection of over 10,000 men, women and children from the London public.<ref name=Jensen />
+
+===Donders' experiment===
+The first scientist to measure RT in the laboratory was [[Franciscus Donders]] (1869). 
+
+44. 
+| name-list-format = vanc |date=February 2008|title=Intelligence and speed of information-processing: A review of 50 years of research|journal=Personality and Individual Differences |volume=44 |issue=3 |pages=535–551 |doi=10.1016/j.paid.2007.09.015 }}</ref>
+
+Research into this link between mental speed and [[general intelligence factor|general intelligence]] (perhaps first proposed by [[Charles Spearman]]) was re-popularised by [[Arthur Jensen]], and the "[[Jensen Box|Choice reaction Apparatus]]" associated with his name became a common standard tool in RT-IQ research. 
+
+45. 
+| name-list-format = vanc | title = Brake Reaction Times of Unalerted Drivers | journal = ITE Journal | volume = 59 | issue = 3 | pages = 19–21 | date = March 1989 | url = http://www.ite.org/membersonly/itejournal/pdf/jca89a19.pdf }}</ref> The mean RTs for sprinters at the Beijing Olympics were 166 ms for males and 169 ms for females, but in one out of 1,000 starts they can achieve 109 ms and 121 ms, respectively.<ref>{{cite journal | vauthors = Lipps DB, Galecki AT, Ashton-Miller JA | title = On the implications of a sex difference in the reaction times of sprinters at the Beijing Olympics | journal = PLOS ONE | volume = 6 | issue = 10 | pages = e26141 | year = 2011 | pmid = 22039438 | pmc = 3198384 | doi = 10.1371/journal.pone.0026141 | bibcode = 2011PLoSO...626141L }} {{open access}}</ref> This study also concluded that longer female RTs can be an artifact of the measurement method used, suggesting that the starting block sensor system might overlook a female false-start due to insufficient pressure on the pads. 
+
+46. 
+Picture from the article: 'Timing the Brain: Mental Chronometry as a Tool in Neuroscience'.]]
+
+With the advent of the functional [[neuroimaging]] techniques of [[Positron emission tomography|PET]] and [[fMRI]], psychologists started to modify their mental chronometry paradigms for functional imaging<ref>{{cite journal | vauthors = Posner MI | title = Timing the brain: mental chronometry as a tool in neuroscience | journal = PLoS Biology | volume = 3 | issue = 2 | pages = e51 | date = February 2005 | pmid = 15719059 | pmc = 548951 | doi = 10.1371/journal.pbio.0030051 }}</ref>. 
+
+47. 
+
+This method provides a way to investigate the cognitive processes underlying simple perceptual-motor tasks, and formed the basis of subsequent developments.<ref name=Donders>{{cite journal | vauthors = Donders FC | date = 1869 | title = On the speed of mental processes: Attention and Performance II | veditors = Koster WG | journal = Acta Psychologica | volume = 30 | pages = 412–431 }} (Original work published in 1868.)</ref>
+
+Although Donders' work paved the way for future research in mental chronometry tests, it was not without its drawbacks. 
+
+48. 
+The way that mental chronometry is utilized is by performing RT based tasks which show through neuroimaging the parts of the brain which are involved in the cognitive process.<ref>{{cite journal | vauthors = Posner MI | title = Timing the brain: mental chronometry as a tool in neuroscience | journal = PLoS Biology | volume = 3 | issue = 2 | pages = e51 | date = February 2005 | pmid = 15719059 | pmc = 548951 | doi = 10.1371/journal.pbio.0030051 }} {{open access}}</ref>
+  
+With the invention of [[functional magnetic resonance imaging]] (fMRI), techniques were used to measure activity through electrical event-related potentials in a study when subjects were asked to identify if a digit that was presented was above or below five. 
+
+49. 
+These processes span the domains of perception and movement, and involve perceptual decision making and [[motor planning]].<ref>{{cite journal | vauthors = Wong AL, Haith AM, Krakauer JW | title = Motor Planning | journal = The Neuroscientist | volume = 21 | issue = 4 | pages = 385–98 | date = August 2015 | pmid = 24981338 | doi = 10.1177/1073858414541484 }}</ref><!-- quote=The time from stimulus onset to the initiation of a motor response—the reaction time (RT)—occurs on the order of 200 ms (e.g., Welford 1980). 
+
+50. 
+van Dyck }}</ref>
+
+== See also ==
+*[[CDR computerized assessment system]]
+*[[Implicit-association test]]
+*[[Inspection time]]
+*[[Jensen box]]
+*[[Movement in learning]]
+*[[Psychomotor agitation]]
+*[[Psychomotor learning]]
+*[[Psychomotor retardation]]
+*[[Timed antagonistic response alethiometer]]
+
+== References ==
+{{Reflist|30em}}
+
+== Further reading ==
+{{refbegin}}
+* {{cite book | vauthors = Luce RD |year=1986 |title=Response Times: Their Role in Inferring Elementary Mental Organization | location= New York |publisher= Oxford University Press | isbn = 0-19-503642-5 }}
+* {{cite journal | vauthors = Meyer DE, Osman AM, Irwin DE, Yantis S | title = Modern mental chronometry | journal = Biological Psychology | volume = 26 | issue = 1–3 | pages = 3–67 | date = June 1988 | pmid = 3061480 | doi = 10.1016/0301-0511(88)90013-0 }}
+* {{cite book | vauthors = Townsend JT, Ashby FG |year=1984 |title=Stochastic Modeling of Elementary Psychological Processes |location= Cambridge, UK |publisher= Cambridge University Press | isbn = 0-521-27433-8 }}
+* {{Cite journal | doi = 10.1016/S0960-0779(03)00026-2 | vauthors = Weiss V, Weiss H | year = 2003 | title = The golden mean as clock cycle of brain waves | url = http://www.v-weiss.de/chaos.html | journal = Chaos, Solitons and Fractals | volume = 18 | issue = 4| pages = 643–652 |bibcode = 2003CSF....18..643W }}
+{{refend}}
+
+== External links ==
+*[http://www.humanbenchmark.com/tests/reactiontime/index.php Reaction Time Test] – Measuring Mental Chronometry on the Web
+*[https://web.archive.org/web/20060427200950/http://www.mtsu.edu/~sschmidt/Cognitive/intro/intro.html Historical Introduction to Cognitive Psychology]
+*[http://biology.plosjournals.org/perlserv/?request=get-document&doi=10.1371/journal.pbio.0030051  Timing the Brain: Mental Chronometry as a Tool in Neuroscience] {{open access}}
+*[http://cognitivelabs.com/mydna_speedtestno.htm Sample Chronometric Test on the web]
+
+{{Time Topics}}
+{{Time measurement and standards}}
+
+{{DEFAULTSORT:Mental Chronometry}}
+[[Category:Cognition]]
+[[Category:Time]]. 

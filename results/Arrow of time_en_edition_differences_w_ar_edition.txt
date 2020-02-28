@@ -1,0 +1,74 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Arrow of time
+
+en edition's differences with the ar version: 
+
+
+1. 
+In fact, normally a radiative wave increases entropy, while a convergent wave decreases it,{{Citation needed|date=May 2010}}<!-- ref>{{cite book |author1=Nikolai Chernov |author2=Roberto Markarian |year=2006 |title=Chaotic Billiards |publisher=American Mathematical Soc. 
+
+2. 
+
+=== Particle physics (weak) arrow of time ===
+{{Main|CP violation}}
+Certain subatomic interactions involving the [[weak nuclear force]] violate the conservation of both [[Parity (physics)|parity]] and [[charge conjugation]], but only very rarely. 
+
+3. 
+Lebowitz | year = 2008| title = Time's arrow and Boltzmann's entropy | journal = [[Scholarpedia]] | volume = 3 | issue = 4| page = 3448 | doi = 10.4249/scholarpedia.3448 |bibcode = 2008SchpJ...3.3448L }}
+* {{cite book | first = Ludwig | last = Boltzmann | authorlink = Ludwig Boltzmann | title = Lectures On Gas Theory | publisher = University Of California Press | year = 1964}} Translated from the original German by Stephen G. 
+
+4. 
+| date = September 1969|bibcode = 1969Icar...11..278M | pmc = 2599115 }}</ref> Blum argues that evolution followed specific patterns predetermined by the inorganic nature of the earth and its thermodynamic processes.<ref name=yale>{{cite journal | pmc = 2599115 | title= Book reviews: Time's Arrow and Evolution | journal = [[Yale Journal of Biology and Medicine]] | volume = 24 | issue = 2 | pages = 164 | last = McN. 
+
+5. 
+Pippard, Elements of Chemical Thermodynamics for Advanced Students of Physics (1966), p.100.</ref> However, there are a number of paradoxes regarding [[second law of thermodynamics#Irreversibility|violation of the second law of thermodynamics]], one of them due to the [[Poincaré recurrence theorem]]. 
+
+6. 
+Put differently, the probability for initial conditions that produce a convergent wave is much lower than the probability for initial conditions that produce a radiative wave. 
+
+7. 
+
+In 2019, a team of Russian scientists reported the reversal of the quantum arrow of time on an [[IBM]] [[quantum computer]].<ref name="nature">{{cite journal |authors=G. 
+
+8. 
+According to one physical view of [[wave function collapse]], the theory of [[quantum decoherence]], the quantum arrow of time is a consequence of the [[Entropy (arrow of time)|thermodynamic arrow of time]].{{citation needed|date=August 2013}}
+
+[[Relational quantum mechanics]] proposes that there is no such thing as an absolute wave function collapse, and that what an observer sees as wave function collapse is in fact the observer becoming entangled with the measured state. 
+
+9. 
+Allen |isbn=978-1-85227-197-8 }}
+* {{cite book | first = Richard | last = Feynman | authorlink = Richard Feynman | title = The Character of Physical Law | publisher = BBC Publications | year = 1965| title-link = The Character of Physical Law }} Chapter 5. 
+
+10. 
+Blum|title=Time's Arrow and Evolution|url=https://books.google.com/books?id=tmcNnwEACAAJ|edition=First|year=1951|isbn=978-0-691-02354-0}}</ref> "explored the relationship between time's arrow (the second law of thermodynamics) and organic evolution." This influential text explores "irreversibility and direction in evolution and order, [[negentropy]], and [[evolution]]."<ref name=arrow-review>{{cite journal | doi = 10.1016/0019-1035(69)90059-1 | title= Book review: Time's arrow and evolution: Third Edition | journal = Icarus | volume = 11 | issue = 2 | pages = 278–279 | last = Morowitz | first = Harold J. 
+
+11. 
+This arrow has been reversed in carefully worked experiments that created convergent waves,<ref>{{cite web |url=http://www4.ncsu.edu/~fouque/fink.pdf|archive-url=https://web.archive.org/web/20051231022842/http://www4.ncsu.edu/~fouque/fink.pdf |archive-date=31 December 2005 |url-status=dead |title=Time-Reversed Acoustic |author=Mathias Fink |date=30 November 1999 |access-date=27 May 2016 |author-link=Mathias Fink }}</ref> so this arrow probably follows from the thermodynamic arrow in that meeting the conditions to produce a convergent wave requires more order than the conditions for a radiative wave. 
+
+12. 
+If as we follow the arrow we find more and more of the random element in the state of the world, then the arrow is pointing towards the future; if the random element decreases the arrow points towards the past. 
+
+13. 
+| title=In the light of time
+| journal=Proceedings of the Royal Society A | volume=465 |issue=2104 | pages=1173–1198 | year=2009
+|doi=10.1098/rspa.2008.0494|bibcode = 2009RSPSA.465.1173T }}</ref>
+
+== Eddington ==
+In the 1928 book ''The Nature of the Physical World'', which helped to popularize the concept, Eddington stated:
+
+<blockquote>Let us draw an arrow arbitrarily. 
+
+14. 
+The thermodynamic arrow is an increase in entanglement over time; in this way, relational quantum mechanics relates the quantum arrow to the thermodynamic arrow. 
+
+15. 
+I shall use the phrase 'time's arrow' to express this one-way property of time which has no analogue in space.</blockquote>
+
+Eddington then gives three points to note about this arrow:
+
+# It is vividly recognized by [[consciousness]]. 
+
+16. 
+
+That the combination of parity and charge conjugation is broken so rarely means that this arrow only "barely" points in one direction, setting it apart from the other arrows whose direction is much more obvious. 

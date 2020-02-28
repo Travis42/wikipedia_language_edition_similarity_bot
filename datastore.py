@@ -69,13 +69,9 @@ def parse_topic_dict(topic):
                                   orig_content, translated_content, tokens))
     return (title, content, pri_tokens, translation_values)
 
-
+#TODO: I can't figure it out, but the LSA score gets garbled when placed by this method.  I have to use the batch processor to get good results.
 def store_topic_to_db(topic):
     title, content, pri_tokens, translation_values = parse_topic_dict(topic)
-    print('look at the LSA code.  Should just be a number: ')
-    print(translation_values)
-    sys.exit()
-
     with sqlite3.connect("articles.sqlite") as c:
         date = datetime.now().strftime("%m/%d/%Y, %H:%M")
         entries = (date, title, content, pri_tokens)

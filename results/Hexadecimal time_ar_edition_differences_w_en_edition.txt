@@ -1,0 +1,87 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Hexadecimal time
+
+ar edition's differences with the en version: 
+
+
+1. 
+The government's support for the government's work in the country
+| F_00_0
+| 22:30:00 
+| 22.5:24 = 15:16 = 0.F
+|-
+| . 
+
+2. 
+The government's support for the government's work in the country
+| F_80_0
+| 23:15:00 
+|}
+
+=== Conversions ===
+{| class="wikitable" style="margin-bottom:10px;"
+. 
+
+3. 
+65536
+| = 
+| 24 hours
+|-
+| 1 x 10 hours
+| = 
+| The government's support for the "women's" government is a very good way to make the most of the work of the United States. 
+
+4. 
+
+The day is divided into 10<sub>16</sub> (16<sub>10</sub>) 100 hours and divided each hour into 100<sub>16</sub> (256<sub>10</sub>) 10minutes and divided every minute in 10<sub>16</sub> (16<sub>10</sub>)
+
+== Date ==
+It is believed that the 19th day was used during the Tang Dynasty (7-10 centuries) in China. 
+
+5. 
+So the day starts at midnight with ".0000" and the second one after midnight is ".0001." The time of the noon becomes ".8000" (i.e. 
+
+6. 
+
+In 1997, American Mark Vincent Rogers proposed a similar 1997 time system and applied it by encoding <nowiki/>[JavaScript] and calling it Hexclok.{ {Need source|date=October 2015}}
+
+== Rogers system ==
+Today is the unit, or "1,"" and any part of it appears to the right of the 19th interval. 
+
+7. 
+One second before noon is ".7FFF." And the second after midnight is. 
+
+8. 
+Nyström, proposed the system as part of its tonal system. 
+
+9. 
+Comment
+|-
+| .0100
+| 0_10_0
+| 00:05:37.5
+|-
+| .0200
+| 0_20_0
+| 00:11:15
+|-
+| .0400
+| 0_40_0
+| 00:22:30
+|-
+| .0800
+| 0_80_0
+| 00:45:00
+|-
+| .1000
+| 1_00_0
+| 01:30:00
+| 1.5:24 = 1:16 = 0.1
+|-
+| .8000
+| 8_00_0
+| 12:00:00
+| 12:24 = 8:16 = 0.8
+|-
+| . 

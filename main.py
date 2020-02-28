@@ -7,11 +7,10 @@ from compare_docs import compare_docs
 from datastore import initialize_db, store_topic_to_db
 from get_articles import get_topic_articles, move_to_random_topic, move_through_topic
 from datetime import datetime
-import logging
 from os import rename
 import pickle
 import sys
-from utils import log_setup
+from utils import log_setup, microsoft_char_counter
 
 
 def main():
@@ -19,7 +18,6 @@ def main():
     #rename('wiki-bot.log', 'wiki-bot.log-old')
     initialize_db()
     topics_to_parse = []
-    logging.info('Beginning')
     try:
         with open('progress.pickle', 'rb') as f:
             visited_topics = pickle.load(f)
@@ -53,15 +51,13 @@ def main():
             with open('progress.pickle', 'wb') as f:
                 pickle.dump(visited_topics, f)
 
-            logging.info(topic['title'])
+            print(topic['title'])
             memory_data_store = compare_docs(topic)
             if not memory_data_store:
-                logging.info('Articles have no elements in common or most articles were stubs.')
                 continue
             store_topic_to_db(memory_data_store)
-            logging.info("Duration to process the topic: ", str(datetime.now() - start))
+            print("Duration to process the topic: ", str(datetime.now() - start))
         except KeyboardInterrupt:
-            # TODO: pickle visited topics until I can find a way to query the db instead
             sys.exit('\nFinished.')
 
 

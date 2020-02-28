@@ -1,0 +1,59 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Geological period
+
+id edition's differences with the en version: 
+
+
+1. 
+The term equivalent is used for demarcation [of the rock layer] and the record [[of the fossil]] is the system; Hence, the rock of Devon system was formed in the period [[Devon] | Devon]]. 
+
+2. 
+[Era (geology) | ERA]]!. 
+
+3. 
+Started, million {{br}} years ago
+|-
+| rowspan = "11" | [[Fanerozoikum]] | | rowspan = "2" | [[Kenozoic]] | | [[Neogen | Neogen (Miosen/Pliosen/Pleistocene/Holosen)]] <ref> Some geologists still use a third period or "sub-era" of the Kenozoic era, which is called [Quartular]], consisting of the last two periods of the Neogen period and continuing to this date. 
+
+4. 
+{{No reference | date = October 2019}}
+
+In [geology]], the ' ' period ' ' or sometimes called ' ' era ' ', is subdivision [[Geological time-scale | Geologic time]] that divides the [Era (geology) | era]] into smaller time spans. 
+
+5. 
+</ref>
+| 23.0
+|-
+|  [Paleogen | Paleogen (Paleocene/Eosen/Oligocene)] | | 65.5
+|-
+| rowspan = "3" | [[Mesozoic]] | | [[Lime (period) | Lime]] | | 145.5
+|-
+| [[Jura (Period) | Jura]] | | 200
+|-
+| [[Trias]] | | 251
+
+|-
+| rowspan = "6" | [[Paleozoic]] | | [[Perm (Period) | Perm]] | | 300
+|-
+| [[Carbon (Period) | Carbon (Mississippian/Pennsylvanian)]] | | 359
+|-
+| [[Devon (Period) | Devon]] | | 416
+|-
+| [[Silur]] | | 444
+|-
+| [[Ordovisium]] | | 488
+|-
+| [[Kambrium]] | | 542
+
+|-
+| [[Proterozoic]] | | [[Neoproterozoic]] | | [[Ediakaran]]
+| 630
+
+|}
+
+= = Footnote = =
+
+{{reflist}}
+
+[Category: Geological time scale]]. 

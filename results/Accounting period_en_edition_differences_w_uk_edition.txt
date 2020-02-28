@@ -1,0 +1,90 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Accounting period
+
+en edition's differences with the uk version: 
+
+
+1. 
+
+=== Saturday nearest the end of month ===
+
+Under this method the company's fiscal year is defined as the Saturday (or other day selected) that falls closest to the last day of the fiscal year end month. 
+
+2. 
+
+== 52–53-week fiscal year ==
+The 52–53-week [[fiscal year]] (or [[4–4–5 calendar]]) is used by companies that desire that their fiscal year always end on the same day of the week. 
+
+3. 
+§ 1.441-2|url=http://law.justia.com/cfr/title26/26-6.0.1.1.1.0.2.3.html}}</ref> (IRS Publication 538).<ref>{{cite web|title=IRS Publication 538|url=https://www.irs.gov/publications/p538/ar02.html}}</ref>
+
+In some of the ERP tools there are more than 12 accounting periods in a financial year. 
+
+4. 
+ Currently it would end on the following days:
+
+   2006-08-26   2006 August 26
+   2007-08-25   2007 August 25
+   2008-08-30   2008 August 30  (leap year)
+   2009-08-29   2009 August 29
+   2010-08-28   2010 August 28
+   2011-08-27   2011 August 27
+   2012-08-25   2012 August 25  (leap year)
+   2013-08-31   2013 August 31
+   2014-08-30   2014 August 30
+   2015-08-29   2015 August 29
+   2016-08-27   2016 August 27  (leap year)
+   2017-08-26   2017 August 26
+   2018-08-25   2018 August 25
+   2019-08-31   2019 August 31
+
+The end of the fiscal year would move one day earlier on the calendar each year (two days in leap years) until it would otherwise reach the date seven days before the end of the month (August 24 in this case). 
+
+5. 
+ For example, if the fiscal year end month is August, the company's year end could fall on any date from August 25 to August 31. 
+
+6. 
+ There are two methods in use:
+
+=== Last Saturday of the month at fiscal year end  ===
+Under this method the company's fiscal year is defined as the final Saturday (or other day selected) in the fiscal year end month. 
+
+7. 
+ Currently it would end on the following days:
+
+   2006-09-02   2006 September 2
+   2007-09-01   2007 September 1
+   2008-08-30   2008 August 30    (leap year)
+   2009-08-29   2009 August 29
+   2010-08-28   2010 August 28
+   2011-09-03   2011 September 3
+   2012-09-01   2012 September 1  (leap year)
+   2013-08-31   2013 August 31
+   2014-08-30   2014 August 30
+   2015-08-29   2015 August 29
+   2016-09-03   2016 September 3  (leap year)
+   2017-09-02   2017 September 2
+   2018-09-01   2018 September 1
+   2019-08-31   2019 August 31
+
+The end of the fiscal year would move one day earlier on the calendar each year (two days in leap years) until it would otherwise reach the date four days before the end of the month (August 27 in this case). 
+
+8. 
+ For example, if the fiscal year end month is August, the company's year end could fall on any date from August 28 to September 3. 
+
+9. 
+January to December as the accounting year, while another entity may follow April to March as the accounting period. 
+
+10. 
+§ 1.441-2|url=http://law.justia.com/cfr/title26/26-6.0.1.1.1.0.2.3.html}}</ref> (IRS Publication 538).,<ref>{{cite web|title=IRS Publication 538|url=https://www.irs.gov/publications/p538/ar02.html}}</ref> as well as the [[International Financial Reporting Standards]].<ref>IAS 1 Presentation of Financial Statements</ref>
+
+==References==
+{{Reflist}}
+
+[[Category:Accounting|period]]
+[[Category:Accounting terminology]]
+[[Category:Specific calendars]]. 
+
+11. 
+They put one accounting period as "Year Open" period where all the carried over balances from last financial year are cleared and one period as "Year Close" where all the transactions for closed for the same financial year. 

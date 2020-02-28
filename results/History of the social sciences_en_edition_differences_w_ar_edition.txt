@@ -1,0 +1,100 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+History of the social sciences
+
+en edition's differences with the ar version: 
+
+
+1. 
+[[Biology]] had, seemingly, resisted mathematical study, and yet the [[Natural Selection|theory of natural selection]] and the implied idea of [[genetic inheritance]]—later found to have been enunciated by [[Gregor Mendel]], seemed to point in the direction of a scientific biology based, like [[physics]] and [[chemistry]], on mathematical relationships. 
+
+2. 
+
+The rise of [[industrialism]] had created a series of [[social]], [[economic]], and [[political]] problems, particularly in managing supply and demand in their political economy, the [[Resource management|management of resources]] for [[military]] and developmental use, the creation of mass [[education system]]s to train individuals in symbolic reasoning and problems in managing the effects of [[industrialization]] itself. 
+
+3. 
+
+==== 19th century ====
+{{See also|History of sociology|19th century}}
+The term "social science" first appeared in the 1824 book ''An Inquiry into the Principles of the Distribution of Wealth Most Conducive to Human Happiness; applied to the Newly Proposed System of Voluntary Equality of Wealth'' by [[William Thompson (philosopher)|William Thompson]] (1775–1833). 
+
+4. 
+What would happen within decades of his work was a revolution in what constituted "science", particularly the work of [[Isaac Newton]] in physics. 
+
+5. 
+
+In the 1930s this new model of managing decision making became cemented with the [[New Deal]] in the US, and in Europe with the increasing need to manage industrial production and governmental affairs. 
+
+6. 
+In the 18th century, social science was called moral philosophy, as contrasted from natural philosophy and mathematics, and included the study of natural theology, natural ethics, natural jurisprudence, and policy ("police"), which included economics and finance ("revenue"). 
+
+7. 
+
+==== 20th century ====
+{{See also|20th century}}
+In the first half of the 20th century, [[statistics]] became a free-standing discipline of [[applied mathematics]]. 
+
+8. 
+Chapter 1.</ref>
+
+Today, Durkheim, Marx and [[Max Weber]] are typically cited as the three principal architects of social science in the ''science of society'' sense of the term.<ref>http://plato.stanford.edu/entries/weber/ "Max Weber". 
+
+9. 
+''Durkheim.'' Oxford: Oxford University Press. 
+
+10. 
+The range of critiques begin from those who believe that the [[physical sciences]] are qualitatively different from social sciences,{{Citation needed|date=February 2007}} through those who do not believe in statistical science of any kind,{{Citation needed|date=February 2007}} through those who disagree with the [[methodology]] and kinds of conclusion of social science,{{Citation needed|date=February 2007}} to those who believe the entire framework of scientificizing these disciplines is mostly from a desire for prestige. 
+
+11. 
+53.] {{webarchive|url=https://web.archive.org/web/20110531195118/http://www.iwp.uni-linz.ac.at/lxe/sektktf/gg/GeertzTexts/Empowering_Aristotle.htm |date=May 31, 2011 }}</ref>
+
+== See also ==
+* [[Historiography]], on academic historians
+* [[History of geography]]
+* [[History of sociology]]
+* [[History of statistics]]
+
+== References ==
+{{reflist}}
+
+==Further reading==
+* Backhouse, Roger E., and Philippe Fontaine, eds. 
+
+12. 
+''Stanford Encyclopaedia of Philosophy''</ref> "Social science", however, has since become an umbrella term to describe all those disciplines, outside of physical science and art, which analyse human societies. 
+
+13. 
+The '''history of the social sciences''' has origin in the common stock of Western philosophy and shares various precursors, but began most intentionally in the early 19th century with the [[positivist]] [[philosophy of science]]. 
+
+14. 
+
+Sociology was established by Comte in 1838.<ref>''A Dictionary of Sociology,'' Article: Comte, Auguste</ref> He had earlier used the term "social physics", but that had subsequently been appropriated by others, most notably the Belgian statistician [[Adolphe Quetelet]]. 
+
+15. 
+Comte believed a [[Law of three stages|positivist stage]] would mark the final era, after conjectural [[theological]] and [[Metaphysics|metaphysical]] phases, in the progression of human understanding.<ref name="comte">''Dictionary of the Social Sciences'', Article: Comte, Auguste</ref>
+
+It was with the work of [[Charles Darwin]] that the descriptive version of [[social theory]] received another shock. 
+
+16. 
+
+==== Interwar period ====
+[[Theodore Porter]] argued in ''The Rise of Statistical Thinking'' that the effort to provide a synthetic social science is a matter of both administration and discovery combined, and that the rise of social science was, therefore, marked by both pragmatic needs as much as by theoretical purity. 
+
+17. 
+Institutions such as [[The New School for Social Research]], [[International Institute of Social History]], and departments of "social research" at prestigious universities were meant to fill the growing demand for individuals who could quantify human interactions and produce models for decision making on this basis. 
+
+18. 
+Social sciences came forth from the [[moral philosophy]] of the time and was influenced by the [[Age of Revolution]]s, such as the [[Industrial revolution]] and the [[French revolution]].<ref>Adam Kuper and Jessica Kuper, ''The Social Science Encyclopedia'' (1985)</ref> The beginnings of the social sciences in the 18th century are reflected in the grand encyclopedia of [[Diderot]], with articles from [[Rousseau]] and other pioneers. 
+
+19. 
+Conversely, the interdisciplinary and cross-disciplinary nature of scientific inquiry into human behavior and social and environmental factors affecting it made many of the natural sciences interested in some aspects of social science methodology.<ref name="web-miner.com">Vessuri, Hebe. 
+
+20. 
+
+In 1924, prominent social scientists established the [[Pi Gamma Mu]] honor society for the social sciences. 
+
+21. 
+Conversely, the interdisciplinary and cross-disciplinary nature of scientific inquiry into human behavior and social and environmental factors affecting it have made many of the so-called hard sciences dependent on social science methodology. 
+
+22. 
+[http://www.web-miner.com/socsciethics.htm], Social Science Ethics: A Bibliography, Sharon Stoerger MLS, MBA</ref> Examples of boundary blurring include emerging disciplines like social studies of medicine, [[sociobiology]], [[neuropsychology]], [[Bioeconomics (biophysical)|bioeconomics]] and the [[history of science|history]] and [[sociology of science]]. 

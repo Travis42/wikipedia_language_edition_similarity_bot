@@ -1,0 +1,73 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+National Archives and Records Administration
+
+en edition's differences with the id version: 
+
+
+1. 
+
+In 2010, [[Executive Order 13526]] created the National Declassification Center<ref>{{cite web|url=https://www.archives.gov/declassification/ |title=National Archives and Declassification |publisher=Archives.gov |date=October 19, 2011 |accessdate=April 29, 2013}}</ref> to coordinate [[declassification]] practices across agencies, provide secure document services to other agencies, and review records in NARA custody for declassification. 
+
+2. 
+reclassification program]]).<ref name="secret">{{cite web| title=Secret Agreement Reveals Covert Program to Hide Reclassification from Public| date=April 11, 2006| url=http://www.gwu.edu/~nsarchiv/news/20060411/index.htm| publisher=National Security Archive| accessdate=March 31, 2011}}</ref> An audit indicated that more than one third withdrawn since 1999 did not contain sensitive information.<ref>{{cite news| url=https://www.nytimes.com/2006/04/27/washington/27archives.html?ref=nationalarchivesandrecordsadministration| title=National Archives Says Records Were Wrongly Classified | author= Scott Shane| date= April 27, 2006 }}</ref>  The program was originally scheduled to end in 2007. 
+
+3. 
+Robert Bradford Murphy, A/k/a Samuel George Matz, and Elizabeth Irene Murphy, aka Elizabeth Irene Matz, Defendants and Appellants'', 413 F.2d 1129 (6th Cir. 
+
+4. 
+ WNRC also offers research services and maintains a small research room. 
+
+5. 
+NARA was officially given its independence from the GSA with the passing of the Records Administration Act of 1984, thus giving birth to the institution we have today.<ref>{{Cite journal|last=Bradsher|first=G|date=2015|title=National Archives Independence 30 Years Ago|url=|journal=Federalist (Society for History in the Federal Government)|volume=45|pages=4-5|via=EBSCOHost}}</ref>
+
+In December 1978, millions of feet of news reels were destroyed in a fire at an offsite location in Suitland, Maryland.<ref name=":0">{{Cite web|url=https://www.smithsonianmag.com/smart-news/forty-years-ago-126-million-feet-history-went-smoke-180970977/|title=Forty Years Ago, 12.6 Million Feet of History Went Up in Smoke|last=Daley|first=Jason|website=Smithsonian|language=en|access-date=2019-05-03}}</ref> The reels, made of exceptionally flammable nitrate material, had been donated previously by Universal Pictures and were stored in special vaults to protect against fires. 
+
+6. 
+In total over 12.6 million feet of film was destroyed.<ref name=":0" />
+
+In March 2006, it was revealed by the Archivist of the United States in a public hearing that a memorandum of understanding between NARA and various government agencies existed to "reclassify", i.e., withdraw from public access, certain documents in the name of national security, and to do so in a manner such that researchers would not be likely to discover the process (the [[U.S. 
+
+7. 
+
+The [[Office of the Federal Register]] publishes the ''[[Federal Register]]'', ''[[Code of Federal Regulations]]'', and ''[[United States Statutes at Large]]'', among others. 
+
+8. 
+Immigration and Customs Enforcement]] agency (ICE) to allow certain documents be scheduled for destruction.<ref>{{Cite web|url=http://www.libraryjournal.com/?detailStory=180910-NARA-Responds-ICE-Records-Destruction-Request|title=NARA Responds to Controversial ICE Records Destruction Request|last=Peet|first=Lisa|website=The Library Journal|access-date=2019-04-19}}</ref>
+
+==Records==
+NARA's holdings are classed into "record groups" reflecting the governmental department or agency from which they originated. 
+
+9. 
+
+The National Historical Publications and Records Commission (NHPRC)—the agency's grant-making arm—awards funds to state and local governments, public and private archives, colleges and universities, and other nonprofit organizations to preserve and publish historical records. 
+
+10. 
+ The [[Washington National Records Center]] (WNRC), also located in the Washington, D.C., metropolitan area, is a large warehouse facility where federal records that are still under the control of the creating agency are stored. 
+
+11. 
+This includes [[census]] records from 1790 to 1940, ships' passenger lists, and [[naturalization]] records. 
+
+12. 
+In accordance with federal records schedules, documents at WNRC are transferred to the legal custody of the National Archives after a certain time; this usually involves a relocation of the records to College Park. 
+
+13. 
+
+The Office of Government Information Services (OGIS) is a [[Freedom of Information Act (United States)|Freedom of Information Act]] (FOIA) resource for the public and the government. 
+
+14. 
+[[United States Congress|Congress]] created the National Archives Establishment in 1934 to centralize federal record keeping, with the [[Archivist of the United States]] serving as chief administrator. 
+
+15. 
+National Archives and Records Administration Fiscal Year 2014–2018 Strategic Plan |url=https://www.archives.gov/files/about/plans-reports/strategic-plan/2014/nara-strategic-plan-2014-2018.pdf |date=March 2014 |page=18 |website=National Archives |access-date=May 10, 2017}}</ref>
+| budget = $391 million (FY 2012)<ref>[https://www.archives.gov/about/plans-reports/performance-budget/2014-performance-budget.pdf Fiscal Year 2014 Budget Request]</ref>
+| chief1_name = [[David Ferriero]]
+| chief1_position = [[Archivist of the United States|Archivist]]<ref name="confirm">{{cite press release| title=David Ferriero Confirmed by U.S. 
+
+16. 
+However, records from other sources may still be protected by copyright or donor agreements.<ref name="copyright">{{cite web| title=Copyright, Permissions and Restrictions Notice| url=https://www.archives.gov/global-pages/privacy.html| date=| publisher=archives.gov| accessdate=March 31, 2011}}</ref> [[Executive Order 13526]] directs originating agencies to declassify documents if possible before shipment to NARA for long-term storage,<ref>Section 3.2 (d)</ref> but NARA also stores some [[classified document]]s until they can be [[declassified]]. 
+
+17. 
+Allen Weinstein explained that this partnership would "allow much greater access to approximately 4.5 million pages of important documents that are currently available only in their original format or on microfilm" and "would also enhance NARA's efforts to preserve its original records."<ref name="footnote">{{cite press release |title=National Archives and Footnote Launch Project to Digitize Historic Documents |url=http://archives.gov/press/press-releases/2007/nr07-41.html |publisher=archives.gov |date=January 10, 2007 |access-date=March 31, 2011}}</ref>
+
+In July 2007, the National Archives announced it would make copies of its collection of [[Universal Newsreel]]s from 1929 to 1967 available for purchase through [[CreateSpace]], an [[Amazon (company)|Amazon.com]] subsidiary. 

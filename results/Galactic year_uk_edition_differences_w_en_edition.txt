@@ -1,0 +1,38 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Galactic year
+
+uk edition's differences with the en version: 
+
+
+1. 
+According to [NASA]], [[Solar System]] moves at an average speed of 828 &nbsp; 000 &nbsp; km/h (230 km/h) or 1/1300 [[Speed of light | speed of light]] and makes the rotation for 230 million years. 
+
+2. 
+
+= = See also = =
+* [[Galactic coordinate system]]
+
+= = Sources = =
+{{Reflist | refs =
+< ref name = "aes_Sr" > {{A-e-c |
+}}
+
+= = Link = =
+[https://www.youtube.com/watch?feature=player_embedded&v=fcZSN4y42XA Solar System Movement model]
+
+{{time – stub}}
+{{Astro-stub}}
+{{Land location in the universe}}
+{{Milky Way}}
+
+[[Category: Milky Way]]
+[[Category: Units of time]]
+[[Category: Units of measurement in astronomy]]
+[[Category: Year]]. 
+
+3. 
+| Or ' ' Cosmic Year ' '}} — [[Period of rotation]] [[Sun | Sun]] around the center [[Milky Way | galaxy]] <ref> {{{A-e-s | Galactic Year | 94 | g}} </ref>. 
+
+4. 
+It is a small spiral sleeve [[The Milky Way | Milky Way] around 3500 light years (1100 parsec) and about 10 &nbsp; 000 light-years long (3100 parsec). 

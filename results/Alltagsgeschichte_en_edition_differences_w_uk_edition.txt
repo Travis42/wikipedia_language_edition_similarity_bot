@@ -1,0 +1,13 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Alltagsgeschichte
+
+en edition's differences with the uk version: 
+
+
+1. 
+Spira.<ref name=":1">{{Cite web|url=https://der.orf.at/unternehmen/programmangebote/fernsehen/sendungen/sendungen-a-c/alltagsgeschichte100.html|title=Alltagsgeschichte|website=der.ORF.at|language=de|access-date=2019-04-07}}</ref> The series chronicled the everyday lives and stories of Austrian people in over 60 episodes.<ref name=":1" />
+
+== Publications ==
+*''The History of Everyday Life'' by German historian Alf Lüdtke
+*''Alltagsgeschichte - ein Bericht von unterwegs'', by Alf Lüdtke, in ''Historische Anthropologie No. 

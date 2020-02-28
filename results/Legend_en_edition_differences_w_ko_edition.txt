@@ -1,0 +1,83 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Legend
+
+en edition's differences with the ko version: 
+
+
+1. 
+''Folklore in the Modern World'', (The Hague: Mouton)1978, in ''The Journal of American Folklore'' '''93''' No. 
+
+2. 
+Often they serve as [[cautionary tale]]s.<ref name="Epoch"/> Some urban legends are [[moral|morality tales]] that depict someone, usually a child, acting in a disagreeable manner, only to wind up in trouble, hurt, or dead.<ref name="Epoch">{{cite news |title=Urban legends: Modern morality tales |author=Elissa Michele Zacher |newspaper=[[The Epoch Times]] |date=18 July 2010 |url=http://www.theepochtimes.com/n2/content/view/39382/ |accessdate=29 August 2010 |url-status=live |archiveurl=https://web.archive.org/web/20100724140443/http://www.theepochtimes.com/n2/content/view/39382/ |archivedate=24 July 2010 }}</ref>
+
+==See also==
+*[[Lists of legendary creatures]]
+
+==References==
+{{reflist|30em}}
+
+{{Folklore genres}}
+{{Narrative modes}}
+{{Authority control}}
+
+[[Category:Folklore]]
+[[Category:Legends|*]]
+[[Category:Literary genres]]
+[[Category:Narratology]]
+[[Category:Traditional stories]]. 
+
+3. 
+The word ''legendary'' was originally a noun (introduced in the 1510s) meaning a collection or corpus of legends.<ref name="etymonline">{{OEtymD|legendary|accessdate=10 June 2013}}</ref><ref>{{MerriamWebsterDictionary|legendry}}</ref> This word changed to ''legendry'', and ''legendary'' became the adjectival form.<ref name="etymonline" />
+
+By 1613, English-speaking [[Protestant]]s began to use the word when they wished to imply that an event (especially the story of any [[saint]] not acknowledged in [[John Foxe]]'s ''[[Actes and Monuments]]'') was fictitious. 
+
+4. 
+Brunvand used his collection of legends, ''[[The Vanishing Hitchhiker|The Vanishing Hitchhiker: American Urban Legends & Their Meanings]]'' (1981) to make two points: first, that legends and [[folklore]] do not occur exclusively in so-called primitive or traditional societies, and second, that one could learn much about urban and modern culture by studying such tales. 
+
+5. 
+Reames, ''The Legenda Aurea: a reexamination of its paradoxical history'', 1985, examines the "Renaissance verdict" on the Legenda, and its wider influence in skeptical approaches to Catholic [[hagiography]] in general.</ref>
+
+In 1866, [[Jacob Grimm]] described the [[fairy tale]] as "poetic, legend historic."<ref>''Das Märchen ist poetischer, die Sage, historischer'', quoted at the commencement of Tangherlini's survey of legend scholarship (Tangherlini 1990:371)</ref> Early scholars such as {{Interlanguage link multi|Karl Wehrhan|2=de|3=Karl Wehrhan|preserve=1}}<ref>Wehrhan ''Die Sage'' (Leipzig) 1908.</ref> [[Friedrich Ranke]]<ref>Ranke, "Grundfragen der Volkssagen Forshung", in Leander Petzoldt (ed.), ''Vergleichende Sagenforschung'' 1971:1–20, noted by Tangherlini 1990.</ref> and [[Will Erich Peuckert]]<ref>Peuckert , ''Sagen'' (Munich: E Schmidt) 1965.</ref> followed Grimm's example in focussing solely on the literary narrative, an approach that was enriched particularly after the 1960s,<ref>This was stimulated in part, Tangherlini suggests, by the 1962 congress of the International Society for Folk Narrative Research.</ref> by addressing questions of performance and the anthropological and psychological insights provided in considering legends' social context. 
+
+6. 
+
+In ''Einleitung in der Geschichtswissenschaft'' (1928), [[Ernst Bernheim]] asserted that a legend is simply a longstanding [[rumour]].<ref>Bernheim, ''Einleitung in der Geschichtswissenschaft''(Berlin: de Gruyter) 1928.</ref> [[Gordon Allport]] credited the staying-power of some rumours to the persistent cultural state-of-mind that they embody and capsulise;<ref>Allport, ''The Psychology of Rumor'' (New York: Holt, Rinehart) 1947:164.</ref> thus "[[Urban legend]]s" are a feature of rumour.<ref>[[Bengt af Klintberg]], "Folksägner i dag" ''Fataburen'' 1976:269–96.</ref> When Willian Jansen suggested that legends that disappear quickly were "short-term legends" and the persistent ones be termed "long-term legends", the distinction between legend and rumour was effectively obliterated, Tangherlini concluded.<ref>Jansen, "Legend: oral tradition in the modern experience", ''Folklore Today, A Festschrift for William Dorson'' (Bloomington: Indiana University Press) 1972:265–72, noted in Tangherlini 1990:375.</ref>
+
+==Christian ''legenda''==
+{{main article|Legendary material in Christian hagiography}}
+
+In the narrow Christian sense, ''legenda'' ("things to be read [on a certain day, in church]") were [[hagiographical]] accounts, often collected in a legendary. 
+
+7. 
+{{short description|Traditional story of heroic humans.}}
+{{other uses|Legend (disambiguation)}}
+[[File:Lady godiva full.jpg|thumb|In this 1891 painting of [[Lady Godiva]] by [[Jules Joseph Lefebvre]], the authentic historical person is fully submerged in the legend, presented in an [[anachronistic]] high [[mediaeval]] setting.]]
+
+A '''legend''' is a [[Folklore genre|genre of folklore]] that consists of a [[narrative]] featuring human actions perceived or believed both by teller and listeners to have taken place within human history. 
+
+8. 
+Many legends operate within the realm of uncertainty, never being entirely believed by the participants, but also never being resolutely doubted.<ref>{{cite book |title=Folkloristics |year=1995 |publisher=Indiana University Press |location=United States of America |isbn=0-253-32934-5 |pages=7 |author1=Georges, Robert |author2=Owens, Michael }}</ref>
+
+The [[Brothers Grimm]] defined legend as [[Folklore|folktale]] historically grounded.<ref>Norbert Krapf, ''Beneath the Cherry Sapling: Legends from Franconia'' (New York: Fordham University Press) 1988, devotes his opening section to distinguishing the [[genre]] of legend from other narrative forms, such as [[fairy tale]]; he "reiterates the Grimms' definition of legend as a folktale historically grounded", according to Hans Sebald's review in ''German Studies Review'' '''13'''.2 (May 1990), p 312.</ref> A modern [[folklore|folklorist]]'s professional definition of ''legend'' was proposed by Timothy R. 
+
+9. 
+''Contemporary Legend'' (Garland) 1996:17–40.</ref>
+
+Compared to the highly structured folktale, legend is comparatively amorphous, [[Helmut de Boor]] noted in 1928.<ref>de Boor, "Märchenforschung", ''Zeitschrift für Deutschkunde'' '''42''' 1928:563–81.</ref> The narrative content of legend is in realistic mode, rather than the wry [[irony]] of folktale;<ref>[[Lutz Röhrich]], ''Märchen und Wirklichkeit: Eine volkskundliche Untersuchung'' (Wiesbaden: Steiner Verlag) 1956:9–26.</ref> Wilhelm Heiske<ref>Heiske, "Das Märchen ist poetischer, die Sage, historischer: Versuch einer Kritik", ''Deutschunterricht'''''14''' 1962:69–75..</ref> remarked on the similarity of [[motif (folkloristics)|motifs]] in legend and folktale and concluded that, in spite of its realistic [[Literary mode|mode]], legend is not more historical than folktale. 
+
+10. 
+It refers imaginary events to some real personage, or it localizes romantic stories in some definite spot."<ref>[http://www.fordham.edu/halsall/basis/delehaye-legends.html Hippolyte Delehaye, ''The Legends of the Saints: An Introduction to Hagiography'' (1907)], Chapter I: Preliminary Definitions</ref>
+
+From the moment a legend is retold as fiction, its authentic legendary qualities begin to fade and recede: in ''[[The Legend of Sleepy Hollow]]'',  [[Washington Irving]] transformed a local Hudson River Valley legend into a literary anecdote with [[Gothic novel|"Gothic" overtones]], which actually tended to diminish its character as genuine legend.{{cn|date=April 2017}}
+
+Stories that exceed the boundaries of "[[Realism (arts)|realism]]" are called "[[fable]]s". 
+
+11. 
+A condensed survey with extensive bibliography.</ref>
+
+==Urban legend==
+[[File:Union Graveyard II.jpg|thumb|The tale of the White Lady who haunts Union Cemetery is a variant of the [[Vanishing hitchhiker]] legend.]]
+{{main|Urban legend}}
+
+Urban legends are a modern genre of folklore that is rooted in local [[popular culture]], usually comprising fictional stories that are often presented as true, with [[macabre]] or [[Humor|humorous]] elements. 

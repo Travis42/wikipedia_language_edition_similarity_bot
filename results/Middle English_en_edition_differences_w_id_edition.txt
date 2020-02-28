@@ -1,0 +1,85 @@
+How to read this document: Passages from one language's article appear in order of their likelihood of containing different content from the other language. The further down you read, the more likely that the content between languages is similar. If the list is short, it is likely that the content between languages is highly similar, or that the original language article for this subject is not very long. Passages may be from any part of an article.  Sometimes they are captions for pictures, sometimes references, and sometimes they are part of the article itself. Not every passage will be meaningful.  This is merely a guide to help you find the most novel content, quickly.
+
+Middle English
+
+en edition's differences with the id version: 
+
+
+1. 
+The best evidence of Scandinavian influence appears in extensive word borrowings, yet no texts exist in either Scandinavia or in Northern England from this period to give certain evidence of an influence on syntax. 
+
+2. 
+|<sup>1</sup>And it was don aftirward, and Jhesus made iourney bi citees and castels, prechynge and euangelisynge þe rewme of <sup>2</sup>God, and twelue wiþ hym; and sum wymmen þat weren heelid of wickid spiritis and sijknessis, Marie, þat is clepid Maudeleyn, of whom seuene deuelis <sup>3</sup>wenten out, and Joone, þe wijf of Chuse, þe procuratoure of Eroude, and Susanne, and many oþir, þat mynystriden to hym of her ritchesse. 
+
+3. 
+72.</ref> Some formerly feminine nouns, as well as some weak nouns, continued to make their genitive forms with -e or no ending (e.g. 
+
+4. 
+|}
+
+===Epitaph of John the smyth, died 1371===
+{{further|Brightwell Baldwin}}
+An epitaph from a [[monumental brass]] in an Oxfordshire parish church:<ref>{{cite journal |last=Bertram |first=Jerome |year=2003 |title=Medieval Inscriptions in Oxfordshire |journal=Oxoniensia |volume=LXVVIII |page=30 |issn=0308-5562 |url= http://oxoniensia.org/volumes/2003/bertram.pdf }}</ref><ref name=Utechin>{{cite book |last=Utechin |first=Patricia |year=1990 |origyear=1980 |title=Epitaphs from Oxfordshire |edition=2nd |location=Oxford |publisher=Robert Dugdale |isbn=978-0-946976-04-1 |pages=39 |ref=harv}}</ref>
+{| class="wikitable" cellpadding="8"
+!'''Original text'''
+!'''Translation''' ''by Patricia Utechin''<ref name=Utechin/>
+|-
+|''man com & se how schal alle dede li: wen þow comes bad & bare<br>noth hab ven ve awaẏ fare: All ẏs wermēs þ<sup>t</sup> ve for care:—<br>bot þ<sup>t</sup> ve do for godẏs luf ve haue nothyng yare:<br>hundyr þis graue lẏs John þe smẏth god yif his soule heuen grit''
+| Man, come and see how all dead men shall lie: when that comes bad and bare,<br>we have nothing when we away fare: all that we care for is worms:—<br>except for that which we do for God's sake, we have nothing ready:<br>under this grave lies John the smith, God give his soul heavenly peace
+|}
+
+===Wycliffe's Bible, 1384===
+From the [[Wycliffe's Bible]], (1384):
+{| class="wikitable"
+|+[[Gospel of Luke|Luke]] 8:1-3
+!First version
+!Second version
+!Translation
+|-
+|<sup>1</sup>And it was don aftirward, and Jhesu made iorney by citees and castelis, prechinge and euangelysinge þe rewme of God, <sup>2</sup>and twelue wiþ him; and summe wymmen þat weren heelid of wickide spiritis and syknessis, Marie, þat is clepid Mawdeleyn, of whom seuene deuelis wenten <sup>3</sup> out, and Jone, þe wyf of Chuse, procuratour of Eroude, and Susanne, and manye oþere, whiche mynystriden to him of her riches. 
+
+5. 
+
+As with nouns, there was some inflectional simplification (the distinct Old English [[dual (grammatical number)|dual]] forms were lost), but pronouns, unlike nouns, retained distinct nominative and accusative forms. 
+
+6. 
+In [[Early Modern English#Orthography|Early Modern English]] the latter vowel came to be commonly written {{vr|ea}}. 
+
+7. 
+The more standardized Old English language became fragmented, localized, and was, for the most part, being improvised.<ref name=":0"/> By the end of the period (about 1470) and aided by the [[movable type|invention of the printing press]] by [[Johannes Gutenberg]] in 1439, a standard based on the London dialect (Chancery Standard) had become established. 
+
+8. 
+|}
+
+===Chaucer, 1390s===
+The following is the very beginning of the [[General Prologue]] from ''[[The Canterbury Tales]]'' by [[Geoffrey Chaucer]]. 
+
+9. 
+
+===14th century===
+From around the early 14th century, there was significant migration into [[London]], particularly from the counties of the [[East Midlands]], and a new [[prestige (sociolinguistics)|prestige]] London dialect began to develop, based chiefly on the speech of the East Midlands, but also influenced by that of other regions.<ref name="Wright">{{cite encyclopedia |author= Wright, L. 
+
+10. 
+style="text-align:center" |[[Word-for-word translation]] into [[Modern English]]<ref>This Wikipedia translation closely mirrors the translation found here: {{cite book
+|others=Translated by Vincent Foster Hopper
+|title=Canterbury Tales (selected)
+|publisher=Barron's Educational Series
+|year=1970
+|edition=revised
+|page=[https://archive.org/details/canterburytaless0000chau/page/2 2]
+|url=https://archive.org/details/canterburytaless0000chau|url-access=registration
+|quote=when april, with his. 
+
+11. 
+This gave rise to various synonyms including ''kingly'' (inherited from Old English), ''royal'' (from French, which inherited it from Vulgar Latin), and ''regal'' (from French, which borrowed it from classical Latin). 
+
+12. 
+Influence on the written language only appeared at the beginning of the thirteenth century, likely because of a scarcity of literary texts from an earlier date.<ref name=":3" />
+
+The [[Norman conquest of England]] in 1066 saw the replacement of the top levels of the English-speaking political and ecclesiastical hierarchies by [[Normans|Norman]] rulers who spoke a dialect of [[Old French]] known as [[Old Norman]], which developed in England into [[Anglo-Norman language|Anglo-Norman]]. 
+
+13. 
+Later French appropriations were derived from standard, rather than Norman, French. 
+
+14. 
+280</ref> The language found in the last two works is sometimes called the [[AB language]]. 
